@@ -1,0 +1,227 @@
+[
+  {
+    "Question": "Which is the most effective method of balancing armature?",
+    "Option1": "Static balancing",
+    "Option2": "Dynamic balancing",
+    "Option3": "Attached with counter balancing",
+    "Option4": "Plugged with lead weight balancing",
+    "Answer": "Dynamic balancing",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which material is used for starting resistance of DC starters?",
+    "Option1": "Eureka",
+    "Option2": "Nichrome",
+    "Option3": "Manganin",
+    "Option4": "Constantine",
+    "Answer": "Eureka",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which DC compound motor is operated at constant speed under varying load?",
+    "Option1": "Differential long shunt",
+    "Option2": "Cumulative long shunt",
+    "Option3": "Differential short shunt",
+    "Option4": "Cumulative short shunt",
+    "Answer": "Cumulative long shunt",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "How No volt coil is connected in a three point starter with DC shunt motor?",
+    "Option1": "Directly connected to supply",
+    "Option2": "Connected in series with armature",
+    "Option3": "Connected in parallel with armature",
+    "Option4": "Connected in series with shunt field",
+    "Answer": "Connected in series with shunt field",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which type of armature winding is illustrated?",
+    "Option1": "Duplex lap winding",
+    "Option2": "Triplex lap winding",
+    "Option3": "Simplex lap winding",
+    "Option4": "Quadruplex lap winding",
+    "Answer": "Duplex lap winding",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/Electrician%2FSEM3%2FElectrician24%2F91.PNG?alt=media&token=b3f87b4f-3382-4bb5-8224-07cefaaf7538"
+  },
+  {
+    "Question": "Which growler test for armature is illustrated?",
+    "Option1": "Open coil test",
+    "Option2": "Grounded coil test",
+    "Option3": "Shorted coil test",
+    "Option4": "Shorted commutator test",
+    "Answer": "Open coil test",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/Electrician%2FSEM3%2FElectrician24%2F92.PNG?alt=media&token=08a3fe72-ddb5-4f31-b075-0c2a9ab08c13"
+  },
+  {
+    "Question": "Which speed control method is applied to obtain both below normal and above normal speed in DC motor?",
+    "Option1": "Field control method",
+    "Option2": "Armature control method",
+    "Option3": "Tapped field speed control",
+    "Option4": "Ward Leonard speed control",
+    "Answer": "Ward Leonard speed control",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Why commutators are sparking heavily?",
+    "Option1": "Incorrect brush position",
+    "Option2": "Incorrect field connection",
+    "Option3": "Incorrect direction of rotation",
+    "Option4": "Incorrect armature connection",
+    "Answer": "Incorrect brush position",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the action of the induced emf in a running D.C motor?",
+    "Option1": "Assists the applied voltage",
+    "Option2": "Opposes the applied voltage",
+    "Option3": "Increases the armature current",
+    "Option4": "Decreases the armature current",
+    "Answer": "Opposes the applied voltage",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which motor has this characteristics curve?",
+    "Option1": "Series motor",
+    "Option2": "Shunt motor",
+    "Option3": "Cumulative compound motor",
+    "Option4": "Differential compound motor",
+    "Answer": "Cumulative compound motor",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/Electrician%2FSEM3%2FElectrician24%2F96.PNG?alt=media&token=ef87005b-af69-4dae-b82f-8850ac5f0b7c"
+  },
+  {
+    "Question": "What is the purpose of resistor connected with holding coil in 4 point starter?",
+    "Option1": "Limit current in NVC",
+    "Option2": "Protect the coil from short circuit",
+    "Option3": "Protect the motor from overload",
+    "Option4": "Protect the armature from short circuit",
+    "Answer": "Limit current in NVC",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Why the D.C series motor field winding is wound with thick wire?",
+    "Option1": "To regulate field voltage",
+    "Option2": "To carry the load current",
+    "Option3": "To keep maximum inductance",
+    "Option4": "To reduce the armature reaction",
+    "Answer": "To carry the load current",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which type of speed control of D.C series motor?",
+    "Option1": "Field parallel method",
+    "Option2": "Field diverter method",
+    "Option3": "Field tapping method",
+    "Option4": "Armature diverter method",
+    "Answer": "Field parallel method",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/Electrician%2FSEM3%2FElectrician24%2F99.PNG?alt=media&token=772a41b7-d842-4470-80de-4e37f09d2f91"
+  },
+  {
+    "Question": "Which type of D.C motor is suitable for shearing machines?",
+    "Option1": "Shunt motor",
+    "Option2": "Series motor",
+    "Option3": "Cumulative compound motor",
+    "Option4": "Differential compound motor",
+    "Answer": "Cumulative compound motor",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Where D.C compound motors are preferred?",
+    "Option1": "Constant load requirements",
+    "Option2": "Constant speed requirements",
+    "Option3": "High starting torque requirements",
+    "Option4": "Constant speed under varying load requirements",
+    "Answer": "Constant speed under varying load requirements",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the necessity of starter for D.C motor?",
+    "Option1": "Limit the field current",
+    "Option2": "Limit the field voltage",
+    "Option3": "Control the motor speed",
+    "Option4": "Limit the armature current",
+    "Answer": "Limit the armature current",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which type of instrument is used to test the armature winding?",
+    "Option1": "Megger",
+    "Option2": "Growler",
+    "Option3": "Multimeter",
+    "Option4": "Ohmmeter",
+    "Answer": "Growler",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Why the holding coil of a 3 point starter is connected in series with shunt field?",
+    "Option1": "To limit the load current",
+    "Option2": "To run motor at low voltage",
+    "Option3": "To hold the handle plunger firmly",
+    "Option4": "To protect the motor from high speed",
+    "Answer": "To protect the motor from high speed",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the best method to change the DOR of a compound motor without change of its characteristics?",
+    "Option1": "Change armature current direction",
+    "Option2": "Change shunt field current direction",
+    "Option3": "Change series field current direction",
+    "Option4": "Change the current in armature and shunt field together",
+    "Answer": "Change armature current direction",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the purpose of NVC connected in series with the field in 3 point starter?",
+    "Option1": "To improve the torque",
+    "Option2": "Reduce the field current",
+    "Option3": "To decrease the back emf",
+    "Option4": "To prevent increase in speed",
+    "Answer": "To prevent increase in speed",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which type of DC motor is used for sudden application of heavy loads?",
+    "Option1": "Shunt motor",
+    "Option2": "Series motor",
+    "Option3": "Differential compound motor",
+    "Option4": "Cumulative compound motor",
+    "Answer": "Cumulative compound motor",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which speed control method is used in food mixture motors?",
+    "Option1": "Voltage control method",
+    "Option2": "Field diverter control method",
+    "Option3": "Armature diverter method",
+    "Option4": "Series field tapping method",
+    "Answer": "Series field tapping method",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which speed control system provides a smooth variation of speed from zero to above normal?",
+    "Option1": "Field control",
+    "Option2": "Armature control",
+    "Option3": "Field diverter control",
+    "Option4": "Ward-Leonard system control",
+    "Answer": "Ward-Leonard system control",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the purpose of tapes in winding?",
+    "Option1": "Insulate slots",
+    "Option2": "Bind the coils",
+    "Option3": "Wrap the conductor",
+    "Option4": "Insulate exposed conductors",
+    "Answer": "Wrap the conductor",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which type of DC armature winding the front pitch (YF) is greater than back pitch (YB)?",
+    "Option1": "Lap winding",
+    "Option2": "Wave winding",
+    "Option3": "Progressive winding",
+    "Option4": "Retrogressive winding",
+    "Answer": "Retrogressive winding",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  }
+]

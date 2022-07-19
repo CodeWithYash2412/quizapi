@@ -1,0 +1,227 @@
+[
+  {
+    "Question": "What is the name of the part marked ‘X’?",
+    "Option1": "Taper lead angle",
+    "Option2": "Side cutting angle",
+    "Option3": "Bevel lead angle",
+    "Option4": "Helix angle",
+    "Answer": "Bevel lead angle",
+    "image": "https://firebasestorage.googleapis.com/v0/b/yash-c4f9c.appspot.com/o/t201to225%2FQ126.PNG?alt=media&token=cf70b590-81cb-4149-9f32-4cc1aae1feee"
+  },
+  {
+    "Question": "What is the name of the part marked ‘X’?",
+    "Option1": "Bevel lead",
+    "Option2": "Taper lead",
+    "Option3": "length of square",
+    "Option4": "Bevel lead length",
+    "Answer": "Taper lead",
+    "image": "https://firebasestorage.googleapis.com/v0/b/yash-c4f9c.appspot.com/o/t201to225%2FQ127.PNG?alt=media&token=0433423d-68af-4fb5-a981-6d005da18561"
+  },
+  {
+    "Question": "Which portion of the reamer is reduced in diameter below the cutting edge?",
+    "Option1": "Body",
+    "Option2": "Recess",
+    "Option3": "Shank",
+    "Option4": "Bevel lead",
+    "Answer": "Recess",
+    "image": "https://firebasestorage.googleapis.com/v0/b/yash-c4f9c.appspot.com/o/no%20image.png?alt=media&token=f067c001-3ea1-4dc9-bb97-b57ff15d0432"
+  },
+  {
+    "Question": "What is the name of lubrication method?",
+    "Option1": "Oil pump",
+    "Option2": "Force feed",
+    "Option3": "Gravity feed",
+    "Option4": "Splash lubrication",
+    "Answer": "Splash lubrication",
+    "image": "https://firebasestorage.googleapis.com/v0/b/yash-c4f9c.appspot.com/o/t201to225%2FQ129.PNG?alt=media&token=0c79d833-72f6-4402-8d14-1d62369cc037"
+  },
+  {
+    "Question": "What is the name of the lubrication?",
+    "Option1": "Oil pump method",
+    "Option2": "Wick feed method",
+    "Option3": "Forced feed system",
+    "Option4": "Splash lubrication system",
+    "Answer": "Wick feed method",
+    "image": "https://firebasestorage.googleapis.com/v0/b/yash-c4f9c.appspot.com/o/t201to225%2FQ130.PNG?alt=media&token=0be69123-3d10-4a83-b6a6-23b030f91232"
+  },
+  {
+    "Question": "What is the name of the lubrication?",
+    "Option1": "Oil cup",
+    "Option2": "Wick feed",
+    "Option3": "Splash lubrication",
+    "Option4": "Manual screw down greaser",
+    "Answer": "Oil cup",
+    "image": "https://firebasestorage.googleapis.com/v0/b/yash-c4f9c.appspot.com/o/t201to225%2FQ131.PNG?alt=media&token=be6110d3-647a-4c26-bcf5-c59097a04f3a"
+  },
+  {
+    "Question": "What is the name of the lubricator?",
+    "Option1": "Oil can",
+    "Option2": "Grease gun",
+    "Option3": "Grease cup",
+    "Option4": "Stauffer screw down greaser",
+    "Answer": "Grease gun",
+    "image": "https://firebasestorage.googleapis.com/v0/b/yash-c4f9c.appspot.com/o/t201to225%2FQ132.PNG?alt=media&token=9c69c647-8f95-43ab-a559-6716da4ffcd1"
+  },
+  {
+    "Question": "What is the name of the lubricating system?",
+    "Option1": "Hand pressure feed",
+    "Option2": "Gravity feed",
+    "Option3": "Splash method",
+    "Option4": "Power pressure feed",
+    "Answer": "Hand pressure feed",
+    "image": "https://firebasestorage.googleapis.com/v0/b/yash-c4f9c.appspot.com/o/t201to225%2FQ133.PNG?alt=media&token=990d7aec-5e7a-4811-bc8e-24d895a4c1ca"
+  },
+  {
+    "Question": "Which coolant oil is not diluted?",
+    "Option1": "Blended oil",
+    "Option2": "Fatty oil",
+    "Option3": "Straight mineral oil",
+    "Option4": "Soluble oil",
+    "Answer": "Straight mineral oil",
+    "image": "https://firebasestorage.googleapis.com/v0/b/yash-c4f9c.appspot.com/o/no%20image.png?alt=media&token=f067c001-3ea1-4dc9-bb97-b57ff15d0432"
+  },
+  {
+    "Question": "Which type of drill is used for drilling brass?",
+    "Option1": "Quick helix",
+    "Option2": "Slow helix",
+    "Option3": "Standard helix",
+    "Option4": "Straight helix",
+    "Answer": "Slow helix",
+    "image": "https://firebasestorage.googleapis.com/v0/b/yash-c4f9c.appspot.com/o/no%20image.png?alt=media&token=f067c001-3ea1-4dc9-bb97-b57ff15d0432"
+  },
+  {
+    "Question": "Which part of the drilling machine helps for the protection of the operator?",
+    "Option1": "Base",
+    "Option2": "Switch",
+    "Option3": "Belt guard",
+    "Option4": "Depth gauge and stop",
+    "Answer": "Belt guard",
+    "image": "https://firebasestorage.googleapis.com/v0/b/yash-c4f9c.appspot.com/o/no%20image.png?alt=media&token=f067c001-3ea1-4dc9-bb97-b57ff15d0432"
+  },
+  {
+    "Question": "Which drilling machine is used for light duty work?",
+    "Option1": "Pillar drilling machine",
+    "Option2": "Radial drilling machine",
+    "Option3": "Column drilling machine",
+    "Option4": "Sensitive drilling machine",
+    "Answer": "Sensitive drilling machine",
+    "image": "https://firebasestorage.googleapis.com/v0/b/yash-c4f9c.appspot.com/o/no%20image.png?alt=media&token=f067c001-3ea1-4dc9-bb97-b57ff15d0432"
+  },
+  {
+    "Question": "What is the purpose of reducing speed by 3/4th of turning while reaming?",
+    "Option1": "To get max finish",
+    "Option2": "Avoid breakage of tool",
+    "Option3": "To reduce max material",
+    "Option4": "To give less depth of cut",
+    "Answer": "Avoid breakage of tool",
+    "image": "https://firebasestorage.googleapis.com/v0/b/yash-c4f9c.appspot.com/o/no%20image.png?alt=media&token=f067c001-3ea1-4dc9-bb97-b57ff15d0432"
+  },
+  {
+    "Question": "Which tool is rotated in clockwise direction both when cutting and when with drawing?",
+    "Option1": "Die",
+    "Option2": "File",
+    "Option3": "Reamer",
+    "Option4": "Hand cap",
+    "Answer": "Reamer",
+    "image": "https://firebasestorage.googleapis.com/v0/b/yash-c4f9c.appspot.com/o/no%20image.png?alt=media&token=f067c001-3ea1-4dc9-bb97-b57ff15d0432"
+  },
+  {
+    "Question": "What is the purpose of the square portion provided on the shank of reamer?",
+    "Option1": "To hold in spanner",
+    "Option2": "To hold in drill chuck",
+    "Option3": "To hold in tap wrench",
+    "Option4": "To hold by 3 jaw chuck",
+    "Answer": "To hold in tap wrench",
+    "image": "https://firebasestorage.googleapis.com/v0/b/yash-c4f9c.appspot.com/o/no%20image.png?alt=media&token=f067c001-3ea1-4dc9-bb97-b57ff15d0432"
+  },
+  {
+    "Question": "Which tool is used to finish a drilled hole manually?",
+    "Option1": "Hand reamer",
+    "Option2": "Machine reamer",
+    "Option3": "Countersink drill",
+    "Option4": "Large dia drill",
+    "Answer": "Hand reamer",
+    "image": "https://firebasestorage.googleapis.com/v0/b/yash-c4f9c.appspot.com/o/no%20image.png?alt=media&token=f067c001-3ea1-4dc9-bb97-b57ff15d0432"
+  },
+  {
+    "Question": "Which cutting fluid is used for turning copper?",
+    "Option1": "Kerosene",
+    "Option2": "Soluble oil",
+    "Option3": "Lard oil",
+    "Option4": "Mineral oil",
+    "Answer": "Soluble oil",
+    "image": "https://firebasestorage.googleapis.com/v0/b/yash-c4f9c.appspot.com/o/no%20image.png?alt=media&token=f067c001-3ea1-4dc9-bb97-b57ff15d0432"
+  },
+  {
+    "Question": "Which method is used to lubricate the head stock in modern lathe?",
+    "Option1": "Wick feed",
+    "Option2": "Gravity feed",
+    "Option3": "Splash lubrication",
+    "Option4": "Oil pump method",
+    "Answer": "Oil pump method",
+    "image": "https://firebasestorage.googleapis.com/v0/b/yash-c4f9c.appspot.com/o/no%20image.png?alt=media&token=f067c001-3ea1-4dc9-bb97-b57ff15d0432"
+  },
+  {
+    "Question": "Which cutting fluid is used in automatic lathe?",
+    "Option1": "Blended oil",
+    "Option2": "Fatty oil",
+    "Option3": "Soluble oil",
+    "Option4": "Straight mineral oil",
+    "Answer": "Blended oil",
+    "image": "https://firebasestorage.googleapis.com/v0/b/yash-c4f9c.appspot.com/o/no%20image.png?alt=media&token=f067c001-3ea1-4dc9-bb97-b57ff15d0432"
+  },
+  {
+    "Question": "Where the fatty oil is used?",
+    "Option1": "Automatic lathe",
+    "Option2": "Drilling",
+    "Option3": "Heavy duty machines",
+    "Option4": "Turning works",
+    "Answer": "Heavy duty machines",
+    "image": "https://firebasestorage.googleapis.com/v0/b/yash-c4f9c.appspot.com/o/no%20image.png?alt=media&token=f067c001-3ea1-4dc9-bb97-b57ff15d0432"
+  },
+  {
+    "Question": "What is the term if the difference between the maximum limit of size and minimum limit of size",
+    "Option1": "Limit of size",
+    "Option2": "Basic size",
+    "Option3": "Tolerance",
+    "Option4": "Zero line",
+    "Answer": "Tolerance",
+    "image": "https://firebasestorage.googleapis.com/v0/b/yash-c4f9c.appspot.com/o/no%20image.png?alt=media&token=f067c001-3ea1-4dc9-bb97-b57ff15d0432"
+  },
+  {
+    "Question": "What is the system if the shaft is varied to set different class of fit?",
+    "Option1": "Transition on fit",
+    "Option2": "Interferance fit",
+    "Option3": "Hole basis system",
+    "Option4": "Shaft basis system",
+    "Answer": "Hole basis system",
+    "image": "https://firebasestorage.googleapis.com/v0/b/yash-c4f9c.appspot.com/o/no%20image.png?alt=media&token=f067c001-3ea1-4dc9-bb97-b57ff15d0432"
+  },
+  {
+    "Question": "What is also known as fundamental tolarance?",
+    "Option1": "tolerance zone",
+    "Option2": "maximum tolerance",
+    "Option3": "grade of tolerance",
+    "Option4": "minimum tolerance",
+    "Answer": "grade of tolerance",
+    "image": "https://firebasestorage.googleapis.com/v0/b/yash-c4f9c.appspot.com/o/no%20image.png?alt=media&token=f067c001-3ea1-4dc9-bb97-b57ff15d0432"
+  },
+  {
+    "Question": "How external features of a component including which not cylindrical is designated as per BIS?",
+    "Option1": "Fit",
+    "Option2": "Hole",
+    "Option3": "Shaft",
+    "Option4": "Deviation",
+    "Answer": "Shaft",
+    "image": "https://firebasestorage.googleapis.com/v0/b/yash-c4f9c.appspot.com/o/no%20image.png?alt=media&token=f067c001-3ea1-4dc9-bb97-b57ff15d0432"
+  },
+  {
+    "Question": "What is the term for extreme permissible size with in that the operator is expected to make?",
+    "Option1": "Actual size",
+    "Option2": "Limit of size",
+    "Option3": "Minimum limit of size",
+    "Option4": "Maximum limit of size",
+    "Answer": "Limit of size",
+    "image": "https://firebasestorage.googleapis.com/v0/b/yash-c4f9c.appspot.com/o/no%20image.png?alt=media&token=f067c001-3ea1-4dc9-bb97-b57ff15d0432"
+  }
+]

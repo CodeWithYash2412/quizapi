@@ -1,0 +1,227 @@
+[
+  {
+    "Question": "Which material is used to manufacture grade A V blocks?",
+    "Option1": "Tool steel",
+    "Option2": "Carbon steel",
+    "Option3": "High quality steel",
+    "Option4": "Closely grained cast iron",
+    "Answer": "High quality steel",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which chisel is used for removing materials on the corners of the keyways?",
+    "Option1": "Flat chisel",
+    "Option2": "Diamond point chisel",
+    "Option3": "Cross cut chisel",
+    "Option4": "Half round nose chisel",
+    "Answer": "Diamond point chisel",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which file is having rows of teeth cut in one direction?",
+    "Option1": "Single cut file",
+    "Option2": "Curved cut file",
+    "Option3": "Second cut file",
+    "Option4": "Double cut file",
+    "Answer": "Single cut file",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which file is used for filing wood and leather?",
+    "Option1": "Hand file",
+    "Option2": "Bastard file",
+    "Option3": "Rasp cut file",
+    "Option4": "Single cut file",
+    "Answer": "Rasp cut file",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Why the cutting faces of files are slightly bellied on length wise?",
+    "Option1": "Get proper grip over workpiece",
+    "Option2": "Filing flat surfaces is made easier",
+    "Option3": "Permit clearance between file face and the workpiece",
+    "Option4": "Ensure more pressure on workpiece while filing",
+    "Answer": "Filing flat surfaces is made easier",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which pitch of blade is used for cutting bronze, brass and cast iron?",
+    "Option1": "0.80 mm",
+    "Option2": "1.00 mm",
+    "Option3": "1.40 mm",
+    "Option4": "1.80 mm",
+    "Answer": "1.80 mm",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What happen if the clearance angle of chisel is too high?",
+    "Option1": "Slipping of chisel",
+    "Option2": "Digging on the surface",
+    "Option3": "Cutting edge will break",
+    "Option4": "Heavy metal removal from the surface",
+    "Answer": "Digging on the surface",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which type of hammer is used for riveting purpose?",
+    "Option1": "Sledge hammer",
+    "Option2": "Ball pein hammer",
+    "Option3": "Cross pein hammer",
+    "Option4": "Straight pein hammer",
+    "Answer": "Ball pein hammer",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the unit of cutting speed in drilling operation?",
+    "Option1": "m/ rev",
+    "Option2": "mm/ rev",
+    "Option3": "m/ min",
+    "Option4": "mm/ min",
+    "Answer": "m/ min",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the name of part marked as x in drill?",
+    "Option1": "Lip",
+    "Option2": "Land",
+    "Option3": "Flank",
+    "Option4": "Web",
+    "Answer": "Lip",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/FITTER%2FFITTER%20SEM1%2F76TO100%2Ff85.PNG?alt=media&token=2b91f4c0-2ae7-4f36-8521-50bcd605bdd5"
+  },
+  {
+    "Question": "What is the name of part marked as x in drilling machine?",
+    "Option1": "Drill chuck",
+    "Option2": "Feed handle",
+    "Option3": "Driving motor",
+    "Option4": "Depth gauge and stop",
+    "Answer": "Drill chuck",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/FITTER%2FFITTER%20SEM1%2F76TO100%2Ff86.PNG?alt=media&token=f5caf0fb-7244-4f4e-a567-4f28bcc58b18"
+  },
+  {
+    "Question": "What is the minor diameter of thread?",
+    "Option1": "Minor dia = Major dia – (2 x pitch)",
+    "Option2": "Minor dia = Major dia + (2 x pitch)",
+    "Option3": "Minor dia = Major dia + (2 x depth)",
+    "Option4": "Minor dia = Major dia – (2 x depth)",
+    "Answer": "Minor dia = Major dia – (2 x depth)",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the name of the part marked as X ?",
+    "Option1": "Spindle",
+    "Option2": "Sleeve",
+    "Option3": "Thimble",
+    "Option4": "Spindle lock",
+    "Answer": "Thimble",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/FITTER%2FFITTER%20SEM1%2F76TO100%2Ff88.PNG?alt=media&token=1ba0bc46-89f3-499b-b88a-5c30641920e8"
+  },
+  {
+    "Question": "What is the reading of the outside micrometer 50 to 75mm?",
+    "Option1": "63.63 mm",
+    "Option2": "63.00 mm",
+    "Option3": "63.36 mm",
+    "Option4": "63.13 mm",
+    "Answer": "63.63 mm",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/FITTER%2FFITTER%20SEM1%2F76TO100%2Ff89.PNG?alt=media&token=60e03c2a-53c5-44e3-9fbd-7d6c67894aa0"
+  },
+  {
+    "Question": "What is the name of the part marked as X ?",
+    "Option1": "Beam",
+    "Option2": "Main scale",
+    "Option3": "Fine adjusting nut",
+    "Option4": "Fine adjusting slide",
+    "Answer": "Fine adjusting slide",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/FITTER%2FFITTER%20SEM1%2F76TO100%2Ff90.PNG?alt=media&token=2ae0a721-0fb6-4af9-a3b3-94a7ffab9013"
+  },
+  {
+    "Question": "What is the name of the vice?",
+    "Option1": "Hand vice",
+    "Option2": "Bench vice",
+    "Option3": "Tool maker s vice",
+    "Option4": "Quick releasing vice",
+    "Answer": "Quick releasing vice",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/FITTER%2FFITTER%20SEM1%2F76TO100%2Ff91.PNG?alt=media&token=f06d91bd-ec38-4c93-96e9-9c5d5a064d12"
+  },
+  {
+    "Question": "What is the name of the part marked as X ?",
+    "Option1": "Tip",
+    "Option2": "Heel",
+    "Option3": "Tang",
+    "Option4": "Safe edge",
+    "Answer": "Safe edge",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/FITTER%2FFITTER%20SEM1%2F76TO100%2Ff92.PNG?alt=media&token=a8f742f6-3d72-44b5-86ad-feed9e77d957"
+  },
+  {
+    "Question": "What is the name of operation?",
+    "Option1": "Marking line at 90°",
+    "Option2": "Checking flatness",
+    "Option3": "Checking squareness",
+    "Option4": "Setting work piece at right angle",
+    "Answer": "Checking flatness",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/FITTER%2FFITTER%20SEM1%2F76TO100%2Ff93.PNG?alt=media&token=ea57d31b-b465-4d18-85bb-394dc054dd76"
+  },
+  {
+    "Question": "Which marking media is applied to rough forgings and castings?",
+    "Option1": "White wash",
+    "Option2": "Prussian blue",
+    "Option3": "Copper sulphate",
+    "Option4": "Cellulose lacquer",
+    "Answer": "White wash",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which is used to finish the resharpened divider point?",
+    "Option1": "File",
+    "Option2": "Grinder",
+    "Option3": "Scraper",
+    "Option4": "Oil stone",
+    "Answer": "Oil stone",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the use of bevel protractor?",
+    "Option1": "Check the length",
+    "Option2": "Set the work piece",
+    "Option3": "Measure the angle",
+    "Option4": "Measure the depth",
+    "Answer": "Measure the angle",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Name the file shown.",
+    "Option1": "Riffler file",
+    "Option2": "Tinkers file",
+    "Option3": "Barrette file",
+    "Option4": "Crossing file",
+    "Answer": "Tinkers file",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/FITTER%2FFITTER%20SEM1%2F76TO100%2Ff97.PNG?alt=media&token=725e0fc3-b48a-4b60-bdd9-6973af68e0e1"
+  },
+  {
+    "Question": "Which vice is used for holding hollow cylindrical jobs?",
+    "Option1": "Pin vice",
+    "Option2": "Pipe vice",
+    "Option3": "Hand vice",
+    "Option4": "Bench vice",
+    "Answer": "Pipe vice",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the pitch of hacksaw blade used to cut conduit and other thin tubes?",
+    "Option1": "0.8mm",
+    "Option2": "1.0mm",
+    "Option3": "1.4mm",
+    "Option4": "1.8mm",
+    "Answer": "0.8mm",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which metal cutting saw is used for cutting different profiles?",
+    "Option1": "Power saw",
+    "Option2": "Circular saw",
+    "Option3": "Contour band saw",
+    "Option4": "Horizontal band saw",
+    "Answer": "Contour band saw",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  }
+]

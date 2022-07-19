@@ -1,0 +1,227 @@
+[
+  {
+    "Question": "Which deviation is zero in hole basis system?",
+    "Option1": "Lower deviation is zero",
+    "Option2": "Upper deviation is zero",
+    "Option3": "Both upper and lower deviation is zero",
+    "Option4": "Both upper and lower deviation is below basic size",
+    "Answer": "Lower deviation is zero",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which deviation is zero in shfrt basis system?",
+    "Option1": "Upper devication is zero",
+    "Option2": "Lower deviation is zero",
+    "Option3": "Both upper and lower deviation is zero",
+    "Option4": "Both upper and lower deviation is below basic size",
+    "Answer": "Upper devication is zero",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the representation of zero line in limit and fits?",
+    "Option1": "Basic size",
+    "Option2": "Actual size",
+    "Option3": "Nominal size",
+    "Option4": "Tolerance size",
+    "Answer": "Basic size",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which letter represents basic hole?",
+    "Option1": "h",
+    "Option2": "H",
+    "Option3": "Bh",
+    "Option4": "BH",
+    "Answer": "H",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the representation IT in limits and fits?",
+    "Option1": "Tolerance",
+    "Option2": "Tolerance grade",
+    "Option3": "Tolerance unit",
+    "Option4": "Tolerance number",
+    "Answer": "Tolerance grade",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the unit of deviation in limits and fits?",
+    "Option1": "Millimeter",
+    "Option2": "Centimeter",
+    "Option3": "Micron",
+    "Option4": "Mill micron",
+    "Answer": "Micron",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What does QA and QC stand for?",
+    "Option1": "Quality assurance and quenching control",
+    "Option2": "Quality adjustment and quality complete",
+    "Option3": "Quality assurance and quality control",
+    "Option4": "Quality assurance and quenching control",
+    "Answer": "Quality assurance and quality control",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What does AQL stands for?",
+    "Option1": "Aquired quality limit",
+    "Option2": "Acceptance quality limit",
+    "Option3": "Another quality limit",
+    "Option4": "Acceptance quality level",
+    "Answer": "Acceptance quality limit",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is direction of finishing in surface texture?",
+    "Option1": "Flaw",
+    "Option2": "Lay",
+    "Option3": "Waviness",
+    "Option4": "Roughness",
+    "Answer": "Lay",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which material is used to make the stylus of mechanical surface indicator?",
+    "Option1": "Mild steel",
+    "Option2": "High carbon steel",
+    "Option3": "High speed steel",
+    "Option4": "Diamond",
+    "Answer": "Diamond",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the name of part marked as 'x'?",
+    "Option1": "Measuring stylus",
+    "Option2": "Skids",
+    "Option3": "Indicator scale",
+    "Option4": "Adjustment screw",
+    "Answer": "Skids",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/sem4%20126to150%2F171.PNG?alt=media&token=afc5ff15-6d86-4799-9faa-d51311be2e7a"
+  },
+  {
+    "Question": "What is the name of part measured as 'x'?",
+    "Option1": "Skid",
+    "Option2": "Diamond stylus",
+    "Option3": "Indicator scale",
+    "Option4": "Pick up",
+    "Answer": "Skid",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/sem4%20126to150%2F172.PNG?alt=media&token=8e3fbbe7-5fc6-4e8a-9fa8-350a69a8bb93"
+  },
+  {
+    "Question": "What is the name of part of taly surf marked as 'x'?",
+    "Option1": "Stylus",
+    "Option2": "Motor race",
+    "Option3": "Amplifier",
+    "Option4": "Recorder",
+    "Answer": "Amplifier",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/sem4%20126to150%2F173.PNG?alt=media&token=439e3b4e-d8c9-470a-94ad-d671cbe78caa"
+  },
+  {
+    "Question": "What is the name of part marked as 'x' in lapping process?",
+    "Option1": "Component",
+    "Option2": "Groves to return lapping paste",
+    "Option3": "Lapping plate",
+    "Option4": "Work surface",
+    "Answer": "Component",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/sem4%20126to150%2F174.PNG?alt=media&token=1531497a-21d1-4d33-88f9-6fe08a03615f"
+  },
+  {
+    "Question": "Which surface is finished by honing?",
+    "Option1": "External cylindrical surface",
+    "Option2": "Internal cylindrical surface",
+    "Option3": "Both external and internal surface",
+    "Option4": "Flat surface",
+    "Answer": "Internal cylindrical surface",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "How the turning tool is moving in tail strock offset method?",
+    "Option1": "Perpendicular to lathe axis",
+    "Option2": "Angular to lathe axis",
+    "Option3": "Parallel to lathe axis",
+    "Option4": "Vertical to lathe axis",
+    "Answer": "Parallel to lathe axis",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which one of the following is disadvantage of tailstock offset method?",
+    "Option1": "Power feed can be given",
+    "Option2": "Good surface finish can be obtained",
+    "Option3": "External taper thread can be produce",
+    "Option4": "Only external taper can be turned",
+    "Answer": "Only external taper can be turned",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which axis the tool moves in taper turning attachment?",
+    "Option1": "Perpendicular to lathe axis",
+    "Option2": "Parallel to lathe axis",
+    "Option3": "Angular to lathe axis",
+    "Option4": "Vertical to lathe axis",
+    "Answer": "Angular to lathe axis",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which one of the following is disadvantages of taper turning by attachments?",
+    "Option1": "Both external and internal tapers can be produced",
+    "Option2": "Power feed can be produced",
+    "Option3": "Length taper can be produced",
+    "Option4": "Only limited taper angle can be turned",
+    "Answer": "Only limited taper angle can be turned",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which of the following structures of steel is obtained due to the drastic cooling form the austenite structure?",
+    "Option1": "Pearlite",
+    "Option2": "Cementite",
+    "Option3": "Martensite",
+    "Option4": "Ferrite",
+    "Answer": "Martensite",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which of the following property of metal is impart by annealing?",
+    "Option1": "Hardness",
+    "Option2": "Toughness",
+    "Option3": "Ductility",
+    "Option4": "Surface hardness",
+    "Answer": "Ductility",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which one of the following heat treatment process produces a scale free surface on the components?",
+    "Option1": "Flame hardening",
+    "Option2": "Case hardening",
+    "Option3": "Nitriding",
+    "Option4": "Induction hardening",
+    "Answer": "Induction hardening",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the types of fit for the expression 20H7/g6?",
+    "Option1": "Interference fit",
+    "Option2": "Clearance fit",
+    "Option3": "Trasition fit",
+    "Option4": "Force fit",
+    "Answer": "Clearance fit",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is 7 with expression of fit 30H7/g6?",
+    "Option1": "Hole tolerance grade",
+    "Option2": "Shaft tolerance grade",
+    "Option3": "Shaft and hole tolerance",
+    "Option4": "Shaft and hole allowance",
+    "Answer": "Hole tolerance grade",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the type of fit in expression 75 H8/j7?",
+    "Option1": "Transition fit",
+    "Option2": "Clearance fit",
+    "Option3": "Interference fit",
+    "Option4": "Force fit",
+    "Answer": "Transition fit",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  }
+]

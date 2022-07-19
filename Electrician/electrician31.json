@@ -1,0 +1,272 @@
+[
+  {
+    "Question": "Which condition is to be satisfied before parallel operation of alternators?",
+    "Option1": "Rating must be same",
+    "Option2": "Phase sequence must be same",
+    "Option3": "Rotor impedance must be same",
+    "Option4": "Stator impedance must be same",
+    "Answer": "Phase sequence must be same",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the speed of an alternator connected with a supply frequency of 50 Hz at rated voltage having 4 poles?",
+    "Option1": "1000 rpm",
+    "Option2": "1500 rpm",
+    "Option3": "3000 rpm",
+    "Option4": "4500 rpm",
+    "Answer": "1500 rpm",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What condition the two lamps become bright and one lamp dark during paralleling of two alternators?",
+    "Option1": "Terminal voltages are equal",
+    "Option2": "Voltages and frequencies are equal",
+    "Option3": "Voltages and phase sequence are equal",
+    "Option4": "Both the alternators receive same frequency",
+    "Answer": "Voltages and frequencies are equal",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What causes the terminal voltage of an alternator reduces, if the load increases?",
+    "Option1": "Field resistance",
+    "Option2": "Armature reaction",
+    "Option3": "Inductive reactance",
+    "Option4": "Armature resistance",
+    "Answer": "Armature resistance",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the purpose of using damper winding in AC generator?",
+    "Option1": "Prevents heating",
+    "Option2": "Reduces copper loss",
+    "Option3": "Reduces windage loss",
+    "Option4": "Prevents the hunting effect",
+    "Answer": "Prevents the hunting effect",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the type of alternator?",
+    "Option1": "Brushless alternator",
+    "Option2": "Three phase alternator",
+    "Option3": "Single phase alternator",
+    "Option4": "Salient pole type alternator",
+    "Answer": "Brushless alternator",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/Electrician%2FSEM3%2FElectrician31%2F271.PNG?alt=media&token=2685e632-866d-4fc4-9c38-21534b954eed"
+  },
+  {
+    "Question": "Calculate the speed in r.p.s of the 2 pole, 50Hz alternator?",
+    "Option1": "50 rps",
+    "Option2": "100 rps",
+    "Option3": "1500 rps",
+    "Option4": "3000 rps",
+    "Answer": "50 rps",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the advantage of using rotating field type alternator?",
+    "Option1": "Easy to locate the faults in the field",
+    "Option2": "Easy to connect the load with alternator",
+    "Option3": "Easy to dissipate the heat during running",
+    "Option4": "Two slip rings only required irrespective of No. of phases",
+    "Answer": "Two slip rings only required irrespective of No. of phases",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the effect in increasing the field excitation current in alternator?",
+    "Option1": "Prevents demagnetizing",
+    "Option2": "Over voltage protection",
+    "Option3": "Dead short circuit protection",
+    "Option4": "Alternator will be over loaded",
+    "Answer": "Prevents demagnetizing",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Calculate the pitch factor (KP) for a winding having 36 stator slots 4 pole with angle (α) is 30° in alternator?",
+    "Option1": 0.942,
+    "Option2": 0.965,
+    "Option3": 0.978,
+    "Option4": 0.985,
+    "Answer": 0.965,
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the cause for hunting effect in alternators?",
+    "Option1": "Due to over load",
+    "Option2": "Running without load",
+    "Option3": "Running with fluctuation of speed",
+    "Option4": "Due to continuous fluctuation in load",
+    "Answer": "Due to continuous fluctuation in load",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Calculate the voltage regulation in percentage if the load is removed from an alternator, the voltage rises from 480V to 660V?",
+    "Option1": 0.272,
+    "Option2": 0.325,
+    "Option3": 0.375,
+    "Option4": 0.385,
+    "Answer": 0.375,
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the name of the converter?",
+    "Option1": "Metal rectifier",
+    "Option2": "Rotary converter",
+    "Option3": "Mercury arc rectifier",
+    "Option4": "Silicon controlled rectifier",
+    "Answer": "Silicon controlled rectifier",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/Electrician%2FSEM3%2FElectrician31%2F278.PNG?alt=media&token=ea8a6736-d114-4a09-b045-27adb53e5b88"
+  },
+  {
+    "Question": "What is the name of the converter?",
+    "Option1": "Metal rectifier",
+    "Option2": "Rotary converter",
+    "Option3": "Mercury arc rectifier",
+    "Option4": "Motor-Generator set",
+    "Answer": "Rotary converter",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/Electrician%2FSEM3%2FElectrician31%2F279.PNG?alt=media&token=586a02a8-1d01-432a-8b37-55d1c45ec219"
+  },
+  {
+    "Question": "Why D.C supply is necessary for synchronous motor operation?",
+    "Option1": "Reduce the losses",
+    "Option2": "Start the motor initially",
+    "Option3": "Run the motor with over load",
+    "Option4": "Run the motor at synchronous speed",
+    "Answer": "Run the motor at synchronous speed",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which acts as both inverter and converter?",
+    "Option1": "Metal rectifier",
+    "Option2": "Mercury arc rectifier",
+    "Option3": "Semi conductor diode",
+    "Option4": "Synchronous converter",
+    "Answer": "Synchronous converter",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the function of inverter?",
+    "Option1": "Convert A.C to D.C",
+    "Option2": "Convert D.C to A.C",
+    "Option3": "Smoothening A.C sine wave",
+    "Option4": "Convert pulsating DC into pure D.C",
+    "Answer": "Convert D.C to A.C",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which converting device can be over loaded?",
+    "Option1": "Rectifier unit",
+    "Option2": "Rotary converter",
+    "Option3": "Motor generator set",
+    "Option4": "Mercury arc rectifier",
+    "Answer": "Rectifier unit",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Why exciter is essential to run a synchronous motor?",
+    "Option1": "Carry more load in motor",
+    "Option2": "Improve the power factor",
+    "Option3": "Reduce the losses in motor",
+    "Option4": "Run the motor at synchronous speed",
+    "Answer": "Run the motor at synchronous speed",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which application requires only DC?",
+    "Option1": "Electroplating",
+    "Option2": "Stepping up of voltage",
+    "Option3": "Operating induction motor",
+    "Option4": "Operating repulsion motor",
+    "Answer": "Electroplating",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Why the LED’s are avoided as converters in rectifier diodes?",
+    "Option1": "Heavily doped device",
+    "Option2": "Very low power device",
+    "Option3": "Designed for light emitting",
+    "Option4": "Very sensitive to temperature",
+    "Answer": "Very low power device",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which is the main application of synchronous motor?",
+    "Option1": "Elevators",
+    "Option2": "Paper rolling mills",
+    "Option3": "AC to DC converter",
+    "Option4": "Power factor correction device",
+    "Answer": "Power factor correction device",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the advantage of motor generator set?",
+    "Option1": "Noiseless",
+    "Option2": "High efficiency",
+    "Option3": "Low maintenance required",
+    "Option4": "DC output voltage can be easily controlled",
+    "Answer": "DC output voltage can be easily controlled",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the function of the part marked as X of the rotary converter?",
+    "Option1": "Converts AC to DC",
+    "Option2": "Reduces voltage drop",
+    "Option3": "Helps to deliver without noise",
+    "Option4": "Collects the delivered direct current",
+    "Answer": "Collects the delivered direct current",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/Electrician%2FSEM3%2FElectrician31%2F289.PNG?alt=media&token=ebcef5c6-57b8-47c9-93b8-527d653b85bc"
+  },
+  {
+    "Question": "What is the purpose of damper winding in a synchronous motor at starting?",
+    "Option1": "Produce high voltage to initiate the rotation",
+    "Option2": "Produce high current to start rotate the motor",
+    "Option3": "Produces torque and runs near in synchronous speed",
+    "Option4": "Produce a high magnetic-field to maintain a constant speed",
+    "Answer": "Produce a high magnetic-field to maintain a constant speed",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Why the synchronous motor fails to run at synchronous speed?",
+    "Option1": "Insufficient excitation",
+    "Option2": "Defective pony motor",
+    "Option3": "Open in damper winding",
+    "Option4": "Short in damper winding",
+    "Answer": "Insufficient excitation",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "How the synchronous motor is used as a synchronous condenser?",
+    "Option1": "Varying the motor load",
+    "Option2": "Varying the rotor excitation",
+    "Option3": "Varying stator voltage in motor",
+    "Option4": "Varying stator current in motor",
+    "Answer": "Varying the rotor excitation",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the function of damper windings in synchronous motor?",
+    "Option1": "Maintain power factor",
+    "Option2": "Excite the field winding",
+    "Option3": "Maintain constant speed",
+    "Option4": "Start the synchronous motor",
+    "Answer": "Start the synchronous motor",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which converter is having high efficiency?",
+    "Option1": "SCR converter",
+    "Option2": "Rotary converter",
+    "Option3": "Motor generator set",
+    "Option4": "Mercury arc rectifier",
+    "Answer": "SCR converter",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "How synchronous motor works as a power factor corrector?",
+    "Option1": "Varying the line voltage",
+    "Option2": "Varying the field excitation",
+    "Option3": "Increasing the speed of motor",
+    "Option4": "Decreasing the speed of motor",
+    "Answer": "Varying the field excitation",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  }
+]

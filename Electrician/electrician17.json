@@ -1,0 +1,227 @@
+[
+  {
+    "Question": "Which error is caused by the incorrect position of instrument reading?",
+    "Option1": "Device error",
+    "Option2": "Human error",
+    "Option3": "Influence error",
+    "Option4": "Switching error",
+    "Answer": "Device error",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which instrument is used to measure one ohm and below one ohm resistance value accurately?",
+    "Option1": "Megohm meter",
+    "Option2": "Multimeter (analog)",
+    "Option3": "Shunt type ohm meter",
+    "Option4": "Series type ohm meter",
+    "Answer": "Shunt type ohm meter",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the purpose of the 3rd terminal provided in a advanced megohm meter?",
+    "Option1": "Get higher ohmic values",
+    "Option2": "Pass the excess voltage to ground",
+    "Option3": "Pass the excess current to ground",
+    "Option4": "Get accurate readings without oscillation",
+    "Answer": "Get accurate readings without oscillation",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the name of the shunt resistance material?",
+    "Option1": "Copper",
+    "Option2": "Eureka",
+    "Option3": "Nichrome",
+    "Option4": "Manganin",
+    "Answer": "Manganin",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/Electrician%2FSEM2%2FElectrician17%2F168.PNG?alt=media&token=946d0417-c3ec-4cd6-8a89-af517bdad4b0"
+  },
+  {
+    "Question": "What is the reason for the moving coil meter having uniform scale?",
+    "Option1": "Deflecting torque is directly proportional to the current",
+    "Option2": "Deflecting torque is inversely proportional to the current",
+    "Option3": "Deflecting torque is inversely proportional to the square of the current",
+    "Option4": "Deflecting torque is directly proportional to the square of the current",
+    "Answer": "Deflecting torque is directly proportional to the current",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which error if the energy meter disc rotating continuously on no load?",
+    "Option1": "Speed error",
+    "Option2": "Phase error",
+    "Option3": "Friction error",
+    "Option4": "Creeping error",
+    "Answer": "Creeping error",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the effect on CT if its secondary is kept open?",
+    "Option1": "CT primary burns out",
+    "Option2": "Volt ampere capacity reduces",
+    "Option3": "Volt ampere capacity increases",
+    "Option4": "CT secondary winding burns out",
+    "Answer": "CT secondary winding burns out",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the purpose of variable resistor connected across shunt type ohm meter?",
+    "Option1": "Avoid draining of battery",
+    "Option2": "Minimize the error in reading",
+    "Option3": "Adjust the current to safe value",
+    "Option4": "Adjust the pointer to zero adjustment",
+    "Answer": "Adjust the pointer to zero adjustment",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which material is used to make control spring in measuring instruments?",
+    "Option1": "Steel",
+    "Option2": "Silver",
+    "Option3": "Tinned copper",
+    "Option4": "Phosphor bronze",
+    "Answer": "Phosphor bronze",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which electrical effect that the single phase energy meter works?",
+    "Option1": "Heating effect",
+    "Option2": "Induction effect",
+    "Option3": "Chemical effect",
+    "Option4": "Electrostatic effect",
+    "Answer": "Induction effect",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which position an instrument using fluid friction damping reads accurately?",
+    "Option1": "Any position",
+    "Option2": "Vertical position only",
+    "Option3": "Inclined position only",
+    "Option4": "Horizontal position only",
+    "Answer": "Any position",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the name of meter?",
+    "Option1": "AC multirange ammeter",
+    "Option2": "DC multirange voltmeter",
+    "Option3": "AC and DC multirange ammeter",
+    "Option4": "AC and DC multirange voltmeter",
+    "Answer": "DC multirange voltmeter",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/Electrician%2FSEM2%2FElectrician17%2F176.PNG?alt=media&token=f9f8d724-e1af-4540-8f3d-82950b7424dc"
+  },
+  {
+    "Question": "Which instrument is an example of an integrating instrument?",
+    "Option1": "AC voltmeter",
+    "Option2": "DC voltmeter",
+    "Option3": "Energy meter",
+    "Option4": "Tangent galvanometer",
+    "Answer": "Tangent galvanometer",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "How the creeping error is controlled in energy meter?",
+    "Option1": "By reducing rated voltage",
+    "Option2": "By increasing the inductive load",
+    "Option3": "By adjusting the brake magnet position",
+    "Option4": "By drilling two holes diametrically opposite on disc",
+    "Answer": "By drilling two holes diametrically opposite on disc",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Why the scale of the moving iron instrument is having un-uniform scale?",
+    "Option1": "Deflecting force is directly proportional to the Current",
+    "Option2": "Deflecting force is inversely proportional to the Current",
+    "Option3": "Deflection of force is directly proportional to the square of the Current",
+    "Option4": "Deflection force is inversely proportional to the square of the Current",
+    "Answer": "Deflection of force is directly proportional to the square of the Current",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which source of measuring error is caused by the effect of magnetic fields?",
+    "Option1": "Device error",
+    "Option2": "Human error",
+    "Option3": "Influence error",
+    "Option4": "Switching error",
+    "Answer": "Influence error",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which type of wattmeter?",
+    "Option1": "Three element 4 wire wattmeter",
+    "Option2": "Two element 3 phase wattmeter",
+    "Option3": "Three element 3 phase wattmeter",
+    "Option4": "Three phase two element with C.T & P.T",
+    "Answer": "Two element 3 phase wattmeter",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/Electrician%2FSEM2%2FElectrician17%2F181.PNG?alt=media&token=2ee09f79-c402-4ced-ba85-1dfca6be5f43"
+  },
+  {
+    "Question": "Which type of instrument is used with air friction damping?",
+    "Option1": "Moving coil instrument",
+    "Option2": "Moving iron instrument",
+    "Option3": "Induction type instrument",
+    "Option4": "Dynamo meter type instrument",
+    "Answer": "Moving iron instrument",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which type of energy meter works with netural connection?",
+    "Option1": "Three phase two element",
+    "Option2": "Three phase three element",
+    "Option3": "Single phase single element",
+    "Option4": "Three phase two element with CT & PT",
+    "Answer": "Single phase single element",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the type of frequency meter?",
+    "Option1": "Weston type",
+    "Option2": "Ratio meter type",
+    "Option3": "Electro dynamic type",
+    "Option4": "Mechanical resonance type",
+    "Answer": "Mechanical resonance type",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/Electrician%2FSEM2%2FElectrician17%2F184.PNG?alt=media&token=614784b7-1251-40e6-9188-6a044c4f66d1"
+  },
+  {
+    "Question": "What is the unit of sensitivity in instruments?",
+    "Option1": "Volt / ohm",
+    "Option2": "Ohm / volt",
+    "Option3": "Ohm metre",
+    "Option4": "Ohm / metre",
+    "Answer": "Ohm / volt",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Why two straight holes are provided in the aluminium disc in energy meter?",
+    "Option1": "To reduce the disc weight",
+    "Option2": "For power factor correction",
+    "Option3": "To prevent the flux leakage",
+    "Option4": "To arrest the creeping error",
+    "Answer": "To arrest the creeping error",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the name of the instrument?",
+    "Option1": "Absolute instrument",
+    "Option2": "Indicating instrument",
+    "Option3": "Recording instrument",
+    "Option4": "Integrating instrument",
+    "Answer": "Absolute instrument",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/Electrician%2FSEM2%2FElectrician17%2F187.PNG?alt=media&token=de22c43a-1029-4a21-9382-14545c336a66"
+  },
+  {
+    "Question": "Why damping force is required in a moving coil instrument?",
+    "Option1": "Makes the needle movement faster",
+    "Option2": "Helps the deflecting force to act fast",
+    "Option3": "Brings the needle to its zero position",
+    "Option4": "Arrests the needle without oscillations",
+    "Answer": "Arrests the needle without oscillations",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the function of soft iron core in a moving coil instrument?",
+    "Option1": "Strengthens the deflection force",
+    "Option2": "Controls the needle’s movement",
+    "Option3": "Provides meter with maximum sensitivity",
+    "Option4": "Provide uniform distribution of magnetic flux in air gap",
+    "Answer": "Provide uniform distribution of magnetic flux in air gap",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  }
+]

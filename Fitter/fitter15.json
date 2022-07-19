@@ -1,0 +1,227 @@
+[
+  {
+    "Question": "What is the purpose of flute in drill?",
+    "Option1": "To drive out the chips",
+    "Option2": "To reduce the weight",
+    "Option3": "To reduce the cost",
+    "Option4": "To increase the speed",
+    "Answer": "To drive out the chips",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the angle of countersink tool used on holes to be threaded?",
+    "Option1": "75°",
+    "Option2": "80°",
+    "Option3": "90°",
+    "Option4": "120°",
+    "Answer": "120°",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the formula to calculate the blank size of external thread (where p=pitch and d=depth)?",
+    "Option1": "D = d – p/10",
+    "Option2": "D = d + p/10",
+    "Option3": "D = d x p/10",
+    "Option4": "D = d ÷ p/10",
+    "Answer": "D = d – p/10",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the name of the die?",
+    "Option1": "Split die",
+    "Option2": "Half die",
+    "Option3": "Solid die",
+    "Option4": "Adjustable screw plate die",
+    "Answer": "Half die",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/FITTER%2FFITTER%20SEM2%2F076%20TO%20100%2FFI79.PNG?alt=media&token=f5c58727-1ca8-4b9f-bd1e-ed30a3dd1712"
+  },
+  {
+    "Question": "Which type of thread, the crest and roots are rounded to form a semi circle?",
+    "Option1": "Acme thread",
+    "Option2": "Square thread",
+    "Option3": "Knuckle thread",
+    "Option4": "Trapezoidal thread",
+    "Answer": "Knuckle thread",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What 5 denotes in grinding wheel specification 41A46H5U8?",
+    "Option1": "Bond",
+    "Option2": "Abrasive",
+    "Option3": "Structure",
+    "Option4": "Grain size",
+    "Answer": "Structure",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which type of bonded wheel is used in foundries for dressing castings?",
+    "Option1": "Silicate bond",
+    "Option2": "Shellac bond",
+    "Option3": "Rubber bond",
+    "Option4": "Resinoid bond",
+    "Answer": "Resinoid bond",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What type abrasive wheel is used for grinding cemented carbides?",
+    "Option1": "Green silicon carbide",
+    "Option2": "Grey aluminium oxide",
+    "Option3": "White aluminium oxide",
+    "Option4": "Brown aluminium oxide",
+    "Answer": "Green silicon carbide",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the value of one vernier division of a vernier micrometer?",
+    "Option1": "0.01 mm",
+    "Option2": "0.02 mm",
+    "Option3": "0.009 mm",
+    "Option4": "0.002 mm",
+    "Answer": "0.009 mm",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the name of part marked as X in telescopic gauge?",
+    "Option1": "Handle",
+    "Option2": "Fixed leg",
+    "Option3": "Plunger lock",
+    "Option4": "Telescopic leg",
+    "Answer": "Plunger lock",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/FITTER%2FFITTER%20SEM2%2F076%20TO%20100%2FFI85.PNG?alt=media&token=5565ad66-7087-4be5-83c4-c33c8d8e2733"
+  },
+  {
+    "Question": "What is the method of removing broken stud?",
+    "Option1": "Ezy-out",
+    "Option2": "Prick punch",
+    "Option3": "Making drill hole",
+    "Option4": "Using square taper punch",
+    "Answer": "Ezy-out",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/FITTER%2FFITTER%20SEM2%2F076%20TO%20100%2FFI86.PNG?alt=media&token=b74927df-fd1d-4015-bbee-bf0e974d7e63"
+  },
+  {
+    "Question": "Why grey cast iron widely used for machine tools?",
+    "Option1": "Rapid cooling",
+    "Option2": "Reduce vibration",
+    "Option3": "High tensile strength",
+    "Option4": "Very difficult to machining",
+    "Answer": "Very difficult to machining",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the tap drill size for M20 x 15?",
+    "Option1": 18.5,
+    "Option2": 20,
+    "Option3": 19,
+    "Option4": 17,
+    "Answer": 18.5,
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the drill hole size for 16 mm reamer?",
+    "Option1": "15.75 mm",
+    "Option2": "15.50 mm",
+    "Option3": "14.65 mm",
+    "Option4": "16 mm",
+    "Answer": "15.75 mm",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the name of the part marked as X?",
+    "Option1": "Breast plate",
+    "Option2": "Bevel pinion",
+    "Option3": "Frame work",
+    "Option4": "Locking screw",
+    "Answer": "Locking screw",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/FITTER%2FFITTER%20SEM2%2F076%20TO%20100%2FFI90.PNG?alt=media&token=8a343279-5d19-4c8a-ab93-5947983666a0"
+  },
+  {
+    "Question": "What is the size of drilled hole for reaming, ø 10 mm?",
+    "Option1": "8.5 mm",
+    "Option2": "9.75 mm",
+    "Option3": "10.00 mm",
+    "Option4": "10.25 mm",
+    "Answer": "9.75 mm",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the name of part marked as X in hand reamer?",
+    "Option1": "Taper lead",
+    "Option2": "Bevel lead",
+    "Option3": "Circular lead",
+    "Option4": "Taper lead angle",
+    "Answer": "Taper lead angle",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/FITTER%2FFITTER%20SEM2%2F076%20TO%20100%2FFI92.PNG?alt=media&token=59e41381-a63a-46db-bcef-c5467fb5dce0"
+  },
+  {
+    "Question": "Why drilled holes are over size than drill dia?",
+    "Option1": "Feed ratio is more",
+    "Option2": "Cooling is in effective",
+    "Option3": "Insufficient clearance angle",
+    "Option4": "Unequal length of cutting edge",
+    "Answer": "Unequal length of cutting edge",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the counter sink angle of chamfering in the end of drilled hole for threading?",
+    "Option1": "75°",
+    "Option2": "80°",
+    "Option3": "90°",
+    "Option4": "120°",
+    "Answer": "120°",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the name of thread?",
+    "Option1": "Vee thread",
+    "Option2": "Buttress thread",
+    "Option3": "Square thread",
+    "Option4": "Saw - tooth thread",
+    "Answer": "Saw - tooth thread",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/FITTER%2FFITTER%20SEM2%2F076%20TO%20100%2FFI95.PNG?alt=media&token=2a9a4541-9446-425c-b13f-e9899c79e213"
+  },
+  {
+    "Question": "What is the name of part marked X?",
+    "Option1": "Root",
+    "Option2": "Pitch",
+    "Option3": "Crest",
+    "Option4": "Helix angle",
+    "Answer": "Helix angle",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/FITTER%2FFITTER%20SEM2%2F076%20TO%20100%2FFI96.PNG?alt=media&token=f25af4d3-1a00-4e27-9cc0-7aa8fbf85629"
+  },
+  {
+    "Question": "Why centre screw is provided in the die stock?",
+    "Option1": "To tighten the die",
+    "Option2": "To adjust the depth of cut",
+    "Option3": "To adjust the dia of internal thread",
+    "Option4": "To adjust the dia of external thread",
+    "Answer": "To adjust the depth of cut",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the included angle of metric V threads?",
+    "Option1": "45°",
+    "Option2": "29°",
+    "Option3": "60°",
+    "Option4": "47½°",
+    "Answer": "60°",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What 46 represent in standard marking system of grinding wheel (32A46H8V)?",
+    "Option1": "Grade",
+    "Option2": "Grain size",
+    "Option3": "Type of bond",
+    "Option4": "Type of abrasive",
+    "Answer": "Grain size",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the tool used in grinding operation?",
+    "Option1": "Honing tool",
+    "Option2": "Abrasive stick",
+    "Option3": "Diamond dressers",
+    "Option4": "Star wheel dressers",
+    "Answer": "Diamond dressers",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/FITTER%2FFITTER%20SEM2%2F076%20TO%20100%2FFI100.PNG?alt=media&token=9a2039e1-86aa-46be-a62f-0c5a6e894182"
+  }
+]

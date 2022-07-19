@@ -1,0 +1,227 @@
+[
+  {
+    "Question": "What reduces the cross sectional area of core material for VA rating?",
+    "Option1": "Dynamo sheet",
+    "Option2": "Low alloy sheet",
+    "Option3": "High alloy sheet",
+    "Option4": "Normal steel sheet",
+    "Answer": "High alloy sheet",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "How to obtain opposite polarity in adjacent poles of a 4 pole DC motor?",
+    "Option1": "Varying the number of turns in coil",
+    "Option2": "Making series connection of coils",
+    "Option3": "Making parallel connection of coils",
+    "Option4": "Making current flow in different direction",
+    "Answer": "Making current flow in different direction",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the operation in the rewinding process?",
+    "Option1": "Cleaning of slots",
+    "Option2": "Removing of winding",
+    "Option3": "Removing of wedges",
+    "Option4": "Cutting of winding wire",
+    "Answer": "Removing of wedges",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/Electrician%2FSEM3%2FElectrician25%2F114.PNG?alt=media&token=499c9a9b-ecfe-474a-8fbe-f0b716a3737c"
+  },
+  {
+    "Question": "Which insulating material used in winding is a highly non -hygroscopic and possess good electrical strength?",
+    "Option1": "Empire cloth",
+    "Option2": "Triplex paper",
+    "Option3": "Millinex paper",
+    "Option4": "Leatheroid paper",
+    "Answer": "Millinex paper",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which type of armature winding is illustrated?",
+    "Option1": "Triplex wave winding",
+    "Option2": "Duplex wave winding",
+    "Option3": "Progressive lap winding",
+    "Option4": "Retrogressive lap winding",
+    "Answer": "Progressive lap winding",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/Electrician%2FSEM3%2FElectrician25%2F116.PNG?alt=media&token=50d5352c-229b-4ed6-bf39-8e51369a14f3"
+  },
+  {
+    "Question": "Calculate the average pitch (YA) for retrogressive wave winding, if No. of armature conductor = 14 No. of slots = 7 No. of poles = 2",
+    "Option1": 4,
+    "Option2": 6,
+    "Option3": 8,
+    "Option4": 14,
+    "Answer": 6,
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which type of test is illustrated for the armature after rewound?",
+    "Option1": "Open coil test",
+    "Option2": "Shorted coil test",
+    "Option3": "Voltage drop test",
+    "Option4": "Grounded coil test",
+    "Answer": "Shorted coil test",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/Electrician%2FSEM3%2FElectrician25%2F118.PNG?alt=media&token=e62f022f-5435-435b-89a6-e1e5fcf8096a"
+  },
+  {
+    "Question": "Why the newly rewound armature must be preheated before varnishing?",
+    "Option1": "Drive out the moisture from it",
+    "Option2": "Help for quick drying of varnish",
+    "Option3": "Make easy to penetrate varnish inside",
+    "Option4": "Maintain uniform spreading of varnishing",
+    "Answer": "Drive out the moisture from it",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "How the direction of rotation of a DC compound motor is changed?",
+    "Option1": "By changing the direction of armature current",
+    "Option2": "By interchanging the supply terminals",
+    "Option3": "By changing the direction of both field and armature current",
+    "Option4": "By changing the direction of series field current",
+    "Answer": "By changing the direction of armature current",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the effect in a D.C shunt motor, if its supply terminals are interchanged?",
+    "Option1": "Runs in slow speed",
+    "Option2": "Runs in high speed",
+    "Option3": "Runs in the same direction",
+    "Option4": "Runs in the reverse direction",
+    "Answer": "Runs in the same direction",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the speed, if field winding of a DC shunt motor is in open circuit?",
+    "Option1": "Stop running",
+    "Option2": "Motor runs normally",
+    "Option3": "Runs at slow speed",
+    "Option4": "Runs in very high speed",
+    "Answer": "Runs in very high speed",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the reason for reduction in speed of a D.C shunt motor from no load to full load?",
+    "Option1": "Shunt field current increases",
+    "Option2": "Shunt field current decreases",
+    "Option3": "Armature voltage drop increases",
+    "Option4": "Armature voltage drop decreases",
+    "Answer": "Armature voltage drop increases",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/Electrician%2FSEM3%2FElectrician25%2F123.PNG?alt=media&token=44319e9f-a360-429a-991b-2e8816f81d98"
+  },
+  {
+    "Question": "Which winding fault is determined by the test?",
+    "Option1": "Open coil fault",
+    "Option2": "Short coil fault",
+    "Option3": "Grounded coil fault",
+    "Option4": "Grounded core fault",
+    "Answer": "Open coil fault",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/Electrician%2FSEM3%2FElectrician25%2F124.PNG?alt=media&token=3983d5cb-0dd4-4cbd-b7e3-9a4c5ab4c957"
+  },
+  {
+    "Question": "What is the formula to calculate the slip\nspeed (Nslip) of 3 phase squirrel cage induction\nmotor?",
+    "Option1": "Nslip = 𝑁𝑠 − 𝑁𝑟",
+    "Option2": "Nslip = 𝑁𝑟 − 𝑁𝑠",
+    "Option3": "Nslip = 𝑁𝑠−𝑁𝑟 / 𝑁𝑟",
+    "Option4": "Nslip = 𝑁𝑠−𝑁𝑟 / 𝑁𝑠",
+    "Answer": "Nslip = 𝑁𝑠 − 𝑁𝑟",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the type of control circuit?",
+    "Option1": "Inching control",
+    "Option2": "ON remote control",
+    "Option3": "OFF remote control",
+    "Option4": "Forward & reverse control",
+    "Answer": "Inching control",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/Electrician%2FSEM3%2FElectrician25%2F126.PNG?alt=media&token=fd05f83f-efc5-4ef1-9963-16a9e26782ee"
+  },
+  {
+    "Question": "Which formula is used to calculate the total\nelectrical degree in stator of an A.C motor?",
+    "Option1": "Total electrical degree = 180° / No. of slots",
+    "Option2": "Total electrical degree = 180° x No. of slots",
+    "Option3": "Total electrical degree = 180° / No. of poles",
+    "Option4": "Total electrical degree = 180° x No. of poles",
+    "Answer": "Total electrical degree = 180° x No. of poles",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the name of the A.C motor starter?",
+    "Option1": "DOL starter",
+    "Option2": "Auto transformer starter",
+    "Option3": "Semi automatic star delta starter",
+    "Option4": "Fully automatic star delta starter",
+    "Answer": "Auto transformer starter",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/Electrician%2FSEM3%2FElectrician25%2F128.PNG?alt=media&token=e18af94e-a0d3-4a2b-8d67-724bbd5357d0"
+  },
+  {
+    "Question": "What is the formula to find synchronous\nspeed of a A.C 3 phase induction motor?",
+    "Option1": "Synchronous speed = 120𝐹/𝑃",
+    "Option2": "Synchronous speed = 120𝑃 / 𝐹",
+    "Option3": "Synchronous speed = 120 / 𝑃𝐹",
+    "Option4": "Synchronous speed = 𝑃𝐹 / 120",
+    "Answer": "Synchronous speed = 120𝐹/𝑃",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the fuse rate to run a 10 HP three\nphase induction motor at full load?",
+    "Option1": "10 A",
+    "Option2": "15 A",
+    "Option3": "25 A",
+    "Option4": "30 A",
+    "Answer": "25 A",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the type of A.C motor stator winding?",
+    "Option1": "Single layer basket winding",
+    "Option2": "Double layer basket winding",
+    "Option3": "Involute coil winding",
+    "Option4": "Diamond coil winding",
+    "Answer": "Single layer basket winding",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/Electrician%2FSEM3%2FElectrician25%2F132.PNG?alt=media&token=c5a0f908-9b58-40cb-8159-13e1ca8c3c3a"
+  },
+  {
+    "Question": "Which formula is used to calculate percentage slip of an AC 3 phase induction motor?",
+    "Option1": "(𝑁𝑠−𝑁𝑟 / 𝑁𝑠) 𝑥 100",
+    "Option2": "(𝑁𝑟−𝑁𝑠 / 𝑁𝑠) 𝑥 100",
+    "Option3": "(𝑁𝑠−𝑁𝑟 / 𝑁𝑟) 𝑥 100",
+    "Option4": "(𝑁𝑟−𝑁𝑠 / 𝑁𝑟) 𝑥 100",
+    "Answer": "(𝑁𝑠−𝑁𝑟 / 𝑁𝑠) 𝑥 100",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which operation the control circuit is used?",
+    "Option1": "Remote control",
+    "Option2": "Inching",
+    "Option3": "Sequential control",
+    "Option4": "Forward and reverse",
+    "Answer": "Inching",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/Electrician%2FSEM3%2FElectrician25%2F134.PNG?alt=media&token=104b50da-b918-4a56-a752-d4d0c22aba7d"
+  },
+  {
+    "Question": "What is the phase displacement between windings in 3 phase motor?",
+    "Option1": "90°",
+    "Option2": "120°",
+    "Option3": "180°",
+    "Option4": "360°",
+    "Answer": "120°",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the name of AC coil winding?",
+    "Option1": "Half coil winding",
+    "Option2": "Whole coil winding",
+    "Option3": "Single layer winding",
+    "Option4": "Double layer winding",
+    "Answer": "Whole coil winding",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/Electrician%2FSEM3%2FElectrician25%2F137.PNG?alt=media&token=ebbdfddf-2241-42b1-8a50-7e81c22eab66"
+  },
+  {
+    "Question": "What is the name of the coil winding?",
+    "Option1": "Concentric coil winding",
+    "Option2": "Distributed coil winding",
+    "Option3": "Mesh shaped coil winding",
+    "Option4": "Diamond mesh shaped coil winding",
+    "Answer": "Diamond mesh shaped coil winding",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/Electrician%2FSEM3%2FElectrician25%2F138.PNG?alt=media&token=369805e5-8f33-4ca2-a01a-3a1cd0231af0"
+  }
+]

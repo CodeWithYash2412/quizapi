@@ -1,0 +1,227 @@
+[
+  {
+    "Question": "How Cells are named in MS Excel?",
+    "Option1": "Alphabetically",
+    "Option2": "Numerically",
+    "Option3": "Alphanumerically",
+    "Option4": "Special Character",
+    "Answer": "Alphanumerically",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the maximum limit of rows in MS Excel 2010?",
+    "Option1": 1084567,
+    "Option2": 1048567,
+    "Option3": 1048576,
+    "Option4": 1084576,
+    "Answer": 1048576,
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the maximum limit of column in MS Excel 2010?",
+    "Option1": 16384,
+    "Option2": 16438,
+    "Option3": 16843,
+    "Option4": 16348,
+    "Answer": 16384,
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which bar lies top of the window in Excel Screen?",
+    "Option1": "Status Bar",
+    "Option2": "Ruler",
+    "Option3": "Title Bar",
+    "Option4": "Scroll Bar",
+    "Answer": "Title Bar",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "How rows are numbered in MS Excel?",
+    "Option1": "Alphabetically",
+    "Option2": "Numerically",
+    "Option3": "Alphanumerically",
+    "Option4": "Special characters",
+    "Answer": "Numerically",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "How columns are named in MS Excel?",
+    "Option1": "Alphabetically",
+    "Option2": "Numerically",
+    "Option3": "Alphanumerically",
+    "Option4": "Special characters",
+    "Answer": "Alphabetically",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which tab is used to include pivot table, charts, hyperlinks to a spread sheet?",
+    "Option1": "Insert",
+    "Option2": "Page Layout",
+    "Option3": "Data",
+    "Option4": "Review",
+    "Answer": "Insert",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which tab in Excel is used when importing, querying, outlining and subtotaling the data placed into a worksheet’s data list?",
+    "Option1": "Formula",
+    "Option2": "Data",
+    "Option3": "Review",
+    "Option4": "Insert",
+    "Answer": "Data",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which tab in Excel is used for proofing, protecting, and marking up a spread sheet?",
+    "Option1": "Formula",
+    "Option2": "Data",
+    "Option3": "Review",
+    "Option4": "View",
+    "Answer": "Review",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What type of software is MS Office?",
+    "Option1": "Application Software",
+    "Option2": "Operating System",
+    "Option3": "Programming Language",
+    "Option4": "System Software",
+    "Answer": "Application Software",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which tool in Ms office is best for organizing data and making lists?",
+    "Option1": "Access",
+    "Option2": "Excel",
+    "Option3": "Power Point",
+    "Option4": "Word",
+    "Answer": "Excel",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the file extension of Excel 2010?",
+    "Option1": "xls",
+    "Option2": "xlsb",
+    "Option3": "xlsm",
+    "Option4": "xlsx",
+    "Answer": "xlsx",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "How does the single element in a worksheet known as in Excel?",
+    "Option1": "Cell",
+    "Option2": "Column",
+    "Option3": "Range",
+    "Option4": "Row",
+    "Answer": "Cell",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What do you mean by A3,B13:B20,C7 reference in Excel?",
+    "Option1": "Range",
+    "Option2": "Union",
+    "Option3": "Formula",
+    "Option4": "General",
+    "Answer": "Range",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which type of key should combine with ctrl key to create a macro key in Excel?",
+    "Option1": "Numeric",
+    "Option2": "Alphabetic",
+    "Option3": "Alphanumeric",
+    "Option4": "Special characters",
+    "Answer": "Alphabetic",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which bar is used to display the sheet information and insertion point location in MS Excel?",
+    "Option1": "Ruler",
+    "Option2": "Scroll Bar",
+    "Option3": "Status Bar",
+    "Option4": "Title Bar",
+    "Answer": "Status Bar",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which function key is used to open save as dialogue box in MS Excel?",
+    "Option1": "F2",
+    "Option2": "F5",
+    "Option3": "F7",
+    "Option4": "F12",
+    "Answer": "F12",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which tab is used to change the display of worksheet area and the data it contains?",
+    "Option1": "Page Layout",
+    "Option2": "Data",
+    "Option3": "Review",
+    "Option4": "View",
+    "Answer": "View",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which view in Excel displays the pages exactly as they appear when printed?",
+    "Option1": "Custom View",
+    "Option2": "Full screen View",
+    "Option3": "Page Break View",
+    "Option4": "Page Layout view",
+    "Answer": "Page Layout view",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which one of the following will starts with “=” sign in Excel 2010?",
+    "Option1": "Data",
+    "Option2": "Text",
+    "Option3": "Numbers",
+    "Option4": "Formulas",
+    "Answer": "Formulas",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which tab is used for creating, formatting and editing a spreadsheet?",
+    "Option1": "Data",
+    "Option2": "Home",
+    "Option3": "Insert",
+    "Option4": "Review",
+    "Answer": "Home",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which function is used to count the number of cells that contain numbers, in a range?",
+    "Option1": "Count ()",
+    "Option2": "Countif()",
+    "Option3": "Sum()",
+    "Option4": "Sumif()",
+    "Answer": "Count ()",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which function is used to add the values in a range?",
+    "Option1": "Count()",
+    "Option2": "Sum()",
+    "Option3": "ABS()",
+    "Option4": "Sumif()",
+    "Answer": "Sum()",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "which symbol is used to excute formulas in MS Excel?",
+    "Option1": "=",
+    "Option2": "‘",
+    "Option3": "#",
+    "Option4": "“",
+    "Answer": "=",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Where does the result displays when a formula is entered in Excel?",
+    "Option1": "Current Cell",
+    "Option2": "Next Cell",
+    "Option3": "Previous Cell",
+    "Option4": "Formula Bar",
+    "Answer": "Current Cell",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  }
+]

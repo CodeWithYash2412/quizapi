@@ -1,0 +1,227 @@
+[
+  {
+    "Question": "What is the value of (a⁵)⁷?",
+    "Option1": "a³⁵",
+    "Option2": "a1²",
+    "Option3": "a²1",
+    "Option4": "a²²",
+    "Answer": "a³⁵",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the value of 625°?",
+    "Option1": 0,
+    "Option2": 1,
+    "Option3": 525,
+    "Option4": 25,
+    "Answer": 1,
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the value of 1 / aˉ⁵ ?",
+    "Option1": "a⁵",
+    "Option2": "a⁻⁵",
+    "Option3": "5a",
+    "Option4": "-5a",
+    "Answer": "a⁵",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the value of 5x⁴ / 5x³ ?",
+    "Option1": "5x",
+    "Option2": "5x²",
+    "Option3": "X",
+    "Option4": "5x⁴/³",
+    "Answer": "X",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the subtracted value of 3x - 4x² +2y² from 4y²-2x + 8x²?",
+    "Option1": "2y²- 5x + 12x²",
+    "Option2": "2y²+ 5x -12x²",
+    "Option3": "2y² - 5x -12x²",
+    "Option4": "-2y²-5x + 12x²",
+    "Answer": "2y²- 5x + 12x²",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the value of adding (5x+2y), (4x - 7z) and (15z - 3y)?",
+    "Option1": "9x - y + 8z",
+    "Option2": "x - 9y + 8z",
+    "Option3": "x + 9y + 8z",
+    "Option4": "9x + y - 8z",
+    "Answer": "9x - y + 8z",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the value of 12x³y² / 4x²y?",
+    "Option1": "8xy",
+    "Option2": "16xy",
+    "Option3": "3xy",
+    "Option4": "-3xy",
+    "Answer": "3xy",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the value of x, if 3 (2x - 4) = -4x + 28 ?",
+    "Option1": 4,
+    "Option2": 8,
+    "Option3": 6,
+    "Option4": 12,
+    "Answer": 4,
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the value of x if (x + 2) / 2 = 19?",
+    "Option1": 38,
+    "Option2": 33,
+    "Option3": 35,
+    "Option4": 36,
+    "Answer": 36,
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the value of x if 11x+4=37?",
+    "Option1": 2,
+    "Option2": 3,
+    "Option3": 4,
+    "Option4": 5,
+    "Answer": 2,
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the value of 1/aᵐ?",
+    "Option1": "aᵐ",
+    "Option2": "a-m",
+    "Option3": "√aᵐ",
+    "Option4": "a1",
+    "Answer": "a-m",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the value of am/n?",
+    "Option1": "am-n",
+    "Option2": "am+n",
+    "Option3": "1 / aᵐ",
+    "Option4": "ⁿ√aᵐ",
+    "Answer": "ⁿ√aᵐ",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which is the expansion of a³ + b³?",
+    "Option1": "(a-b) (a² + b² - ab)",
+    "Option2": "(a+b) (a² + b² - ab)",
+    "Option3": "a³ + b³ + 3ab (a+b)",
+    "Option4": "a³ - b³ + 3ab (a-b)",
+    "Answer": "(a+b) (a² + b² - ab)",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the expansion of (a+b+c)²?",
+    "Option1": "a² + b²+ c²+ 2 (ab + bc + ca)",
+    "Option2": "a² + b² + c²- 2ab + 2bc + 2ca",
+    "Option3": "a² + b² + c² + 2ab - 2bc + 2ca",
+    "Option4": "a² - b² - c² + 2ab + 2bc + 2ca",
+    "Answer": "a² + b²+ c²+ 2 (ab + bc + ca)",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which is expanded form of a³- b³?",
+    "Option1": "(a+b) (a² - b²- ab)",
+    "Option2": "(a-b) (a² + b² + ab)",
+    "Option3": "(a-b) (a² - b² - ab)",
+    "Option4": "(a-b) (a² - b²+ ab)",
+    "Answer": "(a-b) (a² + b² + ab)",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the value of (6³) / ((-3)³) ?",
+    "Option1": 8,
+    "Option2": -8,
+    "Option3": 27,
+    "Option4": -27,
+    "Answer": -8,
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the value of x²-y² if (x+y) = 9, (x - y) = 4?",
+    "Option1": 13,
+    "Option2": 65,
+    "Option3": 36,
+    "Option4": 46,
+    "Answer": 36,
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the value of ʹXʹ if x - y = 6 and x + y = 8?",
+    "Option1": 5,
+    "Option2": 6,
+    "Option3": 7,
+    "Option4": 14,
+    "Answer": 7,
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the value of a²+b² if a+b=9 and ab = 20?",
+    "Option1": 121,
+    "Option2": -121,
+    "Option3": 41,
+    "Option4": -41,
+    "Answer": 41,
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the value of ab if (a+b)²=36 (a-b)²=24?",
+    "Option1": 6,
+    "Option2": 4,
+    "Option3": 3,
+    "Option4": 2,
+    "Answer": 3,
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the value of x³+3y²x² if x=3, y=2?",
+    "Option1": 135,
+    "Option2": 81,
+    "Option3": 54,
+    "Option4": 61,
+    "Answer": 135,
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What are the three consecutive numbers if there sum is 42?",
+    "Option1": "11,12,13",
+    "Option2": "12,13,14",
+    "Option3": "13,14,15",
+    "Option4": "14,15,16",
+    "Answer": "13,14,15",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which is elastic material?",
+    "Option1": "Nylon",
+    "Option2": "Polystyrenes",
+    "Option3": "Celluloid",
+    "Option4": "Polycarbonates",
+    "Answer": "Nylon",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which is thermo plastic material?",
+    "Option1": "Butyl rubber",
+    "Option2": "Nylon",
+    "Option3": "Neoprene",
+    "Option4": "Vinyl polymers",
+    "Answer": "Vinyl polymers",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the maximum percentage of stretch of its original length is allowable for elastic materials?",
+    "Option1": "100%",
+    "Option2": "200%",
+    "Option3": "300%",
+    "Option4": "400%",
+    "Answer": "300%",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  }
+]

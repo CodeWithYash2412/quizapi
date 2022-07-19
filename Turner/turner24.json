@@ -1,0 +1,227 @@
+[
+  {
+    "Question": "What is the name of part marked as ‘x’?",
+    "Option1": "Counter weight",
+    "Option2": "Face plate",
+    "Option3": "Work piece",
+    "Option4": "Angle plate",
+    "Answer": "Angle plate",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/sem3%2075to100%2F83.PNG?alt=media&token=e914b979-8e28-4f7e-85cf-41cb09a62443"
+  },
+  {
+    "Question": "What is the name of device marked as ‘x’?",
+    "Option1": "Cat head",
+    "Option2": "Roller steady",
+    "Option3": "Fixed steady",
+    "Option4": "Follower steady",
+    "Answer": "Cat head",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/sem3%2075to100%2F84.PNG?alt=media&token=460e4d94-cba8-4698-a16d-cb750045532a"
+  },
+  {
+    "Question": "Which lathe accessory is used to clamp the fixture?",
+    "Option1": "3 jaw chuck",
+    "Option2": "4 jaw chuck",
+    "Option3": "Face plate",
+    "Option4": "Collet chuck",
+    "Answer": "Face plate",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the part marked as ‘X’?",
+    "Option1": "Angle plate",
+    "Option2": "Face plate",
+    "Option3": "Counter weight",
+    "Option4": "Work piece",
+    "Answer": "Counter weight",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/sem3%2075to100%2F86.PNG?alt=media&token=75cd84aa-27d8-4287-87e5-8c85adfb6bdc"
+  },
+  {
+    "Question": "Which lathe part is used to mount the dial indicator for truing the bore?",
+    "Option1": "Tail stock",
+    "Option2": "Cross side",
+    "Option3": "Tool post",
+    "Option4": "Lathe bed",
+    "Answer": "Tool post",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the name of device marked as ‘X’?",
+    "Option1": "Lathe plate",
+    "Option2": "Four jaw chuck",
+    "Option3": "Faceplate",
+    "Option4": "Driving plate",
+    "Answer": "Faceplate",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/sem3%2075to100%2F88.PNG?alt=media&token=244f676d-8b1b-4560-a1a6-5be90c80ef57"
+  },
+  {
+    "Question": "Which grade of angle plate are more accuracy and used for tool room work?",
+    "Option1": "Grade 1",
+    "Option2": "Grade 2",
+    "Option3": "Grade 3",
+    "Option4": "Grade 4",
+    "Answer": "Grade 1",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which angle plate is used to support jobs in different angles?",
+    "Option1": "Box type",
+    "Option2": "Plain type",
+    "Option3": "Slotted type",
+    "Option4": "Adjustable type",
+    "Answer": "Adjustable type",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "How may roughness grade number are used?",
+    "Option1": "N1 to N12",
+    "Option2": "N1 to N25",
+    "Option3": "N1 to N20",
+    "Option4": "N1 to N30",
+    "Answer": "N1 to N12",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the name of precision finishing operation carried out by using fine abrasive materials?",
+    "Option1": "Grinding",
+    "Option2": "Lapping",
+    "Option3": "Filing",
+    "Option4": "Polishing",
+    "Answer": "Lapping",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Why lapping tools are provided groove?",
+    "Option1": "Expansion",
+    "Option2": "For accommodate lapping compound",
+    "Option3": "Clearance",
+    "Option4": "Prevent damage to tool",
+    "Answer": "For accommodate lapping compound",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is lapping?",
+    "Option1": "Precision finishing operation",
+    "Option2": "Filing operation",
+    "Option3": "Grinding operation",
+    "Option4": "Chiseling operation",
+    "Answer": "Precision finishing operation",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which lapping material used for easy charging and rapid cutting?",
+    "Option1": "Cast iron",
+    "Option2": "Copper and brass",
+    "Option3": "Close grained iron",
+    "Option4": "White cast iron",
+    "Answer": "Copper and brass",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which lap material inexpensive and can be expanded if worn out?",
+    "Option1": "Brass",
+    "Option2": "Cast iron",
+    "Option3": "Lead",
+    "Option4": "Bronze",
+    "Answer": "Lead",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the purpose of lapping vehicles?",
+    "Option1": "Regulate cutting action and lubricate surface",
+    "Option2": "Smooth effective operation",
+    "Option3": "Improves dimensional accuracy",
+    "Option4": "Improves cutting ability",
+    "Answer": "Regulate cutting action and lubricate surface",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "How does periodic inspection of the machines and equipments is carried out in preventive maintenance?",
+    "Option1": "As per checklist",
+    "Option2": "As per the knowledge of trainee",
+    "Option3": "As per the knowledge of instructor",
+    "Option4": "As per the knowledge of manager",
+    "Answer": "As per checklist",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the purpose of preventive maintenance?",
+    "Option1": "Maintain machine in good working order",
+    "Option2": "Increase the cost of inspection",
+    "Option3": "Reduce the vibration of machine",
+    "Option4": "To keep the maintenance records",
+    "Answer": "Maintain machine in good working order",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "How can the unexpected breakdowns of machines reduced?",
+    "Option1": "By preventive maintenance",
+    "Option2": "By break down maintenance",
+    "Option3": "By productive maintenance",
+    "Option4": "By quality maintenance",
+    "Answer": "By preventive maintenance",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the advantage of preventive maintenance system?",
+    "Option1": "Improves quantity and quality of product",
+    "Option2": "Reduce the manpower for the maintenance",
+    "Option3": "Reduce the cost of maintenance",
+    "Option4": "Reduce the life of machine",
+    "Answer": "Improves quantity and quality of product",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the advantage of maintenance records?",
+    "Option1": "Reduce the clerical work",
+    "Option2": "Monitor the frequent breakdown",
+    "Option3": "Increase the cost of production",
+    "Option4": "Zero breakdown maintenence",
+    "Answer": "Monitor the frequent breakdown",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the use of maintenance records?",
+    "Option1": "To analyse the purchase",
+    "Option2": "To analyse the periodic inspection",
+    "Option3": "To analyse the cause fault and rectification",
+    "Option4": "To analyse the function maintenance department",
+    "Answer": "To analyse the cause fault and rectification",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which device is used as a reference surface for marking?",
+    "Option1": "Plate angle",
+    "Option2": "Marking table",
+    "Option3": "Anvil surface",
+    "Option4": "Lathe bed",
+    "Answer": "Marking table",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which type of instrument is generally used to check eccentricity?",
+    "Option1": "Dial test indicator",
+    "Option2": "Micrometer",
+    "Option3": "Surface gauge",
+    "Option4": "Vernier calipers",
+    "Answer": "Dial test indicator",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the purpose of part marked as ‘X’ in the angle plate?",
+    "Option1": "Holding the job",
+    "Option2": "Increase the weight",
+    "Option3": "For good appearance",
+    "Option4": "Avoid distortion",
+    "Answer": "Avoid distortion",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which type of angle plate is used to hold work at an angle?",
+    "Option1": "Solid",
+    "Option2": "Slotted",
+    "Option3": "Swivel",
+    "Option4": "Box",
+    "Answer": "Swivel",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  }
+]

@@ -1,0 +1,227 @@
+[
+  {
+    "Question": "Which one of the advantage of mass production?",
+    "Option1": "Special purpose machinery are necessary",
+    "Option2": "Jigs and fixture are needed",
+    "Option3": "Gauges are to be used",
+    "Option4": "Time for manufacturing of components is reduced",
+    "Answer": "Time for manufacturing of components is reduced",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the type of fit if minimum size of the shaft is larger than maximum size of hole?",
+    "Option1": "Interference",
+    "Option2": "Clearance",
+    "Option3": "Trasition",
+    "Option4": "Running",
+    "Answer": "Interference",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the type of fit if minimum size of hole is larger than maximum size of shaft?",
+    "Option1": "Clearance",
+    "Option2": "Interferance",
+    "Option3": "Transition",
+    "Option4": "Force",
+    "Answer": "Clearance",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Calculate maximum clearance of fit Holeϕ^+21/+0 Shaftϕ^-7/-20",
+    "Option1": 0,
+    "Option2": 0.007,
+    "Option3": 0.041,
+    "Option4": 0.022,
+    "Answer": 0.041,
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Calculate type of fit ϕ Hole 25^+21/+0 Shaftϕ25^-7/-20",
+    "Option1": "Clearance fit",
+    "Option2": "Transition fit",
+    "Option3": "Interference fit",
+    "Option4": "Shrink fit",
+    "Answer": "Clearance fit",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Calculate type of Fit Holeϕ 25^+35/+0 Shaftϕ25^+35/+22",
+    "Option1": "Transition fit",
+    "Option2": "Clearance fit",
+    "Option3": "Interference fit",
+    "Option4": "Running fit",
+    "Answer": "Transition fit",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is type of fit75 H8/j6 Holeϕ75^+46/+0 Shaftϕ75^+18/-12",
+    "Option1": "Transition fit",
+    "Option2": "Clearance fit",
+    "Option3": "Interference fit",
+    "Option4": "Force fit",
+    "Answer": "Transition fit",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the name of the pattern of work surface caused by the movement of cutting tool?",
+    "Option1": "Surface texture",
+    "Option2": "Roughness",
+    "Option3": "Roughness facing",
+    "Option4": "Waviness",
+    "Answer": "Surface texture",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which of the following abrasive is preferred for lapping soft steels and non-ferrous metal?",
+    "Option1": "Silicon carbide",
+    "Option2": "Natural corundum",
+    "Option3": "Aluminium oxide",
+    "Option4": "Boron carbide",
+    "Answer": "Aluminium oxide",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which is used to prevent concentration of abrasives on lapping surface?",
+    "Option1": "Vehicle",
+    "Option2": "Holder",
+    "Option3": "Absorber",
+    "Option4": "Retainer",
+    "Answer": "Vehicle",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the expansion of CCW?",
+    "Option1": "Contrer Clock Wise",
+    "Option2": "Center Clock Wise",
+    "Option3": "Counter Clock Watch",
+    "Option4": "Center Clock Watch",
+    "Answer": "Contrer Clock Wise",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the expansion of CPU?",
+    "Option1": "Central Placed Unit",
+    "Option2": "Central Positioned Unit",
+    "Option3": "Central Planned Unit",
+    "Option4": "Central Processing Unit",
+    "Answer": "Central Processing Unit",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is a program in CNC machine?",
+    "Option1": "A systematic arrangement of tools",
+    "Option2": "A systematic arrangement of machine",
+    "Option3": "A systematic arrangement of instruction",
+    "Option4": "A systematic arrangement of present tools",
+    "Answer": "A systematic arrangement of instruction",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the meaning of RPM?",
+    "Option1": "Rate Per Minute",
+    "Option2": "Rate Per Machine",
+    "Option3": "Revolution Per Minute",
+    "Option4": "Rate Per Program",
+    "Answer": "Revolution Per Minute",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which is the symbol for flatness?",
+    "Option1": "__",
+    "Option2": "",
+    "Option3": "O",
+    "Option4": "None Of Above",
+    "Answer": "",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which is the symbol for profile of line?",
+    "Option1": "/O/",
+    "Option2": "ᴒ",
+    "Option3": "ם",
+    "Option4": "___",
+    "Answer": "ᴒ",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is characteristic indicated by symbol?",
+    "Option1": "Concentricity",
+    "Option2": "Position",
+    "Option3": "Symmetry",
+    "Option4": "Roundness",
+    "Answer": "Position",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/sem4%20151to175%2F204.PNG?alt=media&token=94a2d51e-28f8-40d3-9c1d-d182109ddb6c"
+  },
+  {
+    "Question": "What geometrical charteristic indicated by symbol ?",
+    "Option1": "Runout",
+    "Option2": "Circular runout",
+    "Option3": "Total runout",
+    "Option4": "Partial runout",
+    "Answer": "Total runout",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/sem4%20151to175%2F205.PNG?alt=media&token=2fac55d1-b48b-4f12-b5c3-ba403e7ed147"
+  },
+  {
+    "Question": "What characteristics geometrical tolerance the symbol indicate?",
+    "Option1": "Concentricity",
+    "Option2": "Symmetry",
+    "Option3": "Position",
+    "Option4": "Perpendicularity",
+    "Answer": "Concentricity",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/sem4%20151to175%2F206.PNG?alt=media&token=51d40297-345e-44b7-a415-b1a95989121f"
+  },
+  {
+    "Question": "Where the turret head in turret lathe is generally mounted?",
+    "Option1": "Slide",
+    "Option2": "Saddle",
+    "Option3": "Ram",
+    "Option4": "Cross slide",
+    "Answer": "Saddle",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the name of device?",
+    "Option1": "Radial cam",
+    "Option2": "Plate cam",
+    "Option3": "Barrel cam",
+    "Option4": "Cylindrical cam",
+    "Answer": "Radial cam",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/sem4%20151to175%2F208.PNG?alt=media&token=40279359-0b3b-42a1-b5dc-1c50c11f4506"
+  },
+  {
+    "Question": "What is the name of part marked as 'x'?",
+    "Option1": "Pivoted Beam",
+    "Option2": "Milling cutter",
+    "Option3": "Pivot",
+    "Option4": "Cam",
+    "Answer": "Pivoted Beam",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/sem4%20151to175%2F209.PNG?alt=media&token=c09d1703-2a0e-43c6-932f-b3e0bc997bb6"
+  },
+  {
+    "Question": "What is the name of part marked as 'x'?",
+    "Option1": "Lead screw",
+    "Option2": "Feed rod",
+    "Option3": "Carriage",
+    "Option4": "Stop",
+    "Answer": "Stop",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/sem4%20151to175%2F210.PNG?alt=media&token=77748272-69a5-4f4a-ae1f-cf9dc2e8b247"
+  },
+  {
+    "Question": "What is the name of part marked as 'x'?",
+    "Option1": "Cross slide",
+    "Option2": "Stops for the front tool post",
+    "Option3": "Stops for rear tool post",
+    "Option4": "Fixed bracket",
+    "Answer": "Stops for the front tool post",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/sem4%20151to175%2F211.PNG?alt=media&token=1b627639-c5dc-436e-88a0-c93c4bb9aa2b"
+  },
+  {
+    "Question": "What is the type of collet?",
+    "Option1": "Dead length type",
+    "Option2": "Draw back type",
+    "Option3": "Push out type",
+    "Option4": "Master collet with interchangeable liners",
+    "Answer": "Draw back type",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/sem4%20151to175%2F212.PNG?alt=media&token=5fcb69d8-affd-40db-9763-410ebbab9d19"
+  }
+]

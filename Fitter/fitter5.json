@@ -1,0 +1,227 @@
+[
+  {
+    "Question": "What is the reason for scratches produced on filed surface?",
+    "Option1": "Pinning",
+    "Option2": "Glazing",
+    "Option3": "File bite",
+    "Option4": "Warping",
+    "Answer": "Pinning",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the name of chisel?",
+    "Option1": "Flat chisel",
+    "Option2": "Web chisel",
+    "Option3": "Cross cut chisel",
+    "Option4": "Diamond point chisel",
+    "Answer": "Web chisel",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/FITTER%2FFITTER%20SEM1%2F101TO125%2Ff102.PNG?alt=media&token=b39d27d2-e4a7-4b4a-8609-b925c7a6beff"
+  },
+  {
+    "Question": "Why slight convexity is given on the face of hammer?",
+    "Option1": "To make effective striking",
+    "Option2": "To avoid digging of the edge",
+    "Option3": "To allow even load on striking",
+    "Option4": "To prevent damage to work surface",
+    "Answer": "To avoid digging of the edge",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the name of hammer?",
+    "Option1": "Mallet hammer",
+    "Option2": "Ball pein hammer",
+    "Option3": "Cross pein hammer",
+    "Option4": "Straight pein hammer",
+    "Answer": "Cross pein hammer",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/FITTER%2FFITTER%20SEM1%2F101TO125%2Ff104.PNG?alt=media&token=0cc3deb7-53d7-4930-a9ce-f45c54c2b2ed"
+  },
+  {
+    "Question": "What is the name of angle between the axis of chisel and job surface while chipping?",
+    "Option1": "Rake angle",
+    "Option2": "Point angle",
+    "Option3": "Clearance angle",
+    "Option4": "Angle of inclination",
+    "Answer": "Angle of inclination",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the property of metal that permits no permanent distortion before breaking?",
+    "Option1": "Tenacity",
+    "Option2": "Hardness",
+    "Option3": "Brittleness",
+    "Option4": "Toughness",
+    "Answer": "Brittleness",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Name the part marked as x in depth micrometre.",
+    "Option1": "Cap",
+    "Option2": "Lock",
+    "Option3": "Stock",
+    "Option4": "Thimble",
+    "Answer": "Lock",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/FITTER%2FFITTER%20SEM1%2F101TO125%2Ff107.PNG?alt=media&token=d42c5f70-8c1d-4c6a-a16c-15d3c6a0f4af"
+  },
+  {
+    "Question": "Why the hand taps are chamfered at the lead?",
+    "Option1": "Aligning",
+    "Option2": "Finishing",
+    "Option3": "Strengthening",
+    "Option4": "Gripping",
+    "Answer": "Aligning",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the name of drilling machine?",
+    "Option1": "Pillar drilling machine",
+    "Option2": "Gang drilling machine",
+    "Option3": "Bench drilling machine",
+    "Option4": "Radial drilling machine",
+    "Answer": "Pillar drilling machine",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/FITTER%2FFITTER%20SEM1%2F101TO125%2Ff109.PNG?alt=media&token=d5b4940c-bed1-4762-87a1-f8a65014f662"
+  },
+  {
+    "Question": "What is the reading of an outside micrometer (British)?",
+    "Option1": 0.309,
+    "Option2": 0.329,
+    "Option3": 0.359,
+    "Option4": 0.36,
+    "Answer": 0.359,
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/FITTER%2FFITTER%20SEM1%2F101TO125%2Ff110.PNG?alt=media&token=6793a177-9a83-4c36-a9bd-4fdfe090abd3"
+  },
+  {
+    "Question": "What is the accuracy of Vernier bevel protractor?",
+    "Option1": "1°",
+    "Option2": "5°",
+    "Option3": "5’",
+    "Option4": "5 “",
+    "Answer": "5’",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the reading of vernier caliper?",
+    "Option1": "30.20mm",
+    "Option2": "30.40mm",
+    "Option3": "35.20mm",
+    "Option4": "35.50mm",
+    "Answer": "35.50mm",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/FITTER%2FFITTER%20SEM1%2F101TO125%2Ff112.PNG?alt=media&token=3c9864dd-d221-4892-b608-ff2d746065f5"
+  },
+  {
+    "Question": "Why surface plates are made of stress relieved good quality cast iron?",
+    "Option1": "To prevent corrosion",
+    "Option2": "To prevent breaking",
+    "Option3": "To prevent distortion",
+    "Option4": "To prevent thermal expansion",
+    "Answer": "To prevent distortion",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the main advantage of adjustable parallel block?",
+    "Option1": "To set different angle",
+    "Option2": "To set different depth",
+    "Option3": "To set different length",
+    "Option4": "To set different height",
+    "Answer": "To set different height",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which part of universal surface gauge is used to set scriber at required position exactly?",
+    "Option1": "Snug",
+    "Option2": "Guide pin",
+    "Option3": "Rocker arm",
+    "Option4": "Fine adjustment screw",
+    "Answer": "Fine adjustment screw",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Convert one metre into millimetre.",
+    "Option1": "10 mm",
+    "Option2": "100 mm",
+    "Option3": "1000 mm",
+    "Option4": "10000 mm",
+    "Answer": "1000 mm",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the name of V block?",
+    "Option1": "V grooved V block",
+    "Option2": "Single level single groove V block",
+    "Option3": "Double level single groove V block",
+    "Option4": "Single level double groove V block",
+    "Answer": "Single level single groove V block",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/FITTER%2FFITTER%20SEM1%2F101TO125%2Ff117.PNG?alt=media&token=963c25cf-6234-44e3-aa31-508d6dad93b6"
+  },
+  {
+    "Question": "What is the name of the part marked as x in combination set?",
+    "Option1": "Rule",
+    "Option2": "Scriber",
+    "Option3": "Clamp nut",
+    "Option4": "Spirit level",
+    "Answer": "Scriber",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/FITTER%2FFITTER%20SEM1%2F101TO125%2Ff118.PNG?alt=media&token=75156068-48c3-489d-a7a1-ee48408e6318"
+  },
+  {
+    "Question": "Which caliper is used to find the centre of\nround bars?",
+    "Option1": "Inside caliper",
+    "Option2": "Jenny caliper",
+    "Option3": "Vernier caliper",
+    "Option4": "Outside caliper",
+    "Answer": "Jenny caliper",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the name of angle marked a in\nchisel?",
+    "Option1": "Rake angle",
+    "Option2": "Wedge angle",
+    "Option3": "Cutting angle",
+    "Option4": "Clearance angle",
+    "Answer": "Clearance angle",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/FITTER%2FFITTER%20SEM1%2F101TO125%2Ff120.PNG?alt=media&token=94780ca4-ffa7-46f3-a7f3-bebe1110952b"
+  },
+  {
+    "Question": "Which chisel is used for cutting curved\ngrooves?",
+    "Option1": "Flat chisel",
+    "Option2": "Web chisel",
+    "Option3": "Cross cut chisel",
+    "Option4": "Half round nose chisel",
+    "Answer": "Half round nose chisel",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the weight of hammer used for\nmarking purpose?",
+    "Option1": "200 grams",
+    "Option2": "250 grams",
+    "Option3": "300 grams",
+    "Option4": "450 grams",
+    "Answer": "250 grams",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the effect of improper method of\ndiagonal filing?",
+    "Option1": "Uneven surface finish",
+    "Option2": "Scratches on the surface",
+    "Option3": "Convexity on the surface",
+    "Option4": "Improper finish on surface",
+    "Answer": "Uneven surface finish",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which chisel is used to remove excess\nmetal from welded joint and castings?",
+    "Option1": "Flat chisel",
+    "Option2": "Web chisel",
+    "Option3": "Cross cut chisel",
+    "Option4": "Half round chisel",
+    "Answer": "Flat chisel",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the name of file?",
+    "Option1": "Rotary file",
+    "Option2": "Tinkers file",
+    "Option3": "Barrette file",
+    "Option4": "Crossing file",
+    "Answer": "Rotary file",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/FITTER%2FFITTER%20SEM1%2F101TO125%2Ff125.PNG?alt=media&token=9bbf8523-42dc-4a9f-899e-01cede953ea7"
+  }
+]

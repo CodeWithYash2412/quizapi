@@ -1,0 +1,227 @@
+[
+  {
+    "Question": "What is the cause of compressor knocking sound in chiller AC plant?",
+    "Option1": "High oil level",
+    "Option2": "Liquid refrigerant entry",
+    "Option3": "Shortage of refrigerant",
+    "Option4": "Air entered into system",
+    "Answer": "Liquid refrigerant entry",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which causes the filter drier to become cold in chiller AC plant?",
+    "Option1": "Over charge",
+    "Option2": "Under charge",
+    "Option3": "High condensing pressure",
+    "Option4": "Partial blocking of filter drier",
+    "Answer": "Partial blocking of filter drier",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the reason for low discharge line temperature in chiller AC?",
+    "Option1": "Excess refrigerant",
+    "Option2": "High evaporator load",
+    "Option3": "Insufficient refrigerant",
+    "Option4": "Condenser water pump not working",
+    "Answer": "Insufficient refrigerant",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the cause of high condensing pressure in water cooled condenser",
+    "Option1": "Lack of lubrication",
+    "Option2": "Damage condenser fan",
+    "Option3": "Low load on evaporator",
+    "Option4": "Defective cooling water pump",
+    "Answer": "Defective cooling water pump",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the reason for high condensing pressure in air cooled condensers?",
+    "Option1": "Dirt on fins",
+    "Option2": "Faulty water pump",
+    "Option3": "High speed of fan motor",
+    "Option4": "Low ambient temperature",
+    "Answer": "Dirt on fins",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the minimum cross sectional area of the ducts used with bus AC?",
+    "Option1": "400 cm2",
+    "Option2": "500 cm2",
+    "Option3": "600 cm2",
+    "Option4": "700 cm2",
+    "Answer": "600 cm2",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "How many water drain lines are provided for each evaporator in a bus AC?",
+    "Option1": "One",
+    "Option2": "Two",
+    "Option3": "Three",
+    "Option4": "Four",
+    "Answer": "Two",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the name of part marked x in the vacuum pump?",
+    "Option1": "Rotor",
+    "Option2": "Housing",
+    "Option3": "Sliding vane",
+    "Option4": "Discharge valve",
+    "Answer": "Sliding vane",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/MRAC%2FSEM4%2F226%20TO%20250%2F233.PNG?alt=media&token=5f0e8566-0d28-4947-bfd8-e94b623acbf2"
+  },
+  {
+    "Question": "What is the equivalvent of 760mm of Hg in torr?",
+    "Option1": "7.6 Torr",
+    "Option2": "76 Torr",
+    "Option3": "760 Torr",
+    "Option4": "7600 Torr",
+    "Answer": "760 Torr",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the comfortable range of relative humidity (RH) for human beings?",
+    "Option1": "30 ± 5%",
+    "Option2": "40 ± 5%",
+    "Option3": "50 ± 5%",
+    "Option4": "60 ± 5%",
+    "Answer": "50 ± 5%",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which type of filter drier is used with HFC 134a car AC?",
+    "Option1": "XH – 1",
+    "Option2": "XH – 3",
+    "Option3": "XH – 5",
+    "Option4": "XH – 7",
+    "Answer": "XH – 7",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the name of component marked X as in recycling machine?",
+    "Option1": "Pressure relief valve",
+    "Option2": "Schrader valve",
+    "Option3": "Oil return valve",
+    "Option4": "Piercing valve",
+    "Answer": "Oil return valve",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/MRAC%2FSEM4%2F226%20TO%20250%2F237.PNG?alt=media&token=15fee244-1215-4548-8f5a-00b0f8830c51"
+  },
+  {
+    "Question": "What is the human body temperature in °C?",
+    "Option1": "17°C",
+    "Option2": "27°C",
+    "Option3": "37°C",
+    "Option4": "47°C",
+    "Answer": "37°C",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which process of vapour compression system is represented along C→D in pH chart?",
+    "Option1": "Expansion",
+    "Option2": "Evaporation",
+    "Option3": "Compression",
+    "Option4": "Condensation",
+    "Answer": "Expansion",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/MRAC%2FSEM4%2F226%20TO%20250%2F239.PNG?alt=media&token=16d1974c-30ef-4fdd-b5ff-b04a2a9571d2"
+  },
+  {
+    "Question": "What is the temperature of air at the supply grille in car AC system at an ambient 35°C?",
+    "Option1": "10.2°C",
+    "Option2": "11.3°C",
+    "Option3": "12.4°C",
+    "Option4": "13.5°C",
+    "Answer": "12.4°C",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is low side pressure range in HFC134a car AC at an ambient range of 32°C to 35°C?",
+    "Option1": "1 kg/cm2 - 3 kg/cm2",
+    "Option2": "2 kg/cm2 - 4 kg/cm2",
+    "Option3": "3 kg/cm2 - 5 kg/cm2",
+    "Option4": "4 kg/cm2 - 6 kg/cm2",
+    "Answer": "1 kg/cm2 - 3 kg/cm2",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the name of curve marked as x in pressure - enthalpy chart of a refrigerant?",
+    "Option1": "Saturated liquid",
+    "Option2": "Saturated vapour",
+    "Option3": "Critical temperature",
+    "Option4": "Liquid vapour mixture",
+    "Answer": "Saturated liquid",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/MRAC%2FSEM4%2F226%20TO%20250%2F242.PNG?alt=media&token=3a762a20-0950-46a4-bd29-192367e00dd6"
+  },
+  {
+    "Question": "What is the boiling point of HFC-134a refrigerant at atmospheric pressure?",
+    "Option1": "-26.1°C",
+    "Option2": "-25.6°C",
+    "Option3": "-24.5°C",
+    "Option4": "-23.6°C",
+    "Answer": "-26.1°C",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the name of device used for gas charging in car AC system?",
+    "Option1": "Schrader valve connectors",
+    "Option2": "Non-return valve connectors",
+    "Option3": "CFC - 12 service port assembly",
+    "Option4": "HFC - 134a service port couplings",
+    "Answer": "HFC - 134a service port couplings",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/MRAC%2FSEM4%2F226%20TO%20250%2F244.PNG?alt=media&token=de89325c-71b5-492d-9438-bc7315be9c77"
+  },
+  {
+    "Question": "What is the name of component?",
+    "Option1": "Schrader valve",
+    "Option2": "Suction service valve",
+    "Option3": "Receiver shut of valve",
+    "Option4": "Discharge service valve",
+    "Answer": "Schrader valve",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/MRAC%2FSEM4%2F226%20TO%20250%2F245.PNG?alt=media&token=d6da3c32-32d2-47ab-9b0e-144a2f2af73b"
+  },
+  {
+    "Question": "What is the name of part marked as x in receiver-drier used in automobile air-conditioner?",
+    "Option1": "Desiccant",
+    "Option2": "Filter pads",
+    "Option3": "Pick-up tube",
+    "Option4": "Liquid refrigerant",
+    "Answer": "Desiccant",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/MRAC%2FSEM4%2F226%20TO%20250%2F246.PNG?alt=media&token=a641ee47-fd74-43ee-bf26-f66e7a513c0d"
+  },
+  {
+    "Question": "Which lubricant oil is used with R-134a car AC system?",
+    "Option1": "Mineral oil",
+    "Option2": "Low viscosity oil",
+    "Option3": "High viscosity oil",
+    "Option4": "Poly alkylene glycol",
+    "Answer": "Poly alkylene glycol",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Where the sensor bulb of Thermostatic Expansion Valve is clamped?",
+    "Option1": "Liquid Line",
+    "Option2": "Suction Line",
+    "Option3": "Discharge Line",
+    "Option4": "Inside the compressor",
+    "Answer": "Suction Line",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which type of short cycling is avoided by the design of blower housing in car AC?",
+    "Option1": "Oil",
+    "Option2": "Air",
+    "Option3": "Moisture",
+    "Option4": "Lubricant",
+    "Answer": "Air",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which operating condition opens the HPC control switch in car AC?",
+    "Option1": "If evaporator pressure exceeds safe limit",
+    "Option2": "If there is continuous rain outside",
+    "Option3": "If condenser pressure exceeds safe limit",
+    "Option4": "If there is continuous air velocity",
+    "Answer": "If condenser pressure exceeds safe limit",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  }
+]

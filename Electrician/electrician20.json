@@ -1,0 +1,227 @@
+[
+  {
+    "Question": "What is the function of buchholz relay in power transformer?",
+    "Option1": "Protection from high temperature",
+    "Option2": "Protection from moisture entering in oil",
+    "Option3": "Protection from pressure loading in tank",
+    "Option4": "Protection from both overloading and short circuit",
+    "Answer": "Protection from both overloading and short circuit",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Why primary of potential transformer is wound with thin wire and large number of turns?",
+    "Option1": "To offer high inductance",
+    "Option2": "To obtain required voltage ratio",
+    "Option3": "To regulate the primary current",
+    "Option4": "To stabilise input and output voltage",
+    "Answer": "To offer high inductance",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Why distribution transformers are normally connected as primary in delta and secondary in star?",
+    "Option1": "To avoid over loading",
+    "Option2": "To maintain constant voltage",
+    "Option3": "To reduce transformer losses",
+    "Option4": "To easy distribution of 3 phase 4 wire system",
+    "Answer": "To easy distribution of 3 phase 4 wire system",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which type of emf is induced in an ideal two winding transformer?",
+    "Option1": "Self induced emf",
+    "Option2": "Mutually induced emf",
+    "Option3": "Statically induced emf",
+    "Option4": "Dynamically induced emf",
+    "Answer": "Mutually induced emf",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "How to determine copper loss in a transformer?",
+    "Option1": "Ratio test",
+    "Option2": "Impulse test",
+    "Option3": "Short circuit test",
+    "Option4": "Open circuit test",
+    "Answer": "Short circuit test",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Why ferrite core is used in radio receivers?",
+    "Option1": "To reduce the constant losses",
+    "Option2": "To reduce electric interference",
+    "Option3": "To increase the quality of sound",
+    "Option4": "To increase the efficiency of receivers",
+    "Answer": "To reduce the constant losses",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the advantage of stepped core arrangement in larger transformers?",
+    "Option1": "Minimizes copper use",
+    "Option2": "Reduces hysteresis loss",
+    "Option3": "Reduces eddy current loss",
+    "Option4": "Reduces the space for core",
+    "Answer": "Minimizes copper use",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which material is used in breather to prevent moisture entering in the transformer oil?",
+    "Option1": "Silica gel",
+    "Option2": "Sodium chloride",
+    "Option3": "Ammonium chloride",
+    "Option4": "Charcoal and salt mixture",
+    "Answer": "Silica gel",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the disadvantage of auto transformer?",
+    "Option1": "More losses",
+    "Option2": "Heavier in weight",
+    "Option3": "Poor voltage regulation",
+    "Option4": "Cannot isolate the secondary winding",
+    "Answer": "Cannot isolate the secondary winding",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which cooling method is used in pole mounting distribution transformer?",
+    "Option1": "Air natural",
+    "Option2": "Oil natural air blast",
+    "Option3": "Oil forced air forced",
+    "Option4": "Oil natural air natural",
+    "Answer": "Oil natural air natural",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the composition of steel and silicon steel in transformer core?",
+    "Option1": "Steel 97% and silicon 3%",
+    "Option2": "Steel 95% and silicon 5%",
+    "Option3": "Steel 93% and silicon 7%",
+    "Option4": "Steel 90% and silicon 10%",
+    "Answer": "Steel 93% and silicon 7%",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the purpose of tap changing in power transformers?",
+    "Option1": "Maintain primary voltage constant",
+    "Option2": "Change voltage ratio in distribution",
+    "Option3": "Maintain secondary voltage constant",
+    "Option4": "Load the transformer for maximum efficiency",
+    "Answer": "Change voltage ratio in distribution",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the name of the part marked as ‘X’ in DC generator?",
+    "Option1": "Armature core",
+    "Option2": "Brush",
+    "Option3": "Commutator raiser",
+    "Option4": "Commutator segment",
+    "Answer": "Commutator raiser",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/Electrician%2FSEM3%2FElectrician20%2F1.PNG?alt=media&token=5a32abf8-1bd5-408a-8bc7-45f1a0114fb1"
+  },
+  {
+    "Question": "What is the name of D.C generator?",
+    "Option1": "Differential long shunt compound",
+    "Option2": "Differential short shunt compound",
+    "Option3": "Cumulative long shunt compound",
+    "Option4": "Cumulative short shunt compound",
+    "Answer": "Differential long shunt compound",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/Electrician%2FSEM3%2FElectrician20%2F2.PNG?alt=media&token=4a2fdd89-4cb8-437f-b303-09cf51f27c00"
+  },
+  {
+    "Question": "Which rule is used to find the direction of induced emf in D.C generator?",
+    "Option1": "Cork screw rule",
+    "Option2": "Right hand palm rule",
+    "Option3": "Fleming’s left-hand rule",
+    "Option4": "Fleming’s right hand rule",
+    "Answer": "Fleming’s right hand rule",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which formula is used to calculate the generated emf in D.C generator?",
+    "Option1": "Generated emf = φZN/60 Volt",
+    "Option2": "Generated emf = (φzn/60) x A/P Volt",
+    "Option3": "Generated emf = (ZN/ 60Xφ) X P/A Volt",
+    "Option4": "Generated emf = (φzn/60) x P/A Volt",
+    "Answer": "Generated emf = (ZN/ 60Xφ) X P/A Volt",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the formula to calculate back emf of a D.C motor?",
+    "Option1": "Eb = V / IaRa Volts",
+    "Option2": "Eb = V x Ia Ra Volts",
+    "Option3": "Eb = V – Ia Ra Volts",
+    "Option4": "Eb = V + Ia Ra Volts",
+    "Answer": "Eb = V – Ia Ra Volts",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the name of the part marked ‘X’ in DC generator?",
+    "Option1": "Pole tip",
+    "Option2": "Pole coil",
+    "Option3": "Pole core",
+    "Option4": "Pole shoe",
+    "Answer": "Pole shoe",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/Electrician%2FSEM3%2FElectrician20%2F6.PNG?alt=media&token=eb0574f6-ae6f-4638-b77d-c98872bb8e8b"
+  },
+  {
+    "Question": "What is the name of the D.C generator?",
+    "Option1": "Shunt generator",
+    "Option2": "Series generator",
+    "Option3": "Compound generator",
+    "Option4": "Separately excited generator",
+    "Answer": "Separately excited generator",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/Electrician%2FSEM3%2FElectrician20%2F7.PNG?alt=media&token=57614b5f-578d-4caa-bc28-e7c6400c8467"
+  },
+  {
+    "Question": "Which energy is converted into electrical energy by generator?",
+    "Option1": "Heat",
+    "Option2": "Kinetic",
+    "Option3": "Chemical",
+    "Option4": "Mechanical",
+    "Answer": "Mechanical",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the name of D.C generator field?",
+    "Option1": "Short shunt compound generator",
+    "Option2": "Long shunt compound generator",
+    "Option3": "Differential compound generator",
+    "Option4": "Cumulative compound generator",
+    "Answer": "Cumulative compound generator",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/Electrician%2FSEM3%2FElectrician20%2F9.PNG?alt=media&token=b57f373d-7a3e-4792-be9d-d56b0dbd821a"
+  },
+  {
+    "Question": "What is the principle of D.C generator?",
+    "Option1": "Cork screw rule",
+    "Option2": "Fleming’s left-hand rule",
+    "Option3": "Fleming’s right hand rule",
+    "Option4": "Faradays laws of electromagnetic induction",
+    "Answer": "Faradays laws of electromagnetic induction",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the formula for dynamically induced emf?",
+    "Option1": "BLV volts",
+    "Option2": "BL sinθ volts",
+    "Option3": "BLV sinθ volts",
+    "Option4": "BLV cosθ volts",
+    "Answer": "BLV cosθ volts",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which rule is used to find direction of magnetic field?",
+    "Option1": "Cork screw rule",
+    "Option2": "Right hand palm rule",
+    "Option3": "Fleming’s left hand rule",
+    "Option4": "Fleming’s right hand rule",
+    "Answer": "Fleming’s right hand rule",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the name of the part of DC generator?",
+    "Option1": "Stator",
+    "Option2": "Pole core",
+    "Option3": "Pole shoes",
+    "Option4": "Yoke (or) frame",
+    "Answer": "Yoke (or) frame",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/Electrician%2FSEM3%2FElectrician20%2F13.PNG?alt=media&token=0be5d972-e513-4c03-87b7-fcc2a4078473"
+  }
+]

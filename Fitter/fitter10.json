@@ -1,0 +1,227 @@
+[
+  {
+    "Question": "Which notch is cut at an angle of 45° to the corner of the sheet metal?",
+    "Option1": "Wire notch",
+    "Option2": "Slant notch",
+    "Option3": "Square notch",
+    "Option4": "Straight notch",
+    "Answer": "Slant notch",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Name the joint made by fastening two edges of sheet metal together",
+    "Option1": "Hem",
+    "Option2": "Seam",
+    "Option3": "Notch",
+    "Option4": "Groove",
+    "Answer": "Seam",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the flux used for soldering in the form of powder and evaporates while heating?",
+    "Option1": "Resin",
+    "Option2": "Zinc chloride",
+    "Option3": "Hydrochloric acid",
+    "Option4": "Ammonium chloride",
+    "Answer": "Ammonium chloride",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Name the type of seam.",
+    "Option1": "Lap seam",
+    "Option2": "Double seam",
+    "Option3": "Grooved seam",
+    "Option4": "Double grooved seam",
+    "Answer": "Lap seam",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/FITTER%2FFITTER%20SEM1%2F226TO250%2Ff229.PNG?alt=media&token=99612e6c-b6ac-45b5-ad77-3474650367cd"
+  },
+  {
+    "Question": "Which rivet is used to avoid the projection of rivet head?",
+    "Option1": "Pan head rivet",
+    "Option2": "Snap head rivet",
+    "Option3": "Conical head rivet",
+    "Option4": "Counter sunk head rivet",
+    "Answer": "Counter sunk head rivet",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the minimum distance between the rivets to avoid bucking?",
+    "Option1": "2D",
+    "Option2": "2.5D",
+    "Option3": "3D",
+    "Option4": "3.5D",
+    "Answer": "3D",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which type of filler rod is used in gas welding of stainless steel?",
+    "Option1": "Pure aluminium",
+    "Option2": "Copper silver alloy",
+    "Option3": "Columbium stainless steel",
+    "Option4": "Copper coated mild steel",
+    "Answer": "Columbium stainless steel",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Name the gas welding defect.",
+    "Option1": "Porosity",
+    "Option2": "Lack of fusion",
+    "Option3": "Oxidised weld",
+    "Option4": "Incomplete penetration",
+    "Answer": "Lack of fusion",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/FITTER%2FFITTER%20SEM1%2F226TO250%2Ff233.PNG?alt=media&token=3c5980fb-2cb3-4fe5-b87f-033077df6a7b"
+  },
+  {
+    "Question": "What will cause if the nozzle touches the molten pool?",
+    "Option1": "Spark",
+    "Option2": "Smoke",
+    "Option3": "Back fire",
+    "Option4": "Flash back",
+    "Answer": "Back fire",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Name the joint in the arc welding.",
+    "Option1": "Flush corner joint",
+    "Option2": "Single fillet lap joint",
+    "Option3": "Half open corner joint",
+    "Option4": "Full open corner joint",
+    "Answer": "Half open corner joint",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/FITTER%2FFITTER%20SEM1%2F226TO250%2Ff235.PNG?alt=media&token=57340925-5259-492e-8aac-e75fa3d5506d"
+  },
+  {
+    "Question": "What is the function of AC welding transformer?",
+    "Option1": "It converts to low voltage high current ampere",
+    "Option2": "It converts to high voltage and low current ampere",
+    "Option3": "It converts to low voltage and low current ampere",
+    "Option4": "It converts to high voltage and high current ampere",
+    "Answer": "It converts to low voltage high current ampere",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the disadvantage of AC welding transformer?",
+    "Option1": "More initial cost",
+    "Option2": "Not free from arc blow",
+    "Option3": "More maintenance cost",
+    "Option4": "Not suitable for welding non ferrous metal",
+    "Answer": "Not suitable for welding non ferrous metal",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which arc welding machine can be used anywhere in the field work even away from electric lines?",
+    "Option1": "Rectifier set",
+    "Option2": "Motor generator set",
+    "Option3": "Engine generator set",
+    "Option4": "AC welding transformer",
+    "Answer": "Engine generator set",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which arc welding machine provides better heat distribution in the electrode and job?",
+    "Option1": "Rectifier set",
+    "Option2": "Motor generator set",
+    "Option3": "Welding transformer",
+    "Option4": "Engine generator set",
+    "Answer": "Rectifier set",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the colour painted on the acetylene gas cylinders?",
+    "Option1": "Black",
+    "Option2": "Green",
+    "Option3": "Blue",
+    "Option4": "Maroon",
+    "Answer": "Maroon",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the angle to be maintained in the blow pipe and filler rod in the left ward welding technic?",
+    "Option1": "60° & 30°",
+    "Option2": "50° & 40°",
+    "Option3": "30° & 50°",
+    "Option4": "60° & 40°",
+    "Answer": "60° & 30°",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which factor determine the current setting during welding?",
+    "Option1": "Types of joint",
+    "Option2": "Position of weld",
+    "Option3": "Length of electrode",
+    "Option4": "Diameter of electrode",
+    "Answer": "Diameter of electrode",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the OCV for welding in step-down transformer which reduces the main supply voltage (220 or 440 volts)?",
+    "Option1": "40 and 100 volt",
+    "Option2": "50 and 100 volt",
+    "Option3": "30 and 20 volt",
+    "Option4": "20 and 25 volt",
+    "Answer": "40 and 100 volt",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which is the welding machine designed to supply both A.C and D.C current for welding ferrous and non-ferrous metals using all types of electrode?",
+    "Option1": "Rectifier set",
+    "Option2": "Transformer set",
+    "Option3": "Motor generator set",
+    "Option4": "Engine generator set",
+    "Answer": "Rectifier set",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Name the safety operation carried out in welding plant shown in the figure?",
+    "Option1": "Compressor used to force out fuses",
+    "Option2": "Cooling the surface to clear gases",
+    "Option3": "Water forced to clean the surface",
+    "Option4": "Exhaust duct capture fuses and gases",
+    "Answer": "Exhaust duct capture fuses and gases",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/FITTER%2FFITTER%20SEM1%2F226TO250%2Ff245.PNG?alt=media&token=b32f69ce-60fe-4f6f-bf9e-c7355026458f"
+  },
+  {
+    "Question": "Identify the part marked as x .",
+    "Option1": "Safety plug",
+    "Option2": "Steel bottle",
+    "Option3": "Valve spindle",
+    "Option4": "Dissolved acetylene",
+    "Answer": "Safety plug",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/FITTER%2FFITTER%20SEM1%2F226TO250%2Ff246.PNG?alt=media&token=92214955-d6dc-4b3e-bdde-161ffba90e10"
+  },
+  {
+    "Question": "What is the name of distortion occurs in the weld direction?",
+    "Option1": "Angular distortion",
+    "Option2": "Bending distortion",
+    "Option3": "Longitudinal distortion",
+    "Option4": "Transverse distortion",
+    "Answer": "Longitudinal distortion",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the name of the the metal edge in an angle during welding and cutting operations?",
+    "Option1": "Kerf",
+    "Option2": "Drag",
+    "Option3": "Bevel",
+    "Option4": "Gouging",
+    "Answer": "Bevel",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Identify the welding defect shown in figure.",
+    "Option1": "Under cut",
+    "Option2": "Cracking",
+    "Option3": "Lack of fusion",
+    "Option4": "Incomplete penetration",
+    "Answer": "Under cut",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/FITTER%2FFITTER%20SEM1%2F226TO250%2Ff249.PNG?alt=media&token=c610c522-47b1-4d34-a691-818657b0ca41"
+  },
+  {
+    "Question": "Why the cylinder keys are not removed from the cylinder while welding?",
+    "Option1": "To prevent gas leak",
+    "Option2": "To adjust the gas supply",
+    "Option3": "To open and close frequently",
+    "Option4": "To close quickly in case of fire",
+    "Answer": "To close quickly in case of fire",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  }
+]

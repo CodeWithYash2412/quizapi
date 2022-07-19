@@ -1,0 +1,227 @@
+[
+  {
+    "Question": "What is the name of part marked as X in\nfan coil unit?",
+    "Option1": "Coil",
+    "Option2": "Heater",
+    "Option3": "Fan motor",
+    "Option4": "Drain pan",
+    "Answer": "Drain pan",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/MRAC%2FSEM4%2F176%20TO%20200%2F176.PNG?alt=media&token=be4f859d-7d1b-48f0-9445-555bba0476c3"
+  },
+  {
+    "Question": "What is meant by static pressure?",
+    "Option1": "Moving air pressure",
+    "Option2": "Ambient air pressure",
+    "Option3": "Air diffusing pressure",
+    "Option4": "Still air pressure in duct",
+    "Answer": "Still air pressure in duct",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the name of part marked as x in the fan motor compartment?",
+    "Option1": "Belt guard",
+    "Option2": "Drive Belt",
+    "Option3": "Motor Shaft",
+    "Option4": "Blower Cover",
+    "Answer": "Belt guard",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/MRAC%2FSEM4%2F176%20TO%20200%2F178.PNG?alt=media&token=2b643de7-ff72-48b7-a038-4200c6d49e28"
+  },
+  {
+    "Question": "How the total heat of air is represented in psychrometric chart?",
+    "Option1": "Entropy",
+    "Option2": "Enthalpy",
+    "Option3": "Latent heat",
+    "Option4": "Sensible heat",
+    "Answer": "Enthalpy",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which type of heat is considered for tube light s heat gain in AC space?",
+    "Option1": "Latent heat",
+    "Option2": "Conduction heat",
+    "Option3": "Specific heat",
+    "Option4": "Sensible heat",
+    "Answer": "Sensible heat",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which thickness of PUF has the least thermal conductivity?",
+    "Option1": "One inch",
+    "Option2": "Two inch",
+    "Option3": "Four inch",
+    "Option4": "Three inch",
+    "Answer": "Four inch",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which types of heat are involved in ventilation and infiltration of air to AC space?",
+    "Option1": "Sensible heat and solar heat",
+    "Option2": "Sensible heat and latent heat",
+    "Option3": "Radiant heat and specific heat",
+    "Option4": "Latent heat of water-vapour only",
+    "Answer": "Sensible heat and latent heat",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which design data is used for indoor air heating in winter air conditioning?",
+    "Option1": "20°C ± 1°C and RH = 35%",
+    "Option2": "18°C ± 1°C and RH = 45%",
+    "Option3": "16°C ± 1°C and RH = 50%",
+    "Option4": "14°C ± 1°C and RH = 55%",
+    "Answer": "20°C ± 1°C and RH = 35%",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which branch of science deals with the properties of air?",
+    "Option1": "Geometry",
+    "Option2": "Audiometry",
+    "Option3": "Psychrometry",
+    "Option4": "Trigonometry",
+    "Answer": "Psychrometry",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which component protects the electrical circuit and loads from excess current?",
+    "Option1": "Fuse",
+    "Option2": "Relay",
+    "Option3": "Relief valve",
+    "Option4": "Transformer",
+    "Answer": "Fuse",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which type of starter is used for motors in chiller AC plants?",
+    "Option1": "Magnetic",
+    "Option2": "Hydraulic",
+    "Option3": "Pneumatic",
+    "Option4": "Electromagnetic",
+    "Answer": "Electromagnetic",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which type of cooling tower is used in large capacity chiller plants?",
+    "Option1": "Natural draft",
+    "Option2": "Forced draft",
+    "Option3": "Induced draft",
+    "Option4": "Liquid cooling",
+    "Answer": "Induced draft",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which valve is used in capacity control system employing hot gas bypass?",
+    "Option1": "Relief valve",
+    "Option2": "Safety valve",
+    "Option3": "Solenoid valve",
+    "Option4": "Reversing valve",
+    "Answer": "Solenoid valve",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which material is used for making air ducts in chiller AC plant?",
+    "Option1": "Cast iron",
+    "Option2": "Glass wool",
+    "Option3": "Thermo Cole",
+    "Option4": "Galvanised iron",
+    "Answer": "Galvanised iron",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which expansion device is used with VFD motors in multi split AC?",
+    "Option1": "Electronic",
+    "Option2": "Automatic",
+    "Option3": "Thermostatic",
+    "Option4": "Hand operated",
+    "Answer": "Electronic",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which type of expansion device is used in flooded chillers?",
+    "Option1": "Float valve",
+    "Option2": "Multiple capillary",
+    "Option3": "Automatic expansion valve",
+    "Option4": "Hand operated expansion valve",
+    "Answer": "Float valve",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which type of heat is absorbed by water while passing through the cooling coils of an indirect expansion chiller plant?",
+    "Option1": "Super heat",
+    "Option2": "Latent heat",
+    "Option3": "Specific heat",
+    "Option4": "Sensible heat",
+    "Answer": "Sensible heat",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the name of component used in air distrubution system?",
+    "Option1": "Duct",
+    "Option2": "Diffuser",
+    "Option3": "Multi blade damper",
+    "Option4": "Single blade damper",
+    "Answer": "Multi blade damper",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/MRAC%2FSEM4%2F176%20TO%20200%2F193.PNG?alt=media&token=40266208-b588-4809-8ef6-2a13c5e22b82"
+  },
+  {
+    "Question": "Which tool is used to straighten the deformed fins of air cooled condenser?",
+    "Option1": "Blower",
+    "Option2": "Fin comb",
+    "Option3": "Wire brush",
+    "Option4": "Brass brush",
+    "Answer": "Fin comb",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which refrigerant spreads the pungent odour if it leaks from ice plant system?",
+    "Option1": "H2O",
+    "Option2": "SO2",
+    "Option3": "CO2",
+    "Option4": "NH3",
+    "Answer": "NH3",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which device ensures correct flow of chilled water supply in chiller AC plant?",
+    "Option1": "Sight glass",
+    "Option2": "Leaf switch",
+    "Option3": "Level master control",
+    "Option4": "Pressure relief valve",
+    "Answer": "Leaf switch",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which safety control stops the compressor motor if there is leakage of refrigerant?",
+    "Option1": "LP cut out",
+    "Option2": "HP cut out",
+    "Option3": "Thermostat",
+    "Option4": "Oil pressure cut out",
+    "Answer": "LP cut out",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "How the pH of water is checked for acidic or alkaline?",
+    "Option1": "By hydro meter",
+    "Option2": "By hygro meter",
+    "Option3": "Using litmus paper",
+    "Option4": "Pressure relief valve",
+    "Answer": "Using litmus paper",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the advantage of glass fibre ducting?",
+    "Option1": "Economical",
+    "Option2": "Heavy weight",
+    "Option3": "Self insulating",
+    "Option4": "High heat transfer",
+    "Answer": "Self insulating",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What parameters are checked if the uneven cooling prevails at different rooms in a chiller plant?",
+    "Option1": "Compressor current drawn",
+    "Option2": "Condenser water pump ampere",
+    "Option3": "Cooling tower fan motor ampere",
+    "Option4": "Chilled water pump current drawn",
+    "Answer": "Chilled water pump current drawn",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  }
+]

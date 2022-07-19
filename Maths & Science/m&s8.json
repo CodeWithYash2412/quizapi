@@ -1,0 +1,227 @@
+[
+  {
+    "Question": "What is the resistance of an electric iron if the rating of electric iron is 220 V and 500 watts?",
+    "Option1": "94.8 ohms",
+    "Option2": "95.8 ohms",
+    "Option3": "96.8 ohms",
+    "Option4": "97.8 ohms",
+    "Answer": "96.8 ohms",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the voltage of the immersion heater? P = 500 watts I = 2.27 Amps V = ______Volts",
+    "Option1": "200.3 volts",
+    "Option2": "210.3 volts",
+    "Option3": "220.3 volts",
+    "Option4": "230.3 volts",
+    "Answer": "220.3 volts",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/M%26S%2F176%20TO%20200%2F180.PNG?alt=media&token=9e5431c0-be09-43c9-9ed0-ab32ab08116e"
+  },
+  {
+    "Question": "What is the unit of intensity of magnetic field?",
+    "Option1": "wb/m",
+    "Option2": "m/wb",
+    "Option3": "Hertz",
+    "Option4": "Coloumb",
+    "Answer": "wb/m",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which law states about electromagnetic induction?",
+    "Option1": "Ohm´s law",
+    "Option2": "Hooke´s law",
+    "Option3": "Lenz´s law",
+    "Option4": "Faraday´s law",
+    "Answer": "Faraday´s law",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the formual for induced emf?",
+    "Option1": "B2L sinq volts",
+    "Option2": "BL sinq volts",
+    "Option3": "BLV sinq volts",
+    "Option4": "B2V sinq volts",
+    "Answer": "BLV sinq volts",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What does EMF stands for?",
+    "Option1": "Electronic Magnetic Force",
+    "Option2": "Electro Motive Force",
+    "Option3": "Electro Magnetic Force",
+    "Option4": "Electromated Force",
+    "Answer": "Electro Motive Force",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which is the example for statically induced emf?",
+    "Option1": "Generator",
+    "Option2": "Motor",
+    "Option3": "Transformer",
+    "Option4": "Refrigerator",
+    "Answer": "Transformer",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which is the example for dynamicallly induced Emf?",
+    "Option1": "Motor",
+    "Option2": "Generator",
+    "Option3": "Car",
+    "Option4": "Motor bike",
+    "Answer": "Generator",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which is the unit electrical power?",
+    "Option1": "Volts",
+    "Option2": "Ohms",
+    "Option3": "Watts",
+    "Option4": "Ampere",
+    "Answer": "Watts",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the current Flow in the bulb? P = 550 watts R = 22 Ohms I = ______Amps",
+    "Option1": "2 Amps",
+    "Option2": "3 Amps",
+    "Option3": "4 Amps",
+    "Option4": "5 Amps",
+    "Answer": "5 Amps",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/M%26S%2F176%20TO%20200%2F188.PNG?alt=media&token=5796010d-9404-4ce8-bfa4-b50226ad1699"
+  },
+  {
+    "Question": "What is the power required? I = 0.455 Amps R = 484 Ohms P = _____Watts",
+    "Option1": "98.2 watts",
+    "Option2": "99.2 watts",
+    "Option3": "100.2 watts",
+    "Option4": "101.2 watts",
+    "Answer": "100.2 watts",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/M%26S%2F176%20TO%20200%2F189.PNG?alt=media&token=d4cb42bd-70b2-45d7-bd22-d9624fcc46d9"
+  },
+  {
+    "Question": "What is the rated power if an adjustable resistor bears the following label 1.5 k ohms/ 0.08A?",
+    "Option1": "9.2 watts",
+    "Option2": "9.4 watts",
+    "Option3": "9.6 watts",
+    "Option4": "9.8 watts",
+    "Answer": "9.6 watts",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "How much voltage will be required to illuminate a 40 watts fluorescent lamp draws a current of 0.10 amperes?",
+    "Option1": "390 volts",
+    "Option2": "395 volts",
+    "Option3": "400 volts",
+    "Option4": "405 volts",
+    "Answer": "400 volts",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "How many hours will take for a 100 watts bulb to consume 1 kwh energy? W = 1 Kwh P = 100 Watts t = _____Hours",
+    "Option1": "10 hours",
+    "Option2": "12 hours",
+    "Option3": "18 hours",
+    "Option4": "24 hours",
+    "Answer": "10 hours",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/M%26S%2F176%20TO%20200%2F192.PNG?alt=media&token=ced3c3d4-7659-4c2b-880d-021ff98ef9fe"
+  },
+  {
+    "Question": "What is the area of a square whose side is 18 cm?",
+    "Option1": "26 cm2",
+    "Option2": "36 cm2",
+    "Option3": "72 cm2",
+    "Option4": "324 cm2",
+    "Answer": "324 cm2",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the diagonal of a square plate whose side is 28 cm?",
+    "Option1": "39.29 cm",
+    "Option2": "39.39 cm",
+    "Option3": "39.49 cm",
+    "Option4": "39.59 cm",
+    "Answer": "39.59 cm",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the side of a square whose area is 625 mm2?",
+    "Option1": "15 mm",
+    "Option2": "20 mm",
+    "Option3": "25 mm",
+    "Option4": "30 mm",
+    "Answer": "25 mm",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the perimeter of a rectangle whose length and breadth are 20 cm and 18 cm?",
+    "Option1": "56 cm",
+    "Option2": "66 cm",
+    "Option3": "76 mm",
+    "Option4": "86 mm",
+    "Answer": "76 mm",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the area of a rectangle, whose length and breadth are 10cm and 8cm respectively?",
+    "Option1": "75 cm2",
+    "Option2": "80 cm2",
+    "Option3": "85 cm2",
+    "Option4": "90 cm2",
+    "Answer": "80 cm2",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the area of a right angled triangle having a base 10 cm and height 5 cm?",
+    "Option1": "20 sq.cm",
+    "Option2": "25 sq.cm",
+    "Option3": "30 sq.cm",
+    "Option4": "35 sq.cm",
+    "Answer": "25 sq.cm",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the primeter of scalene. Triangle having sides of 40mm, 20mm and 28mm?",
+    "Option1": "68 mm",
+    "Option2": "78 mm",
+    "Option3": "88 mm",
+    "Option4": "98 mm",
+    "Answer": "88 mm",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the area of an equilateral triangle of side 450 mm?",
+    "Option1": "856.82 cm2",
+    "Option2": "866.82 cm2",
+    "Option3": "876.82 cm2",
+    "Option4": "886.82 cm2",
+    "Answer": "876.82 cm2",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the area of a circle of diameter 50 cm?",
+    "Option1": "1932.5 cm2",
+    "Option2": "1942.5 cm2",
+    "Option3": "1952.5 cm2",
+    "Option4": "1962.5 cm2",
+    "Answer": "1962.5 cm2",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the area of a (A) semicircle whose dia is 20 cm (d)?",
+    "Option1": "147.1 cm2",
+    "Option2": "157.1 cm2",
+    "Option3": "167.1 cm2",
+    "Option4": "177.1 cm2",
+    "Answer": "157.1 cm2",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the cross sectional area of a circular ring of D = 38 mm d = 32mm?",
+    "Option1": "320 mm2",
+    "Option2": "330 mm2",
+    "Option3": "340 mm2",
+    "Option4": "350 mm2",
+    "Answer": "330 mm2",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/M%26S%2F176%20TO%20200%2F203.PNG?alt=media&token=4142fbb8-9510-4ca0-bd87-cd7a5968c77a"
+  }
+]

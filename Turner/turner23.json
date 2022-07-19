@@ -1,0 +1,227 @@
+[
+  {
+    "Question": "Find out the R.P.M of spindle for a 50mm bar (D) and cutting speed is 25m/min.",
+    "Option1": "100rpm",
+    "Option2": "159rpm",
+    "Option3": "168rpm",
+    "Option4": "250rpm",
+    "Answer": "159rpm",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which type of jig locates the piece part from its face?",
+    "Option1": "Plate jig",
+    "Option2": "Post jig",
+    "Option3": "Table jig",
+    "Option4": "Solid jig",
+    "Answer": "Table jig",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What defect may occur during grinding a form tool cutting edge?",
+    "Option1": "Form tool getting broken",
+    "Option2": "Shape of the form gets altered",
+    "Option3": "Clearance angle changed",
+    "Option4": "Thickness of the tool reduced",
+    "Answer": "Shape of the form gets altered",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What will happen to the tool life if the spindle is running higher speed?",
+    "Option1": "Less",
+    "Option2": "More",
+    "Option3": "Medium",
+    "Option4": "Very less",
+    "Answer": "Less",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the effect, if the cutting speed is more than the recommanded?",
+    "Option1": "Reduce the tool life",
+    "Option2": "Better finish",
+    "Option3": "Accurate dimension",
+    "Option4": "Normal tool life",
+    "Answer": "Reduce the tool life",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the name of work holding device were the irregular work could hold in lathe?",
+    "Option1": "Face plate",
+    "Option2": "Catch plate",
+    "Option3": "B-Jaw chuck",
+    "Option4": "Driving place",
+    "Answer": "Face plate",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is angle between the two faces of angle plate?",
+    "Option1": "30°",
+    "Option2": "45°",
+    "Option3": "60°",
+    "Option4": "90°",
+    "Answer": "90°",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which material is used to make angle plate?",
+    "Option1": "Mild steel",
+    "Option2": "Cast iron",
+    "Option3": "Tool steel",
+    "Option4": "Wrought iron",
+    "Answer": "Cast iron",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What does the letter ‘a’ denotes?",
+    "Option1": "Sampling length",
+    "Option2": "Roughness values",
+    "Option3": "Production method",
+    "Option4": "Machining allowance",
+    "Answer": "Production method",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/sem%203%2051to75%2F66.PNG?alt=media&token=923d1813-d2ce-416b-8e20-0b84166b9630"
+  },
+  {
+    "Question": "How the roughness value is expressed?",
+    "Option1": "Micrometer",
+    "Option2": "Millimetre",
+    "Option3": "Centimetre",
+    "Option4": "Metre",
+    "Answer": "Micrometer",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the surface roughness symbol marked as ‘X’?",
+    "Option1": "Direction of lay",
+    "Option2": "Sampling length",
+    "Option3": "Machining allowance",
+    "Option4": "Roughness value",
+    "Answer": "Sampling length",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/sem%203%2051to75%2F68.PNG?alt=media&token=982ac734-b86e-4874-a30a-cd0e2fb2d1b2"
+  },
+  {
+    "Question": "What is the surface roughness symbol marked as ‘x’?",
+    "Option1": "Roughness value",
+    "Option2": "Sampling length",
+    "Option3": "Machining allowance",
+    "Option4": "Direction of lay",
+    "Answer": "Machining allowance",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/sem%203%2051to75%2F69.PNG?alt=media&token=055292a5-e623-425b-84f8-39353caa18ad"
+  },
+  {
+    "Question": "What is the roughness grade number for symbol?",
+    "Option1": "N1 to N3",
+    "Option2": "N4 to N6",
+    "Option3": "N11",
+    "Option4": "N12",
+    "Answer": "N1 to N3",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/sem%203%2051to75%2F70.PNG?alt=media&token=246b83da-1123-45cf-a244-f5494ff00f47"
+  },
+  {
+    "Question": "What is the roughness grade number for symbol?",
+    "Option1": "N7 to N9",
+    "Option2": "N4 to N6",
+    "Option3": "N1 to N3",
+    "Option4": "N12",
+    "Answer": "N7 to N9",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/sem%203%2051to75%2F71.PNG?alt=media&token=412be340-9361-4631-8b48-8da406606665"
+  },
+  {
+    "Question": "What is the roughnes value of grade No N1?",
+    "Option1": "6.3 microns",
+    "Option2": "0.025 microns",
+    "Option3": "12.5 microns",
+    "Option4": "0.4 microns",
+    "Answer": "0.025 microns",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the value of “b” in the surface roughness symbol?",
+    "Option1": "Roughness grade",
+    "Option2": "Sampling length",
+    "Option3": "Production method",
+    "Option4": "Direction of lay",
+    "Answer": "Production method",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/sem%203%2051to75%2F73.PNG?alt=media&token=c6c8fca3-f043-44fa-ad11-9a8be6a13c06"
+  },
+  {
+    "Question": "What is the roughness value of grade No N:12?",
+    "Option1": "50 microns",
+    "Option2": "25 microns",
+    "Option3": "12.5 microns",
+    "Option4": "0.1 microns",
+    "Answer": "50 microns",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which material used for manufacturing a marking table?",
+    "Option1": "Cast iron",
+    "Option2": "Aluminium",
+    "Option3": "Tool steel",
+    "Option4": "Mild steel",
+    "Answer": "Cast iron",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the term used to represent the value marked as ‘E’?",
+    "Option1": "Throw",
+    "Option2": "Eccentricity",
+    "Option3": "Concentricity",
+    "Option4": "Step length",
+    "Answer": "Eccentricity",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/sem%203%2051to75%2F76.PNG?alt=media&token=5f5e27cf-d71b-48b9-b656-80ededfff850"
+  },
+  {
+    "Question": "What is the formula for calculating throw in an eccentric turned component?",
+    "Option1": "Throw =",
+    "Option2": "Throw = E",
+    "Option3": "Throw = 2 x E",
+    "Option4": "Throw = 3 x E",
+    "Answer": "Throw = 2 x E",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the formula for eccentricity in a job?",
+    "Option1": "E = Throw/2",
+    "Option2": "E = 2 x Throw",
+    "Option3": "E = 3 x Throw",
+    "Option4": "E = Throw/4",
+    "Answer": "E = Throw/2",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the type of angle plate?",
+    "Option1": "Plain",
+    "Option2": "Box",
+    "Option3": "Swivel",
+    "Option4": "Slotted",
+    "Answer": "Box",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/sem%203%2051to75%2F79.PNG?alt=media&token=bb22c618-65f7-428f-b39d-ae30cb8b4109"
+  },
+  {
+    "Question": "What is the type of angle plate?",
+    "Option1": "Plain",
+    "Option2": "Slotted",
+    "Option3": "Box",
+    "Option4": "Swivel",
+    "Answer": "Plain",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/sem%203%2051to75%2F80.PNG?alt=media&token=b3486328-6a66-4649-80ba-99bedf4f1a0a"
+  },
+  {
+    "Question": "What is the name of angle plate?",
+    "Option1": "Plain angle plate",
+    "Option2": "Slotted angle plate",
+    "Option3": "Box angle plate",
+    "Option4": "Swivel type angle plate",
+    "Answer": "Slotted angle plate",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/sem%203%2051to75%2F81.PNG?alt=media&token=751a8911-c076-4338-b90f-41b7340ee357"
+  },
+  {
+    "Question": "What is name of angle plate?",
+    "Option1": "Plain",
+    "Option2": "Box type",
+    "Option3": "Slotted",
+    "Option4": "Swivel type",
+    "Answer": "Swivel type",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/sem%203%2051to75%2F82.PNG?alt=media&token=e61a3b61-6572-4e6c-8296-776aad311314"
+  }
+]

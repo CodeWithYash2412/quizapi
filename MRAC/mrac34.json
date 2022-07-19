@@ -1,0 +1,227 @@
+[
+  {
+    "Question": "What is the preventive maintenance of cooling tower sump?",
+    "Option1": "Remove sludge",
+    "Option2": "Flush with water",
+    "Option3": "Add HCL to water",
+    "Option4": "Add bleaching powder",
+    "Answer": "Remove sludge",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which suction line pressure ensures that the compressor is to be stopped during pump down operation?",
+    "Option1": "3 kg/cm2",
+    "Option2": "5 kg/cm2",
+    "Option3": "0.5 kg/cm2",
+    "Option4": "- 0.5 kg/cm2",
+    "Answer": "0.5 kg/cm2",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which device is used to measure the static and total pressure of air in ducting systems?",
+    "Option1": "Pitot tube",
+    "Option2": "Gauge manifold",
+    "Option3": "Pressure gauge",
+    "Option4": "Compound gauge",
+    "Answer": "Pitot tube",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Why the stainless-steel metal is used to make evaporator in ice plant?",
+    "Option1": "Erosive",
+    "Option2": "Galvanic",
+    "Option3": "Reactive",
+    "Option4": "Non corrosive",
+    "Answer": "Non corrosive",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which gauge is connected to the AC plant system before doing pump down operation?",
+    "Option1": "Compound gauge",
+    "Option2": "Oil pressure gauge",
+    "Option3": "High pressure gauge",
+    "Option4": "Water pressure gauge",
+    "Answer": "Compound gauge",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Why the glass wool insulation is avoided in ducts?",
+    "Option1": "Less strength",
+    "Option2": "High conductivity",
+    "Option3": "Not resistant to water",
+    "Option4": "Allows vapour transmission",
+    "Answer": "Allows vapour transmission",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the effect of scale formation inside the tubes of chiller in industrial AC plant?",
+    "Option1": "Reduce heat transfer",
+    "Option2": "Increase heat transfer",
+    "Option3": "Increase suction pressure",
+    "Option4": "Decrease power consumption",
+    "Answer": "Reduce heat transfer",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which parameter is checked if the air flow in supply duct is reduced in central AC plant?",
+    "Option1": "Condenser temperature",
+    "Option2": "Cooling water temperature",
+    "Option3": "Blower motor ampere/speed",
+    "Option4": "Compressor discharge temperature",
+    "Answer": "Blower motor ampere/speed",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the effect of residual acid particles after descaling the shell and tube condenser in industrial AC plant?",
+    "Option1": "Block the strainer",
+    "Option2": "Corrode the tubes",
+    "Option3": "Reduce heat transfer",
+    "Option4": "Increase algae growth",
+    "Answer": "Corrode the tubes",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the effect of partially choked thermostatic expansion valve in central AC plant?",
+    "Option1": "Iced condenser",
+    "Option2": "Frosted evaporator",
+    "Option3": "Hot expansion valve",
+    "Option4": "Frosted expansion valve",
+    "Answer": "Frosted expansion valve",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which tool is used for descaling the condenser tubes in shell and tube condenser?",
+    "Option1": "Steel brush",
+    "Option2": "Brass brush",
+    "Option3": "Sponge brush",
+    "Option4": "Teflon fibre brush",
+    "Answer": "Brass brush",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the name of damper inside the duct?",
+    "Option1": "Single vane",
+    "Option2": "Splitter",
+    "Option3": "Butterfly",
+    "Option4": "Multiple vane",
+    "Answer": "Splitter",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/MRAC%2FSEM4%2F126%20TO%20150%2F137.PNG?alt=media&token=8061e4bf-967a-443a-b2f6-932d46ec311b"
+  },
+  {
+    "Question": "What is the expansion of PMV used in VRV system?",
+    "Option1": "Prime Mover Valve",
+    "Option2": "Pass Modulate Valve",
+    "Option3": "Phase Modulate Valve",
+    "Option4": "Pulse Modulating Valve",
+    "Answer": "Pulse Modulating Valve",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which electronic component senses the temperature in indoor unit of VRV system?",
+    "Option1": "Resistor",
+    "Option2": "Thyristor",
+    "Option3": "Transistor",
+    "Option4": "Thermistor",
+    "Answer": "Thermistor",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which type of AC system is operated by VRV system?",
+    "Option1": "Package AC",
+    "Option2": "Central plant AC",
+    "Option3": "Multizone split Acs",
+    "Option4": "Indirect Acs",
+    "Answer": "Multizone split Acs",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which set of components are used in FCU?",
+    "Option1": "Air filter, blower, condenser",
+    "Option2": "Compressor, fan, condenser",
+    "Option3": "Air filter, cooling coil, blower motor",
+    "Option4": "Cooling coil, condenser, fan motor",
+    "Answer": "Air filter, cooling coil, blower motor",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which is circulated in VRV system for cooling cycle?",
+    "Option1": "Water",
+    "Option2": "Cooled air",
+    "Option3": "Cooled brine",
+    "Option4": "Liquid refrigerant",
+    "Answer": "Liquid refrigerant",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the type of cooling system?",
+    "Option1": "VRF",
+    "Option2": "VAV",
+    "Option3": "CAV",
+    "Option4": "Central plant AC",
+    "Answer": "VRF",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/MRAC%2FSEM4%2F126%20TO%20150%2F143.PNG?alt=media&token=42479ea1-77d5-46b3-930a-cb6b0168a8ec"
+  },
+  {
+    "Question": "What is the expansion of HVAC?",
+    "Option1": "Heavy Vehicle Air Conditioning",
+    "Option2": "Heating, Vibration, Auto Correction",
+    "Option3": "Heating, Ventilation Automatic Control",
+    "Option4": "Heating, Ventilation and Air Conditioning",
+    "Answer": "Heating, Ventilation and Air Conditioning",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which valve is used for gas charging and pressure checking in central AC plants?",
+    "Option1": "Safety valve",
+    "Option2": "Service valve",
+    "Option3": "Solenoid valve",
+    "Option4": "Non return valve",
+    "Answer": "Service valve",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the value of absolute vacuum in millimeters of mercury?",
+    "Option1": -76,
+    "Option2": "- 760",
+    "Option3": "- 14.7",
+    "Option4": "- 10.33",
+    "Answer": "- 760",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which compressor is used only in central AC systems?",
+    "Option1": "Scroll",
+    "Option2": "Screw",
+    "Option3": "Rotary",
+    "Option4": "Centrifugal",
+    "Answer": "Centrifugal",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the benefit of preventive maintenance in AC plant?",
+    "Option1": "Reduce water flow",
+    "Option2": "Increase running cost",
+    "Option3": "Prevent plant s break down",
+    "Option4": "Decrease refrigerant charge",
+    "Answer": "Prevent plant s break down",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the method of flushing the indoor coils?",
+    "Option1": "Using nitrogen",
+    "Option2": "Pressurised air",
+    "Option3": "Chemical cleaning",
+    "Option4": "Mechanical cleaning",
+    "Answer": "Using nitrogen",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the purpose of the screw marked as x in LP control?",
+    "Option1": "Adjust low pressure",
+    "Option2": "Differential adjustment",
+    "Option3": "Temperature adjustment",
+    "Option4": "Adjust discharge pressure",
+    "Answer": "Differential adjustment",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/MRAC%2FSEM4%2F126%20TO%20150%2F150.PNG?alt=media&token=524bdce5-81a8-49f2-a116-de986e28c4b3"
+  }
+]

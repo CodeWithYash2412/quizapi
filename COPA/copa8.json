@@ -1,0 +1,227 @@
+[
+  {
+    "Question": "Which combination of key allows user to move to the first field in the first record in Access table?",
+    "Option1": "Ctrl + Tab",
+    "Option2": "Shift +Tab",
+    "Option3": "Shift + Home",
+    "Option4": "Ctrl + Home",
+    "Answer": "Ctrl + Home",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which command quickly locates the data is Access table?",
+    "Option1": "Find",
+    "Option2": "Locate",
+    "Option3": "Search",
+    "Option4": "Edit",
+    "Answer": "Find",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which technique prevents invalid data being saved in Access table?",
+    "Option1": "Index",
+    "Option2": "Filter",
+    "Option3": "Validation rule",
+    "Option4": "Input mark",
+    "Answer": "Validation rule",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which validation rule accepts only a - z letters for fields in Access?",
+    "Option1": "Is null or NOT like “*[! a - z]*”",
+    "Option2": "Is null or NOT like “*[a - z ]*”",
+    "Option3": "Is null or NOT like “*![a - z]*”",
+    "Option4": "Is null or NOT like “[! a - z]”",
+    "Answer": "Is null or NOT like “*[! a - z]*”",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which validation rule allows only 0 - 9 for fields in Access?",
+    "Option1": "Is Null or Not Like “*[ ! 0 - 9 ]*”",
+    "Option2": "Is Null or Not Like “[! 0 - 9]”",
+    "Option3": "Is Null or Not Like “*[0 - 9]*”",
+    "Option4": "Is Null or Not Like “*[!0-9]*”",
+    "Answer": "Is Null or Not Like “*[!0-9]*”",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which validation rule allows only positive numbers for fields in?",
+    "Option1": "Is Null or > = 0",
+    "Option2": "Is Null or Positive",
+    "Option3": "Is Null or < 0",
+    "Option4": "Is Null or = “+”",
+    "Answer": "Is Null or > = 0",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is allowed the input mark symbol # in Access?",
+    "Option1": "Letter or digit",
+    "Option2": "Letter A through Z",
+    "Option3": "A digit 0 - 9 with +/- sign",
+    "Option4": "A digit 0 - 9 without +/- sign",
+    "Answer": "A digit 0 - 9 with +/- sign",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which validation rule allows exactly digits for number fields in Access?",
+    "Option1": "Is Null or Between 100000 and 99999",
+    "Option2": "Is Null or Like “????”",
+    "Option3": "Is Null or >= 0 AND< = 99999",
+    "Option4": "Is Null or < = 99999",
+    "Answer": "Is Null or >= 0 AND< = 99999",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the output when the data ‘1678.95’ is set to the number format ‘###0.00’ in Access?",
+    "Option1": 1670,
+    "Option2": 1670.95,
+    "Option3": 1678,
+    "Option4": 1678.95,
+    "Answer": 1678.95,
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which of the following is a valid time format is Access?",
+    "Option1": "hh:mm:ss AM/PM",
+    "Option2": "hh.mm.ss AM/PM",
+    "Option3": "hh-mm-ss AM/PM",
+    "Option4": "hh/mm/ss AM/PM",
+    "Answer": "hh:mm:ss AM/PM",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Write the output when the data ‘Primary Key’ is set to the text < in Access?",
+    "Option1": "Primary key",
+    "Option2": "primary key",
+    "Option3": "PRIMARY KEY",
+    "Option4": "Primary Key",
+    "Answer": "primary key",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the output when the data “FOREIGN key’ is set to the text format > in Access?",
+    "Option1": "foreign key",
+    "Option2": "FOREIGN KEY",
+    "Option3": "Foreign Key",
+    "Option4": "Foreign key",
+    "Answer": "FOREIGN KEY",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the reason for not accepting zero in the fields of Access tables?",
+    "Option1": "Fields is set with is Null or > 0",
+    "Option2": "Fields is set with is Null or < = 0",
+    "Option3": "Fields is set with is Null or! [0]",
+    "Option4": "Fields is set with is Null or like “?”",
+    "Answer": "Fields is set with is Null or > 0",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which layer in OSI model performs network routing, flow control and error control function?",
+    "Option1": "Network layer",
+    "Option2": "Session layer",
+    "Option3": "Physical layer",
+    "Option4": "Data link layer",
+    "Answer": "Network layer",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the full form of IP?",
+    "Option1": "internet protect",
+    "Option2": "intranet protocol",
+    "Option3": "internet protocol",
+    "Option4": "international protocol",
+    "Answer": "internet protocol",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the full form of TCP?",
+    "Option1": "Test Control Protocol",
+    "Option2": "Transfer Control Protocol",
+    "Option3": "Transport Control Protocol",
+    "Option4": "Transmission Control Protocol",
+    "Answer": "Transmission Control Protocol",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which layer is the layer 2 in OSI network model?",
+    "Option1": "Session layer",
+    "Option2": "Physical layer",
+    "Option3": "Data link layer",
+    "Option4": "Transport layer",
+    "Answer": "Data link layer",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which layer is the layer 4 in OSI model?",
+    "Option1": "Session layer",
+    "Option2": "Network layer",
+    "Option3": "Data link layer",
+    "Option4": "Transport layer",
+    "Answer": "Transport layer",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which is the 6th layer in OSI communication model?",
+    "Option1": "Session layer",
+    "Option2": "Network layer",
+    "Option3": "Application layer",
+    "Option4": "Presentation layer",
+    "Answer": "Presentation layer",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the abbreviation of OSI?",
+    "Option1": "Open Source Internet",
+    "Option2": "Open System Interaction",
+    "Option3": "Open Source Interconnection",
+    "Option4": "Open System Interconnection",
+    "Answer": "Open System Interconnection",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the full form of EFT?",
+    "Option1": "Electronic Form Transfer",
+    "Option2": "Electronic Fund Transfer",
+    "Option3": "Electronic Field Transfer",
+    "Option4": "Electronic Format Transfer",
+    "Answer": "Electronic Fund Transfer",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which is an example for WAN?",
+    "Option1": "Ethernet",
+    "Option2": "Home network",
+    "Option3": "Campus network",
+    "Option4": "Bluetooth network",
+    "Answer": "Ethernet",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the full form of ADSL?",
+    "Option1": "Asymmetrical Digital System Line",
+    "Option2": "Automatic Digital Subscriber Line",
+    "Option3": "Asymmetrical Digital Subscriber Line",
+    "Option4": "Asynchronous Digital Subscriber Line",
+    "Answer": "Asymmetrical Digital Subscriber Line",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which is the layer 3 in OSI model?",
+    "Option1": "Network layer",
+    "Option2": "Session layer",
+    "Option3": "Physical layer",
+    "Option4": "Data link layer",
+    "Answer": "Network layer",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which is a reference tool for understanding data communication between any two network system?",
+    "Option1": "LAN",
+    "Option2": "WAN",
+    "Option3": "ISO model",
+    "Option4": "OSI model",
+    "Answer": "OSI model",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  }
+]

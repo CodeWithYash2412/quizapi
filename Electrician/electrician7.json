@@ -1,0 +1,227 @@
+[
+  {
+    "Question": "Calculate the voltage drop across the resistor ‘R4’ in the circuit?",
+    "Option1": "48 V",
+    "Option2": "72 V",
+    "Option3": "80 V",
+    "Option4": "100 V",
+    "Answer": "100 V",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/Electrician%2FSEM1%2FM4%2FM4-41.PNG?alt=media&token=74d36faf-9339-48fb-acf6-978b409c04fc"
+  },
+  {
+    "Question": "What is the resistance of Light Dependent Resistor (LDR), if the intensity of light is increased?",
+    "Option1": "Increases",
+    "Option2": "Decreases",
+    "Option3": "Remains same",
+    "Option4": "Becomes infinity",
+    "Answer": "Decreases",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which formula is used to calculate the power of a DC circuit?",
+    "Option1": "Voltage x time",
+    "Option2": "Current x voltage",
+    "Option3": "Current x resistance",
+    "Option4": "Voltage x resistance",
+    "Answer": "Current x voltage",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Calculate the hot resistance of 200W / 250V rated lamp.",
+    "Option1": "31.25 Ω",
+    "Option2": "62.5 Ω",
+    "Option3": "312.5 Ω",
+    "Option4": "625 Ω",
+    "Answer": "312.5 Ω",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the value of resistance in an open circuit?",
+    "Option1": "Zero",
+    "Option2": "Low",
+    "Option3": "High",
+    "Option4": "Infinity",
+    "Answer": "Infinity",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which resistor the lowest current flows in a parallel circuit having the values of 50Ω 220Ω, 450Ω and 560Ω connected with supply?",
+    "Option1": "50Ω",
+    "Option2": "220Ω",
+    "Option3": "450Ω",
+    "Option4": "560Ω",
+    "Answer": "560Ω",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the specific resistance value of copper conductor?",
+    "Option1": "1.72 Ohm/cm3",
+    "Option2": "1.72 Micro ohm",
+    "Option3": "1.72 Micro ohm/cm3",
+    "Option4": "1.72 Micro ohm/m",
+    "Answer": "1.72 Micro ohm/cm3",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which is inversely proportional to the resistance of a conductor?",
+    "Option1": "Length",
+    "Option2": "Resistivity",
+    "Option3": "Temperature",
+    "Option4": "Area of cross section",
+    "Answer": "Area of cross section",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Calculate the total capacitance value in the circuit.",
+    "Option1": "0.16 μF",
+    "Option2": "6 μF",
+    "Option3": "30 μF",
+    "Option4": "70 μF",
+    "Answer": "6 μF",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/Electrician%2FSEM1%2FM5%2FM5-1.PNG?alt=media&token=54270c5a-9a84-4f10-9f61-7a31b5148405"
+  },
+  {
+    "Question": "What is the unit of capacitance?",
+    "Option1": "Mho",
+    "Option2": "Henry",
+    "Option3": "Farad",
+    "Option4": "Coulomb",
+    "Answer": "Farad",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the capacitance value of a capacitor that requires 0.5 coulomb to charge to 35 volt?",
+    "Option1": "0.014 F",
+    "Option2": "0.025 F",
+    "Option3": "0.14 F",
+    "Option4": "0.25 F",
+    "Answer": "0.014 F",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "How the value of capacitance can be decreased?",
+    "Option1": "Increasing the plate area",
+    "Option2": "Increasing the resistance of the plates",
+    "Option3": "Increasing the distance between the plates",
+    "Option4": "Using high dielectric constant material",
+    "Answer": "Increasing the distance between the plates",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which is the diamagnetic substance?",
+    "Option1": "Air",
+    "Option2": "Steel",
+    "Option3": "Water",
+    "Option4": "Platinum",
+    "Answer": "Water",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which factor affects the polarity of the electromagnet?",
+    "Option1": "Length of the coil",
+    "Option2": "Direction of current",
+    "Option3": "Strength of current",
+    "Option4": "Strength of the magnetic field",
+    "Answer": "Direction of current",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the unit of Magneto Motive Force (MMF)?",
+    "Option1": "Ampere / M2",
+    "Option2": "Ampere - M",
+    "Option3": "Ampere - turns",
+    "Option4": "Ampere / turns",
+    "Answer": "Ampere - turns",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the total inductance if 3 inductors (L1, L2 and L3) are connected in series?",
+    "Option1": "LT = L1 x L2 x L3",
+    "Option2": "LT = L1 + L2 + L3",
+    "Option3": "LT = (1/𝐿1) + (1/𝐿2) + (1/𝐿3)",
+    "Option4": "LT = 1 / 𝐿1+𝐿2+𝐿3",
+    "Answer": "LT = L1 + L2 + L3",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the unit of permeance?",
+    "Option1": "Ampere - turns",
+    "Option2": "Weber/Ampere turns",
+    "Option3": "Ampere turns/Weber",
+    "Option4": "Weber/Square metre",
+    "Answer": "Weber/Ampere turns",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which rule is applied to find the direction of magnetic fields in a solenoid coil?",
+    "Option1": "Cork screw rule",
+    "Option2": "Right hand palm rule",
+    "Option3": "Flemings left hand rule",
+    "Option4": "Flemings right hand rule",
+    "Answer": "Right hand palm rule",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Calculate the total value of capacitance of series capacitor circuit.",
+    "Option1": "4μfd",
+    "Option2": "10μfd",
+    "Option3": "15μfd",
+    "Option4": "40μfd",
+    "Answer": "40μfd",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/Electrician%2FSEM1%2FM5%2FM5-11.PNG?alt=media&token=4f20a914-ae17-43a6-864c-c8fd98339f4e"
+  },
+  {
+    "Question": "What precaution to be taken before connecting the different voltage rating capacitors in series?",
+    "Option1": "All the capacitors must be same manufacturer",
+    "Option2": "Each capacitors voltage drop must be less than its voltage rating",
+    "Option3": "Total capacitors value must be less than the lowest value of capacitor",
+    "Option4": "Break down voltage of each capacitor must be same",
+    "Answer": "Each capacitors voltage drop must be less than its voltage rating",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which material is the paramagnetic substance?",
+    "Option1": "Cleat wiring",
+    "Option2": "Copper",
+    "Option3": "Bismuth",
+    "Option4": "Graphite",
+    "Answer": "Copper",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the part marked as X in B.H curve?",
+    "Option1": "Coercivity",
+    "Option2": "Saturation point",
+    "Option3": "Magnetizing force",
+    "Option4": "Residual magnetism",
+    "Answer": "Coercivity",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/Electrician%2FSEM1%2FM5%2FM5-14.PNG?alt=media&token=8e68a074-76bf-403e-8170-f3af6cc0e2c7"
+  },
+  {
+    "Question": "What is the similar term in magnetic circuit for “conductance” in electrical circuit?",
+    "Option1": "Reluctivity",
+    "Option2": "Permeance",
+    "Option3": "Reluctance",
+    "Option4": "Permeability",
+    "Answer": "Permeance",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the unit of Reluctance?",
+    "Option1": "Weber / metre2",
+    "Option2": "Weber / metre",
+    "Option3": "Ampere turns / Weber",
+    "Option4": "Ampere turns / metre2",
+    "Answer": "Ampere turns / Weber",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which is the correct expression of capacitance C if the electric charge is Q and the voltage is V?",
+    "Option1": "C = Q/V",
+    "Option2": "C = V/Q",
+    "Option3": "C = VQ",
+    "Option4": "C = √𝑉𝑄",
+    "Answer": "C = Q/V",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  }
+]

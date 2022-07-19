@@ -1,0 +1,227 @@
+[
+  {
+    "Question": "What is actual deviation?",
+    "Option1": "Size and basic size",
+    "Option2": "Minimum limit of size",
+    "Option3": "Maximum limit of size",
+    "Option4": "Difference between limits of sizes",
+    "Answer": "Difference between limits of sizes",
+    "image": "https://firebasestorage.googleapis.com/v0/b/yash-c4f9c.appspot.com/o/no%20image.png?alt=media&token=f067c001-3ea1-4dc9-bb97-b57ff15d0432"
+  },
+  {
+    "Question": "What is called the greater of the two limit of sizes?",
+    "Option1": "Zero deviation",
+    "Option2": "Upper deviation",
+    "Option3": "Maximum limits of size",
+    "Option4": "Minimum limits of size",
+    "Answer": "Maximum limits of size",
+    "image": "https://firebasestorage.googleapis.com/v0/b/yash-c4f9c.appspot.com/o/no%20image.png?alt=media&token=f067c001-3ea1-4dc9-bb97-b57ff15d0432"
+  },
+  {
+    "Question": "What is indicated as H7?",
+    "Option1": "Fundamental deviation",
+    "Option2": "Actual deviation",
+    "Option3": "Upper deviation",
+    "Option4": "Lower deviation",
+    "Answer": "Fundamental deviation",
+    "image": "https://firebasestorage.googleapis.com/v0/b/yash-c4f9c.appspot.com/o/t226to250%2FQ141.PNG?alt=media&token=4c50f836-01cd-4d19-90b4-3f2c1c909e2d"
+  },
+  {
+    "Question": "What is the name of the term marked ‘X’?",
+    "Option1": "Minimum clearance",
+    "Option2": "Maximum clearance",
+    "Option3": "Minimum interferance",
+    "Option4": "Maximum interferance",
+    "Answer": "Minimum clearance",
+    "image": "https://firebasestorage.googleapis.com/v0/b/yash-c4f9c.appspot.com/o/t226to250%2FQ142.PNG?alt=media&token=1387f114-b10b-4014-82b4-f10c35e8ce12"
+  },
+  {
+    "Question": "What is a the type of fit?",
+    "Option1": "Clearance fit",
+    "Option2": "Transition fit",
+    "Option3": "Interferance fit",
+    "Option4": "Max clearance fit",
+    "Answer": "Transition fit",
+    "image": "https://firebasestorage.googleapis.com/v0/b/yash-c4f9c.appspot.com/o/t226to250%2FQ143.PNG?alt=media&token=2a39ea7d-808a-4b01-a7b9-993d7eba3e3e"
+  },
+  {
+    "Question": "Which is the type of fit?",
+    "Option1": "Sliding fit",
+    "Option2": "Clearance fit",
+    "Option3": "Interference fit",
+    "Option4": "Loose running fit",
+    "Answer": "Interference fit",
+    "image": "https://firebasestorage.googleapis.com/v0/b/yash-c4f9c.appspot.com/o/t226to250%2FQ144.PNG?alt=media&token=59aa0225-6652-44c7-838b-5d8490b0679c"
+  },
+  {
+    "Question": "What is name of the term marked as ‘X’?",
+    "Option1": "Maximum clearance",
+    "Option2": "Minimum clearance",
+    "Option3": "Minimum interference",
+    "Option4": "Maximum interference",
+    "Answer": "Maximum interference",
+    "image": "https://firebasestorage.googleapis.com/v0/b/yash-c4f9c.appspot.com/o/t226to250%2FQ145.PNG?alt=media&token=80175d1e-4554-449e-a61e-f201f24a01ed"
+  },
+  {
+    "Question": "What is the name of the fit?",
+    "Option1": "Push fit",
+    "Option2": "Clearance fit",
+    "Option3": "Transition fit",
+    "Option4": "Interference fit",
+    "Answer": "Clearance fit",
+    "image": "https://firebasestorage.googleapis.com/v0/b/yash-c4f9c.appspot.com/o/t226to250%2FQ146.PNG?alt=media&token=82739e54-2495-4efb-9b3e-7782cab43318"
+  },
+  {
+    "Question": "Which type of fit is shown?",
+    "Option1": "Transition fit",
+    "Option2": "Clearance fit",
+    "Option3": "Interference fit",
+    "Option4": "Minimmum interference",
+    "Answer": "Interference fit",
+    "image": "https://firebasestorage.googleapis.com/v0/b/yash-c4f9c.appspot.com/o/t226to250%2FQ147.PNG?alt=media&token=7b8ca280-7125-4294-a904-10825ff556eb"
+  },
+  {
+    "Question": "What is the name of the term marked ‘X’?",
+    "Option1": "Clearance fit",
+    "Option2": "Interference fit",
+    "Option3": "Minimum deviation",
+    "Option4": "Maximum deviation",
+    "Answer": "Interference fit",
+    "image": "https://firebasestorage.googleapis.com/v0/b/yash-c4f9c.appspot.com/o/t226to250%2FQ148.PNG?alt=media&token=f0395888-230b-435f-926f-3a7b3cb7c86d"
+  },
+  {
+    "Question": "What is the name of the term ‘X’?",
+    "Option1": "Minimum clearance",
+    "Option2": "Maximum clearance",
+    "Option3": "Minimum interference",
+    "Option4": "Maximum interference",
+    "Answer": "Maximum clearance",
+    "image": "https://firebasestorage.googleapis.com/v0/b/yash-c4f9c.appspot.com/o/t226to250%2FQ149.PNG?alt=media&token=6b3467d0-f236-41c5-9848-a06f78e3f3ae"
+  },
+  {
+    "Question": "What is the knurling pattern?",
+    "Option1": "Cross",
+    "Option2": "Concave",
+    "Option3": "Diamond",
+    "Option4": "Straight",
+    "Answer": "Diamond",
+    "image": "https://firebasestorage.googleapis.com/v0/b/yash-c4f9c.appspot.com/o/t226to250%2FQ150.PNG?alt=media&token=72fc909f-951f-40b6-869b-e809b0863863"
+  },
+  {
+    "Question": "What is Knurling?",
+    "Option1": "Forming operation",
+    "Option2": "Cutting operation",
+    "Option3": "Grooving operation",
+    "Option4": "Finishing operation",
+    "Answer": "Forming operation",
+    "image": "https://firebasestorage.googleapis.com/v0/b/yash-c4f9c.appspot.com/o/no%20image.png?alt=media&token=f067c001-3ea1-4dc9-bb97-b57ff15d0432"
+  },
+  {
+    "Question": "Which term refers the accuracy of manufacture?",
+    "Option1": "Actual size",
+    "Option2": "Actual deviation",
+    "Option3": "Grades of tolerence",
+    "Option4": "Fundamental deviation",
+    "Answer": "Grades of tolerence",
+    "image": "https://firebasestorage.googleapis.com/v0/b/yash-c4f9c.appspot.com/o/no%20image.png?alt=media&token=f067c001-3ea1-4dc9-bb97-b57ff15d0432"
+  },
+  {
+    "Question": "Calculate the upper deviation from the given data 20+0.008-0.005?",
+    "Option1": -0.003,
+    "Option2": -0.005,
+    "Option3": "+0.008",
+    "Option4": "+0.013",
+    "Answer": "+0.008",
+    "image": "https://firebasestorage.googleapis.com/v0/b/yash-c4f9c.appspot.com/o/no%20image.png?alt=media&token=f067c001-3ea1-4dc9-bb97-b57ff15d0432"
+  },
+  {
+    "Question": "What is the grade ITO1 related to fit?",
+    "Option1": "Clearance fit",
+    "Option2": "Transition fit",
+    "Option3": "Interference fit",
+    "Option4": "Precision fit",
+    "Answer": "Precision fit",
+    "image": "https://firebasestorage.googleapis.com/v0/b/yash-c4f9c.appspot.com/o/no%20image.png?alt=media&token=f067c001-3ea1-4dc9-bb97-b57ff15d0432"
+  },
+  {
+    "Question": "Calculate the maximum limit of size from the given data 100 +0.015/-0.010?",
+    "Option1": 100.015,
+    "Option2": 100.005,
+    "Option3": 99.085,
+    "Option4": 99.095,
+    "Answer": 100.015,
+    "image": "https://firebasestorage.googleapis.com/v0/b/yash-c4f9c.appspot.com/o/no%20image.png?alt=media&token=f067c001-3ea1-4dc9-bb97-b57ff15d0432"
+  },
+  {
+    "Question": "What is the term marked as ‘X’?",
+    "Option1": "Minimum clearance fit",
+    "Option2": "Maximum clearance fit",
+    "Option3": "Minimum interference fit",
+    "Option4": "Maximum interference fit",
+    "Answer": "Minimum interference fit",
+    "image": "https://firebasestorage.googleapis.com/v0/b/yash-c4f9c.appspot.com/o/t226to250%2F9.PNG?alt=media&token=d4d1eecf-4c24-4067-ad78-12f6b51b6595"
+  },
+  {
+    "Question": "What is 6 in the given expression of fit 30 H7 g6?",
+    "Option1": "Shaft size",
+    "Option2": "Type of fit",
+    "Option3": "Limit of sizes",
+    "Option4": "Grade of tolerance of shaft",
+    "Answer": "Grade of tolerance of shaft",
+    "image": "https://firebasestorage.googleapis.com/v0/b/yash-c4f9c.appspot.com/o/no%20image.png?alt=media&token=f067c001-3ea1-4dc9-bb97-b57ff15d0432"
+  },
+  {
+    "Question": "Calculate the tolerance from the given data Data: φ 30 +0.025 / -0.008?",
+    "Option1": -0.027,
+    "Option2": 0.033,
+    "Option3": "± 0.033",
+    "Option4": -0.033,
+    "Answer": 0.033,
+    "image": "https://firebasestorage.googleapis.com/v0/b/yash-c4f9c.appspot.com/o/no%20image.png?alt=media&token=f067c001-3ea1-4dc9-bb97-b57ff15d0432"
+  },
+  {
+    "Question": "Calculate the limits of the shaft 20H7g6 if upper limits is -7 and lower limit is -20?",
+    "Option1": "19.993,19.980",
+    "Option2": "20.007,19.962",
+    "Option3": "20.000,19.981",
+    "Option4": "20.005,19.996",
+    "Answer": "19.993,19.980",
+    "image": "https://firebasestorage.googleapis.com/v0/b/yash-c4f9c.appspot.com/o/no%20image.png?alt=media&token=f067c001-3ea1-4dc9-bb97-b57ff15d0432"
+  },
+  {
+    "Question": "What is the maximum interference in the given fit?",
+    "Option1": "0.001mm",
+    "Option2": "0.018mm",
+    "Option3": "0.028mm",
+    "Option4": "0.060mm",
+    "Answer": "0.018mm",
+    "image": "https://firebasestorage.googleapis.com/v0/b/yash-c4f9c.appspot.com/o/t226to250%2F10.PNG?alt=media&token=52bf1967-8a22-411a-97c8-f1ea3bd8ed28"
+  },
+  {
+    "Question": "Calculate the tolerance of 100e8 shaft from the given data minimum deviation – 72 maximum deviation- 126?",
+    "Option1": 0.054,
+    "Option2": 0.072,
+    "Option3": 0.078,
+    "Option4": 0.126,
+    "Answer": 0.054,
+    "image": "https://firebasestorage.googleapis.com/v0/b/yash-c4f9c.appspot.com/o/no%20image.png?alt=media&token=f067c001-3ea1-4dc9-bb97-b57ff15d0432"
+  },
+  {
+    "Question": "Calculate the tolerance from the given data 20 +0.021/-0.002?",
+    "Option1": -0.023,
+    "Option2": 0.023,
+    "Option3": -0.032,
+    "Option4": 0.032,
+    "Answer": 0.023,
+    "image": "https://firebasestorage.googleapis.com/v0/b/yash-c4f9c.appspot.com/o/no%20image.png?alt=media&token=f067c001-3ea1-4dc9-bb97-b57ff15d0432"
+  },
+  {
+    "Question": "What is the purpose of knurling operation?",
+    "Option1": "Good grip and appearances",
+    "Option2": "Good surface finish",
+    "Option3": "Deep hole",
+    "Option4": "Under cut",
+    "Answer": "Good grip and appearances",
+    "image": "https://firebasestorage.googleapis.com/v0/b/yash-c4f9c.appspot.com/o/no%20image.png?alt=media&token=f067c001-3ea1-4dc9-bb97-b57ff15d0432"
+  }
+]

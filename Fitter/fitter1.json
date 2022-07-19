@@ -1,0 +1,227 @@
+[
+  {
+    "Question": "Which one is the personal safety?",
+    "Option1": "Keep the machine clean",
+    "Option2": "Concentrate on your work",
+    "Option3": "Keep the gang way and floor clean",
+    "Option4": "Keep the tools at their proper place",
+    "Answer": "Concentrate on your work",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Name the mandatory symbol.",
+    "Option1": "Stop",
+    "Option2": "Give way",
+    "Option3": "Guarded",
+    "Option4": "Unguarded",
+    "Answer": "Stop",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/FITTER%2FFITTER%20SEM1%2F1TO25%2Ff2.PNG?alt=media&token=8619c3b2-2807-438b-af0a-2c1a279cb7e4"
+  },
+  {
+    "Question": "Flammable of liquifiables solids are classified as.",
+    "Option1": "Class A fire",
+    "Option2": "Class B fire",
+    "Option3": "Class C fire",
+    "Option4": "Class D fire",
+    "Answer": "Class B fire",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which is the immediate life saving procedure?",
+    "Option1": "First Aid",
+    "Option2": "Call a doctor",
+    "Option3": "Intensive care",
+    "Option4": "Medical treatment",
+    "Answer": "First Aid",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Name the warning sign.",
+    "Option1": "School",
+    "Option2": "Guarded",
+    "Option3": "Unguarded",
+    "Option4": "Pedestrian crossing",
+    "Answer": "Unguarded",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/FITTER%2FFITTER%20SEM1%2F1TO25%2Ff5.PNG?alt=media&token=decd8f3e-52b9-439f-bf12-154253b19461"
+  },
+  {
+    "Question": "What is the class of fire caused by fire wood, paper, cloth?",
+    "Option1": "Class A fire",
+    "Option2": "Class B fire",
+    "Option3": "Class C fire",
+    "Option4": "Class D fire",
+    "Answer": "Class A fire",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which fire extinguisher filled with carbon tetra chloride and bromochlorodifluoromethane (BCF)?",
+    "Option1": "Carbon dioxide",
+    "Option2": "Halon extinguisher",
+    "Option3": "Foam extinguisher",
+    "Option4": "Dry powder extinguisher",
+    "Answer": "Halon extinguisher",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which comes under mechanical occupational hazards?",
+    "Option1": "Noise",
+    "Option2": "Toxic",
+    "Option3": "Unskilled",
+    "Option4": "Unguarded machinery",
+    "Answer": "Unguarded machinery",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "How to stop bleeding of injured person?",
+    "Option1": "Tie bandage",
+    "Option2": "Apply oinment",
+    "Option3": "Apply tincture over the wound",
+    "Option4": "Apply pressure over the wound",
+    "Answer": "Apply pressure over the wound",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the name of sign?",
+    "Option1": "School",
+    "Option2": "Guarded",
+    "Option3": "Unguarded",
+    "Option4": "Pedestrian crossing",
+    "Answer": "Pedestrian crossing",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/FITTER%2FFITTER%20SEM1%2F1TO25%2Ff10.PNG?alt=media&token=19e06c83-683e-41bd-9bdc-8f646afa6413"
+  },
+  {
+    "Question": "What are the three factors causes fire?",
+    "Option1": "Fuel, Heat, Oxygen",
+    "Option2": "Oxygen, Fuel, Nitrogen",
+    "Option3": "Heat, Nitrogen, Oxygen",
+    "Option4": "Fuel, Carbon-dioxide, Heat",
+    "Answer": "Fuel, Heat, Oxygen",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the period referred as golden hours?",
+    "Option1": "First 30 minutes after incident",
+    "Option2": "First 30 minutes",
+    "Option3": "First 45 minutes of admission",
+    "Option4": "First 60 minutes after treatment",
+    "Answer": "First 30 minutes after incident",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the first step of avoiding accident in work place?",
+    "Option1": "By wearing safety equipment",
+    "Option2": "Doing things in one’s own way",
+    "Option3": "By observing safety precautions",
+    "Option4": "Doing things with a highly skilled working practice",
+    "Answer": "By observing safety precautions",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What does the symbol denotes?",
+    "Option1": "Stop",
+    "Option2": "Give way",
+    "Option3": "Pedestrian crossing",
+    "Option4": "Over taking prohibited",
+    "Answer": "Give way",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/FITTER%2FFITTER%20SEM1%2F1TO25%2Ff14.PNG?alt=media&token=d45fd594-83e1-4e39-8ef0-2c0cad4f7486"
+  },
+  {
+    "Question": "What is the colour code of bins for waste paper segregation?",
+    "Option1": "Red",
+    "Option2": "Blue",
+    "Option3": "Black",
+    "Option4": "Green",
+    "Answer": "Blue",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the kind of road sign?",
+    "Option1": "Police signal",
+    "Option2": "Cautionary sign",
+    "Option3": "Mandatory sign",
+    "Option4": "Information sign",
+    "Answer": "Information sign",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/FITTER%2FFITTER%20SEM1%2F1TO25%2Ff16.PNG?alt=media&token=344f0c43-ffc0-418b-86b2-47d8b3a1a4f2"
+  },
+  {
+    "Question": "Which fire extinguisher is used for flammable and running liquid fire?",
+    "Option1": "Foam extinguisher",
+    "Option2": "Halon extinguisher",
+    "Option3": "Dry powder extinguisher",
+    "Option4": "Carbon dioxide (CO2) extinguisher",
+    "Answer": "Foam extinguisher",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What A denotes in ABC of first aid?",
+    "Option1": "Air way",
+    "Option2": "Attention",
+    "Option3": "Arresting",
+    "Option4": "Atmosphere",
+    "Answer": "Air way",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the process of breaking down the materials into organic compounds and can be used as manure?",
+    "Option1": "Land fills",
+    "Option2": "Recycling",
+    "Option3": "Composting",
+    "Option4": "Burning waste material",
+    "Answer": "Composting",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the colour code for plastic waste bin?",
+    "Option1": "Red",
+    "Option2": "Blue",
+    "Option3": "Green",
+    "Option4": "Yellow",
+    "Answer": "Yellow",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Name the part of file marked as x .",
+    "Option1": "Heel",
+    "Option2": "Tang",
+    "Option3": "Ferrule",
+    "Option4": "File length",
+    "Answer": "Heel",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/FITTER%2FFITTER%20SEM1%2F1TO25%2Ff21.PNG?alt=media&token=88832395-6a11-4367-8c68-1ef87ca97a11"
+  },
+  {
+    "Question": "What is the use of a try square?",
+    "Option1": "To check right angle",
+    "Option2": "To check acute angle",
+    "Option3": "To check obtuse angle",
+    "Option4": "To check straight angle",
+    "Answer": "To check right angle",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which marking media is poisonous?",
+    "Option1": "White wash",
+    "Option2": "Prussian blue",
+    "Option3": "Copper sulphate",
+    "Option4": "Cellulose lacquer",
+    "Answer": "Copper sulphate",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which part of universal surface gauge holds\nthe scriber?",
+    "Option1": "Snug",
+    "Option2": "Guide pin",
+    "Option3": "Rocker arm",
+    "Option4": "Fine adjustment screw",
+    "Answer": "Snug",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the name of the vice?",
+    "Option1": "Pin vice",
+    "Option2": "Pipe vice",
+    "Option3": "Hand vice",
+    "Option4": "Quick releasing vice",
+    "Answer": "Hand vice",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/FITTER%2FFITTER%20SEM1%2F1TO25%2Ff25.PNG?alt=media&token=ead125c0-1862-4fe8-87e7-d4a7105f0a3e"
+  }
+]

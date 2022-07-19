@@ -1,0 +1,227 @@
+[
+  {
+    "Question": "What is the purpose of the centre shown in the figure?",
+    "Option1": "To drive soft jobs",
+    "Option2": "Support small size job",
+    "Option3": "Support with chamfer",
+    "Option4": "Support work where no centre hole permitted",
+    "Answer": "Support work where no centre hole permitted",
+    "image": "https://firebasestorage.googleapis.com/v0/b/yash-c4f9c.appspot.com/o/3.PNG?alt=media&token=a0361a1b-ae8c-449d-abff-c1b43c15a649"
+  },
+  {
+    "Question": "Where the driver pin is used?",
+    "Option1": "Driving plate",
+    "Option2": "Catch plate",
+    "Option3": "Angle plate",
+    "Option4": "Face plate",
+    "Answer": "Driving plate",
+    "image": "https://firebasestorage.googleapis.com/v0/b/yash-c4f9c.appspot.com/o/no%20image.png?alt=media&token=f067c001-3ea1-4dc9-bb97-b57ff15d0432"
+  },
+  {
+    "Question": "Which one of the below accessory has provided ‘U’ slot?",
+    "Option1": "Face plate",
+    "Option2": "Angle plate",
+    "Option3": "Catch plate",
+    "Option4": "Driving plate",
+    "Answer": "Catch plate",
+    "image": "https://firebasestorage.googleapis.com/v0/b/yash-c4f9c.appspot.com/o/no%20image.png?alt=media&token=f067c001-3ea1-4dc9-bb97-b57ff15d0432"
+  },
+  {
+    "Question": "Which accessory is used in between centre work?",
+    "Option1": "Face plate",
+    "Option2": "Catch plate",
+    "Option3": "Three chuck",
+    "Option4": "Four jaw chuck",
+    "Answer": "Catch plate",
+    "image": "https://firebasestorage.googleapis.com/v0/b/yash-c4f9c.appspot.com/o/no%20image.png?alt=media&token=f067c001-3ea1-4dc9-bb97-b57ff15d0432"
+  },
+  {
+    "Question": "Which one of the below is a work holding device?",
+    "Option1": "Catch plate",
+    "Option2": "Face plate",
+    "Option3": "Driving plate",
+    "Option4": "Four jaw chuck",
+    "Answer": "Four jaw chuck",
+    "image": "https://firebasestorage.googleapis.com/v0/b/yash-c4f9c.appspot.com/o/no%20image.png?alt=media&token=f067c001-3ea1-4dc9-bb97-b57ff15d0432"
+  },
+  {
+    "Question": "Which work holding method is to be used if, high degree of concentricity is needed?",
+    "Option1": "Face plate",
+    "Option2": "Four jaw chuck",
+    "Option3": "Three jaw chuck",
+    "Option4": "In between centres",
+    "Answer": "In between centres",
+    "image": "https://firebasestorage.googleapis.com/v0/b/yash-c4f9c.appspot.com/o/no%20image.png?alt=media&token=f067c001-3ea1-4dc9-bb97-b57ff15d0432"
+  },
+  {
+    "Question": "Which method of holding is used for lengthy work to avaid over hanging?",
+    "Option1": "In between centres",
+    "Option2": "In four jaw chuck",
+    "Option3": "In face plate",
+    "Option4": "Angle plate",
+    "Answer": "In between centres",
+    "image": "https://firebasestorage.googleapis.com/v0/b/yash-c4f9c.appspot.com/o/no%20image.png?alt=media&token=f067c001-3ea1-4dc9-bb97-b57ff15d0432"
+  },
+  {
+    "Question": "Which work holding device is used to hold irregular shaped work?",
+    "Option1": "4 Jaw chuck",
+    "Option2": "3 Jaw chuck",
+    "Option3": "Face Plate",
+    "Option4": "Catch plate",
+    "Answer": "Face Plate",
+    "image": "https://firebasestorage.googleapis.com/v0/b/yash-c4f9c.appspot.com/o/no%20image.png?alt=media&token=f067c001-3ea1-4dc9-bb97-b57ff15d0432"
+  },
+  {
+    "Question": "Where will be using the angle plate and counter weight?",
+    "Option1": "Face plate",
+    "Option2": "Catch plate",
+    "Option3": "Driving plate",
+    "Option4": "Four jaw chuck",
+    "Answer": "Face plate",
+    "image": "https://firebasestorage.googleapis.com/v0/b/yash-c4f9c.appspot.com/o/no%20image.png?alt=media&token=f067c001-3ea1-4dc9-bb97-b57ff15d0432"
+  },
+  {
+    "Question": "Which work holding device of lathe is require to balance for irregular job?",
+    "Option1": "Face plate",
+    "Option2": "Catch plate",
+    "Option3": "3 Jaw chuck",
+    "Option4": "Four Jaw chuck",
+    "Answer": "Face plate",
+    "image": "https://firebasestorage.googleapis.com/v0/b/yash-c4f9c.appspot.com/o/no%20image.png?alt=media&token=f067c001-3ea1-4dc9-bb97-b57ff15d0432"
+  },
+  {
+    "Question": "Which material is used for marking lathe bed?",
+    "Option1": "Pig iron",
+    "Option2": "Mild steel",
+    "Option3": "Grey cast iron",
+    "Option4": "Nodular cast iron",
+    "Answer": "Grey cast iron",
+    "image": "https://firebasestorage.googleapis.com/v0/b/yash-c4f9c.appspot.com/o/no%20image.png?alt=media&token=f067c001-3ea1-4dc9-bb97-b57ff15d0432"
+  },
+  {
+    "Question": "Which part of centre lathe make angular movement?",
+    "Option1": "Saddle",
+    "Option2": "Top slide",
+    "Option3": "Cross slide",
+    "Option4": "Compound slide",
+    "Answer": "Compound slide",
+    "image": "https://firebasestorage.googleapis.com/v0/b/yash-c4f9c.appspot.com/o/no%20image.png?alt=media&token=f067c001-3ea1-4dc9-bb97-b57ff15d0432"
+  },
+  {
+    "Question": "What is the purpose of square slot provided on the top of the pinion of a 3 jaw chuck is?",
+    "Option1": "To set chuck on machine",
+    "Option2": "To set the back on the machine",
+    "Option3": "To accommodate the chuck key",
+    "Option4": "To set the body of the chuck in spindle",
+    "Answer": "To accommodate the chuck key",
+    "image": "https://firebasestorage.googleapis.com/v0/b/yash-c4f9c.appspot.com/o/no%20image.png?alt=media&token=f067c001-3ea1-4dc9-bb97-b57ff15d0432"
+  },
+  {
+    "Question": "What is the swing over bed?",
+    "Option1": "Perpendicular distance from lathe and to the carriage",
+    "Option2": "Perpendicular distance from lathe axis to top of bed",
+    "Option3": "Distance between centres",
+    "Option4": "Length of the bed",
+    "Answer": "Perpendicular distance from lathe axis to top of bed",
+    "image": "https://firebasestorage.googleapis.com/v0/b/yash-c4f9c.appspot.com/o/no%20image.png?alt=media&token=f067c001-3ea1-4dc9-bb97-b57ff15d0432"
+  },
+  {
+    "Question": "What is the purpose of back gear unit in cone pulley headstock of a lathe?",
+    "Option1": "For helping step turning",
+    "Option2": "To double the spindle speed",
+    "Option3": "To get increased spindle speed",
+    "Option4": "To get reduced spindle speed",
+    "Answer": "To get reduced spindle speed",
+    "image": "https://firebasestorage.googleapis.com/v0/b/yash-c4f9c.appspot.com/o/no%20image.png?alt=media&token=f067c001-3ea1-4dc9-bb97-b57ff15d0432"
+  },
+  {
+    "Question": "Which type of thread cut on the screw shaft of an independent chuck?",
+    "Option1": "Left hand ‘V’ thread",
+    "Option2": "Right hand ‘V’ thread",
+    "Option3": "Left hand square",
+    "Option4": "Left hand acme thread",
+    "Answer": "Left hand square",
+    "image": "https://firebasestorage.googleapis.com/v0/b/yash-c4f9c.appspot.com/o/no%20image.png?alt=media&token=f067c001-3ea1-4dc9-bb97-b57ff15d0432"
+  },
+  {
+    "Question": "What is the use of gap bed lathe?",
+    "Option1": "To turn larger diameter work",
+    "Option2": "To turn small diameter work",
+    "Option3": "To turn irregular shaped work",
+    "Option4": "To turn lengthy work",
+    "Answer": "To turn larger diameter work",
+    "image": "https://firebasestorage.googleapis.com/v0/b/yash-c4f9c.appspot.com/o/no%20image.png?alt=media&token=f067c001-3ea1-4dc9-bb97-b57ff15d0432"
+  },
+  {
+    "Question": "Which part of the lathe helps to give angular movement during taper turning?",
+    "Option1": "Saddle",
+    "Option2": "Tool Post",
+    "Option3": "Cross slide",
+    "Option4": "Compound rest",
+    "Answer": "Cross slide",
+    "image": "https://firebasestorage.googleapis.com/v0/b/yash-c4f9c.appspot.com/o/no%20image.png?alt=media&token=f067c001-3ea1-4dc9-bb97-b57ff15d0432"
+  },
+  {
+    "Question": "Which part of the lathe gives perpendicular movement to the tool?",
+    "Option1": "Apron",
+    "Option2": "Tailstock",
+    "Option3": "Carriages",
+    "Option4": "Cross slide",
+    "Answer": "Cross slide",
+    "image": "https://firebasestorage.googleapis.com/v0/b/yash-c4f9c.appspot.com/o/no%20image.png?alt=media&token=f067c001-3ea1-4dc9-bb97-b57ff15d0432"
+  },
+  {
+    "Question": "Which part of the lathe is situated at right hand side of the lathe bed?",
+    "Option1": "Carriage",
+    "Option2": "Tool post",
+    "Option3": "Head stock",
+    "Option4": "Tailstock",
+    "Answer": "Tailstock",
+    "image": "https://firebasestorage.googleapis.com/v0/b/yash-c4f9c.appspot.com/o/no%20image.png?alt=media&token=f067c001-3ea1-4dc9-bb97-b57ff15d0432"
+  },
+  {
+    "Question": "Which lathe accessory is used to hold the previously bored job?",
+    "Option1": "Face plate",
+    "Option2": "Drive plate",
+    "Option3": "Mandrel",
+    "Option4": "Catch plate",
+    "Answer": "Mandrel",
+    "image": "https://firebasestorage.googleapis.com/v0/b/yash-c4f9c.appspot.com/o/no%20image.png?alt=media&token=f067c001-3ea1-4dc9-bb97-b57ff15d0432"
+  },
+  {
+    "Question": "What is the use of drive pin in drive plate?",
+    "Option1": "Hold the job",
+    "Option2": "To rotate the job",
+    "Option3": "To turn the job",
+    "Option4": "To locate the job",
+    "Answer": "To rotate the job",
+    "image": "https://firebasestorage.googleapis.com/v0/b/yash-c4f9c.appspot.com/o/no%20image.png?alt=media&token=f067c001-3ea1-4dc9-bb97-b57ff15d0432"
+  },
+  {
+    "Question": "Why the ball centre is used in taper turning by offset method?",
+    "Option1": "Minimum wear and strain",
+    "Option2": "Minimum friction",
+    "Option3": "Economical",
+    "Option4": "Easy setting",
+    "Answer": "Minimum wear and strain",
+    "image": "https://firebasestorage.googleapis.com/v0/b/yash-c4f9c.appspot.com/o/no%20image.png?alt=media&token=f067c001-3ea1-4dc9-bb97-b57ff15d0432"
+  },
+  {
+    "Question": "Where the bend type lathe carrier is engaged?",
+    "Option1": "Face plate",
+    "Option2": "Angle plate",
+    "Option3": "Catch plate",
+    "Option4": "Driving plate",
+    "Answer": "Catch plate",
+    "image": "https://firebasestorage.googleapis.com/v0/b/yash-c4f9c.appspot.com/o/no%20image.png?alt=media&token=f067c001-3ea1-4dc9-bb97-b57ff15d0432"
+  },
+  {
+    "Question": "How many speed will obtained from a 3 stepped cone pulley headstock of lathe with back gear arrangement?",
+    "Option1": 3,
+    "Option2": 4,
+    "Option3": 5,
+    "Option4": 6,
+    "Answer": 6,
+    "image": "https://firebasestorage.googleapis.com/v0/b/yash-c4f9c.appspot.com/o/no%20image.png?alt=media&token=f067c001-3ea1-4dc9-bb97-b57ff15d0432"
+  }
+]

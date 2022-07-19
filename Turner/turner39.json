@@ -1,0 +1,92 @@
+[
+  {
+    "Question": "How much diameter of bars can turn using capstan lathes?",
+    "Option1": "60 mm",
+    "Option2": "80 mm",
+    "Option3": "100 mm",
+    "Option4": "120 mm",
+    "Answer": "60 mm",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the name of tool holder?",
+    "Option1": "Knee turning tool holder",
+    "Option2": "Roller steady turning tool holder",
+    "Option3": "Recessing and boring tool holder",
+    "Option4": "Bar-stop and center drill tool holder",
+    "Answer": "Roller steady turning tool holder",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/sem4%20176to200%2F214.PNG?alt=media&token=1bf2a73d-9fc6-42e2-a311-eca64cddedf8"
+  },
+  {
+    "Question": "What is the name of tool holder?",
+    "Option1": "Combination facing and drilling holder",
+    "Option2": "Floating reamer holder",
+    "Option3": "Knee turning tool holder",
+    "Option4": "Combination tool holder",
+    "Answer": "Floating reamer holder",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/sem4%20176to200%2F215.PNG?alt=media&token=9359a19c-7b47-45c9-bfc8-fbe4a6547ef5"
+  },
+  {
+    "Question": "What is the name of tool holder?",
+    "Option1": "Knurling tool holder",
+    "Option2": "Drill holder",
+    "Option3": "Multiple cutter holder",
+    "Option4": "Boring bar holder",
+    "Answer": "Multiple cutter holder",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/sem4%20176to200%2F216.PNG?alt=media&token=c0f35138-116e-4b8d-a516-96fcffc69f82"
+  },
+  {
+    "Question": "What is the name of operation?",
+    "Option1": "Thread cutting",
+    "Option2": "Knurling",
+    "Option3": "Forming",
+    "Option4": "Die thread cutting",
+    "Answer": "Knurling",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/sem4%20176to200%2F217.PNG?alt=media&token=c8c0922a-0359-4f06-8db6-52a82af29a17"
+  },
+  {
+    "Question": "What is the maximum diameter of thread using self opening die heads?",
+    "Option1": "200 mm diameter",
+    "Option2": "100 mm diameter",
+    "Option3": "50 mm diameter",
+    "Option4": "30 mm diameter",
+    "Answer": "200 mm diameter",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which geometrical form indicated in the figure?",
+    "Option1": "Parallelism",
+    "Option2": "Squareness",
+    "Option3": "Flatness",
+    "Option4": "Straightness",
+    "Answer": "Straightness",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/sem4%20176to200%2F219.PNG?alt=media&token=643479e0-591a-4838-a4ab-6042dce37dd5"
+  },
+  {
+    "Question": "What is indicated in the given figure?",
+    "Option1": "Base",
+    "Option2": "Datum",
+    "Option3": "Parallelism",
+    "Option4": "Flatness",
+    "Answer": "Datum",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/sem4%20176to200%2F220.PNG?alt=media&token=2e4cee2d-7df6-4294-967c-b3403cd5c986"
+  },
+  {
+    "Question": "Which one of the following frames of geometrical tolerance belongs to altitude group of symbolizing characteristic of squareness?",
+    "Option1": "//",
+    "Option2": "I",
+    "Option3": "__",
+    "Option4": "□",
+    "Answer": "I",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the advantage of production lathe over center lathe?",
+    "Option1": "The manufacturing cost of components is more",
+    "Option2": "The manufacturing cost of component is less",
+    "Option3": "Initial cost is more",
+    "Option4": "Not suitable for tool room work",
+    "Answer": "The manufacturing cost of component is less",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  }
+]

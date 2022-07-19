@@ -1,0 +1,227 @@
+[
+  {
+    "Question": "What is the expanded form of ABC in first aid?",
+    "Option1": "Airway, blood and circulation",
+    "Option2": "Aspiration, blood and circulation",
+    "Option3": "Airway, breathing and circulation",
+    "Option4": "Aspiration, breathing and circulation",
+    "Answer": "Airway, breathing and circulation",
+    "image": "https://firebasestorage.googleapis.com/v0/b/yash-c4f9c.appspot.com/o/no%20image.png?alt=media&token=f067c001-3ea1-4dc9-bb97-b57ff15d0432"
+  },
+  {
+    "Question": "What is the standard colour code used for identifying the bin for the metal waste material?",
+    "Option1": "Red",
+    "Option2": "Blue",
+    "Option3": "Green",
+    "Option4": "Violet",
+    "Answer": "Red",
+    "image": "https://firebasestorage.googleapis.com/v0/b/yash-c4f9c.appspot.com/o/no%20image.png?alt=media&token=f067c001-3ea1-4dc9-bb97-b57ff15d0432"
+  },
+  {
+    "Question": "What is the meaning of ‘seiton’ in ‘5s’ of japanese methodology?",
+    "Option1": "Set",
+    "Option2": "Sort",
+    "Option3": "Shine",
+    "Option4": "Sustain",
+    "Answer": "Set",
+    "image": "https://firebasestorage.googleapis.com/v0/b/yash-c4f9c.appspot.com/o/no%20image.png?alt=media&token=f067c001-3ea1-4dc9-bb97-b57ff15d0432"
+  },
+  {
+    "Question": "Which safety practice refers, Do not wear the ring?",
+    "Option1": "Road safety",
+    "Option2": "General safety",
+    "Option3": "Machine safety",
+    "Option4": "Personal safety",
+    "Answer": "Personal safety",
+    "image": "https://firebasestorage.googleapis.com/v0/b/yash-c4f9c.appspot.com/o/no%20image.png?alt=media&token=f067c001-3ea1-4dc9-bb97-b57ff15d0432"
+  },
+  {
+    "Question": "Which one belongs to team work?",
+    "Option1": "Soft skill",
+    "Option2": "Hard skill",
+    "Option3": "Knowledge",
+    "Option4": "Technical skill",
+    "Answer": "Soft skill",
+    "image": "https://firebasestorage.googleapis.com/v0/b/yash-c4f9c.appspot.com/o/no%20image.png?alt=media&token=f067c001-3ea1-4dc9-bb97-b57ff15d0432"
+  },
+  {
+    "Question": "Which gas is used in Halon extinguisher?",
+    "Option1": "Hydrogen",
+    "Option2": "Carbon dioxided",
+    "Option3": "Carbon monoxide",
+    "Option4": "Carbon tetrachloride",
+    "Answer": "Hydrogen",
+    "image": "https://firebasestorage.googleapis.com/v0/b/yash-c4f9c.appspot.com/o/no%20image.png?alt=media&token=f067c001-3ea1-4dc9-bb97-b57ff15d0432"
+  },
+  {
+    "Question": "Which one is the golden hours related to first aid?",
+    "Option1": "First 15 minutes",
+    "Option2": "First 20 minutes",
+    "Option3": "First 30 minutes",
+    "Option4": "First 45 minutes",
+    "Answer": "First 30 minutes",
+    "image": "https://firebasestorage.googleapis.com/v0/b/yash-c4f9c.appspot.com/o/no%20image.png?alt=media&token=f067c001-3ea1-4dc9-bb97-b57ff15d0432"
+  },
+  {
+    "Question": "Which one is the cause for hazard in personal safety?",
+    "Option1": "Long hair",
+    "Option2": "Safety boots",
+    "Option3": "Buttons fastened",
+    "Option4": "Sleeve tightly rolled",
+    "Answer": "Long hair",
+    "image": "https://firebasestorage.googleapis.com/v0/b/yash-c4f9c.appspot.com/o/no%20image.png?alt=media&token=f067c001-3ea1-4dc9-bb97-b57ff15d0432"
+  },
+  {
+    "Question": "What is the correct sequence of the operation of a simple fire extinguisher?",
+    "Option1": "Pull, Aim squeeze & sweep",
+    "Option2": "Aim pull sweep and squeeze",
+    "Option3": "Squeeze aim pull and sweep",
+    "Option4": "Sweep Aim pull and squeeze",
+    "Answer": "Pull, Aim squeeze & sweep",
+    "image": "https://firebasestorage.googleapis.com/v0/b/yash-c4f9c.appspot.com/o/no%20image.png?alt=media&token=f067c001-3ea1-4dc9-bb97-b57ff15d0432"
+  },
+  {
+    "Question": "Which victim has given CPR immediately?",
+    "Option1": "Difficulty in breathing",
+    "Option2": "Severe head injury",
+    "Option3": "Severe blood loss",
+    "Option4": "Dehydration",
+    "Answer": "Difficulty in breathing",
+    "image": "https://firebasestorage.googleapis.com/v0/b/yash-c4f9c.appspot.com/o/no%20image.png?alt=media&token=f067c001-3ea1-4dc9-bb97-b57ff15d0432"
+  },
+  {
+    "Question": "What is the name of angle marked ‘X’?",
+    "Option1": "Web angle",
+    "Option2": "Rake angle",
+    "Option3": "Helix angle",
+    "Option4": "Point angle",
+    "Answer": "Point angle",
+    "image": "https://firebasestorage.googleapis.com/v0/b/yash-c4f9c.appspot.com/o/Q11.PNG?alt=media&token=29272956-7994-4664-9182-cd3a17544ebe"
+  },
+  {
+    "Question": "Which angle is preventing the cutting edge from rubbing action?",
+    "Option1": "Web angle",
+    "Option2": "Rake angle",
+    "Option3": "Clearance angle",
+    "Option4": "Point angle",
+    "Answer": "Clearance angle",
+    "image": "https://firebasestorage.googleapis.com/v0/b/yash-c4f9c.appspot.com/o/no%20image.png?alt=media&token=f067c001-3ea1-4dc9-bb97-b57ff15d0432"
+  },
+  {
+    "Question": "What is the drill point angle for drilling brass?",
+    "Option1": "140°",
+    "Option2": "130°",
+    "Option3": "120°",
+    "Option4": "118°",
+    "Answer": "140°",
+    "image": "https://firebasestorage.googleapis.com/v0/b/yash-c4f9c.appspot.com/o/no%20image.png?alt=media&token=f067c001-3ea1-4dc9-bb97-b57ff15d0432"
+  },
+  {
+    "Question": "What is the normal lip clearance angle for standard drill?",
+    "Option1": "2 °- 4°",
+    "Option2": "5° - 7°",
+    "Option3": "8° - 12°",
+    "Option4": "13° - 16°",
+    "Answer": "8° - 12°",
+    "image": "https://firebasestorage.googleapis.com/v0/b/yash-c4f9c.appspot.com/o/no%20image.png?alt=media&token=f067c001-3ea1-4dc9-bb97-b57ff15d0432"
+  },
+  {
+    "Question": "Which angle determines the rake angle at the cutting edge of twist drill?",
+    "Option1": "Wed angle",
+    "Option2": "Helix angle",
+    "Option3": "Point angle",
+    "Option4": "Clearance angle",
+    "Answer": "Helix angle",
+    "image": "https://firebasestorage.googleapis.com/v0/b/yash-c4f9c.appspot.com/o/no%20image.png?alt=media&token=f067c001-3ea1-4dc9-bb97-b57ff15d0432"
+  },
+  {
+    "Question": "What is the part marked ‘X’?",
+    "Option1": "Lip",
+    "Option2": "Land",
+    "Option3": "Flank",
+    "Option4": "Drill axis",
+    "Answer": "Land",
+    "image": "https://firebasestorage.googleapis.com/v0/b/yash-c4f9c.appspot.com/o/Q16.PNG?alt=media&token=4d36741c-797c-44b5-b262-c229b7f86726"
+  },
+  {
+    "Question": "What is the name of the machine?",
+    "Option1": "The sensitive drilling machine",
+    "Option2": "The pillar drilling machine",
+    "Option3": "The radial drilling machine",
+    "Option4": "The gang drilling machine",
+    "Answer": "The pillar drilling machine",
+    "image": "https://firebasestorage.googleapis.com/v0/b/yash-c4f9c.appspot.com/o/Q17.PNG?alt=media&token=11aead66-105f-4960-af4a-de5bf2a0dc05"
+  },
+  {
+    "Question": "What is the name of the part ‘X’?",
+    "Option1": "Side screw",
+    "Option2": "Guide plate",
+    "Option3": "Centre screw",
+    "Option4": "Adjusting screw",
+    "Answer": "Guide plate",
+    "image": "https://firebasestorage.googleapis.com/v0/b/yash-c4f9c.appspot.com/o/Q18.PNG?alt=media&token=15321724-cc22-4d92-9d5f-dcaa20b53a4d"
+  },
+  {
+    "Question": "What is the material of files?",
+    "Option1": "Cast iron",
+    "Option2": "Mild steel",
+    "Option3": "Low alloy steel",
+    "Option4": "High carbon steel",
+    "Answer": "High carbon steel",
+    "image": "https://firebasestorage.googleapis.com/v0/b/yash-c4f9c.appspot.com/o/no%20image.png?alt=media&token=f067c001-3ea1-4dc9-bb97-b57ff15d0432"
+  },
+  {
+    "Question": "What is the specification for shape of file?",
+    "Option1": "Cut",
+    "Option2": "Grades",
+    "Option3": "Length",
+    "Option4": "Cross section",
+    "Answer": "Cross section",
+    "image": "https://firebasestorage.googleapis.com/v0/b/yash-c4f9c.appspot.com/o/no%20image.png?alt=media&token=f067c001-3ea1-4dc9-bb97-b57ff15d0432"
+  },
+  {
+    "Question": "What is the name of the part marked as ‘x’?",
+    "Option1": "Hard jaw",
+    "Option2": "Soft jaw",
+    "Option3": "Fixed jaw",
+    "Option4": "Movable jaw",
+    "Answer": "Movable jaw",
+    "image": "https://firebasestorage.googleapis.com/v0/b/yash-c4f9c.appspot.com/o/Q21.PNG?alt=media&token=f67a3f61-1676-4cfa-89bf-1b40da63d962"
+  },
+  {
+    "Question": "What is the body material of bench vice?",
+    "Option1": "Cast iron",
+    "Option2": "Mild steel",
+    "Option3": "Wrought iron",
+    "Option4": "Hardend steel",
+    "Answer": "Cast iron",
+    "image": "https://firebasestorage.googleapis.com/v0/b/yash-c4f9c.appspot.com/o/no%20image.png?alt=media&token=f067c001-3ea1-4dc9-bb97-b57ff15d0432"
+  },
+  {
+    "Question": "Which is the internal part of a bench vice?",
+    "Option1": "Handle",
+    "Option2": "Box nut",
+    "Option3": "Fixed jaw",
+    "Option4": "Movable jaw",
+    "Answer": "Box nut",
+    "image": "https://firebasestorage.googleapis.com/v0/b/yash-c4f9c.appspot.com/o/no%20image.png?alt=media&token=f067c001-3ea1-4dc9-bb97-b57ff15d0432"
+  },
+  {
+    "Question": "What is the included angle of center punch?",
+    "Option1": "30°",
+    "Option2": "45°",
+    "Option3": "60°",
+    "Option4": "90°",
+    "Answer": "90°",
+    "image": "https://firebasestorage.googleapis.com/v0/b/yash-c4f9c.appspot.com/o/no%20image.png?alt=media&token=f067c001-3ea1-4dc9-bb97-b57ff15d0432"
+  },
+  {
+    "Question": "What is the included angle of prick punch used for marking light punch marks needed to position dividers?",
+    "Option1": "30°",
+    "Option2": "45°",
+    "Option3": "60°",
+    "Option4": "90°",
+    "Answer": "60°",
+    "image": "https://firebasestorage.googleapis.com/v0/b/yash-c4f9c.appspot.com/o/no%20image.png?alt=media&token=f067c001-3ea1-4dc9-bb97-b57ff15d0432"
+  }
+]

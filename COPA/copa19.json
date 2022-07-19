@@ -1,0 +1,226 @@
+[{
+        "Question": "Where does the transactions are entered, before taken to the appropriate ledger account?",
+        "Option1": "Balance sheet",
+        "Option2": "Journals",
+        "Option3": "Receipts",
+        "Option4": "Vouchers",
+        "Answer": "Journals",
+        "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+    },
+    {
+        "Question": "Which term is used for the amount invested for starting a business by a person?",
+        "Option1": "Asset",
+        "Option2": "Capital",
+        "Option3": "Debit",
+        "Option4": "Liabilities",
+        "Answer": "Capital",
+        "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+    },
+    {
+        "Question": "What is the purpose of Technological feature in Tally?",
+        "Option1": "Allows importing and exporting data",
+        "Option2": "Flexible units of measure",
+        "Option3": "Provides budgeting option",
+        "Option4": "Provides option for data backup",
+        "Answer": "Allows importing and exporting data",
+        "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+    },
+    {
+        "Question": "Which term is used for giving aspect of a transaction?",
+        "Option1": "Credit",
+        "Option2": "Debit",
+        "Option3": "Journal",
+        "Option4": "Voucher",
+        "Answer": "Credit",
+        "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+    },
+    {
+        "Question": "Which term is used for all the amounts payable by a business concern to outsiders?",
+        "Option1": "Assets",
+        "Option2": "Capitals",
+        "Option3": "Debits",
+        "Option4": "Liabilities",
+        "Answer": "Liabilities",
+        "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+    },
+    {
+        "Question": "Which is a statement of all the ledger account balance prepared at the end of particular period to verify the accuracy of the entries?",
+        "Option1": "Journals",
+        "Option2": "Receipts",
+        "Option3": "Trial Balance",
+        "Option4": "Vouchers",
+        "Answer": "Trial Balance",
+        "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+    },
+    {
+        "Question": "What is the purpose of Ctrl + Q key is the Gateway of Tally screen?",
+        "Option1": "Close the tally screen",
+        "Option2": "Quit tally current screen",
+        "Option3": "Exit with confirmation",
+        "Option4": "Exit without confirmation",
+        "Answer": "Exit without confirmation",
+        "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+    },
+    {
+        "Question": "What is the purpose of Alt + W key in Tally?",
+        "Option1": "Change the financial period",
+        "Option2": "Invoke Tally Reference Manual",
+        "Option3": "Open default web browser",
+        "Option4": "Exist Tally without confirmation",
+        "Answer": "Open default web browser",
+        "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+    },
+    {
+        "Question": "Which combination of function key is used to open inventory voucher’s entry menu?",
+        "Option1": "Alt + F1",
+        "Option2": "Alt + F3",
+        "Option3": "Alt + F5",
+        "Option4": "Alt + F7",
+        "Answer": "Alt + F1",
+        "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+    },
+    {
+        "Question": "Which combination of key is used to save the information in Tally?",
+        "Option1": "Ctrl + A",
+        "Option2": "Ctrl + I",
+        "Option3": "Ctrl + S",
+        "Option4": "Ctrl + X",
+        "Answer": "Ctrl + A",
+        "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+    },
+    {
+        "Question": "Which shortcut key is used to shut a company from the gateway of Tally screen?",
+        "Option1": "Alt + F1",
+        "Option2": "Alt + F3",
+        "Option3": "Alt + F5",
+        "Option4": "Alt + F7",
+        "Answer": "Alt + F1",
+        "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+    },
+    {
+        "Question": "Which register is used to post the journal entries periodically?",
+        "Option1": "Bill book",
+        "Option2": "Cash book",
+        "Option3": "Ledger",
+        "Option4": "Trial balance",
+        "Answer": "Ledger",
+        "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+    },
+    {
+        "Question": "Which sequence of option is used to view the trial balance on the screen?",
+        "Option1": "Gateway of Tally →Trial balance",
+        "Option2": "Gateway of Tally → Display → Trial Balance",
+        "Option3": "Gateway of Tally → Accounts Info → Trial Balance",
+        "Option4": "Geteway of Tally → Display → Account Book → Trial balance",
+        "Answer": "Gateway of Tally → Display → Trial Balance",
+        "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+    },
+    {
+        "Question": "Which report displays the summary of all the cost centres under a cost category?",
+        "Option1": "Category summary",
+        "Option2": "Cost centre Break-up",
+        "Option3": "Group Break-up",
+        "Option4": "Ledger break-up",
+        "Answer": "Category summary",
+        "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+    },
+    {
+        "Question": "Which function key is used to enter purchase?",
+        "Option1": "F6",
+        "Option2": "F7",
+        "Option3": "F8",
+        "Option4": "F9",
+        "Answer": "F9",
+        "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+    },
+    {
+        "Question": "Which function key is used to enter receipts?",
+        "Option1": "F2",
+        "Option2": "F4",
+        "Option3": "F6",
+        "Option4": "F8",
+        "Answer": "F6",
+        "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+    },
+    {
+        "Question": "Which shortcut key is used to open debit Note Voucher?",
+        "Option1": "Alt + F9",
+        "Option2": "Alt + F10",
+        "Option3": "Ctrl + F9",
+        "Option4": "Ctrl + F10",
+        "Answer": "Ctrl + F9",
+        "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+    },
+    {
+        "Question": "Which shortcut key is used to remove a line in a report in report screen?",
+        "Option1": "Alt + I",
+        "Option2": "Alt + R",
+        "Option3": "Alt + S",
+        "Option4": "Alt + X",
+        "Answer": "Alt + R",
+        "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+    },
+    {
+        "Question": "Which feature offers a parallel classification of stock item?",
+        "Option1": "Stock categories",
+        "Option2": "Stock group",
+        "Option3": "Stock item",
+        "Option4": "Stock query",
+        "Answer": "Stock categories",
+        "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+    },
+    {
+        "Question": "Which budget is prepared for a very short period?",
+        "Option1": "Current budget",
+        "Option2": "Long term budget",
+        "Option3": "Rolling budget",
+        "Option4": "Short term budget",
+        "Answer": "Current budget",
+        "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+    },
+    {
+        "Question": "Which ratio evaluate the availability of cash to pay debit?",
+        "Option1": "Activity ratio",
+        "Option2": "Debit ratio",
+        "Option3": "Liquidity ratio",
+        "Option4": "Market ratio",
+        "Answer": "Liquidity ratio",
+        "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+    },
+    {
+        "Question": "Which function key is used to enter payment?",
+        "Option1": "F3",
+        "Option2": "F5",
+        "Option3": "F7",
+        "Option4": "F9",
+        "Answer": "F5",
+        "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+    },
+    {
+        "Question": "Which report displays ledgers and group summary information for the selected cost centre?",
+        "Option1": "Category summary",
+        "Option2": "Cost centre Break-up",
+        "Option3": "Ledger break-up",
+        "Option4": "Group Break-up",
+        "Answer": "Cost centre Break-up",
+        "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+    },
+    {
+        "Question": "Which name indicates the decreasing value of an Asset?",
+        "Option1": "Current asset",
+        "Option2": "Depreciation",
+        "Option3": "Indirect expenses",
+        "Option4": "Sundry debitor",
+        "Answer": "Depreciation",
+        "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+    },
+    {
+        "Question": "Which shortcut key is used to cancel a voucher in Day book / List of vouchers in Tally?",
+        "Option1": "Alt + D",
+        "Option2": "Alt + I",
+        "Option3": "Alt + S",
+        "Option4": "Alt + X",
+        "Answer": "Alt + X",
+        "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+    }
+]

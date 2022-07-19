@@ -1,0 +1,227 @@
+[
+  {
+    "Question": "Which device is used to connect telephone line to a PC?",
+    "Option1": "Modem",
+    "Option2": "Monitor",
+    "Option3": "Printer",
+    "Option4": "Hard disk",
+    "Answer": "Modem",
+    "image": ""
+  },
+  {
+    "Question": "Which is a shortcut key for ‘Copy’ command?",
+    "Option1": "Ctrl + V",
+    "Option2": "Ctrl + C",
+    "Option3": "Ctrl + A",
+    "Option4": "Ctrl + X",
+    "Answer": "Ctrl + C",
+    "image": ""
+  },
+  {
+    "Question": "Which one is a “Don’t” of information security?",
+    "Option1": "Use hard to guess passwords",
+    "Option2": "Disclose password to anyone",
+    "Option3": "Take backup data of your PC periodically",
+    "Option4": "Encrypt laptop hard drive and mobile devices",
+    "Answer": "Disclose password to anyone",
+    "image": ""
+  },
+  {
+    "Question": "Which one is a cyber crime?",
+    "Option1": "Sending email",
+    "Option2": "Online purchasing",
+    "Option3": "Online gambling",
+    "Option4": "Chatting with friends",
+    "Answer": "Online gambling",
+    "image": ""
+  },
+  {
+    "Question": "Which one is a file management tool that comes with windows?",
+    "Option1": "Control panel",
+    "Option2": "Window explorer",
+    "Option3": "Desktop",
+    "Option4": "Notepad",
+    "Answer": "Window explorer",
+    "image": ""
+  },
+  {
+    "Question": "Which one is a search engine?",
+    "Option1": "Flickr",
+    "Option2": "Hotmail",
+    "Option3": "Facebook",
+    "Option4": "Google",
+    "Answer": "Google",
+    "image": ""
+  },
+  {
+    "Question": "Which one is a search engine?",
+    "Option1": "Flickr",
+    "Option2": "Orkut",
+    "Option3": "Hotmail",
+    "Option4": "yahoo",
+    "Answer": "yahoo",
+    "image": ""
+  },
+  {
+    "Question": "Which one is a social networking site?",
+    "Option1": "Outlook express",
+    "Option2": "Face book",
+    "Option3": "Lotus notes",
+    "Option4": "Mozilla",
+    "Answer": "Face book",
+    "image": ""
+  },
+  {
+    "Question": "Which one is a web browser?",
+    "Option1": "Face book",
+    "Option2": "Hot mail",
+    "Option3": "Internet explorer",
+    "Option4": "Outlook express",
+    "Answer": "Internet explorer",
+    "image": ""
+  },
+  {
+    "Question": "Which one is an input device?",
+    "Option1": "Speaker",
+    "Option2": "Joystick",
+    "Option3": "Monitor",
+    "Option4": "Printer",
+    "Answer": "Joystick",
+    "image": ""
+  },
+  {
+    "Question": "Which one is an output device of the computer?",
+    "Option1": "Printer",
+    "Option2": "MIC",
+    "Option3": "Mouse",
+    "Option4": "Keyboard",
+    "Answer": "Printer",
+    "image": ""
+  },
+  {
+    "Question": "Which one is NOT a storage device?",
+    "Option1": "Printer",
+    "Option2": "Video tape",
+    "Option3": "USB flash drive",
+    "Option4": "Memory card",
+    "Answer": "Printer",
+    "image": ""
+  },
+  {
+    "Question": "Which one is the disadvantage of social networking sites?",
+    "Option1": "Instant communication",
+    "Option2": "Make addictive",
+    "Option3": "Access to information",
+    "Option4": "Online marketing for business",
+    "Answer": "Make addictive",
+    "image": ""
+  },
+  {
+    "Question": "Which one of the following options shows the synonyms for a word, we type in MS word?",
+    "Option1": "Thesaurus",
+    "Option2": "Spell check",
+    "Option3": "Hyperlink",
+    "Option4": "Style",
+    "Answer": "Thesaurus",
+    "image": ""
+  },
+  {
+    "Question": "You withdraw Rs_500/- from an ATM_ The ATM machine gives out Rs_5000/-_ Which of the following would be ethically correct?",
+    "Option1": "Make a complaint",
+    "Option2": "Take the money",
+    "Option3": "Drop the money near ATM",
+    "Option4": "Give the money to the poor",
+    "Answer": "Make a complaint",
+    "image": ""
+  },
+  {
+    "Question": "“KAIZEN” means _______________",
+    "Option1": "self-discipline",
+    "Option2": "preventive maintenance",
+    "Option3": "sorting out",
+    "Option4": "continuous improvement",
+    "Answer": "continuous improvement",
+    "image": ""
+  },
+  {
+    "Question": "Choose the correct context of the given expression in group discussion” Excuse me, I would_________”",
+    "Option1": "Interrupting",
+    "Option2": "Agreeing",
+    "Option3": "Summarising",
+    "Option4": "Emphasizing a point",
+    "Answer": "Interrupting",
+    "image": ""
+  },
+  {
+    "Question": "Communication that involves exchanging information without use of words is called __________",
+    "Option1": "verbal communication",
+    "Option2": "pictorial communication",
+    "Option3": "written communication",
+    "Option4": "non verbal communication",
+    "Answer": "non verbal communication",
+    "image": ""
+  },
+  {
+    "Question": "Dedication to a particular work is called_________",
+    "Option1": "confidence",
+    "Option2": "commitment",
+    "Option3": "Intelligence",
+    "Option4": "integrity",
+    "Answer": "commitment",
+    "image": ""
+  },
+  {
+    "Question": "Dedication to a particular work is called_________",
+    "Option1": "integrity",
+    "Option2": "confidence",
+    "Option3": "commitment",
+    "Option4": "intelligence",
+    "Answer": "commitment",
+    "image": ""
+  },
+  {
+    "Question": "Expansions of SMS is___________",
+    "Option1": "Simple Message Service",
+    "Option2": "Short Mail Service",
+    "Option3": "Simple Memo Service",
+    "Option4": "Short Message Service",
+    "Answer": "Short Message Service",
+    "image": ""
+  },
+  {
+    "Question": "For “SMART” Goal, S stands for_________",
+    "Option1": "social",
+    "Option2": "scientific",
+    "Option3": "specific",
+    "Option4": "strength",
+    "Answer": "specific",
+    "image": ""
+  },
+  {
+    "Question": "Gesture “biting nails” shows __________",
+    "Option1": "boredom",
+    "Option2": "insecurity",
+    "Option3": "confidence",
+    "Option4": "defensiveness",
+    "Answer": "insecurity",
+    "image": ""
+  },
+  {
+    "Question": "Gesture “Brisk & erect walking” shows",
+    "Option1": "boredom",
+    "Option2": "defensiveness",
+    "Option3": "confidence",
+    "Option4": "insecurity",
+    "Answer": "confidence",
+    "image": ""
+  },
+  {
+    "Question": "Gesture “Brisk erect walk” shows__________",
+    "Option1": "insecurity",
+    "Option2": "boredom",
+    "Option3": "confidence",
+    "Option4": "defensiveness",
+    "Answer": "confidence",
+    "image": ""
+  }
+]

@@ -1,0 +1,227 @@
+[
+  {
+    "Question": "Which is the application of automatic stepped voltage stabilizer?",
+    "Option1": "Geyser",
+    "Option2": "Grinder",
+    "Option3": "Television",
+    "Option4": "Pump motor",
+    "Answer": "Television",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which is the function of an inverter?",
+    "Option1": "Converts A.C voltage into D.C voltage",
+    "Option2": "Converts D.C voltage into A.C voltage",
+    "Option3": "Converts D.C voltage into higher D.C voltage",
+    "Option4": "Converts A.C voltage into higher A.C voltage",
+    "Answer": "Converts D.C voltage into A.C voltage",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the purpose of output transformer in inverters?",
+    "Option1": "Step up input AC",
+    "Option2": "Step down input AC",
+    "Option3": "Step up AC from amplifier",
+    "Option4": "Step down AC from amplifier",
+    "Answer": "Step up AC from amplifier",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which type of output transformer is used in automatic voltage stabilizer?",
+    "Option1": "Auto transformer",
+    "Option2": "Static transformer",
+    "Option3": "Ring core type transformer",
+    "Option4": "Ferrite core type transformer",
+    "Answer": "Auto transformer",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which principle the constant voltage transformer works?",
+    "Option1": "Self-induction principle",
+    "Option2": "Fall in potential principle",
+    "Option3": "Ferro-resonant principle",
+    "Option4": "Mutual induction principle",
+    "Answer": "Ferro-resonant principle",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which transformer is used in servo voltage stabilizer?",
+    "Option1": "Step up transformer",
+    "Option2": "Step down transformer",
+    "Option3": "Torodial autotransformer",
+    "Option4": "Constant voltage transformer",
+    "Answer": "Torodial autotransformer",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the type of A.C voltage stabilizer?",
+    "Option1": "Servo voltage stabilizer",
+    "Option2": "Automatic voltage stabilizer",
+    "Option3": "Manual stepped voltage stabilizer",
+    "Option4": "Constant voltage transformer stabilize",
+    "Answer": "Manual stepped voltage stabilizer",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/Electrician%2FSEM4%2FElectrician38%2F157.PNG?alt=media&token=8eb44c3d-c6c1-4866-85ef-3f1b6d52445c"
+  },
+  {
+    "Question": "Which instrument is used to check short circuit faults in electronic circuit in voltage stabilizer?",
+    "Option1": "Ammeter",
+    "Option2": "Voltmeter",
+    "Option3": "Ohmmeter",
+    "Option4": "Multimeter",
+    "Answer": "Multimeter",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What are the important stages in a simple inverter?",
+    "Option1": "Oscillator and rectifier stages",
+    "Option2": "Oscillator and amplifier stages",
+    "Option3": "Amplifier and transformer output stages",
+    "Option4": "Oscillator, amplifier and transformer output stages",
+    "Answer": "Oscillator, amplifier and transformer output stages",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Where square wave inverters are used?",
+    "Option1": "Computers",
+    "Option2": "TV receiver",
+    "Option3": "DVD players",
+    "Option4": "General lighting",
+    "Answer": "General lighting",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "How the backup time of UPS can be increased?",
+    "Option1": "Increase the VA rating of UPS",
+    "Option2": "Increase the AH capacity of battery",
+    "Option3": "Decrease the AH capacity of battery",
+    "Option4": "Maintain battery terminal voltage always 90% of rating",
+    "Answer": "Increase the AH capacity of battery",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "How the hard sulphation defect in secondary cell can be prevented?",
+    "Option1": "Provide trickle charging",
+    "Option2": "Provide freshening charge",
+    "Option3": "Provide constant current charging",
+    "Option4": "Provide constant potential method charging",
+    "Answer": "Provide trickle charging",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which part in UPS supplies continuous output voltage in case of input voltage failure?",
+    "Option1": "Battery unit",
+    "Option2": "Inverter unit",
+    "Option3": "Rectifier unit",
+    "Option4": "Controller unit",
+    "Answer": "Battery unit",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the effect during loading of the cell, the current strength falls and become zero?",
+    "Option1": "Buckling",
+    "Option2": "Polarization",
+    "Option3": "Local action",
+    "Option4": "Amalgamation",
+    "Answer": "Polarization",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the reason for having low back up time in UPS?",
+    "Option1": "Fault in inverter circuit",
+    "Option2": "Battery is short circuited",
+    "Option3": "Mains earthing is not proper",
+    "Option4": "Ampere hour (A.H) capacity of battery is not sufficient",
+    "Answer": "Ampere hour (A.H) capacity of battery is not sufficient",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which is the cause for the fault if the output voltage of UPS is higher than normal?",
+    "Option1": "Battery get short circuited",
+    "Option2": "Defective feedback circuit",
+    "Option3": "Input voltage is very high",
+    "Option4": "Relay points are joined together",
+    "Answer": "Defective feedback circuit",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the reason for tripping the UPS with full load?",
+    "Option1": "Main supply failure",
+    "Option2": "Incorrect over load settings",
+    "Option3": "Battery charger input fuse blown out",
+    "Option4": "Loose connection in battery terminal",
+    "Answer": "Incorrect over load settings",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which fuel is available in plenty in India for power generation?",
+    "Option1": "Coal",
+    "Option2": "Diesel",
+    "Option3": "Gas oil",
+    "Option4": "Gasoline",
+    "Answer": "Coal",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which is the conventional power generation?",
+    "Option1": "Wind power generation",
+    "Option2": "Tidal power generation",
+    "Option3": "Solar power generation",
+    "Option4": "Thermal power generation",
+    "Answer": "Thermal power generation",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which material is used in solar cell?",
+    "Option1": "Silicon",
+    "Option2": "Copper",
+    "Option3": "Antimony",
+    "Option4": "Phosphorus",
+    "Answer": "Silicon",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the name of the atomic material used for nuclearfission in nuclear power station?",
+    "Option1": "Silicon",
+    "Option2": "Thorium",
+    "Option3": "Antimony",
+    "Option4": "Cadmium",
+    "Answer": "Thorium",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the name of the material used for making photovoltaic cell?",
+    "Option1": "Silicon",
+    "Option2": "Arsenic",
+    "Option3": "Antimony",
+    "Option4": "Germanium",
+    "Answer": "Silicon",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which is the non-conventional energy source?",
+    "Option1": "Wind",
+    "Option2": "Water",
+    "Option3": "Steam",
+    "Option4": "Diesel",
+    "Answer": "Wind",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which is the natural source of energy?",
+    "Option1": "Sun",
+    "Option2": "Heat",
+    "Option3": "Coal",
+    "Option4": "Biogas",
+    "Answer": "Sun",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Name the constituent marked as X’ of the schematic arrangement of hydro electric plant.",
+    "Option1": "Penstock",
+    "Option2": "Surge tank",
+    "Option3": "Valve house",
+    "Option4": "Power house",
+    "Answer": "Surge tank",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/Electrician%2FSEM4%2FElectrician38%2F175.PNG?alt=media&token=3ca3b01a-d244-4b00-ae2c-daf93683c91a"
+  }
+]

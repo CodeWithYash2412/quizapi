@@ -1,0 +1,227 @@
+[
+  {
+    "Question": "Which statement is used to execute code after try and catch?",
+    "Option1": "Finally",
+    "Option2": "Syntax error",
+    "Option3": "Throw",
+    "Option4": "Type error",
+    "Answer": "Finally",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which error indicates that the numbers is outside the range of legal values?",
+    "Option1": "Range Error",
+    "Option2": "Reference Error",
+    "Option3": "Type Error",
+    "Option4": "URI Error",
+    "Answer": "Range Error",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which error indicates that the variable used is not declared?",
+    "Option1": "Eval Error",
+    "Option2": "Range Error",
+    "Option3": "Reference Error",
+    "Option4": "Syntax Error",
+    "Answer": "Reference Error",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which error indicates that the value is outside the range of expected type?",
+    "Option1": "Eval Error",
+    "Option2": "Range Error",
+    "Option3": "Syntax Error",
+    "Option4": "Type Error",
+    "Answer": "Type Error",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which is used to acess individual value in an array?",
+    "Option1": "Content Number",
+    "Option2": "Element Number",
+    "Option3": "Table Number",
+    "Option4": "Variable Number",
+    "Answer": "Element Number",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the purpose of length property in array?",
+    "Option1": "Returns number of array element",
+    "Option2": "Returns number of characters",
+    "Option3": "Returns number of fields in object array",
+    "Option4": "Returns number of highest array index",
+    "Answer": "Returns number of array element",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which method joins all array element into string with specified separator?",
+    "Option1": "Join()",
+    "Option2": "Pop()",
+    "Option3": "Push()",
+    "Option4": "To string()",
+    "Answer": "Join()",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which method removes the last elements from an array?",
+    "Option1": "Join()",
+    "Option2": "Push()",
+    "Option3": "Pop()",
+    "Option4": "Shift()",
+    "Answer": "Pop()",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which method is used to add new element to an array?",
+    "Option1": "Join()",
+    "Option2": "Push()",
+    "Option3": "Pop()",
+    "Option4": "Shift()",
+    "Answer": "Push()",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which method removes the first array element?",
+    "Option1": "Join()",
+    "Option2": "Pop()",
+    "Option3": "Push()",
+    "Option4": "Shift()",
+    "Answer": "Shift()",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which variable works as function argument in java script?",
+    "Option1": "Function variable",
+    "Option2": "Global variable",
+    "Option3": "Local variable",
+    "Option4": "Object variable",
+    "Answer": "Local variable",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which variable declared outside a function in Javascript?",
+    "Option1": "Function variable",
+    "Option2": "Global variable",
+    "Option3": "Local variable",
+    "Option4": "Object variable",
+    "Answer": "Global variable",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which feature in Javascript has properties and methods?",
+    "Option1": "Array",
+    "Option2": "Function",
+    "Option3": "Object",
+    "Option4": "Controls",
+    "Answer": "Object",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which variable are deleted in JavaScript when the page is closed?",
+    "Option1": "Function variable",
+    "Option2": "Global variable",
+    "Option3": "Local variable",
+    "Option4": "Object variable",
+    "Answer": "Global variable",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which method is called at the moment of instentiation of an object?",
+    "Option1": "Constructor",
+    "Option2": "Inheritance",
+    "Option3": "Polymorphism",
+    "Option4": "Property",
+    "Answer": "Constructor",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which is an instance of class?",
+    "Option1": "Class",
+    "Option2": "Name space",
+    "Option3": "Object",
+    "Option4": "property",
+    "Answer": "Object",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which is window method is used to move the current window?",
+    "Option1": "Move()",
+    "Option2": "Move to()",
+    "Option3": "Window move()",
+    "Option4": "Window.move to()",
+    "Answer": "Window.move to()",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which is property returns the width of the visitor’s screen in pixels?",
+    "Option1": "Width()",
+    "Option2": "Screen width()",
+    "Option3": "Screen.width()",
+    "Option4": "Width.screen()",
+    "Answer": "Screen.width()",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which is property returns the URL of the current page?",
+    "Option1": "href()",
+    "Option2": "< herf >",
+    "Option3": "Location.herf",
+    "Option4": "herf.location",
+    "Answer": "< herf >",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which property is used to transfer files from one host to another host over internet?",
+    "Option1": "IP",
+    "Option2": "FTP",
+    "Option3": "HTTP",
+    "Option4": "SMTP",
+    "Answer": "FTP",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which open source software is used to upload from client to server or download from server to client?",
+    "Option1": "PHP",
+    "Option2": "Perl",
+    "Option3": "HTTP",
+    "Option4": "FILEZILLA",
+    "Answer": "FILEZILLA",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "How will javascript treat a number, when it is enclosed with double or single quotes?",
+    "Option1": "Error",
+    "Option2": "Number",
+    "Option3": "String",
+    "Option4": "Zero",
+    "Answer": "String",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What will be the output for the following Javascript code?",
+    "Option1": 16,
+    "Option2": 133,
+    "Option3": 1303,
+    "Option4": "13 03",
+    "Answer": 1303,
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/COPA%2Fsem2%2FM1-L3-1.PNG?alt=media&token=f7f710af-4699-4f5a-8afe-fb20e03e1e58"
+  },
+  {
+    "Question": "What will be the output, if the javascript code is executed",
+    "Option1": "Infinity",
+    "Option2": "Error",
+    "Option3": "No",
+    "Option4": "Yes",
+    "Answer": "Yes",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/COPA%2Fsem2%2FM1-L3-2.PNG?alt=media&token=be03ee28-c063-437c-91e3-ab713a5ad422"
+  },
+  {
+    "Question": "What is the output of the following javascript code?",
+    "Option1": "ITI GOVT",
+    "Option2": "ITIGOVT",
+    "Option3": "GOVTITI",
+    "Option4": "GOVT ITI",
+    "Answer": "GOVTITI",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/COPA%2Fsem2%2FM1-L3-3.PNG?alt=media&token=72e2df73-6638-4d6a-9c64-6f337ac0baee"
+  }
+]

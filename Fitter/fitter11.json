@@ -1,0 +1,227 @@
+[
+  {
+    "Question": "Which process blow out the cylinder valve socket before connecting the regulator?",
+    "Option1": "Cracking",
+    "Option2": "Back fire",
+    "Option3": "Flash back",
+    "Option4": "Pressure testing",
+    "Answer": "Cracking",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the oxygen cylinder colour?",
+    "Option1": "Red",
+    "Option2": "Blue",
+    "Option3": "Black",
+    "Option4": "Maroon",
+    "Answer": "Black",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the name of the part marked as X ?",
+    "Option1": "Handle",
+    "Option2": "Mixing chamber",
+    "Option3": "Oxygen control value",
+    "Option4": "Acetylene control value",
+    "Answer": "Oxygen control value",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/FITTER%2FFITTER%20SEM1%2F251TO275%2Ff253.PNG?alt=media&token=503cdcbe-7b4b-4919-a644-b0636ece2f45"
+  },
+  {
+    "Question": "What is the name of PPE?",
+    "Option1": "Portable screen",
+    "Option2": "Chipping goggles",
+    "Option3": "Welding hand screen",
+    "Option4": "Welding helmet screen",
+    "Answer": "Welding hand screen",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/FITTER%2FFITTER%20SEM1%2F251TO275%2Ff254.PNG?alt=media&token=a43648d9-81da-40f9-a716-7ee6542d3c0a"
+  },
+  {
+    "Question": "What is the purpose of cellulosic electrode\nin arc welding process?",
+    "Option1": "Very easy to remove the deposited slag",
+    "Option2": "Used for high strength steel",
+    "Option3": "It is used for low carbon steel",
+    "Option4": "It is suitable for all position",
+    "Answer": "Very easy to remove the deposited slag",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the name of the part marked as X ?",
+    "Option1": "Preheat control valve",
+    "Option2": "Oxygen control valve",
+    "Option3": "Horizontal adjustment",
+    "Option4": "Vertical adjustment",
+    "Answer": "Vertical adjustment",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/FITTER%2FFITTER%20SEM1%2F251TO275%2Ff256.PNG?alt=media&token=33c634ae-1e2d-4015-85de-f53a756a1e23"
+  },
+  {
+    "Question": "What is the storing capacity of oxygen\ncylinder?",
+    "Option1": "7 m3",
+    "Option2": "10 m3",
+    "Option3": "14 m3",
+    "Option4": "15 m3",
+    "Answer": "7 m3",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the equipment used to protect the\nbody from flying spark during gas cutting?",
+    "Option1": "Leather cap",
+    "Option2": "Leather apron",
+    "Option3": "Leather shoes",
+    "Option4": "Cutting goggles",
+    "Answer": "Leather apron",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "How to extinguish the flame after use in\ngas welding?",
+    "Option1": "Shut off oxygen and dip blow pipe in water",
+    "Option2": "Shut off oxygen and acetylene valve at a time",
+    "Option3": "Shut off oxygen valve first next acetylene valve",
+    "Option4": "Shut off acetylene valve first next oxygen valve",
+    "Answer": "Shut off acetylene valve first next oxygen valve",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Why humming sound effects during arc welding?",
+    "Option1": "Long arc length",
+    "Option2": "Speedy welding",
+    "Option3": "Short arc welding",
+    "Option4": "Normal arc length",
+    "Answer": "Long arc length",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which internal defect in welding is invisible to naked eye?",
+    "Option1": "Spatter",
+    "Option2": "Porasity",
+    "Option3": "Undercut",
+    "Option4": "Stray arc",
+    "Answer": "Porasity",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the name the specification of lathe marked as X?",
+    "Option1": "Bed length",
+    "Option2": "Centre height",
+    "Option3": "Swing diameter",
+    "Option4": "none of above",
+    "Answer": "Centre height",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/FITTER%2FFITTER%20SEM1%2F251TO275%2FFI201.PNG?alt=media&token=41dad999-06ad-43db-a820-6ddde935fef8"
+  },
+  {
+    "Question": "What is the purpose of back gear unit in lathe machine?",
+    "Option1": "Reduce the spindle speed",
+    "Option2": "Increase the spindle speed",
+    "Option3": "Quick change spindle speed",
+    "Option4": "Quick change spindle speed",
+    "Answer": "Reduce the spindle speed",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the name of gauge?",
+    "Option1": "Ring gauge",
+    "Option2": "Screw Pitch gauge",
+    "Option3": "Feeler gauge",
+    "Option4": "none of above",
+    "Answer": "Screw Pitch gauge",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/FITTER%2FFITTER%20SEM1%2F251TO275%2FFI203.PNG?alt=media&token=1ca12133-9349-475d-8ff0-b75cd3f3b81b"
+  },
+  {
+    "Question": "What is the range of pitch that can be measured by screw thread micrometer?",
+    "Option1": "0.01 to 0.5 mm",
+    "Option2": "0.02 to 3.5 mm",
+    "Option3": "0.25 to 3.5 mm",
+    "Option4": "none of above",
+    "Answer": "0.25 to 3.5 mm",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the range of metric screw thread dimension is measured by screw thread micrometer?",
+    "Option1": "M1 to M6",
+    "Option2": "M1 to M12",
+    "Option3": "M1 to M30",
+    "Option4": "M1 to M40",
+    "Answer": "M1 to M30",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which chart is used to record the skill of the operator in practice?",
+    "Option1": "Testing chart",
+    "Option2": "Levelling chart",
+    "Option3": "Geometric chart",
+    "Option4": "Performance chart",
+    "Answer": "Performance chart",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which bearing withstands load is parallel to its axis?",
+    "Option1": "Needle bearing",
+    "Option2": "Thrust bearing",
+    "Option3": "Plain bearing",
+    "Option4": "Split bearing",
+    "Answer": "Thrust bearing",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which belongs to Total Productive Maintenance?",
+    "Option1": "Supply defective goods to the customers",
+    "Option2": "Unscheduled maintenance",
+    "Option3": "Produces goods without increasing product quality",
+    "Option4": "Reduces maintenance cost",
+    "Answer": "Reduces maintenance cost",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the high level formula for the lean manufacturing OEE?",
+    "Option1": "Availability x Quantity x Quality",
+    "Option2": "Availability x Productivity x Quality",
+    "Option3": "Product output x Quality x Availability",
+    "Option4": "Product output x Quantity x Quality",
+    "Answer": "Availability x Productivity x Quality",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Identify the method of assembly",
+    "Option1": "Dowelling",
+    "Option2": "Pinning",
+    "Option3": "Peening",
+    "Option4": "Staking",
+    "Answer": "Dowelling",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/FITTER%2FFITTER%20SEM1%2F251TO275%2FFI210.PNG?alt=media&token=df4097d4-144c-4ed9-9e78-b179d150b1b5"
+  },
+  {
+    "Question": "Identify the type of bolt?",
+    "Option1": "Bolt with clearance hole",
+    "Option2": "Body fit bolt",
+    "Option3": "Anti-fatigue bolt",
+    "Option4": "T bolt",
+    "Answer": "Bolt with clearance hole",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/FITTER%2FFITTER%20SEM1%2F251TO275%2FFI211.PNG?alt=media&token=7007759a-5e3e-4168-a91e-b6309db13025"
+  },
+  {
+    "Question": "Name the type of part shown in assembly technique.",
+    "Option1": "Taper pin",
+    "Option2": "Split pin",
+    "Option3": "Cotter pin",
+    "Option4": "Spring pin",
+    "Answer": "Cotter pin",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/FITTER%2FFITTER%20SEM1%2F251TO275%2FFI212.PNG?alt=media&token=ccdc2fd6-81e0-44eb-8149-5dd5da314350"
+  },
+  {
+    "Question": "What is the use of dowel in assembly technique?",
+    "Option1": "Accurate positioning of two or more parts",
+    "Option2": "Securing components together",
+    "Option3": "Eliminate the need for drilling",
+    "Option4": "Increase the efficiency of fit",
+    "Answer": "Accurate positioning of two or more parts",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which maintenance record mention the date of commissioning of machine?",
+    "Option1": "Inspection check list",
+    "Option2": "Equipment record",
+    "Option3": "Product manual",
+    "Option4": "Servicing manual",
+    "Answer": "Equipment record",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  }
+]

@@ -1,0 +1,227 @@
+[
+  {
+    "Question": "What is the full form of EDI?",
+    "Option1": "Electronic Data Interchange",
+    "Option2": "Electronic Direct Interchange",
+    "Option3": "Electronic Data Information",
+    "Option4": "Electronic Data Interconnection",
+    "Answer": "Electronic Data Interchange",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the abbreviation of CGI?",
+    "Option1": "Computer Gateway Interface",
+    "Option2": "Common Gateway Interface",
+    "Option3": "Computer Gateway Interconnection",
+    "Option4": "Common Gateway Interconnection",
+    "Answer": "Common Gateway Interface",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which type of E - Commerce is payment Gateway?",
+    "Option1": "b2b",
+    "Option2": "b2c",
+    "Option3": "g2c",
+    "Option4": "g2b",
+    "Answer": "g2c",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which type of E - Commerce is tenders and submission of application?",
+    "Option1": "b2b",
+    "Option2": "b2c",
+    "Option3": "g2c",
+    "Option4": "g2b",
+    "Answer": "g2b",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which type of E - Commerce is Amazon?",
+    "Option1": "b2b",
+    "Option2": "b2c",
+    "Option3": "g2b",
+    "Option4": "g2c",
+    "Answer": "b2c",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is called sale or purchase of items without physically visiting a shop?",
+    "Option1": "E - Commerce",
+    "Option2": "POS",
+    "Option3": "Traditional Commerce",
+    "Option4": "E - Service",
+    "Answer": "E - Commerce",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which scope of E- Commerce business platforms like amazon, ebay, etc?",
+    "Option1": "National",
+    "Option2": "Local",
+    "Option3": "Global",
+    "Option4": "Virtual",
+    "Answer": "Global",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the full form of COD in E -Commerce?",
+    "Option1": "Cash on Delivery",
+    "Option2": "Cash on Demand",
+    "Option3": "Commerce on Delivery",
+    "Option4": "Cart on Delivery",
+    "Answer": "Cash on Delivery",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which one is E - Commerce site?",
+    "Option1": "Yahoo",
+    "Option2": "Bing",
+    "Option3": "Google",
+    "Option4": "Amazon",
+    "Answer": "Amazon",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which one is a online payment?",
+    "Option1": "Flipkart",
+    "Option2": "Paytm",
+    "Option3": "Gmail",
+    "Option4": "Reliance jio",
+    "Answer": "Paytm",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which type of attack is a method of defeating a cryptographic scheme of trying a large number of possibilities?",
+    "Option1": "Teardrop attack",
+    "Option2": "Brute force attack",
+    "Option3": "Phlashing",
+    "Option4": "Smurf attack",
+    "Answer": "Brute force attack",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which is the model in E - Commerce, if the seller and buyer are both business firms?",
+    "Option1": "Consumer to Business",
+    "Option2": "Business to Consumer",
+    "Option3": "Business to Business",
+    "Option4": "Consumer to Consumer",
+    "Answer": "Business to Business",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which is the model in E - Commerce, if the seller is a business and the individual is an consumer?",
+    "Option1": "Consumer to Business",
+    "Option2": "Business to Consumer",
+    "Option3": "Business to Business",
+    "Option4": "Consumer to Consumer",
+    "Answer": "Business to Consumer",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which is the model in E - Commerce, if the seller is an individual and the buyer is a business firm?",
+    "Option1": "Consumer to Business",
+    "Option2": "Business to Consumer",
+    "Option3": "Business to Business",
+    "Option4": "Consumer to Consumer",
+    "Answer": "Consumer to Business",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which is the model in E - Commerce, if the seller and the buyer are the both individuals?",
+    "Option1": "Consumer to Business",
+    "Option2": "Business to Consumer",
+    "Option3": "Business to Business",
+    "Option4": "Consumer to Consumer",
+    "Answer": "Consumer to Consumer",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which option in E - Commerce, helps to keep selected products until checkout / payment?",
+    "Option1": "Basket",
+    "Option2": "Cart",
+    "Option3": "Tray",
+    "Option4": "COD",
+    "Answer": "Cart",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which is the function of specifying access rights to resources related to information security?",
+    "Option1": "OTP",
+    "Option2": "Pin",
+    "Option3": "Authoriztion",
+    "Option4": "Passcode",
+    "Answer": "Authoriztion",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which refers to paying the money back to the buyer after the price has been deducted from the account?",
+    "Option1": "Refund",
+    "Option2": "Return",
+    "Option3": "Deduction",
+    "Option4": "Charge bace",
+    "Answer": "Refund",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which card permits online payment using balance amount available in bank account?",
+    "Option1": "Credit card",
+    "Option2": "Paypal",
+    "Option3": "Debit card",
+    "Option4": "Wallet",
+    "Answer": "Debit card",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which is the set of rules that limits access to information?",
+    "Option1": "Availability",
+    "Option2": "Integrity",
+    "Option3": "Authenticity",
+    "Option4": "Confidentiality",
+    "Answer": "Confidentiality",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which is the process of ensuring the data, transactions, communication or documents are genuine?",
+    "Option1": "Availability",
+    "Option2": "Integrity",
+    "Option3": "Authenticity",
+    "Option4": "Confidentiality",
+    "Answer": "Authenticity",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the purpose of OLX web site?",
+    "Option1": "Uploading Files",
+    "Option2": "Buying and selling products",
+    "Option3": "Searching Documents",
+    "Option4": "Recovering files",
+    "Answer": "Buying and selling products",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which of the following authenticates and handles credit card payment for E-Commerce?",
+    "Option1": "Payment gateway",
+    "Option2": "E - Commerce gateway",
+    "Option3": "Software gateway",
+    "Option4": "E-Wallets",
+    "Answer": "Payment gateway",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the another name called PDoS?",
+    "Option1": "Brute force attack",
+    "Option2": "Non technical attack",
+    "Option3": "Phlashing",
+    "Option4": "Smurf attack",
+    "Answer": "Phlashing",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "When the Indian parliament passed the IT Act?",
+    "Option1": 1990,
+    "Option2": 1992,
+    "Option3": 2000,
+    "Option4": 2005,
+    "Answer": 2000,
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  }
+]

@@ -1,0 +1,227 @@
+[
+  {
+    "Question": "What is the total turn-on time (ton) while transistor makes a transition from V2 to V1?",
+    "Option1": "ton= tr - ts",
+    "Option2": "ton= tr - td",
+    "Option3": "ton= td + tr",
+    "Option4": "ton= tr+ td+ ts",
+    "Answer": "ton= td + tr",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/Electrician%2FSEM4%2FElectrician34%2F51.PNG?alt=media&token=5b2e0e40-4b58-45aa-83f1-7a5264008a43"
+  },
+  {
+    "Question": "Which device is made up of using the methods of point contact, grown, diffusion and alloy junctions?",
+    "Option1": "Inductor",
+    "Option2": "Resistor",
+    "Option3": "Capacitor",
+    "Option4": "Transistor",
+    "Answer": "Transistor",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Why the collector region is physically made larger than emitter region in a transistor?",
+    "Option1": "It has to dissipate more heat",
+    "Option2": "Output taken from collector terminal",
+    "Option3": "Base collector region is reverse biased",
+    "Option4": "Collector region always operate with high voltage",
+    "Answer": "It has to dissipate more heat",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the function of a transistor if emitter to base and collector to base are forward biased?",
+    "Option1": "Acts as an amplifier",
+    "Option2": "Acts as an oscillator",
+    "Option3": "Acts as an open circuit",
+    "Option4": "Acts as a closed switch",
+    "Answer": "Acts as a closed switch",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the main advantage of a class A amplifier?",
+    "Option1": "Minimum distortion",
+    "Option2": "Maximum current gain",
+    "Option3": "Maximum voltage gain",
+    "Option4": "Minimum signal to noise ratio losses",
+    "Answer": "Minimum distortion",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which electronic circuit produces signal waves or pulses without an input?",
+    "Option1": "Detector",
+    "Option2": "Amplifier",
+    "Option3": "Oscillator",
+    "Option4": "Modulator",
+    "Answer": "Oscillator",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which circuit is essential to maintain oscillations or waves in an oscillator circuit?",
+    "Option1": "Rectifier with filter",
+    "Option2": "Voltage multiplier",
+    "Option3": "Negative feed back",
+    "Option4": "Positive feed back",
+    "Answer": "Positive feed back",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the main application of uni junction transistor?",
+    "Option1": "Rectification",
+    "Option2": "Amplification",
+    "Option3": "Regulator circuits",
+    "Option4": "Triggering circuits",
+    "Answer": "Triggering circuits",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which device has very high input impedance, low noise output, good linearity and low inter electrode capacity?",
+    "Option1": "NPN transistor",
+    "Option2": "PNP transistor",
+    "Option3": "Field effect transistor",
+    "Option4": "Uni junction transistor",
+    "Answer": "Field effect transistor",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the difference in current control of MOSFET compared to JFETs?",
+    "Option1": "Insulating layer instead of junction",
+    "Option2": "Using N material instead of P material",
+    "Option3": "Using P material instead of N material",
+    "Option4": "Using N material gate instead of P material",
+    "Answer": "Insulating layer instead of junction",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the type of amplifier circuit?",
+    "Option1": "Common base amplifier",
+    "Option2": "Common emitter amplifier",
+    "Option3": "Class B push pull amplifier",
+    "Option4": "Common collector amplifier",
+    "Answer": "Common collector amplifier",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/Electrician%2FSEM4%2FElectrician34%2F61.PNG?alt=media&token=e05fa937-4ff1-4440-90b1-785e9c3a3e57"
+  },
+  {
+    "Question": "What is the peak voltage of 220v rms AC voltage?",
+    "Option1": "310.02 V",
+    "Option2": "311.17 V",
+    "Option3": "312.25 V",
+    "Option4": "315.20 V",
+    "Answer": "311.17 V",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "How the input impedance of CRO can be increased?",
+    "Option1": "By adding resistance to CRO probe",
+    "Option2": "By adding resistance to trigger level circuit",
+    "Option3": "By increasing time/base attenuator switch position",
+    "Option4": "By increasing volts/cm attenuator switch position",
+    "Answer": "By adding resistance to CRO probe",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the frequency of the displayed signal on CRO screen covered by 5 division with a time base setting of 0.2 micro seconds?",
+    "Option1": "1.0 KHz",
+    "Option2": "10.0 KHz",
+    "Option3": "100.0 KHz",
+    "Option4": "1000.0 KHz",
+    "Answer": "1000.0 KHz",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What defect will occur in the radio, if the pulsations are not removed from the input of the rectifier?",
+    "Option1": "Improper tuning",
+    "Option2": "No response",
+    "Option3": "Humming sound",
+    "Option4": "Works with low volume",
+    "Answer": "Humming sound",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "How does the depletion region behave?",
+    "Option1": "As resistor",
+    "Option2": "As insulator",
+    "Option3": "As conductor",
+    "Option4": "As semi conductor",
+    "Answer": "As insulator",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the power gain of CE amplifier with a voltage gain of 66 and ß(Beta) of the transistor is 100?",
+    "Option1": 1.5,
+    "Option2": 166,
+    "Option3": 0.66,
+    "Option4": 6600,
+    "Answer": 6600,
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the effect, if SCR is latched into conduction and gate current is removed in DC?",
+    "Option1": "SCR gets cut off",
+    "Option2": "Current through SCR OFF",
+    "Option3": "Output voltage will be reduced",
+    "Option4": "Gate looses control over conduction",
+    "Answer": "Gate looses control over conduction",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the effect of pinch-off voltage in JFET?",
+    "Option1": "No depletion region exists",
+    "Option2": "Drain current becomes zero",
+    "Option3": "Reverse bias voltage becomes zero",
+    "Option4": "Width of channel has maximum value",
+    "Answer": "Drain current becomes zero",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which supply indicates by the colour of conductor exihibited on Red, Blue and Black?",
+    "Option1": "Supply DC 3 wire system",
+    "Option2": "Single phase AC system",
+    "Option3": "Supply AC system 3 phase",
+    "Option4": "Apparatus AC system 3 phase",
+    "Answer": "Supply DC 3 wire system",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which cable ties are used to bunch the wires?",
+    "Option1": "Silk ties",
+    "Option2": "P.V.C ties",
+    "Option3": "Nylon ties",
+    "Option4": "Cotton ties",
+    "Answer": "Nylon ties",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which device is avoided in the panel board assembly?",
+    "Option1": "Sensors",
+    "Option2": "Indicating lamp",
+    "Option3": "Isolating switch",
+    "Option4": "Push button switch",
+    "Answer": "Sensors",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the name of the device marked X’?",
+    "Option1": "Stop button",
+    "Option2": "Start button",
+    "Option3": "Main contact",
+    "Option4": "Auxiliary contact",
+    "Answer": "Auxiliary contact",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/Electrician%2FSEM4%2FElectrician34%2F73.PNG?alt=media&token=7dca5055-3262-4c3a-a3a5-8983d2aeffb1"
+  },
+  {
+    "Question": "What is the name of the wiring accessory used in control panel wiring?",
+    "Option1": "DIN rails",
+    "Option2": "G channel",
+    "Option3": "Grommets",
+    "Option4": "Race ways",
+    "Answer": "DIN rails",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/Electrician%2FSEM4%2FElectrician34%2F74.PNG?alt=media&token=e6d14bba-14d7-4c32-93c5-db13d7821b6f"
+  },
+  {
+    "Question": "What is the name of the device marked as X’ in the cricuit?",
+    "Option1": "Contactor",
+    "Option2": "No volt coil",
+    "Option3": "Stop button",
+    "Option4": "Over load relay trip",
+    "Answer": "Over load relay trip",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/Electrician%2FSEM4%2FElectrician34%2F75.PNG?alt=media&token=bb70d237-8c39-4dcf-adc7-bd614c0e568b"
+  }
+]

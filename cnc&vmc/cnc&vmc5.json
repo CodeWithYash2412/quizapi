@@ -1,0 +1,227 @@
+[
+  {
+    "Question": "What is hole finishing operation in VMC?",
+    "Option1": "Drilling",
+    "Option2": "Milling",
+    "Option3": "Fine boring",
+    "Option4": "Tapping",
+    "Answer": "Fine boring",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the movement marked as ʹxʹ?",
+    "Option1": "X axis Positive",
+    "Option2": "Y axis Positive",
+    "Option3": "Z axis Negative",
+    "Option4": "Y axis Negative",
+    "Answer": "Z axis Negative",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/VMC%2F2%2F27.PNG?alt=media&token=04530b68-b650-4092-8534-2cc330782616"
+  },
+  {
+    "Question": "What is ʺGʺ code for peck drilling?",
+    "Option1": "G86",
+    "Option2": "G82",
+    "Option3": "G83",
+    "Option4": "G84",
+    "Answer": "G83",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the code for ʺabsolute programmingʺ?",
+    "Option1": "G91",
+    "Option2": "G28",
+    "Option3": "G90",
+    "Option4": "G00",
+    "Answer": "G90",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is ʺG91ʺ in VMC?",
+    "Option1": "Absolute co-ordinate",
+    "Option2": "Cartiriyan co-ordinate",
+    "Option3": "Polar co-ordinate",
+    "Option4": "Incremental co-ordinate",
+    "Answer": "Incremental co-ordinate",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is ʺG90ʺ in VMC?",
+    "Option1": "Incremental co-ordinate",
+    "Option2": "Polar co-ordinate",
+    "Option3": "Absolute co-ordinate",
+    "Option4": "Cartiriyan co-ordinate",
+    "Answer": "Absolute co-ordinate",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "How many axes are in basic VMC?",
+    "Option1": 1,
+    "Option2": 2,
+    "Option3": 3,
+    "Option4": 4,
+    "Answer": 3,
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is ʺGʺ code for incremental system?",
+    "Option1": "G91",
+    "Option2": "G00",
+    "Option3": "G01",
+    "Option4": "G90",
+    "Answer": "G91",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is smallest unit in program?",
+    "Option1": "Word",
+    "Option2": "Address",
+    "Option3": "End of block",
+    "Option4": "Character",
+    "Answer": "Character",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is ʹHʹ in part programs?",
+    "Option1": "Tool length offset",
+    "Option2": "Work offset",
+    "Option3": "Wear offset",
+    "Option4": "Geometry offset",
+    "Answer": "Tool length offset",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is ʺNʺ in the part program?",
+    "Option1": "Program number",
+    "Option2": "Block number",
+    "Option3": "Tool offset number",
+    "Option4": "Work offset number",
+    "Answer": "Block number",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is a ʺWordʺ in a program?",
+    "Option1": "Address",
+    "Option2": "Line",
+    "Option3": "Combination of characters",
+    "Option4": "End of block",
+    "Answer": "Combination of characters",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is a ʺBlockʺ in a program?",
+    "Option1": "Line",
+    "Option2": "Word",
+    "Option3": "Address",
+    "Option4": "Character",
+    "Answer": "Line",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which code to call sub-program?",
+    "Option1": "M98",
+    "Option2": "M99",
+    "Option3": "M06",
+    "Option4": "M08",
+    "Answer": "M98",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is ʺG40ʺ in program?",
+    "Option1": "Cutter radius compensation lift",
+    "Option2": "Cutter compensation cancel",
+    "Option3": "Cutter radius compensation right",
+    "Option4": "Cutter offset outside complex",
+    "Answer": "Cutter compensation cancel",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is ʺG04ʺ command?",
+    "Option1": "Dwell time",
+    "Option2": "Rapit motion",
+    "Option3": "Linear motion",
+    "Option4": "Canned cycle cancel",
+    "Answer": "Dwell time",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is ʺMʺ in program?",
+    "Option1": "Sub-program",
+    "Option2": "Sub-routine",
+    "Option3": "Miscellaneous function",
+    "Option4": "Preparatory function",
+    "Answer": "Miscellaneous function",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is ʺGʺ in program?",
+    "Option1": "Sub-routine",
+    "Option2": "Preparatory func",
+    "Option3": "Sub-program",
+    "Option4": "Miscellaneous function",
+    "Answer": "Preparatory func",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is ʺG76ʺ code for system?",
+    "Option1": "Drilling",
+    "Option2": "Fine boring",
+    "Option3": "Boring",
+    "Option4": "Tapping",
+    "Answer": "Fine boring",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is ʹZʹ value represents in G84 cycle?",
+    "Option1": "Feed rate",
+    "Option2": "Hole position",
+    "Option3": "Reference plane",
+    "Option4": "Depth",
+    "Answer": "Depth",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is ʺRʺ represents in G81 cycle?",
+    "Option1": "Hole position X-axis",
+    "Option2": "Hole position Y-axis",
+    "Option3": "Position of reference level",
+    "Option4": "Feed rate",
+    "Answer": "Position of reference level",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is canned cycle?",
+    "Option1": "Lengthy program",
+    "Option2": "Start program",
+    "Option3": "Sub-program",
+    "Option4": "Main program",
+    "Answer": "Start program",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is marked as ʹxʹ?",
+    "Option1": "Cutting edge angle",
+    "Option2": "Helix angle",
+    "Option3": "Clearance angle",
+    "Option4": "Web angle",
+    "Answer": "Helix angle",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/VMC%2F2%2F48.PNG?alt=media&token=407bda3d-112e-4fd8-b895-fcf56f3abfb1"
+  },
+  {
+    "Question": "What is the point angle of twist drill for mild steel?",
+    "Option1": "140°",
+    "Option2": "130°",
+    "Option3": "118°",
+    "Option4": "120°",
+    "Answer": "118°",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "How tool life is expressed?",
+    "Option1": "Minutes",
+    "Option2": "Seconds",
+    "Option3": "Hours",
+    "Option4": "Days",
+    "Answer": "Minutes",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  }
+]

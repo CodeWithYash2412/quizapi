@@ -1,0 +1,227 @@
+[
+  {
+    "Question": "Which type of drive is used for shortest distance and for large amount of power transmission?",
+    "Option1": "Belt drives",
+    "Option2": "Gear drives",
+    "Option3": "Rope drives",
+    "Option4": "Chain drives",
+    "Answer": "Gear drives",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is marked as x?",
+    "Option1": "Key",
+    "Option2": "Shaft",
+    "Option3": "Coupling",
+    "Option4": "Bolt",
+    "Answer": "Key",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/FITTER%2FFITTER%20SEM4%2F101%20TO%20125%2F102.PNG?alt=media&token=f4c08a7f-79ad-4bc1-b25d-4af27886a163"
+  },
+  {
+    "Question": "Which belt slip less in power transmission?",
+    "Option1": "“V” belt",
+    "Option2": "Flat belt",
+    "Option3": "Link belt",
+    "Option4": "Ribbed belt",
+    "Answer": "“V” belt",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which type of belt length cannot be altered and reused with fastner?",
+    "Option1": "‘V’ belt",
+    "Option2": "Flat belt",
+    "Option3": "Link belt",
+    "Option4": "Ribbed belt",
+    "Answer": "Flat belt",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which type of belt drive is used to obtain different speed ratio?",
+    "Option1": "Slip belt drive",
+    "Option2": "Stepped drive",
+    "Option3": "Open belt drive",
+    "Option4": "Cross belt drive",
+    "Answer": "Slip belt drive",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the name of gear?",
+    "Option1": "Spur gear",
+    "Option2": "Mitre gear",
+    "Option3": "Bevel gear",
+    "Option4": "Hypoid gear",
+    "Answer": "Spur gear",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/FITTER%2FFITTER%20SEM4%2F101%20TO%20125%2F106.PNG?alt=media&token=1085a696-dac3-4772-bf60-051ff5ffbd4c"
+  },
+  {
+    "Question": "Which energy is converted in hydraulic pump?",
+    "Option1": "Thermal energy to hydraulic energy",
+    "Option2": "Electrical energy to hydraulic energy",
+    "Option3": "Pneumatic energy to hydraulic energy",
+    "Option4": "Mechanical energy to hydraulic energy",
+    "Answer": "Mechanical energy to hydraulic energy",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which type of valve connections are opened or closed by means of spool slide?",
+    "Option1": "Check valve",
+    "Option2": "Butterfly valve",
+    "Option3": "Solenoid valve",
+    "Option4": "Non-return valve",
+    "Answer": "Butterfly valve",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the name of part marked as ‘x’ in compressor?",
+    "Option1": "Relief valve",
+    "Option2": "Thermometer",
+    "Option3": "Shut-off valve",
+    "Option4": "Pressure gauge",
+    "Answer": "Pressure gauge",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/FITTER%2FFITTER%20SEM4%2F101%20TO%20125%2F109.PNG?alt=media&token=a81ad80d-7f0a-4b72-b4c2-afb782528ab4"
+  },
+  {
+    "Question": "How hydraulic transmission force is controlled?",
+    "Option1": "By air",
+    "Option2": "By gears",
+    "Option3": "By fluids",
+    "Option4": "By electric",
+    "Answer": "By fluids",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which valve is used to permit fluid flow in one direction and block flow in opposite direction?",
+    "Option1": "Check valve",
+    "Option2": "Shuttle valve",
+    "Option3": "Orifice check valve",
+    "Option4": "Pressure relief valve",
+    "Answer": "Check valve",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the name of the part marked as ‘x’ in non-return valve?",
+    "Option1": "Disc",
+    "Option2": "Stop plug",
+    "Option3": "Hinge pin",
+    "Option4": "Disc hinge nut",
+    "Answer": "Stop plug",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/FITTER%2FFITTER%20SEM4%2F101%20TO%20125%2F112.PNG?alt=media&token=e03d34ba-3aa1-4f55-a21e-904907981335"
+  },
+  {
+    "Question": "Which valve has two inlet / one outlet in hydraulic / pneumatic system?",
+    "Option1": "Slide valve",
+    "Option2": "Check valve",
+    "Option3": "Shuttle valve",
+    "Option4": "Solenoid valve",
+    "Answer": "Shuttle valve",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the name of the symbol?",
+    "Option1": "Moving part of valve",
+    "Option2": "Pressure relief valve",
+    "Option3": "Double acting cylinder",
+    "Option4": "Single acting cylinder with spring",
+    "Answer": "Single acting cylinder with spring",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/FITTER%2FFITTER%20SEM4%2F101%20TO%20125%2F114.PNG?alt=media&token=2ff3fb0e-d94c-4f95-b6c7-ac058a60e74c"
+  },
+  {
+    "Question": "Why in hydraulic pump the filter is installed in suction line?",
+    "Option1": "Reduce the oil to enter",
+    "Option2": "Preventing foreign matter",
+    "Option3": "Reduce pressure in the pump",
+    "Option4": "Increase the pressure in the pump",
+    "Answer": "Preventing foreign matter",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which valve is used for fine control of flow in pipe line?",
+    "Option1": "Gate valve",
+    "Option2": "Globe valve",
+    "Option3": "Needle valve",
+    "Option4": "Non - return valve",
+    "Answer": "Needle valve",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which valve is used to permit fluid to flow in one direction and block the flow in oppsite direction?",
+    "Option1": "Globe valve",
+    "Option2": "Check valve",
+    "Option3": "Shuttle valve",
+    "Option4": "Pressure relief valve",
+    "Answer": "Check valve",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which valve protect against excessive pressure in hydraulic system?",
+    "Option1": "Gate valve",
+    "Option2": "Globe valve",
+    "Option3": "Relief valve",
+    "Option4": "Non-return valve",
+    "Answer": "Relief valve",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which gauge indicates pressure valve above the atmospheric pressure?",
+    "Option1": "Pressure gauge",
+    "Option2": "Temperature gauge",
+    "Option3": "Receiver gauge",
+    "Option4": "Precision gauge",
+    "Answer": "Pressure gauge",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which pressure value is read through pressure gauge?",
+    "Option1": "Gauge Pressure",
+    "Option2": "Atmospheric Pressure",
+    "Option3": "Vacuum Pressure",
+    "Option4": "Absolute Pressure",
+    "Answer": "Gauge Pressure",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which formula is used to calculate the pressure?",
+    "Option1": "Force + Area",
+    "Option2": "Force/Area",
+    "Option3": "Force - Area",
+    "Option4": "Force x Area",
+    "Answer": "Force/Area",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which formula is used to calculate the absolute pressure?",
+    "Option1": "Atmospheric Pressure - Gauge Pressure",
+    "Option2": "Atmospheric Pressure + Gauge Pressure",
+    "Option3": "Atmospheric Pressure x Gauge Pressure",
+    "Option4": "Atmospheric Pressure ÷ Gauge Pressure",
+    "Answer": "Atmospheric Pressure + Gauge Pressure",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the unit of pressure in SI unit?",
+    "Option1": "Kilogram",
+    "Option2": "Pascal",
+    "Option3": "Pound",
+    "Option4": "Meter",
+    "Answer": "Pascal",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which term is a metric unit of pressure equal to 1,00,000 pascal?",
+    "Option1": "Millibar",
+    "Option2": "Kilo Pascal",
+    "Option3": "Bar",
+    "Option4": "Newton",
+    "Answer": "Bar",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the value of bar in metric unit of pressure?",
+    "Option1": "1 kg/ mm2",
+    "Option2": "1 kg/ cm2",
+    "Option3": "1 kg/ m2",
+    "Option4": "1 kg/ dm2",
+    "Answer": "1 kg/ cm2",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  }
+]

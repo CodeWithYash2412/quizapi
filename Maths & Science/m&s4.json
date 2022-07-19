@@ -1,0 +1,227 @@
+[
+  {
+    "Question": "What is the block weighs (W) in kg, if volume (V) is 320 cm3 and density 8.9 g/cm3?",
+    "Option1": "2.948 kg",
+    "Option2": "2.848 kg",
+    "Option3": "2.648 kg",
+    "Option4": "2.448 kg",
+    "Answer": "2.848 kg",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the specific gravity of the metal, if the weighs 6.5 kgf in air and 3.5 kgf in water?",
+    "Option1": 6.166,
+    "Option2": 3.166,
+    "Option3": 2.166,
+    "Option4": 1.166,
+    "Answer": 2.166,
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the weight force of a car has a mass of 800 kg?(Take g = 9.81m/sec)",
+    "Option1": "7848 Newton",
+    "Option2": "7748 Newton",
+    "Option3": "7847 Newton",
+    "Option4": "7487 Newton",
+    "Answer": "7848 Newton",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the formula for speed?",
+    "Option1": "Distance covered/Time",
+    "Option2": "Change in velocity/Time",
+    "Option3": "Distance in definite direction /Time",
+    "Option4": "Change in momentum/Time",
+    "Answer": "Distance covered/Time",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the unit of speed?",
+    "Option1": "Metre/second",
+    "Option2": "Metre/second2",
+    "Option3": "Metre/minute",
+    "Option4": "Metre/hour",
+    "Answer": "Metre/second",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the formula for velocity?",
+    "Option1": "Distance covered/Time",
+    "Option2": "Displacement/Time",
+    "Option3": "Change in velocity/Time",
+    "Option4": "Change of momentum/Time",
+    "Answer": "Displacement/Time",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the unit for velocity?",
+    "Option1": "Metre/second",
+    "Option2": "Metre/second2",
+    "Option3": "Metre/minute",
+    "Option4": "Metre/hour",
+    "Answer": "Metre/second",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is called if a body posses only magnitude or size alone?",
+    "Option1": "Speed",
+    "Option2": "Velocity",
+    "Option3": "Vector quantity",
+    "Option4": "Scalar quantity",
+    "Answer": "Scalar quantity",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is called if a body posses both magnitude and direction of velocity?",
+    "Option1": "Speed",
+    "Option2": "Velocity",
+    "Option3": "Vector quantity",
+    "Option4": "Scalar quantity",
+    "Answer": "Vector quantity",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the rate of change of displacement of a body?",
+    "Option1": "Body at rest",
+    "Option2": "Body at motion",
+    "Option3": "Speed",
+    "Option4": "Velocity",
+    "Answer": "Velocity",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is called if a body does not change its position with respect to its surroundings?",
+    "Option1": "Body at motion",
+    "Option2": "Body at rest",
+    "Option3": "Speed",
+    "Option4": "Velocity",
+    "Answer": "Body at rest",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is called if a body changes its position with respect to its surroundings?",
+    "Option1": "Body at rest",
+    "Option2": "Body at motion",
+    "Option3": "Speed",
+    "Option4": "Velocity",
+    "Answer": "Body at motion",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is velocity of a body travels a distance of 168 metres in a line in 21 seconds?",
+    "Option1": "6 m/sec",
+    "Option2": "8 m/sec",
+    "Option3": "10 m/sec",
+    "Option4": "12 m/sec",
+    "Answer": "8 m/sec",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the speed of a train of 80 metre long train passes a railway station platform of 120 metres length in 20 seconds?",
+    "Option1": "30 km/hour",
+    "Option2": "32 km/hour",
+    "Option3": "34 km/hour",
+    "Option4": "36 km/hour",
+    "Answer": "36 km/hour",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the unit of acceleration of an object?",
+    "Option1": "Metre/second",
+    "Option2": "Metre/second2",
+    "Option3": "Metre/minutes",
+    "Option4": "Metre/minutes2",
+    "Answer": "Metre/second2",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the acceleration of a car if the speed of the car has increased from 25 km per hour to 40 km per hour in one minute?",
+    "Option1": "0.059 m/sec2",
+    "Option2": "0.59 m/sec2",
+    "Option3": "0.069 m/sec2",
+    "Option4": "0.69 m/sec2",
+    "Answer": "0.069 m/sec2",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the retardation of a car moving with a velocity of 50 km/hr is brought to rest in 45 seconds?",
+    "Option1": "0.40 m/sec2",
+    "Option2": "0.30 m/sec2",
+    "Option3": "0.20 m/sec2",
+    "Option4": "0.10 m/sec2",
+    "Answer": "0.30 m/sec2",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the acceleration of an aeroplane taking off from landing field has to run 700 metres if it leaves the ground in 10 seconds from the start?",
+    "Option1": "8 metre/sec2",
+    "Option2": "10 metre/sec2",
+    "Option3": "12 metre/sec2",
+    "Option4": "14 metre/sec2",
+    "Answer": "12 metre/sec2",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What maximum height a stone will reach if it is thrown upwords with a velocity of 20m/sec?(g = 10m/sec2)",
+    "Option1": "10 m",
+    "Option2": "20 m",
+    "Option3": "30 m",
+    "Option4": "40 m",
+    "Answer": "20 m",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the work done in unit time?",
+    "Option1": "Energy",
+    "Option2": "Power",
+    "Option3": "Force",
+    "Option4": "Acceleration",
+    "Answer": "Power",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the capacity of a body to do work is called?",
+    "Option1": "Energy",
+    "Option2": "Power",
+    "Option3": "Acceleration",
+    "Option4": "Force",
+    "Answer": "Energy",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the ratio of power output to power input?",
+    "Option1": "Work",
+    "Option2": "Energy",
+    "Option3": "Efficiency",
+    "Option4": "Acceleration",
+    "Answer": "Efficiency",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is called if a force of 1Newton acts on a body and moves it through a distance of 1 metre?",
+    "Option1": "1 Joule",
+    "Option2": "10 Joules",
+    "Option3": "1 dyne",
+    "Option4": "10 dynes",
+    "Answer": "1 Joule",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "How many ergs for 1 Joule?",
+    "Option1": "103 ergs",
+    "Option2": "105 ergs",
+    "Option3": "107 ergs",
+    "Option4": "109 ergs",
+    "Answer": "107 ergs",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "How many newtons for 1 kilogram?",
+    "Option1": "981 Newtons",
+    "Option2": "98.1 Newtons",
+    "Option3": "9.81 Newtons",
+    "Option4": "0.981 Newtons",
+    "Answer": "9.81 Newtons",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  }
+]

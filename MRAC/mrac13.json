@@ -1,0 +1,227 @@
+[
+  {
+    "Question": "Which evaporator is known as extended surface evaporator?",
+    "Option1": "Evaporator tubes",
+    "Option2": "Finned evaporator",
+    "Option3": "Bare tube evaporator",
+    "Option4": "Coiled stake evaporator",
+    "Answer": "Finned evaporator",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which type of insulation material is used in modern refrigerators?",
+    "Option1": "Saw dust",
+    "Option2": "Glass wool",
+    "Option3": "Thermocole",
+    "Option4": "Poly urethane foam",
+    "Answer": "Poly urethane foam",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the name of tool?",
+    "Option1": "Fin comb",
+    "Option2": "Feeler gauge",
+    "Option3": "Screw driver set",
+    "Option4": "Capillary tube sizing kit",
+    "Answer": "Capillary tube sizing kit",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/MRAC%2FSEM2%2F051%20TO%20075%2F53.PNG?alt=media&token=9904f74b-95cb-4d1a-95a4-e9755771bccb"
+  },
+  {
+    "Question": "What is the name of part marked as ‘x’ in evaporator?",
+    "Option1": "Accumulator",
+    "Option2": "Sensor clamp",
+    "Option3": "Capillary tube",
+    "Option4": "Evaporator outlet",
+    "Answer": "Accumulator",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/MRAC%2FSEM2%2F051%20TO%20075%2F54.PNG?alt=media&token=8d0c0cc7-2f01-493d-a475-fd54ecd0aaf2"
+  },
+  {
+    "Question": "Which colour is used for painting condenser coil?",
+    "Option1": "Green",
+    "Option2": "Black",
+    "Option3": "Blue",
+    "Option4": "Red",
+    "Answer": "Black",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the physical state of refrigerant at the outlet of condenser in vapour compression cycle?",
+    "Option1": "High pressure vapour",
+    "Option2": "High pressure liquid",
+    "Option3": "Low pressure liquid",
+    "Option4": "Low pressure vapour",
+    "Answer": "High pressure liquid",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which type of drier filter is suitable for HFC refrigerants?",
+    "Option1": "Molecular sieve type",
+    "Option2": "Activated alumina",
+    "Option3": "Activated carbon",
+    "Option4": "Silica gel",
+    "Answer": "Molecular sieve type",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the purpose of chemical spraying on finned condenser?",
+    "Option1": "Flush out the condenser tubes",
+    "Option2": "Remove the rust on the fins",
+    "Option3": "Blow the dust from the fins",
+    "Option4": "Correct the bends in fins",
+    "Answer": "Remove the rust on the fins",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the advantage of using capillary tube as an expansion device?",
+    "Option1": "Temperature balancing is easy",
+    "Option2": "Pressure balancing is easy",
+    "Option3": "Volume balancing is easy",
+    "Option4": "Complicate design",
+    "Answer": "Pressure balancing is easy",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which component is connected in series with defrost heater in a frost free refrigerator?",
+    "Option1": "Door switch",
+    "Option2": "Cabinet bulb",
+    "Option3": "Bimetal thermo",
+    "Option4": "Heating element",
+    "Answer": "Bimetal thermo",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "How much minimum gap is left on either side of the refrigerator from the wall during installation?",
+    "Option1": "5 cm",
+    "Option2": "10 cm",
+    "Option3": "15 cm",
+    "Option4": "25 cm",
+    "Answer": "15 cm",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Where the dehydrator is installed in a refrigeration system?",
+    "Option1": "Discharge line",
+    "Option2": "Capillary line",
+    "Option3": "Suction line",
+    "Option4": "Liquid line",
+    "Answer": "Liquid line",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which device meters the amount of refrigerant entering the evaporator in window AC?",
+    "Option1": "Accumulator",
+    "Option2": "Capillary tube",
+    "Option3": "Heat exchanger",
+    "Option4": "Finned tube condenser",
+    "Answer": "Capillary tube",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which gas is used for flushing blocked capillary tube?",
+    "Option1": "Moist air",
+    "Option2": "Hydrogen",
+    "Option3": "Dry nitrogen",
+    "Option4": "Aqua ammonia",
+    "Answer": "Dry nitrogen",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which component is connected in series with bimetal thermo in a frost free refrigerator?",
+    "Option1": "Blower",
+    "Option2": "Door switch",
+    "Option3": "Cabinet bulb",
+    "Option4": "Defrost heater",
+    "Answer": "Defrost heater",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which cooling medium is used to condense the refrigerant vapour in plate and tube condenser?",
+    "Option1": "Natural Air",
+    "Option2": "Forced Air",
+    "Option3": "Water",
+    "Option4": "Brine solution",
+    "Answer": "Natural Air",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which gas is used to flush out the coils of air cooled condenser?",
+    "Option1": "Dry nitrogen",
+    "Option2": "Pure dry air",
+    "Option3": "Oxygen",
+    "Option4": "Hot air",
+    "Answer": "Dry nitrogen",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which application uses the capillary tube expansion device?",
+    "Option1": "Domestic RAC units",
+    "Option2": "Industrial ice plants",
+    "Option3": "Commercial AC plants",
+    "Option4": "Hospital IAQ systems",
+    "Answer": "Domestic RAC units",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which expansion valve is suitable for constant load operation?",
+    "Option1": "King valve",
+    "Option2": "Relief valve",
+    "Option3": "Low side float valve",
+    "Option4": "Automatic expansion valve",
+    "Answer": "Automatic expansion valve",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the physical change of refrigerant in evaporator?",
+    "Option1": "Solid to liquid",
+    "Option2": "Vapour to solid",
+    "Option3": "Liquid to vapour",
+    "Option4": "Vapour to liquid",
+    "Answer": "Liquid to vapour",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the process of accumulation of ice on the surface of evaporator?",
+    "Option1": "Frosting",
+    "Option2": "Defrosting",
+    "Option3": "Evacuating",
+    "Option4": "Melting of frost",
+    "Answer": "Frosting",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the use of the tool in domestic refrigeration system?",
+    "Option1": "Checks the depth of cylinder",
+    "Option2": "Verifies the OD size of capillary tube",
+    "Option3": "Gauges the thickness of copper tube",
+    "Option4": "Measures the ID size of capillary tube",
+    "Answer": "Measures the ID size of capillary tube",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/MRAC%2FSEM2%2F051%20TO%20075%2F72.PNG?alt=media&token=ca76e663-a21d-42bd-91db-ba9c8321243c"
+  },
+  {
+    "Question": "What is the use of dehydrator?",
+    "Option1": "Absorb oil",
+    "Option2": "Absorb heat",
+    "Option3": "Absorb refrigerant",
+    "Option4": "Absorb moisture",
+    "Answer": "Absorb moisture",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "How pressure drop is achieved in capillary tube of refrigeration cycle?",
+    "Option1": "The friction between refrigerant and tube",
+    "Option2": "The friction between refrigerant and oil",
+    "Option3": "The friction between piston and cylinder",
+    "Option4": "The friction between belt and pulley",
+    "Answer": "The friction between refrigerant and tube",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the desiccant used in dehydrator of hydrocarbon charged RAC unit?",
+    "Option1": "Silica gel",
+    "Option2": "Ammonia",
+    "Option3": "Sulphur dioxide",
+    "Option4": "Calcium chloride",
+    "Answer": "Silica gel",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  }
+]

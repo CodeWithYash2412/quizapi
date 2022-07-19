@@ -1,0 +1,227 @@
+[
+  {
+    "Question": "What is the area of the semicircle, if the diameter is 14 cm?",
+    "Option1": "70 cm²",
+    "Option2": "76.93 cm²",
+    "Option3": "75.06 cm²",
+    "Option4": "86.93 cm²",
+    "Answer": "76.93 cm²",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the diameter of the circle, if the area of the circle is 706.5cm²?",
+    "Option1": "29 cm",
+    "Option2": "29.5 cm",
+    "Option3": "30 cm",
+    "Option4": "30.5 cm",
+    "Answer": "30 cm",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the diameter of the circle, if the circumference is 31.4 cm?",
+    "Option1": "5 cm",
+    "Option2": "10 cm",
+    "Option3": "8 cm",
+    "Option4": "8.5 cm",
+    "Answer": "10 cm",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the area of the lamina?",
+    "Option1": 1470.55,
+    "Option2": 1473.66,
+    "Option3": 1472,
+    "Option4": 1472.5,
+    "Answer": 1473.66,
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/M%26S%2F351%20TO%20375%2F104.PNG?alt=media&token=69e24f67-75c6-4b72-96df-e5f63bc3029a"
+  },
+  {
+    "Question": "What is the area of the irregular lamina?",
+    "Option1": "550 cm²",
+    "Option2": "549.76 cm²",
+    "Option3": "560 cm²",
+    "Option4": "555 cm²",
+    "Answer": "549.76 cm²",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/M%26S%2F351%20TO%20375%2F105.PNG?alt=media&token=b078a548-3154-48da-a2ff-7e5e980d5dce"
+  },
+  {
+    "Question": "What is the area of the lamina?",
+    "Option1": "125.5 cm²",
+    "Option2": "120.5 cm²",
+    "Option3": "127.5 cm²",
+    "Option4": "126.5 cm²",
+    "Answer": "127.5 cm²",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/M%26S%2F351%20TO%20375%2F106.PNG?alt=media&token=5a92f595-8e79-45fa-b99c-85a5ae478382"
+  },
+  {
+    "Question": "What is the area of irregular surfaces?",
+    "Option1": "27,475 mm²",
+    "Option2": "27,500 mm²",
+    "Option3": "27,350 mm²",
+    "Option4": "26,500 mm²",
+    "Answer": "27,475 mm²",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/M%26S%2F351%20TO%20375%2F107.PNG?alt=media&token=a21c526b-76f3-4e67-a64b-7b0fce5ab006"
+  },
+  {
+    "Question": "What is the area of shaded portion whose OD = 38 mm, ID = 32 mm?",
+    "Option1": "325.4 mm²",
+    "Option2": "329.7 mm²",
+    "Option3": "305.5 mm²",
+    "Option4": "320.5 mm²",
+    "Answer": "329.7 mm²",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/M%26S%2F351%20TO%20375%2F108.PNG?alt=media&token=1a0b7cc2-f044-4e38-9fc3-1161eeb27470"
+  },
+  {
+    "Question": "What is the area of irregular surfaces whose equilateral triangle size is 20 mm?",
+    "Option1": "3000 mm²",
+    "Option2": "3080 mm²",
+    "Option3": "3026.8 mm²",
+    "Option4": "3060 mm²",
+    "Answer": "3026.8 mm²",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/M%26S%2F351%20TO%20375%2F109.PNG?alt=media&token=c5827592-7970-4410-8714-3f17f58829b5"
+  },
+  {
+    "Question": "What is the area of shaded portion. Whose square size 300mm?",
+    "Option1": "58,000 mm²",
+    "Option2": "58,400 mm²",
+    "Option3": "59,000 mm²",
+    "Option4": "58,600 mm²",
+    "Answer": "58,600 mm²",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/M%26S%2F351%20TO%20375%2F110.PNG?alt=media&token=b50c556b-4a70-401f-b2b1-49712c7b196e"
+  },
+  {
+    "Question": "What is the area of shaded portion?",
+    "Option1": "1000 mm²",
+    "Option2": "1500 mm²",
+    "Option3": "1100 mm²",
+    "Option4": "1075 mm²",
+    "Answer": "1075 mm²",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/M%26S%2F351%20TO%20375%2F111.PNG?alt=media&token=fab9d6f7-f598-410e-8f97-3a7bd5ec79dc"
+  },
+  {
+    "Question": "What is the value of 14x+3y+25x+2y?",
+    "Option1": "17x + 27y",
+    "Option2": "16x + 28y",
+    "Option3": "39x + 5y",
+    "Option4": "44xy",
+    "Answer": "39x + 5y",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the multiplication value of 5a²b x 8a⁵b³?",
+    "Option1": "40a⁷b⁴",
+    "Option2": "40a³b²",
+    "Option3": "40a⁴b⁷",
+    "Option4": "40a²b³",
+    "Answer": "40a⁷b⁴",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the simplified value of (3x + 15) / 5x + 25)",
+    "Option1": "5/3",
+    "Option2": "3/5",
+    "Option3": "-5/3",
+    "Option4": "-3/5",
+    "Answer": "3/5",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the value of x if 13+x =20?",
+    "Option1": 8,
+    "Option2": 7,
+    "Option3": 9,
+    "Option4": 13,
+    "Answer": 7,
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the value of x, if x (120) = 960?",
+    "Option1": 6,
+    "Option2": 7,
+    "Option3": 8,
+    "Option4": 10,
+    "Answer": 8,
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the formula for aᵐ x aⁿ?",
+    "Option1": "aᵐ⁺ⁿ",
+    "Option2": "aᵐ⁻ⁿ",
+    "Option3": "aᵐⁿ",
+    "Option4": "n.aᵐ",
+    "Answer": "aᵐ⁺ⁿ",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which is the formula for aᵐ / aⁿ",
+    "Option1": "aᵐ⁺ⁿ",
+    "Option2": "aᵐ⁻ⁿ",
+    "Option3": "aᵐ ˣ ⁿ",
+    "Option4": "(aᵐ)ⁿ",
+    "Answer": "aᵐ⁻ⁿ",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the value of any number raised to the power of 0?",
+    "Option1": 0,
+    "Option2": 1,
+    "Option3": -1,
+    "Option4": "α",
+    "Answer": 1,
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the value of 1 / aᵐ ?",
+    "Option1": "aᵐ",
+    "Option2": "a-ᵐ",
+    "Option3": "ᵐ√a",
+    "Option4": "ᵃ√m",
+    "Answer": "a-ᵐ",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which is equal to (aᵐ)ⁿ?",
+    "Option1": "aᵐ⁻ⁿ",
+    "Option2": "aᵐ⁺ⁿ",
+    "Option3": "aᵐ/ⁿ",
+    "Option4": "aᵐⁿ",
+    "Answer": "aᵐⁿ",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the expanded form of (a+b)²?",
+    "Option1": "a² + 2ab + b²",
+    "Option2": "a² - 2ab + b²",
+    "Option3": "a² + 2ab - b²",
+    "Option4": "-a² - 2ab + b²",
+    "Answer": "a² + 2ab + b²",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the formula for (a-b)²?",
+    "Option1": "a²- 2ab + b²",
+    "Option2": "a² + 2ab + b²",
+    "Option3": "a² - 2ab - b²",
+    "Option4": "-a² - 2ab - b²",
+    "Answer": "a²- 2ab + b²",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which is equal to (a+b)²-(a-b)²?",
+    "Option1": "2ab",
+    "Option2": "3ab",
+    "Option3": "4ab",
+    "Option4": "5ab",
+    "Answer": "4ab",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the value of a x a² x a³ x a⁴ ?",
+    "Option1": "a⁷",
+    "Option2": "a⁸",
+    "Option3": "a⁹",
+    "Option4": "a¹⁰",
+    "Answer": "a¹⁰",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  }
+]

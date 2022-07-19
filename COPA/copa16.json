@@ -1,0 +1,227 @@
+[
+  {
+    "Question": "Which is used to type / edit the programming code in VBA?",
+    "Option1": "Form window",
+    "Option2": "Properties window",
+    "Option3": "Immediate window",
+    "Option4": "Visual basic editor",
+    "Answer": "Visual basic editor",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the alternate name of Bugs?",
+    "Option1": "Errors",
+    "Option2": "Keywords",
+    "Option3": "Variables",
+    "Option4": "Constants",
+    "Answer": "Errors",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which shortcut key is used to open the Visual Basic Editor In VBA?",
+    "Option1": "Alt + F11",
+    "Option2": "Ctrl + F11",
+    "Option3": "Shift + F11",
+    "Option4": "Shift + Ctrl + F11",
+    "Answer": "Alt + F11",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which simplifies the work to be eliminating or rewriting the code in VBA?",
+    "Option1": "Class",
+    "Option2": "Object",
+    "Option3": "Macros",
+    "Option4": "Functions",
+    "Answer": "Macros",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which type of variable can be accessed or used by subroutines outside the modules in VBA?",
+    "Option1": "Static",
+    "Option2": "Private",
+    "Option3": "Protect",
+    "Option4": "Public",
+    "Answer": "Public",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Where there is no difference between dim and private in VBA?",
+    "Option1": "Local scope",
+    "Option2": "Module scope",
+    "Option3": "Global scope",
+    "Option4": "Project scope",
+    "Answer": "Module scope",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which method is used to pass the reference to the arguments?",
+    "Option1": "Ref",
+    "Option2": "Val",
+    "Option3": "Reference",
+    "Option4": "By Ref",
+    "Answer": "By Ref",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which function is used to check whether the given input is numeric or Not in VBA?",
+    "Option1": "Numeric()",
+    "Option2": "Isnumber()",
+    "Option3": "Isnumeric()",
+    "Option4": "Isnum()",
+    "Answer": "Isnumeric()",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which function returns specified part of a given date in VBA?",
+    "Option1": "Day()",
+    "Option2": "Datevalue()",
+    "Option3": "Datediff()",
+    "Option4": "Datepart()",
+    "Answer": "Datepart()",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which function returns the difference between two date values based on the interval specified in VBA?",
+    "Option1": "Datediff()",
+    "Option2": "Day()",
+    "Option3": "Daydiff()",
+    "Option4": "Datedif()",
+    "Answer": "Datediff()",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the return type of CSng function in VBA?",
+    "Option1": "Boolean",
+    "Option2": "Variant",
+    "Option3": "Single",
+    "Option4": "String",
+    "Answer": "Single",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which VBA code is used to load user form into memory but do not display?",
+    "Option1": "User form1.Show",
+    "Option2": "Load userform1",
+    "Option3": "Userform1.load",
+    "Option4": "Show userform1",
+    "Answer": "Load userform1",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which VBA code is used to remove the user form from memory?",
+    "Option1": "Unload me",
+    "Option2": "Userform1.hide",
+    "Option3": "Unload userform1",
+    "Option4": "User form show false",
+    "Answer": "Unload userform1",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which window displays the watched expression including the one just added?",
+    "Option1": "Module window",
+    "Option2": "Immediate window",
+    "Option3": "Watch window",
+    "Option4": "Debug window",
+    "Answer": "Watch window",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which one is indicated by a red dot with a line of code highlighted in red in VBA?",
+    "Option1": "Break point",
+    "Option2": "Start point",
+    "Option3": "End point",
+    "Option4": "Error point",
+    "Answer": "Break point",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which is used to repeats the same steps in case of frequency needed actions in VBA?",
+    "Option1": "Class",
+    "Option2": "Object",
+    "Option3": "Functions",
+    "Option4": "Macros",
+    "Answer": "Macros",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which function returns the integer portion of a number in VBA?",
+    "Option1": "Int()",
+    "Option2": "Format()",
+    "Option3": "Abs()",
+    "Option4": "Sign()",
+    "Answer": "Int()",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which function returns the hyperbolic cosine of the specified angle in VBA?",
+    "Option1": "Abs()",
+    "Option2": "Cos()",
+    "Option3": "Cosh()",
+    "Option4": "hcos()",
+    "Answer": "Cosh()",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which mathematical function generates a random number in VBA?",
+    "Option1": "Random()",
+    "Option2": "Rnd()",
+    "Option3": "Rand()",
+    "Option4": "Round()",
+    "Answer": "Rnd()",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which operators are concatenation operator in VBA?",
+    "Option1": "+ and -",
+    "Option2": "& and -",
+    "Option3": "& and +",
+    "Option4": "& and *",
+    "Answer": "& and +",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which type of words cannot use for any other purpose in VBA?",
+    "Option1": "Literals",
+    "Option2": "Keywords",
+    "Option3": "Constants",
+    "Option4": "Variables",
+    "Answer": "Keywords",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which is a series of items where all items share the same properties and methods in VBA?",
+    "Option1": "Arrays",
+    "Option2": "Groups",
+    "Option3": "Methods",
+    "Option4": "Collections",
+    "Answer": "Collections",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which button allows a single choice within a limited set of mutually exclusive choice?",
+    "Option1": "Button",
+    "Option2": "Option button",
+    "Option3": "Spin button",
+    "Option4": "Toggle button",
+    "Answer": "Option button",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which box has three states in VBA?",
+    "Option1": "List box",
+    "Option2": "Combo box",
+    "Option3": "Check box",
+    "Option4": "Group box",
+    "Answer": "Check box",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which one creates a box with a scrollable list containing a number of input values in VBA?",
+    "Option1": "Combo box",
+    "Option2": "Option button",
+    "Option3": "Text box",
+    "Option4": "List box",
+    "Answer": "List box",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  }
+]

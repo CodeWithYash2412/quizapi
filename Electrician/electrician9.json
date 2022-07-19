@@ -1,0 +1,227 @@
+[
+  {
+    "Question": "Calculate the apparent power in KVA of 3 phase 415V, 50 Hz, star system, if the line current (IL) is 16A at 0.8 power factor.",
+    "Option1": "15.2 KVA",
+    "Option2": "11.5 KVA",
+    "Option3": "9.2 KVA",
+    "Option4": "5.3 KVA",
+    "Answer": "11.5 KVA",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What will be the readings of two watt meters (W1& W2) in 3 phase power measurement, if the power factor is zero?",
+    "Option1": "W1 & W2 both are positive reading",
+    "Option2": "W1 is Positive and W2 is negative reading",
+    "Option3": "W1 is equal to W2 but with opposite signs",
+    "Option4": "Zero W1 is Positive reading, and W2 is negative reading",
+    "Answer": "W1 is equal to W2 but with opposite signs",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the maximum value of voltage for 240\nvolt RMS?",
+    "Option1": "240V",
+    "Option2": "415V",
+    "Option3": "339.5V",
+    "Option4": "376.8V",
+    "Answer": "339.5V",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the formula for Reactive Power (Pr) in\nan AC circuit?",
+    "Option1": "Pr = VI",
+    "Option2": "Pr = √2 VI",
+    "Option3": "Pr = VI cos θ",
+    "Option4": "Pr = VI sin θ",
+    "Answer": "Pr = VI cos θ",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Calculate the impedance of the circuit R = 5Ω,\nXL= 36Ω and XC = 24 Ω.",
+    "Option1": "69 Ω",
+    "Option2": "65 Ω",
+    "Option3": "13 Ω",
+    "Option4": "12 Ω",
+    "Answer": "12 Ω",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/Electrician%2FSEM1%2FM6%2FM6-12.PNG?alt=media&token=1a7607f5-1254-4339-9826-2063618daca0"
+  },
+  {
+    "Question": "What is the phase displacement in a single\nphase AC circuit?",
+    "Option1": "90°",
+    "Option2": "120°",
+    "Option3": "180°",
+    "Option4": "270°",
+    "Answer": "180°",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the relation between the line voltage\n(VL) and phase voltage (Vp) in star connected\nsystem?",
+    "Option1": "𝑉𝐿 = √3𝑉𝑃",
+    "Option2": "𝑉𝐿 = 3𝑉𝑃",
+    "Option3": "𝑉𝐿 =VP / √3",
+    "Option4": "𝑉𝐿 = 𝑉𝑃 / 3",
+    "Answer": "𝑉𝐿 = √3𝑉𝑃",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Calculate the line current of the 3 phase 415V\n50 HZ supply for the balanced load of 3000 watt at\n0.8 power factor is connected in star.",
+    "Option1": "8.5 A",
+    "Option2": "5.2 A",
+    "Option3": "4.5 A",
+    "Option4": "3.4 A",
+    "Answer": "8.5 A",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the power factor in a 3 phase power\nmeasurement of two wattmeters showing equal\nreadings?",
+    "Option1": 0,
+    "Option2": 1,
+    "Option3": 0.5,
+    "Option4": 0.8,
+    "Answer": 1,
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Calculate the power factor of coil having\nresistance of 24Ω, draws the current of 5A, at 240V/\n50HZ AC supply.",
+    "Option1": 0.8,
+    "Option2": 0.6,
+    "Option3": 0.5,
+    "Option4": 0.3,
+    "Answer": 0.6,
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the formula to calculate the impedance (Z) of the R.L.C series circuit, if the inductive reactance (XL) is less than capacitive\nreactance (XC)?",
+    "Option1": "Z= R^2 + √XL^2+XC^2",
+    "Option2": "Z= R^2 + √R^2 + ( XL -XC ) ^2",
+    "Option3": "Z= R^2 + √ R^2 + ( XL^2 - XC )^2",
+    "Option4": "Z= R^2 + √R^2 + ( XC -XL ) ^2",
+    "Answer": "Z= R^2 + √R^2 + ( XC -XL ) ^2",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Calculate the power factor of R.L.C circuit having resistance (R) = 15W, resultant reactance (X) = 20W connected across 240V /50Hz AC supply?",
+    "Option1": 0.5,
+    "Option2": 0.6,
+    "Option3": 0.7,
+    "Option4": 0.8,
+    "Answer": 0.6,
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Calculate the value admittance (Y) of the RLC parallel circuit connected across 240volts/50Hz AC supply and 8 Amp. Current is passed through it ?",
+    "Option1": "3.33 Mho",
+    "Option2": "0.33 Mho",
+    "Option3": "0.033 Mho",
+    "Option4": "0.003 Mho",
+    "Answer": "0.033 Mho",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the formula to calculate the line current (IL) of this single phase R - C parallel circuit?",
+    "Option1": "IL = IR - IC",
+    "Option2": "IL = IR + IC",
+    "Option3": "IL = IR^2 - IC^2",
+    "Option4": "IL = √( IR^2 - IC^2 )",
+    "Answer": "IL = √( IR^2 - IC^2 )",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/Electrician%2FSEM1%2FM6%2FM6-21.PNG?alt=media&token=cba04290-1892-4d0e-9e43-2e5770a81456"
+  },
+  {
+    "Question": "How the low power factor (P.F) can be improved in AC circuits?",
+    "Option1": "By connecting resistors in series",
+    "Option2": "By connecting capacitors in series",
+    "Option3": "By connecting inductors in series",
+    "Option4": "By connecting capacitors in parallel",
+    "Answer": "By connecting capacitors in parallel",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the relation between the line current (IL) and phase current (IP) in delta connected system?",
+    "Option1": "IL = IP",
+    "Option2": "IL = 3 IP",
+    "Option3": "IL = √3 IP",
+    "Option4": "IL = IP / √3",
+    "Answer": "IL = √3 IP",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the purpose of phase sequence meter?",
+    "Option1": "To control the speed of 3 phase motor",
+    "Option2": "To protect motor against short circuit fault",
+    "Option3": "To indicate the incorrect phase sequence of 3 phase",
+    "Option4": "To ensure the correct phase sequence of 3 phase system",
+    "Answer": "To ensure the correct phase sequence of 3 phase system",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Calculate the apparent power of a star connected 3 phase load, if it is connected across 3 phase 415volt/50Hz supply at 0.8 p.f and the phase current is 10 Amps.",
+    "Option1": "12.45 KVA",
+    "Option2": "57.50 KVA",
+    "Option3": "3.320 KVA",
+    "Option4": "7.188 KVA",
+    "Answer": "7.188 KVA",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the P.F if one of the wattmeters reading is zero and the other reads total power in 2 wattmeter method of 3 phase power measurement?",
+    "Option1": 0.5,
+    "Option2": "Zero",
+    "Option3": "Unity",
+    "Option4": "Below 0.5",
+    "Answer": 0.5,
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the formula for form factor(Kf)?",
+    "Option1": "kf = Mean value / RMS value",
+    "Option2": "kf = RMS value / Mean value",
+    "Option3": "kf = Maximum value / Mean value",
+    "Option4": "kf = RMS value / Maximum value",
+    "Answer": "kf = Mean value / RMS value",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which electrical term is defined as the total opposition to current in AC parallel circuit?",
+    "Option1": "Resistance",
+    "Option2": "Impedance",
+    "Option3": "Admittance",
+    "Option4": "Susceptance",
+    "Answer": "Admittance",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which AC circuit contains the phase relation between voltage (V) and current (I)?",
+    "Option1": "Pure resistive circuit",
+    "Option2": "Resistance and inductance circuit",
+    "Option3": "Resistance and capacitance circuit",
+    "Option4": "Resistance, inductance and capacitance circuit",
+    "Answer": "Resistance and inductance circuit",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/Electrician%2FSEM1%2FM6%2FM6-30.PNG?alt=media&token=2a709596-c9ec-456a-8847-0515657c0bc0"
+  },
+  {
+    "Question": "In a 3 phase system, if the active power is 4 kw and the apparent power is 5 KVA, calculate the reactive power?",
+    "Option1": "1 KVAR",
+    "Option2": "2 KVAR",
+    "Option3": "3 KVAR",
+    "Option4": "4 KVAR",
+    "Answer": "3 KVAR",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "In which condition resonance will occur in R-L-C series circuit?",
+    "Option1": "Inductive reactance (XL) is zero",
+    "Option2": "Inductive reactance (XL) is equal to capacitive reactance (XC)",
+    "Option3": "Inductive reactance (XL) is greater than capacitive reactance (XC)",
+    "Option4": "Inductive reactance (XL) is less than capacitive reactance (XC)",
+    "Answer": "Inductive reactance (XL) is equal to capacitive reactance (XC)",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "How will you obtain positive reading in the wattmeter reads negative reading during 3- phase two wattmeter method?",
+    "Option1": "By interchanging the connections of input terminals",
+    "Option2": "By disconnecting the connection of current coil in meter",
+    "Option3": "By reversing the connection of pressure coil in meter",
+    "Option4": "By reversing the pressure coil and current coil connection in meter",
+    "Answer": "By reversing the connection of pressure coil in meter",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  }
+]

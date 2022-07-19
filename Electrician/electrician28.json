@@ -1,0 +1,227 @@
+[
+  {
+    "Question": "What is the purpose of using rotor resistance starter to start 3 phase slip ring induction motor?",
+    "Option1": "Reduce rotor voltage",
+    "Option2": "Reduce rotor current",
+    "Option3": "Increase the torque",
+    "Option4": "Reduce the power loss",
+    "Answer": "Increase the torque",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which method of speed control is only applicable for 3 phase slipring induction motor?",
+    "Option1": "Cascade operation method",
+    "Option2": "Rotor rheostat speed control",
+    "Option3": "Changing the applied frequency method",
+    "Option4": "Changing the number of stator poles method",
+    "Answer": "Rotor rheostat speed control",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the name of the winding?",
+    "Option1": "Skew winding",
+    "Option2": "Skein winding",
+    "Option3": "Involute coil winding",
+    "Option4": "Diamond coil winding",
+    "Answer": "Skew winding",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/Electrician%2FSEM3%2FElectrician28%2F192.PNG?alt=media&token=c0086d75-de63-46fb-8b01-1f397010b79f"
+  },
+  {
+    "Question": "What is the name of 3 phase motor winding, if the coil pitch is less than pole pitch?",
+    "Option1": "Full pitch winding",
+    "Option2": "Whole coil winding",
+    "Option3": "Long chorded winding",
+    "Option4": "Short chorded winding",
+    "Answer": "Short chorded winding",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which is the demerit of 3 phase concentric winding?",
+    "Option1": "More space is required",
+    "Option2": "A stepped former is required",
+    "Option3": "More difficult to shape the coils uniformly",
+    "Option4": "It is not easy to make the end connection",
+    "Answer": "A stepped former is required",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the name of the diagram used for 3phase motor winding?",
+    "Option1": "Ring diagram",
+    "Option2": "Development diagram",
+    "Option3": "Coil connection diagram",
+    "Option4": "End connection diagram",
+    "Answer": "Ring diagram",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/Electrician%2FSEM3%2FElectrician28%2F195.PNG?alt=media&token=7ea61df5-f638-49f2-b629-3c32a4e73f0b"
+  },
+  {
+    "Question": "Calculate the phase displacement in terms of slots for a 3 phase, 36 slots, 12 coils, 4 pole stator winding?",
+    "Option1": "3 slots",
+    "Option2": "4 slots",
+    "Option3": "6 slots",
+    "Option4": "8 slots",
+    "Answer": "6 slots",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which type of AC motor winding having the number of coil/pole/phase is more than one arranged in different slots?",
+    "Option1": "Basket winding",
+    "Option2": "Concentric winding",
+    "Option3": "Distributed winding",
+    "Option4": "Concentrated winding",
+    "Answer": "Distributed winding",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which type of testing of winding is illustrated?",
+    "Option1": "Polarity test",
+    "Option2": "Resistance test",
+    "Option3": "Short circuit test",
+    "Option4": "Voltage drop test",
+    "Answer": "Resistance test",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/Electrician%2FSEM3%2FElectrician28%2F198.PNG?alt=media&token=7ecfe1b3-a53d-45ae-bfb2-ef352f4bbc70"
+  },
+  {
+    "Question": "Why external resistance is included in the rotor circuit at starting through 3 phase slipring induction motor starter?",
+    "Option1": "To get high running torque",
+    "Option2": "To get high starting torque",
+    "Option3": "To reduce the load current",
+    "Option4": "To get increased speed at starting",
+    "Answer": "To get high starting torque",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the effect of motor, if the rotor windings in slipring induction motor is open circuited at starting?",
+    "Option1": "Will not run",
+    "Option2": "Runs at slow speed",
+    "Option3": "Runs at very high speed",
+    "Option4": "Runs but not able to pull load",
+    "Answer": "Will not run",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What happens to a 3 phase induction motor if one phase fails during running?",
+    "Option1": "Motor runs normally",
+    "Option2": "Motor stop instantaneously",
+    "Option3": "Motor runs slowly, finally it burns",
+    "Option4": "Motor runs with irregular speed",
+    "Answer": "Motor runs slowly, finally it burns",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the effect on 3 phase induction motor if one phase is cut-off during running with load?",
+    "Option1": "Motor stops at once",
+    "Option2": "Motor will run normally",
+    "Option3": "Motor runs with humming noise with slow speed",
+    "Option4": "Motor will run slow speed but winding will be burnt out shortly",
+    "Answer": "Motor will run slow speed but winding will be burnt out shortly",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the defect in AC 3 phase induction motor runs at low speed if loaded?",
+    "Option1": "Wrong motor connection",
+    "Option2": "Wrong starter connection",
+    "Option3": "Open circuit in rotor winding",
+    "Option4": "Partially shorted stator winding",
+    "Answer": "Partially shorted stator winding",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which fault condition thermal overload relay protects A.C induction motor?",
+    "Option1": "Short circuit",
+    "Option2": "Open circuit",
+    "Option3": "Over current",
+    "Option4": "Under voltage",
+    "Answer": "Over current",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What happens to the rotor of a 3 phase induction motor if its speed attains to synchronous speed?",
+    "Option1": "Rotor speed reduces",
+    "Option2": "Rotor speed increases",
+    "Option3": "Rotor speed remains same",
+    "Option4": "Rotor bars get damaged",
+    "Answer": "Rotor bars get damaged",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the effect of open circuit in rotor of an induction motor?",
+    "Option1": "Motor does not start",
+    "Option2": "Over heating in motor",
+    "Option3": "Excess vibration of shaft",
+    "Option4": "Motor runs with very low speed",
+    "Answer": "Motor runs with very low speed",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the reason for frequent blowing of fuse after motor running some time?",
+    "Option1": "Improper earthing",
+    "Option2": "Over loading of motor",
+    "Option3": "Heavy voltage fluctuation",
+    "Option4": "Poor insulation in winding",
+    "Answer": "Poor insulation in winding",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What happens to a 3 phase induction motor, if one phase fails during starting?",
+    "Option1": "Motor runs and stop immediately",
+    "Option2": "Motor runs in slow speed continuously",
+    "Option3": "Motor runs and draws more current",
+    "Option4": "Motor continues to run with irregular speed",
+    "Answer": "Motor runs and stop immediately",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which is the cause for the 3 phase motor starter with single phase preventer trips frequently?",
+    "Option1": "Incorrect fuse ratings",
+    "Option2": "Unbalanced line voltage",
+    "Option3": "Incorrect settings of OLR",
+    "Option4": "Improper phase sequence",
+    "Answer": "Incorrect settings of OLR",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What indication denotes the shorted coil defect in 3 phase motor stator winding while testing with internal growler by keeping hacksaw blade?",
+    "Option1": "Hacksaw blade gets over heated",
+    "Option2": "Rapid vibration of hacksaw blade",
+    "Option3": "Hacksaw blade repels against the slots",
+    "Option4": "Attracted by the winding turns on the slot",
+    "Answer": "Rapid vibration of hacksaw blade",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the working principle of single phase induction motor?",
+    "Option1": "Lenz’s law",
+    "Option2": "Joule’s law",
+    "Option3": "Faraday’s laws of electrolysis",
+    "Option4": "Faraday’s laws of electromagnetic induction",
+    "Answer": "Lenz’s law",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the name of single phase motor?",
+    "Option1": "Permanent capacitor motor",
+    "Option2": "Induction start capacitor run motor",
+    "Option3": "Capacitor start capacitor run motor",
+    "Option4": "Capacitor start induction run motor",
+    "Answer": "Permanent capacitor motor",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/Electrician%2FSEM3%2FElectrician28%2F213.PNG?alt=media&token=99877d4b-6734-4ca4-99a9-945a316f0e3f"
+  },
+  {
+    "Question": "What is the working principle of split phase motor?",
+    "Option1": "Lenz’s law",
+    "Option2": "Joule’s law",
+    "Option3": "Faraday’s laws of electrolysis",
+    "Option4": "Faraday’s laws of electromagnetic induction",
+    "Answer": "Lenz’s law",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Faraday’s laws of electromagnetic induction",
+    "Option1": "Universal motor",
+    "Option2": "Permanent capacitor motor",
+    "Option3": "Capacitor start induction run motor",
+    "Option4": "Capacitor start capacitor run motor",
+    "Answer": "Capacitor start capacitor run motor",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/Electrician%2FSEM3%2FElectrician28%2F215.PNG?alt=media&token=af04f31c-ee01-4178-b369-93e8c04e4321"
+  }
+]

@@ -1,0 +1,227 @@
+[
+  {
+    "Question": "Calculate the flat width of 10 mm pitch buttress thread?",
+    "Option1": "1.25 mm",
+    "Option2": "2.25 mm",
+    "Option3": "3.25 mm",
+    "Option4": "4.25 mm",
+    "Answer": "1.25 mm",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Calculate the width of flat of buttress thread 6 mm pitch?",
+    "Option1": "0.75 mm",
+    "Option2": "1 mm",
+    "Option3": "1.5 mm",
+    "Option4": "2 mm",
+    "Answer": "0.75 mm",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the relationship between pitch and depth of a buttress thread?",
+    "Option1": "depth = 0.5 x pitch",
+    "Option2": "depth = 0.6134 x pitch",
+    "Option3": "depth = 0.6403 x pitch",
+    "Option4": "depth = 0.75 x pitch",
+    "Answer": "depth = 0.75 x pitch",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is calculated by formula 0.75 x pitch?",
+    "Option1": "depth of square thread",
+    "Option2": "depth of metric thread",
+    "Option3": "depth of acme thread",
+    "Option4": "depth of buttress thread",
+    "Answer": "depth of buttress thread",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the use of thread?",
+    "Option1": "Used in carpenters vice",
+    "Option2": "Used in screw jack",
+    "Option3": "Used in nut and bolt",
+    "Option4": "Used in machine vice",
+    "Answer": "Used in carpenters vice",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/201to225%2FS206.PNG?alt=media&token=520cc4d0-bf07-4d1b-b1f8-f4ff8d650c15"
+  },
+  {
+    "Question": "Which device uses buttress thread?",
+    "Option1": "Screw jack",
+    "Option2": "Lead screw of lathe",
+    "Option3": "Carpentry vice",
+    "Option4": "General purpose nut and bolt",
+    "Answer": "Carpentry vice",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Calculate the depth of buttress thread diameter 30 mm of pitch 3mm?",
+    "Option1": "1.25 mm",
+    "Option2": "1.5 mm",
+    "Option3": "2.25 mm",
+    "Option4": "3.00 mm",
+    "Answer": "2.25 mm",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Calculate the depth of buttress thread 60 mm diameter of 9 mm pitch?",
+    "Option1": "4.75 mm",
+    "Option2": "4.75 mm",
+    "Option3": "6.75 mm",
+    "Option4": "7.75 mm",
+    "Answer": "6.75 mm",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is α in the formula Tan α = lead/πd to calculate the lead of screw thread?",
+    "Option1": "Lead angle",
+    "Option2": "Helix angle",
+    "Option3": "Thread angle",
+    "Option4": "Tangent angle",
+    "Answer": "Helix angle",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the relationship between pitch and depth of a square thread?",
+    "Option1": "Depth is ¼ pitch",
+    "Option2": "Depth is ½ pitch",
+    "Option3": "Depth is ¾ pitch",
+    "Option4": "Depth is equal to pitch",
+    "Answer": "Depth is ½ pitch",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the width of the tool to cut a square thread of 60 x 9 mm pitch?",
+    "Option1": "4.5 mm",
+    "Option2": "9.5 mm",
+    "Option3": "9 mm",
+    "Option4": "8.5 mm",
+    "Answer": "4.5 mm",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the width of the tool to cut square thread of 30 x 3 mm pitch?",
+    "Option1": "3 mm",
+    "Option2": "1.5 mm",
+    "Option3": "6 mm",
+    "Option4": "2 mm",
+    "Answer": "1.5 mm",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the core dia of square thread 62 x 10 mm pitch?",
+    "Option1": "52.7 mm",
+    "Option2": "52 mm",
+    "Option3": "57.4 mm",
+    "Option4": "56.45 mm",
+    "Answer": "52 mm",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the depth of square thread 60 x 5 mm pitch?",
+    "Option1": "5 mm",
+    "Option2": "2.5 mm",
+    "Option3": "3 mm",
+    "Option4": "4 mm",
+    "Answer": "2.5 mm",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the core dia of square thread 75 x 11 mm pitch?",
+    "Option1": "70 mm",
+    "Option2": "60 mm",
+    "Option3": "64 mm",
+    "Option4": "65.8 mm",
+    "Answer": "64 mm",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the reason for using ACME thread in lathe lead screw?",
+    "Option1": "Easily available",
+    "Option2": "Manufacturing cost is less",
+    "Option3": "Enable easy engagement",
+    "Option4": "Suitable for big diameter thread",
+    "Answer": "Enable easy engagement",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What will happen if threading tool is set below centre height?",
+    "Option1": "Pitch will changed",
+    "Option2": "Difficult for catching",
+    "Option3": "Thread will be damaged",
+    "Option4": "Major diameter will changed",
+    "Answer": "Thread will be damaged",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the reason for providing buttress thread in carpentry vice?",
+    "Option1": "For better appearance",
+    "Option2": "For easy use",
+    "Option3": "For easy manufacturing",
+    "Option4": "Pressure acts at one flank",
+    "Answer": "Pressure acts at one flank",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the name of lathe accessory?",
+    "Option1": "Four jaw independent chuck",
+    "Option2": "Three jaw self-centering chuck",
+    "Option3": "Face plate",
+    "Option4": "Lathe mandrel",
+    "Answer": "Four jaw independent chuck",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/201to225%2FS220.PNG?alt=media&token=912aa343-f0d5-410c-9d4b-33cb66c86b2f"
+  },
+  {
+    "Question": "What is the name of the lathe accessory?",
+    "Option1": "Face plate",
+    "Option2": "Lathe mandrel",
+    "Option3": "Three jaw self-centering chuck",
+    "Option4": "Catch plate",
+    "Answer": "Three jaw self-centering chuck",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/201to225%2FS221.PNG?alt=media&token=145a141f-f502-4b3a-84ba-a9cf129f8a3b"
+  },
+  {
+    "Question": "What is the name of lathe accessory?",
+    "Option1": "Driving plate",
+    "Option2": "Lathe centre",
+    "Option3": "Lathe centre",
+    "Option4": "Face plate",
+    "Answer": "Face plate",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/201to225%2FS222.PNG?alt=media&token=0c856531-e008-4bb5-9d22-021c718333ad"
+  },
+  {
+    "Question": "What is the name of the lathe accessory?",
+    "Option1": "Lathe mandrel",
+    "Option2": "Driving plate",
+    "Option3": "Catch plate",
+    "Option4": "Lathe centre",
+    "Answer": "Catch plate",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/201to225%2FS223.PNG?alt=media&token=472bcb35-b358-4d9e-ab37-7bf7c43d9b1b"
+  },
+  {
+    "Question": "What is the name of lathe accessory?",
+    "Option1": "Lathe travelling steady",
+    "Option2": "Lathe fixed steady",
+    "Option3": "Three jaw self-centering chuck",
+    "Option4": "Lathe carrier",
+    "Answer": "Lathe carrier",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/201to225%2FS224.PNG?alt=media&token=7d0b4047-ea45-4b32-a8b7-d9de32b65158"
+  },
+  {
+    "Question": "What is the name of the centre?",
+    "Option1": "Female centre",
+    "Option2": "Ordinary centre",
+    "Option3": "Revolving centre",
+    "Option4": "Self-driving live centre",
+    "Answer": "Self-driving live centre",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/201to225%2FS225.PNG?alt=media&token=d9dcaa32-f414-45bd-8685-b085df6e7fa3"
+  },
+  {
+    "Question": "Which mandrel is manufactured in order to reduce the number of mandrel?",
+    "Option1": "Threaded mandrel",
+    "Option2": "Stepped mandrel",
+    "Option3": "Solid mandrel",
+    "Option4": "Gang mandrel",
+    "Answer": "Stepped mandrel",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  }
+]

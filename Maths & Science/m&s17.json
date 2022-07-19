@@ -1,0 +1,227 @@
+[
+  {
+    "Question": "What is the ratio between the change in dimension to its original dimension of the substance?",
+    "Option1": "Stress",
+    "Option2": "Strain",
+    "Option3": "Poissonʹs ratio",
+    "Option4": "Factor of safety",
+    "Answer": "Strain",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the unit of strain?",
+    "Option1": "Kg/cm²",
+    "Option2": "Newton/metre²",
+    "Option3": "Metre",
+    "Option4": "No unit",
+    "Answer": "No unit",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the ratio of change in length to original length?",
+    "Option1": "Linear strain",
+    "Option2": "Lateral strain",
+    "Option3": "Volumetric strain",
+    "Option4": "Poissonʹs ratio",
+    "Answer": "Linear strain",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the ratio between lateral strain and longitudinal strain?",
+    "Option1": "Hooks law",
+    "Option2": "Youngʹs modulus",
+    "Option3": "Bulk modulus",
+    "Option4": "Poissonʹs ratio",
+    "Answer": "Poissonʹs ratio",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which symbol is used to express change in length?",
+    "Option1": "L",
+    "Option2": "δl",
+    "Option3": "I",
+    "Option4": "e",
+    "Answer": "δl",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which one is the ratio of stress?",
+    "Option1": "Load and area",
+    "Option2": "Load and direction",
+    "Option3": "Load and diameter",
+    "Option4": "Load and time",
+    "Answer": "Load and area",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which force acts on rivets?",
+    "Option1": "Tensile force",
+    "Option2": "Compressive force",
+    "Option3": "Shear force",
+    "Option4": "Bending force",
+    "Answer": "Shear force",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which type of stress?",
+    "Option1": "Tensile stress",
+    "Option2": "Compressive stress",
+    "Option3": "Shear stress",
+    "Option4": "Torsional stress",
+    "Answer": "Shear stress",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/M%26S%2F401%20TO%20425%2F158.PNG?alt=media&token=367c8fd9-0144-46d3-a8f1-cde6ecd51728"
+  },
+  {
+    "Question": "What is the formula for bulk modulus?",
+    "Option1": "Tensile stress/Tensile strain",
+    "Option2": "Compressive stress/Compressive strain",
+    "Option3": "Volumetric stress/Volumetric strain",
+    "Option4": "Shear stress/Shear strain",
+    "Answer": "Volumetric stress/Volumetric strain",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which law states that within elastic limit stress is directly proportional to strain?",
+    "Option1": "Newtons law",
+    "Option2": "Hooks law",
+    "Option3": "Joules law",
+    "Option4": "Charles law",
+    "Answer": "Hooks law",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the name of the point ʹCʹ?",
+    "Option1": "Yield point",
+    "Option2": "Elastic limit",
+    "Option3": "Ultimate load",
+    "Option4": "Fracture",
+    "Answer": "Yield point",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/M%26S%2F401%20TO%20425%2F161.PNG?alt=media&token=1cba91d7-553e-4455-b199-2d3a61cfc88d"
+  },
+  {
+    "Question": "What is the term used for maximum stress attained by a material before rupture?",
+    "Option1": "Tensile stress",
+    "Option2": "Compressive stress",
+    "Option3": "Working stress",
+    "Option4": "Ultimate stress",
+    "Answer": "Ultimate stress",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the ratio between ultimate stress to working stress?",
+    "Option1": "Bulk modulus",
+    "Option2": "Youngʹs modulus",
+    "Option3": "Factor of safety",
+    "Option4": "Modulus of rigidity",
+    "Answer": "Factor of safety",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the ratio of ultimate load to area of original cross section?",
+    "Option1": "Factor of safety",
+    "Option2": "Yield point",
+    "Option3": "Ultimate stress",
+    "Option4": "Youngs modulus",
+    "Answer": "Ultimate stress",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What does the point ʹbʹ denotes in the stress-strain graph?",
+    "Option1": "Elastic limit",
+    "Option2": "Yield point",
+    "Option3": "Limit of proportionality",
+    "Option4": "Ultimate load",
+    "Answer": "Elastic limit",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/M%26S%2F401%20TO%20425%2F165.PNG?alt=media&token=80d6ba68-50dd-4943-a4b2-851d661b1061"
+  },
+  {
+    "Question": "What is the ratio of shear stress to shear strain?",
+    "Option1": "Modulus of elasticity",
+    "Option2": "Modulus of rigidity",
+    "Option3": "Bulk modulus",
+    "Option4": "Yield point",
+    "Answer": "Modulus of rigidity",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the ratio between stress and strain?",
+    "Option1": "Yield point",
+    "Option2": "Factor of safety",
+    "Option3": "Youngs Modulus",
+    "Option4": "Poissonʹs ratio",
+    "Answer": "Youngs Modulus",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which force acts on crank shaft?",
+    "Option1": "Shear stress",
+    "Option2": "Torsional stress",
+    "Option3": "Tensile stress",
+    "Option4": "Compressive stress",
+    "Answer": "Torsional stress",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which is thermosetting plastic?",
+    "Option1": "Vinyl polymers",
+    "Option2": "Polystyrenes",
+    "Option3": "Celluloid",
+    "Option4": "Melamine resins",
+    "Answer": "Melamine resins",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What force will be required to punch a hole of 10 mm dia in a 1 mm thick plate, if the allowable shear stress is 50N/mm²? (π = 22/7)",
+    "Option1": "1757 N",
+    "Option2": "1575 N",
+    "Option3": "1571.4 N",
+    "Option4": "1577 N",
+    "Answer": "1571.4 N",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the tensile stress if a square rod of 10 mm side is tested for a tensile load of 1000 kg?",
+    "Option1": "1 kg/mm²",
+    "Option2": "10 kg /mm²",
+    "Option3": "100 kg/mm²",
+    "Option4": "1000 kg/mm²",
+    "Answer": "10 kg /mm²",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the tensile strain if a force of 3.2 KN is applied to a bar of original length 2800 mm extends the bar by 0.5 mm?",
+    "Option1": 0.0001786,
+    "Option2": 0.0001687,
+    "Option3": 0.0001867,
+    "Option4": 0.0001968,
+    "Answer": 0.0001786,
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "How much strain is developed in an iron rod of 1 metre length gets elongated by 1 cm, if a force of 100 kg is applied at one end?",
+    "Option1": 0.1,
+    "Option2": 0.01,
+    "Option3": 0.001,
+    "Option4": 0.0001,
+    "Answer": 0.01,
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the youngs modulus if a wire of 2m long, 0.8 mm2 in cross section increases its length by 1.6 mm on suspension of 8 kg weight from it?",
+    "Option1": "1.25 kg/mm²",
+    "Option2": "12.5 kg /mm²",
+    "Option3": "125 kg/mm²",
+    "Option4": "12500 kg/mm²",
+    "Answer": "12500 kg/mm²",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the safe stress if the ultimate stress of a material is 35 kg/mm² and factor of safety is 5?",
+    "Option1": 0.143,
+    "Option2": 0.7,
+    "Option3": 1.43,
+    "Option4": 7,
+    "Answer": 7,
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  }
+]

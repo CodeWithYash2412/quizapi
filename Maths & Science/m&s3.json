@@ -1,0 +1,227 @@
+[
+  {
+    "Question": "What is the carbon percentage in medium carbon steel?",
+    "Option1": "0.05% to 0.15%",
+    "Option2": "0.15% to 0.25%",
+    "Option3": "0.25% to 0.5%",
+    "Option4": "0.5% to 1.5%",
+    "Answer": "0.25% to 0.5%",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the carbon percentage in low carbon steel?",
+    "Option1": "0.02% to 0.03%",
+    "Option2": "0.15% to 0.25%",
+    "Option3": "0.25% to 0.50%",
+    "Option4": "0.50% to 1.50%",
+    "Answer": "0.15% to 0.25%",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the carbon percentage in high carbon steel?",
+    "Option1": "0.02% to 0.03%",
+    "Option2": "0.15% to 0.25%",
+    "Option3": "0.25% to 0.50%",
+    "Option4": "0.50% to 1.50%",
+    "Answer": "0.50% to 1.50%",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the ore of aluminium?",
+    "Option1": "Hematite",
+    "Option2": "Mallatite",
+    "Option3": "Bauxite",
+    "Option4": "Lemonite",
+    "Answer": "Bauxite",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which property of a metal enables it by which it can be drawn out into wires under tension without rupture?",
+    "Option1": "Ductility",
+    "Option2": "Malleability",
+    "Option3": "Hardness",
+    "Option4": "Brittleness",
+    "Answer": "Ductility",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which among the following is an insulator?",
+    "Option1": "Copper",
+    "Option2": "Aluminium",
+    "Option3": "Silver",
+    "Option4": "Mica",
+    "Answer": "Mica",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which rubber is used as insulator for power cables and control wires?",
+    "Option1": "Butyl",
+    "Option2": "Hypalone",
+    "Option3": "Silicon",
+    "Option4": "Nitrite butadiene",
+    "Answer": "Silicon",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which alloy steel is used to make permanent magnets?",
+    "Option1": "Silicon steel",
+    "Option2": "Manganese steel",
+    "Option3": "Vanadium steel",
+    "Option4": "Cobalt steel",
+    "Answer": "Cobalt steel",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which insulator is used in over head lines?",
+    "Option1": "Mica",
+    "Option2": "Rubber",
+    "Option3": "P.V.C",
+    "Option4": "Porcelain",
+    "Answer": "Porcelain",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which insulating material is used for making switches?",
+    "Option1": "Porcelain",
+    "Option2": "PVC",
+    "Option3": "Bakelite",
+    "Option4": "Ebonite",
+    "Answer": "Bakelite",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the name of the property of an insulation that should brake down or puncture on application of high voltage?",
+    "Option1": "Di-electric strength",
+    "Option2": "Specific resistance",
+    "Option3": "Mechanical strenth",
+    "Option4": "Non absorption",
+    "Answer": "Di-electric strength",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which alloy steel is using for making precious instrument?",
+    "Option1": "Silicon steel",
+    "Option2": "Manganese steel",
+    "Option3": "Invar steel",
+    "Option4": "Vanadium",
+    "Answer": "Invar steel",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which steel is used for making files and cold chisel?",
+    "Option1": "Low carbon steel",
+    "Option2": "Midium carbon steel",
+    "Option3": "High carbon steel",
+    "Option4": "Stainless steel",
+    "Answer": "High carbon steel",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is termed as the quantity of matter contained in a body?",
+    "Option1": "Density",
+    "Option2": "Volume",
+    "Option3": "Mass",
+    "Option4": "Specific gravity",
+    "Answer": "Mass",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the force with which a body is attracted by the earth towards its centre?",
+    "Option1": "Mass",
+    "Option2": "Weight",
+    "Option3": "Volume",
+    "Option4": "Density",
+    "Answer": "Weight",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is called mass per unit volume of a substances?",
+    "Option1": "Mass",
+    "Option2": "Weight",
+    "Option3": "Density",
+    "Option4": "Volume",
+    "Answer": "Density",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is called the ratio between the density of a substances density of water at 4°C?",
+    "Option1": "Density",
+    "Option2": "Specific gravity",
+    "Option3": "Mass",
+    "Option4": "Weight",
+    "Answer": "Specific gravity",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the density of aluminium?",
+    "Option1": "2.7 g/cm3",
+    "Option2": "3.7 g/cm3",
+    "Option3": "4.7 g/cm3",
+    "Option4": "5.7 g/cm3",
+    "Answer": "2.7 g/cm3",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Wha is the mass if the density of a body is 7.6 g/cm3 and its volume is 25 cm3?",
+    "Option1": "190 grams",
+    "Option2": "200 grams",
+    "Option3": "210 grams",
+    "Option4": "220 grams",
+    "Answer": "190 grams",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the specific gravity of the solid, if density of the solid is 19.5 g/cm3?",
+    "Option1": 18,
+    "Option2": 18.5,
+    "Option3": 19,
+    "Option4": 19.5,
+    "Answer": 19.5,
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the density (r) in g/cm3 of an iron cube, if it weighs (W) 4.8 kg and volume (V) is 640 cm3?",
+    "Option1": "6.6 g/cm3",
+    "Option2": "6.9 g/cm3",
+    "Option3": "7.2 g/cm3",
+    "Option4": "7.5 g/cm3",
+    "Answer": "7.5 g/cm3",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the volume (V) of mercury in cm3, if mass (m) of mercury is 1 kg and density (r) is 13.6 g/cm3?",
+    "Option1": "73.53 cm3",
+    "Option2": "73.43 cm3",
+    "Option3": "73.33 cm3",
+    "Option4": "73.23 cm3",
+    "Answer": "73.53 cm3",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the mass in gram, if a force of 15 dyres acting on a mass m producing an acceleration of 2.5 cm/sec2?",
+    "Option1": "9 grams",
+    "Option2": "8 grams",
+    "Option3": "7 grams",
+    "Option4": "6 grams",
+    "Answer": "6 grams",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the specific gravity of the metal, if the piece of metal weighs 150 grams in air and 125 grams in water?",
+    "Option1": 6,
+    "Option2": 10,
+    "Option3": 15,
+    "Option4": 25,
+    "Answer": 6,
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the volume of mercury in cm3, if the mass (m) of mercury is 136 grams (g) and density (r) of mercury is 13.6 g/cm3?",
+    "Option1": "136 cm3",
+    "Option2": "13.6 cm3",
+    "Option3": "10.6 cm3",
+    "Option4": "10.0 cm3",
+    "Answer": "10.0 cm3",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  }
+]

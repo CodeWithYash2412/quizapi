@@ -1,0 +1,227 @@
+[
+  {
+    "Question": "What is the name of the operation?",
+    "Option1": "Square shoulder",
+    "Option2": "Filleted shoulder",
+    "Option3": "Bevelled shoulder",
+    "Option4": "NONE OF THEM",
+    "Answer": "Square shoulder",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/FITTER%2FFITTER%20SEM2%2F176%20TO%20200%2FFI176.PNG?alt=media&token=dd1bf2de-9271-4e2c-a9b6-d53d1e0c549e"
+  },
+  {
+    "Question": "What type of cutting tool used in mass production?",
+    "Option1": "Solid tools",
+    "Option2": "Brazed tools",
+    "Option3": "Throw away type tools",
+    "Option4": "NONE OF THEM",
+    "Answer": "Throw away type tools",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which gauge is used to compare the profile of thread?",
+    "Option1": "Plug gauge",
+    "Option2": "Feeler gauge",
+    "Option3": "Radius gauge",
+    "Option4": "NONE OF THEM",
+    "Answer": "Radius gauge",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which is the vertical distance from crest to the root?",
+    "Option1": "Lead",
+    "Option2": "Flank",
+    "Option3": "Pitch",
+    "Option4": "Depth",
+    "Answer": "Depth",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Calculate the blank size for external threading M16 x 2.0",
+    "Option1": "14.0 mm",
+    "Option2": "15.8 mm",
+    "Option3": "16.0 mm",
+    "Option4": "17.8 mm",
+    "Answer": "15.8 mm",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which type of thread is used in screw jack?",
+    "Option1": "Vee thread",
+    "Option2": "Acme thread",
+    "Option3": "screw thread",
+    "Option4": "Knuckle thread",
+    "Answer": "Knuckle thread",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the name of the part marked X ?",
+    "Option1": "Bed",
+    "Option2": "Tail stock",
+    "Option3": "Feed shaft",
+    "Option4": "NONE OF THEM",
+    "Answer": "Feed shaft",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/FITTER%2FFITTER%20SEM2%2F176%20TO%20200%2FFI182.PNG?alt=media&token=019269f3-dce4-4345-a67d-8ae3158dd4e3"
+  },
+  {
+    "Question": "What is the maximum swiveling angle of the compound rest in the lathe machine?",
+    "Option1": "90°",
+    "Option2": "180°",
+    "Option3": "210°",
+    "Option4": "220°",
+    "Answer": "220°",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which part is mainly supporting the lengthy job in lathe machine?",
+    "Option1": "Face plate",
+    "Option2": "Steady rest",
+    "Option3": "Dog carrier",
+    "Option4": "NONE OF THEM",
+    "Answer": "Steady rest",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the name of part marked as x of three jaw chuck?",
+    "Option1": "Body",
+    "Option2": "Back plate",
+    "Option3": "External jaw",
+    "Option4": "Internal jaw",
+    "Answer": "Internal jaw",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/FITTER%2FFITTER%20SEM2%2F176%20TO%20200%2FFI185.PNG?alt=media&token=250a2774-af9f-4f60-98dc-77b8094bdc75"
+  },
+  {
+    "Question": "What is the de-merit of 3 jaw chuck?",
+    "Option1": "Work can be set with ease",
+    "Option2": "Internal and external jaws are available",
+    "Option3": "Accuracy decreases",
+    "Option4": "NONE OF THEM",
+    "Answer": "Accuracy decreases",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which tool materials are manufactured by powder metallurgy technique?",
+    "Option1": "Carbides",
+    "Option2": "High speed steel",
+    "Option3": "High carbon steel",
+    "Option4": "NONE OF THEM",
+    "Answer": "Carbides",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which angle of the tool prevents from getting jammed in the groove and causes breakage?",
+    "Option1": "Side rake angle",
+    "Option2": "Side relief angle",
+    "Option3": "Side clearance angle",
+    "Option4": "NONE OF THEM",
+    "Answer": "Side relief angle",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the defect caused if the tool is not set to the correct centre height while facing?",
+    "Option1": "Convex face",
+    "Option2": "Concave face",
+    "Option3": "Pip left in the centre",
+    "Option4": "NONE OF THEM",
+    "Answer": "Pip left in the centre",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the unit of cutting speed in turning?",
+    "Option1": "mm/sec",
+    "Option2": "m/sec",
+    "Option3": "m/min",
+    "Option4": "mm/min",
+    "Answer": "m/min",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the type of operation is carried out?",
+    "Option1": "Straight groove",
+    "Option2": "Vee groove",
+    "Option3": "Round groove",
+    "Option4": "NONE OF THEM",
+    "Answer": "Vee groove",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/FITTER%2FFITTER%20SEM2%2F176%20TO%20200%2FFI191.PNG?alt=media&token=11bada19-2a8b-4bba-907f-969e246c3dee"
+  },
+  {
+    "Question": "What is the name of portion between root and crest of the thread?",
+    "Option1": "Root",
+    "Option2": "Flank",
+    "Option3": "Depth",
+    "Option4": "NONE OF THEM",
+    "Answer": "Flank",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the principle of dial test indicator?",
+    "Option1": "Sliding",
+    "Option2": "Screw and nut",
+    "Option3": "Rack and pinion",
+    "Option4": "NONE OF THEM",
+    "Answer": "Rack and pinion",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which dimension is measured by using screw thread micrometer?",
+    "Option1": "Pitch of screw thread",
+    "Option2": "Minor dia of screw thread",
+    "Option3": "Major dia of screw thread",
+    "Option4": "NONE OF THEM",
+    "Answer": "Major dia of screw thread",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What type of power transmission is transmitted by spur gear?",
+    "Option1": "Parallel transmission",
+    "Option2": "Angular transmission",
+    "Option3": "Intersecting transmission",
+    "Option4": "NONE OF THEM",
+    "Answer": "Parallel transmission",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "How many types of bed ways are in centre lathe machine?",
+    "Option1": 2,
+    "Option2": 3,
+    "Option3": 4,
+    "Option4": 5,
+    "Answer": 3,
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the use of screw pitch gauge?",
+    "Option1": "Check lead of the thread",
+    "Option2": "Check the pitch of the thread",
+    "Option3": "Check the minor dia of thread",
+    "Option4": "Check the major dia of thread",
+    "Answer": "Check the pitch of the thread",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the name of instrument?",
+    "Option1": "Vernier micrometer",
+    "Option2": "Outside micrometer",
+    "Option3": "Three wire micrometer",
+    "Option4": "NONE OF THEM",
+    "Answer": "Three wire micrometer",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/FITTER%2FFITTER%20SEM2%2F176%20TO%20200%2FFI198.PNG?alt=media&token=bdcc3945-d0f1-4b02-ac69-f378f459c968"
+  },
+  {
+    "Question": "What is the name of part marked as X in centre lathe ?",
+    "Option1": "Apron",
+    "Option2": "Saddle",
+    "Option3": "Gross slide",
+    "Option4": "NONE OF THEM",
+    "Answer": "Apron",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/FITTER%2FFITTER%20SEM2%2F176%20TO%20200%2FFI199.PNG?alt=media&token=42bce42a-293e-4d70-9d56-feb8a3f7692f"
+  },
+  {
+    "Question": "What is the name of part marked as X?",
+    "Option1": "Clutch",
+    "Option2": "Feed selector",
+    "Option3": "Lathe spindle",
+    "Option4": "NONE OF THEM",
+    "Answer": "Lathe spindle",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/FITTER%2FFITTER%20SEM2%2F176%20TO%20200%2FFI200.PNG?alt=media&token=8eae516f-de01-40fb-8d25-80b2d36f868c"
+  }
+]

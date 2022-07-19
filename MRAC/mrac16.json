@@ -1,0 +1,227 @@
+[
+  {
+    "Question": "Which type of compressor is used in window air conditioner?",
+    "Option1": "Belt drive",
+    "Option2": "Open type",
+    "Option3": "Sealed type",
+    "Option4": "Swash plate",
+    "Answer": "Sealed type",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which type of condenser is used in window air conditioner?",
+    "Option1": "Fins and tube",
+    "Option2": "Plate and tube",
+    "Option3": "Plate and coil",
+    "Option4": "Bare tube",
+    "Answer": "Fins and tube",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the cooling capacity of 1 TR in K Cal / hr?",
+    "Option1": 3000,
+    "Option2": 4000,
+    "Option3": 5000,
+    "Option4": 6000,
+    "Answer": 3000,
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the part marked as X in window air conditioner?",
+    "Option1": "Muffler",
+    "Option2": "Condenser",
+    "Option3": "Evaporator",
+    "Option4": "Discharge line",
+    "Answer": "Evaporator",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/MRAC%2FSEM2%2F126%20TO%20150%2F129.PNG?alt=media&token=40b91264-a082-4709-9e76-11d0d34fbf13"
+  },
+  {
+    "Question": "What is the part marked as X?",
+    "Option1": "Muffler",
+    "Option2": "Condenser",
+    "Option3": "Evaporator",
+    "Option4": "Discharge line",
+    "Answer": "Condenser",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/MRAC%2FSEM2%2F126%20TO%20150%2F130.PNG?alt=media&token=64e05d3f-d153-4510-b984-de36c273bc3f"
+  },
+  {
+    "Question": "Which type of expansion valve is used in window air conditioner?",
+    "Option1": "Capillary tube",
+    "Option2": "Low side float valve",
+    "Option3": "Automatic expansion valve",
+    "Option4": "Thermostatic expansion valve",
+    "Answer": "Capillary tube",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which type of evaporator is used in window air conditioner?",
+    "Option1": "Bare tube",
+    "Option2": "Plate and tube",
+    "Option3": "Fins and plate",
+    "Option4": "Fins and tube",
+    "Answer": "Fins and tube",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which material is used for making fins of condenser in a window air conditioner?",
+    "Option1": "Brass",
+    "Option2": "Copper",
+    "Option3": "Cast iron",
+    "Option4": "Aluminium",
+    "Answer": "Aluminium",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the cooling capacity of 0.5 TR in BTU / hr?",
+    "Option1": 6000,
+    "Option2": 12000,
+    "Option3": 18000,
+    "Option4": 24000,
+    "Answer": 6000,
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "1 Which control device is used to maintain the room air temperature?",
+    "Option1": "OLP",
+    "Option2": "Relay",
+    "Option3": "Thermostat",
+    "Option4": "Selector switch",
+    "Answer": "Thermostat",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which relay is used in capacitor start, capacitor run (CSR) compressor motor?",
+    "Option1": "Voltage relay",
+    "Option2": "Current relay",
+    "Option3": "Thermal relay",
+    "Option4": "Amperage relay",
+    "Answer": "Voltage relay",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which safety device is used for compressor motor in window air conditioner?",
+    "Option1": "Relay",
+    "Option2": "Starting capacitor",
+    "Option3": "Running capacitor",
+    "Option4": "Over load protector",
+    "Answer": "Over load protector",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which part of window AC removes dust particles from the room air?",
+    "Option1": "Strainer",
+    "Option2": "Air filter",
+    "Option3": "Filter drier",
+    "Option4": "Dehydrator",
+    "Answer": "Air filter",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which capacity of fan motor is used in 1Ton window air conditioner?",
+    "Option1": "1/5 HP",
+    "Option2": "1/10 HP",
+    "Option3": "1/16 HP",
+    "Option4": "1/20 HP",
+    "Answer": "1/16 HP",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which capacitor is connected in series with starting winding of CSR motor during operation?",
+    "Option1": "Fan capacitor",
+    "Option2": "Run capacitor",
+    "Option3": "Start capacitor",
+    "Option4": "No capacitor is connected",
+    "Answer": "Run capacitor",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the value of running capacitor used for 1.5 TR window air conditioner?",
+    "Option1": "36 MFD",
+    "Option2": "40 MFD",
+    "Option3": "80 MFD",
+    "Option4": "100 MFD",
+    "Answer": "36 MFD",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the value of starting capacitor used for 1TR window air conditioner?",
+    "Option1": "40 MFD",
+    "Option2": "60 MFD",
+    "Option3": "80 MFD",
+    "Option4": "100 MFD",
+    "Answer": "80 MFD",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the purpose of relay used in window air conditioner?",
+    "Option1": "Disconnect the starting capacitor",
+    "Option2": "Disconnect the running capacitor",
+    "Option3": "Disconnect the fan capacitor",
+    "Option4": "Disconnect the winding",
+    "Answer": "Disconnect the starting capacitor",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which is increased by the fins of condenser tubes in window air conditioner?",
+    "Option1": "Heat transfer rate",
+    "Option2": "Power consumption",
+    "Option3": "Discharge pressure",
+    "Option4": "Refrigerant flow rate",
+    "Answer": "Heat transfer rate",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the purpose of operating the fan motor first and then the compressor motor in Air conditioners?",
+    "Option1": "Cool the coils first by fan",
+    "Option2": "Cool the compressor by fan",
+    "Option3": "Minimise the noise of motors",
+    "Option4": "Stop the high starting current by both motors",
+    "Answer": "Stop the high starting current by both motors",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which type of fan motor is used in window air conditioner?",
+    "Option1": "Three phase single shaft motor",
+    "Option2": "Single phase single shaft motor",
+    "Option3": "Three phase double end shaft motor",
+    "Option4": "Single phase double end shaft motor",
+    "Answer": "Single phase double end shaft motor",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which winding of compressor motor is directly connected across voltage relay coil?",
+    "Option1": "Main winding",
+    "Option2": "Starting winding",
+    "Option3": "Running winding",
+    "Option4": "Auxiliary winding",
+    "Answer": "Starting winding",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Where the normally closed contacts are internally connected in voltage relay?",
+    "Option1": "Across 1 and 5",
+    "Option2": "Across 2 and 5",
+    "Option3": "Across 1 and 2",
+    "Option4": "Across 2 and 4",
+    "Answer": "Across 1 and 2",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which is indicated by the arrow mark on filter drier component?",
+    "Option1": "Flow direction of air",
+    "Option2": "Position of capillary tube",
+    "Option3": "Flow direction of refrigerant",
+    "Option4": "Arrangement of desiccant and filter",
+    "Answer": "Flow direction of refrigerant",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the area of room cooled by 1ton window air conditioner?",
+    "Option1": "5000 sq.ft",
+    "Option2": "2000 sq.ft",
+    "Option3": "1000 sq.ft",
+    "Option4": "3000 sq.ft.",
+    "Answer": "1000 sq.ft",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  }
+]

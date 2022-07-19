@@ -1,0 +1,227 @@
+[
+  {
+    "Question": "What is the component used in refrigerator wiring?",
+    "Option1": "Evaporator fan motor",
+    "Option2": "Over load protector",
+    "Option3": "Defrost heater",
+    "Option4": "PTC relay",
+    "Answer": "PTC relay",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/MRAC%2FSEM1%2F226%20TO%20250%2F226.PNG?alt=media&token=507120e9-93b4-4a91-b9a2-a1cc2c071d76"
+  },
+  {
+    "Question": "Which is used to clean the condenser fins of a refrigerator?",
+    "Option1": "Painting brush",
+    "Option2": "Diluted acid",
+    "Option3": "Soap solution",
+    "Option4": "Fin comb",
+    "Answer": "Painting brush",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the component marked as x in refrigerator?",
+    "Option1": "Fin type condenser",
+    "Option2": "Compressor",
+    "Option3": "Evaporator",
+    "Option4": "Capillary",
+    "Answer": "Evaporator",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/MRAC%2FSEM1%2F226%20TO%20250%2F228.PNG?alt=media&token=1801a49f-6ae0-4c7a-8e4e-21eddbaf9086"
+  },
+  {
+    "Question": "How the capacity of refrigerator is expressed?",
+    "Option1": "Weightage",
+    "Option2": "Tonnage",
+    "Option3": "Wattage",
+    "Option4": "Litres",
+    "Answer": "Litres",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the temperature maintained in the refrigerator freezer?",
+    "Option1": "0°C",
+    "Option2": "- 15°C",
+    "Option3": "- 45°C",
+    "Option4": "- 65°C",
+    "Answer": "- 15°C",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Where the manually defrosted water is stored in refrigerator?",
+    "Option1": "Tray on top of the compressor",
+    "Option2": "Bottom of the evaporator",
+    "Option3": "Bottom of the condenser",
+    "Option4": "Top of the freezer",
+    "Answer": "Tray on top of the compressor",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which component is used in frost free refrigerator?",
+    "Option1": "Plate coil evaporator",
+    "Option2": "Liquid receiver",
+    "Option3": "Oil separator",
+    "Option4": "Timer switch",
+    "Answer": "Timer switch",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which type of evaporator is used in frost free refrigerator?",
+    "Option1": "Plate type",
+    "Option2": "Wire mesh|",
+    "Option3": "Finned tube",
+    "Option4": "Shell and tube",
+    "Answer": "Finned tube",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which device protects the compressor motor from drawing more current?",
+    "Option1": "OLP",
+    "Option2": "Relay",
+    "Option3": "Thermostat",
+    "Option4": "Door switch",
+    "Answer": "OLP",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which device equalizes the system pressure in frost free refrigerator?",
+    "Option1": "Capillary tube",
+    "Option2": "Compressor",
+    "Option3": "Condenser",
+    "Option4": "Evaporator",
+    "Answer": "Capillary tube",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which method of refrigeration system is adopted in frost free refrigerator?",
+    "Option1": "Vapour compression",
+    "Option2": "Vapour absorption",
+    "Option3": "Water vapour",
+    "Option4": "Evacuating",
+    "Answer": "Vapour compression",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which electrical control cuts off heating element in frost free refrigerator?",
+    "Option1": "Bimetal thermo",
+    "Option2": "Thermostat",
+    "Option3": "Relay",
+    "Option4": "Timer",
+    "Answer": "Bimetal thermo",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the working condition of component during defrost cycle in frost free refrigerator?",
+    "Option1": "Evaporator fan motor is running",
+    "Option2": "Compressor is not running",
+    "Option3": "Thermostat cuts off",
+    "Option4": "Relay activated",
+    "Answer": "Compressor is not running",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which component actuates the defrost cycle in frost free refrigerator?",
+    "Option1": "Bimetal thermo",
+    "Option2": "Defrost heater",
+    "Option3": "Timer",
+    "Option4": "Relay",
+    "Answer": "Timer",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which component is turned off while defrost heater is energised?",
+    "Option1": "Cabinet bulb",
+    "Option2": "Evaporator fan",
+    "Option3": "Thermostat sensor",
+    "Option4": "Over load protector",
+    "Answer": "Evaporator fan",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which movement of plunger energises the start winding in relay operation?",
+    "Option1": "Vertically up",
+    "Option2": "Bottom side",
+    "Option3": "Vertically down",
+    "Option4": "Horizontally left",
+    "Answer": "Vertically up",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which is connected in series with start capacior in motor circuit?",
+    "Option1": "Starting winding",
+    "Option2": "Common terminal",
+    "Option3": "Running Terminal",
+    "Option4": "Running winding",
+    "Answer": "Starting winding",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the advantage of sealed system compared to open type system?",
+    "Option1": "Mechanical efficiency is greater",
+    "Option2": "Cylinder lubrication is easier",
+    "Option3": "Any refrigerant can be used",
+    "Option4": "No shaft seal is required",
+    "Answer": "No shaft seal is required",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Why frost free model refrigerator takes less freezing time of products?",
+    "Option1": "Forced air circulation",
+    "Option2": "Natural air circulation",
+    "Option3": "Low temperature setting",
+    "Option4": "High temperature setting",
+    "Answer": "Forced air circulation",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the reason if refrigerator runs normally but no cooling effect?",
+    "Option1": "Leakage of refrigerant",
+    "Option2": "Condenser block",
+    "Option3": "Filter block",
+    "Option4": "Over charge",
+    "Answer": "Leakage of refrigerant",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the effect of bimetal thermo stucks in ON position in frost free refrigerator?",
+    "Option1": "Accumulation of frost",
+    "Option2": "More cooling",
+    "Option3": "Poor cooling",
+    "Option4": "No cooling",
+    "Answer": "No cooling",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the effect of contamination in refrigeration system?",
+    "Option1": "High heating",
+    "Option2": "Poor cooling",
+    "Option3": "Low pressure",
+    "Option4": "Low humidity",
+    "Answer": "Poor cooling",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the cause for refrigerator door gap at closing position?",
+    "Option1": "Uneven floor level",
+    "Option2": "Either side gap more",
+    "Option3": "Either side gap less",
+    "Option4": "Uneven condenser level",
+    "Answer": "Uneven floor level",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which component is replaced to prevent air entering the refrigerator cabinet?",
+    "Option1": "Thermostat",
+    "Option2": "Door gasket",
+    "Option3": "Door paint",
+    "Option4": "Door hinges",
+    "Answer": "Door gasket",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the result if discharge reed is broken in open type compressor?",
+    "Option1": "Poor pumping",
+    "Option2": "More pumping",
+    "Option3": "Oil pumping",
+    "Option4": "No pumping",
+    "Answer": "No pumping",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  }
+]

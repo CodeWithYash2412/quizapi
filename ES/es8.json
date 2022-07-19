@@ -1,0 +1,245 @@
+[
+  {
+    "Question": "which one is an unsafe condition for work?",
+    "Option1": "Good light",
+    "Option2": "Proper tools",
+    "Option3": "Adequate ventilation",
+    "Option4": "none of them",
+    "Answer": "Good light",
+    "image": ""
+  },
+  {
+    "Question": "Which one is the main greenhouse gas responsible for global warming?",
+    "Option1": "Hydrogen",
+    "Option2": "Oxygen",
+    "Option3": "Nitrogen",
+    "Option4": "Carbon dioxide",
+    "Answer": "Carbon dioxide",
+    "image": ""
+  },
+  {
+    "Question": "Which one of the following is NOT an ergonomic hazard?",
+    "Option1": "Awkward position",
+    "Option2": "Poor housekeeping",
+    "Option3": "Emotional disturbances",
+    "Option4": "Wrong layout of machinery",
+    "Answer": "Emotional disturbances",
+    "image": ""
+  },
+  {
+    "Question": "Which one of the following is not part of 3 R’s?",
+    "Option1": "Reduce",
+    "Option2": "Recycle",
+    "Option3": "Regenerate",
+    "Option4": "Reuse",
+    "Answer": "Regenerate",
+    "image": ""
+  },
+  {
+    "Question": "As per factories act, 1948 canteen should be provided in the factory if, workers are more than..............",
+    "Option1": 100,
+    "Option2": 250,
+    "Option3": 500,
+    "Option4": 1000,
+    "Answer": 250,
+    "image": ""
+  },
+  {
+    "Question": "Under factories Act, the restriction on working time of women is………………….",
+    "Option1": "before 5 AM and beyond 7 PM",
+    "Option2": "before 6 AM and beyond 7 PM",
+    "Option3": "before 6 AM and beyond 8 PM",
+    "Option4": "before 7 AM and beyond 8 PM",
+    "Answer": "before 6 AM and beyond 7 PM",
+    "image": ""
+  },
+  {
+    "Question": "Under Factories Act, the workers weekly hours should not exceed more than...............",
+    "Option1": "60 hours",
+    "Option2": "50 hours",
+    "Option3": "48 hours",
+    "Option4": "40 hours",
+    "Answer": "48 hours",
+    "image": ""
+  },
+  {
+    "Question": "What is the expansion of ILO?",
+    "Option1": "International Labour Organization",
+    "Option2": "Indian Labour Organization",
+    "Option3": "Indian Labour Occupation",
+    "Option4": "International Labour Occupation",
+    "Answer": "International Labour Organization",
+    "image": ""
+  },
+  {
+    "Question": "What is the minimum percentage of employee’s contribution from the basic salary, as per EPF Act, 1962?",
+    "Option1": "8.50%",
+    "Option2": "9%",
+    "Option3": "12%",
+    "Option4": "12.50%",
+    "Answer": "12%",
+    "image": ""
+  },
+  {
+    "Question": "Which amount does include in “wages” amount as per payment wages Act?",
+    "Option1": "Dearness allowance",
+    "Option2": "Any travelling allowances",
+    "Option3": "Any remuneration payable in respect of overtime",
+    "Option4": "Any remuneration payable under any award",
+    "Answer": "Dearness allowance",
+    "image": ""
+  },
+  {
+    "Question": "Which factor is NOT concerned with occupational health and safety?",
+    "Option1": "Safety",
+    "Option2": "Health",
+    "Option3": "Welfare",
+    "Option4": "Salary",
+    "Answer": "Salary",
+    "image": ""
+  },
+  {
+    "Question": "Which one of the following is an air pollutant?",
+    "Option1": "Oxygen",
+    "Option2": "Nitrogen",
+    "Option3": "Carbon dioxide",
+    "Option4": "Carbon monoxide",
+    "Answer": "Carbon monoxide",
+    "image": ""
+  },
+  {
+    "Question": "Which scheme of Act provides health insurance requirements for workers?",
+    "Option1": "Factories Act",
+    "Option2": "Plantation Labor Act",
+    "Option3": "Employee’s Compensation Act",
+    "Option4": "Employee’s state Insurance Act",
+    "Answer": "Employee’s state Insurance Act",
+    "image": ""
+  },
+  {
+    "Question": "Fishbone chart is also called as.............",
+    "Option1": "cause and effect diagram",
+    "Option2": "scatter diagram",
+    "Option3": "control chart",
+    "Option4": "histogram",
+    "Answer": "cause and effect diagram",
+    "image": ""
+  },
+  {
+    "Question": "In PDCA cycle, ‘P’ stands for .................",
+    "Option1": "Process",
+    "Option2": "Plan",
+    "Option3": "Problem",
+    "Option4": "Procedure",
+    "Answer": "Plan",
+    "image": ""
+  },
+  {
+    "Question": "The expansion of QMS is.........................",
+    "Option1": "Quality Management Standard",
+    "Option2": "Quality Measurement Standard",
+    "Option3": "Quality Measurement System",
+    "Option4": "Quality Management System",
+    "Answer": "Quality Management System",
+    "image": ""
+  },
+  {
+    "Question": "The PDCA means……………",
+    "Option1": "Plan, Develop, Control, Act",
+    "Option2": "Plan, Do, Check, Act",
+    "Option3": "Plan, Develop, Check, Act",
+    "Option4": "Plan, Do, Control, Act",
+    "Answer": "Plan, Do, Check, Act",
+    "image": ""
+  },
+  {
+    "Question": "Total number of popular quality tools are….",
+    "Option1": 9,
+    "Option2": 8,
+    "Option3": 7,
+    "Option4": 6,
+    "Answer": 7,
+    "image": ""
+  },
+  {
+    "Question": "What does “SERI” stand for?",
+    "Option1": "Sorting out",
+    "Option2": "Self-discipline",
+    "Option3": "Standardization",
+    "Option4": "Systematic arrangement",
+    "Answer": "Sorting out",
+    "image": ""
+  },
+  {
+    "Question": "What is the function of “Histogram” in Quality tools?",
+    "Option1": "Narrow down the problem area",
+    "Option2": "Effect of discrete causes",
+    "Option3": "Indicates shape of distribution",
+    "Option4": "Assess factors for problem",
+    "Answer": "Indicates shape of distribution",
+    "image": ""
+  },
+  {
+    "Question": "What is the last step in ISO 9001 registration?",
+    "Option1": "Corrective and preventive action",
+    "Option2": "Internal audit",
+    "Option3": "Management review meeting",
+    "Option4": "Certification and audit",
+    "Answer": "Certification and audit",
+    "image": ""
+  },
+  {
+    "Question": "What is the name used for word “waste”?",
+    "Option1": "MUDA",
+    "Option2": "MURA",
+    "Option3": "MURI",
+    "Option4": "MUSA",
+    "Answer": "MUDA",
+    "image": ""
+  },
+  {
+    "Question": "Which formula is correct to quantify the quality",
+    "Option1": "Q = P/Q",
+    "Option2": "Q = Q/E",
+    "Option3": "E = E/P",
+    "Option4": "P = Q/P",
+    "Answer": "Q = P/Q",
+    "image": ""
+  },
+  {
+    "Question": "Which one is NOT a basic tool used in quality circle?",
+    "Option1": "Histogram",
+    "Option2": "Pareto chart",
+    "Option3": "Check sheet",
+    "Option4": "Torque wrench",
+    "Answer": "Torque wrench",
+    "image": ""
+  },
+  {
+    "Question": "Which one is NOT the certified ISO standard?",
+    "Option1": "ISO 9010",
+    "Option2": "ISO 9001",
+    "Option3": "ISO 9002",
+    "Option4": "ISO 9003",
+    "Answer": "ISO 9010",
+    "image": ""
+  },
+  {
+    "Question": "Which one of the following is not the characteristics of quality?",
+    "Option1": "Quality control",
+    "Option2": "Quality of design",
+    "Option3": "Quality of assurance",
+    "Option4": "Quality of non- conformance",
+    "Answer": "Quality of non- conformance",
+    "image": ""
+  },
+  {
+    "Question": "Which statement of quality was stated by quality guru Dr. J. M. Juran?",
+    "Option1": "Quality should be aimed",
+    "Option2": "Quality is fitness for use",
+    "Option3": "Quality is value for money",
+    "Option4": "Quality is conformance to requirement",
+    "Answer": "Quality is fitness for use",
+    "image": ""
+  }
+]

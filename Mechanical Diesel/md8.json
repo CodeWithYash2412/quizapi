@@ -1,0 +1,227 @@
+[
+  {
+    "Question": "What is the material of positive plate in the lead acid battery?",
+    "Option1": "Tin",
+    "Option2": "Lead peroxide",
+    "Option3": "Antimony",
+    "Option4": "Spongy lead",
+    "Answer": "Lead peroxide",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which acid is used in the lead acid battery?",
+    "Option1": "Nitric acid",
+    "Option2": "Sulphuric acid",
+    "Option3": "Hydro bromic acid",
+    "Option4": "Hydro chloric acid",
+    "Answer": "Sulphuric acid",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the specific gravity of fully charged battery?",
+    "Option1": "1.170 - 1.200",
+    "Option2": "1.210 - 1.230",
+    "Option3": "1.240 - 1.250",
+    "Option4": "1.260 - 1.280",
+    "Answer": "1.260 - 1.280",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What type of emf is produced if the conductor moved and cut the magnetic field?",
+    "Option1": "Dynamically induced emf",
+    "Option2": "Statistically induced emf",
+    "Option3": "Electro-chemical induced emf",
+    "Option4": "Electro-magnetic induced emf",
+    "Answer": "Dynamically induced emf",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the effect of the soft Iron bar in a closed circuit?",
+    "Option1": "Shock effect",
+    "Option2": "Heating effect",
+    "Option3": "Magnetic effect",
+    "Option4": "Chemical effect",
+    "Answer": "Magnetic effect",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/mechanical%20diesel%2FMD8%2F180.PNG?alt=media&token=590aba16-b824-4c9f-80bf-26fafebfc327"
+  },
+  {
+    "Question": "What is the name of the Electronic Symbol?",
+    "Option1": "Diode",
+    "Option2": "Switch",
+    "Option3": "Battery",
+    "Option4": "Transistor",
+    "Answer": "Diode",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/mechanical%20diesel%2FMD8%2F181.PNG?alt=media&token=01ea7145-221c-4b5b-aa24-f0bb005f3166"
+  },
+  {
+    "Question": "Which electronic component is used as a solid state switch?",
+    "Option1": "Inductor",
+    "Option2": "Resistor",
+    "Option3": "Capacitor",
+    "Option4": "Transistor",
+    "Answer": "Transistor",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which is a temperature sensitive resistor?",
+    "Option1": "Diode",
+    "Option2": "Thyristor",
+    "Option3": "Thermistor",
+    "Option4": "Transistor",
+    "Answer": "Thermistor",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the ampere hour rating of battery deliver 5 ampere and period of 20 hours?",
+    "Option1": "80 Ampere hour",
+    "Option2": "90 Ampere hour",
+    "Option3": "100 Ampere hour",
+    "Option4": "110 Ampere hour",
+    "Answer": "100 Ampere hour",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the name of the circuit?",
+    "Option1": "Open circuit",
+    "Option2": "Short circuit",
+    "Option3": "Closed circuit",
+    "Option4": "Parallel circuit",
+    "Answer": "Open circuit",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/mechanical%20diesel%2FMD8%2F185.PNG?alt=media&token=f28bdbc0-2ac7-4209-bbb0-e22f1c44e690"
+  },
+  {
+    "Question": "What is the net resistance ‘R’ if ‘R1’ and ‘R2’ resistance are connected in series?",
+    "Option1": "R = R1 + R2",
+    "Option2": "R = R1 – R2",
+    "Option3": "R = R1 x R2",
+    "Option4": "R = R1/R2",
+    "Answer": "R = R1 + R2",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the name of electrical symbol?",
+    "Option1": "Cell",
+    "Option2": "Battery",
+    "Option3": "Earth",
+    "Option4": "Resistance",
+    "Answer": "Battery",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/mechanical%20diesel%2FMD8%2F187.PNG?alt=media&token=60d42bd7-7e1c-463a-b95f-9b6a3a07e1ec"
+  },
+  {
+    "Question": "What is the name of the electrical measuring instrument?",
+    "Option1": "Ammeter",
+    "Option2": "Voltmeter",
+    "Option3": "Wattmeter",
+    "Option4": "Multimeter",
+    "Answer": "Multimeter",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/mechanical%20diesel%2FMD8%2F188.PNG?alt=media&token=4638d460-60a1-49f5-ab53-2fa7014e980a"
+  },
+  {
+    "Question": "What is the name of the part marked X in nucleus?",
+    "Option1": "Atom",
+    "Option2": "Proton",
+    "Option3": "Neutron",
+    "Option4": "Electron",
+    "Answer": "Proton",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/mechanical%20diesel%2FMD8%2F189.PNG?alt=media&token=84cc621c-27e9-4595-8ebc-59f38b803d71"
+  },
+  {
+    "Question": "Which is the semi conductor material?",
+    "Option1": "Iron",
+    "Option2": "Gold",
+    "Option3": "Silicon",
+    "Option4": "Carbon",
+    "Answer": "Silicon",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which component is made by semiconductor material?",
+    "Option1": "Switch",
+    "Option2": "Resistor",
+    "Option3": "Capacitor",
+    "Option4": "Transistor",
+    "Answer": "Transistor",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the name of central part of an atom?",
+    "Option1": "Proton",
+    "Option2": "Electron",
+    "Option3": "Neutron",
+    "Option4": "Nucleus",
+    "Answer": "Nucleus",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "How the flow of Electron is called",
+    "Option1": "Current",
+    "Option2": "Power",
+    "Option3": "Voltage",
+    "Option4": "Resistance",
+    "Answer": "Current",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which Law state that “The current is directly proportional toʺ the voltage and inversely proportional to the resistance",
+    "Option1": "Ohm’s Law",
+    "Option2": "Hook’s Law",
+    "Option3": "Boyle’s Law",
+    "Option4": "Newton’s Law",
+    "Answer": "Ohm’s Law",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which electrical measuring instruments is fitted on the vehicle panel board?",
+    "Option1": "Ammeter",
+    "Option2": "Voltmeter",
+    "Option3": "Wattmeter",
+    "Option4": "Ohm meter",
+    "Answer": "Ammeter",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which circuit the ballast resistor is used?",
+    "Option1": "Horn circuit",
+    "Option2": "Wiper circuit",
+    "Option3": "Flasher circuit",
+    "Option4": "Head lamp circuit",
+    "Answer": "Flasher circuit",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What type of resistor is used in the vehicle flasher unit?",
+    "Option1": "Ballast resistor",
+    "Option2": "Film resistor",
+    "Option3": "Printed resistor",
+    "Option4": "Integrated resistor",
+    "Answer": "Ballast resistor",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the advantage of free maintenance sealed battery?",
+    "Option1": "No need for check and top up distilled water",
+    "Option2": "No need for recharging of battery",
+    "Option3": "No chance for sulphation of battery terminals",
+    "Option4": "No need for disconnect the terminals to remove battery",
+    "Answer": "No need for check and top up distilled water",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "How the battery capacity is expressed?",
+    "Option1": "Ampere - hour rating",
+    "Option2": "Voltage - hour rating",
+    "Option3": "Ampere rating",
+    "Option4": "Voltage rating",
+    "Answer": "Ampere - hour rating",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which is the semi conductor materials?",
+    "Option1": "Arsenic and boron",
+    "Option2": "Gallium and indium",
+    "Option3": "Germanium and silicon",
+    "Option4": "Aluminium and antimony",
+    "Answer": "Germanium and silicon",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  }
+]

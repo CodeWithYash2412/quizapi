@@ -1,0 +1,227 @@
+[
+  {
+    "Question": "What electrical quantities are related in Ohm’s law?",
+    "Option1": "Current, resistance and power",
+    "Option2": "Current, voltage and resistivity",
+    "Option3": "Current, voltage and resistance",
+    "Option4": "Voltage, resistance and current density",
+    "Answer": "Current, voltage and resistance",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Calculate the value of resistance ‘R2’ in the parallel circuit.",
+    "Option1": "2 Ω",
+    "Option2": "4 Ω",
+    "Option3": "6 Ω",
+    "Option4": "8 Ω",
+    "Answer": "6 Ω",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/Electrician%2FSEM1%2FM4%2FM4-17.PNG?alt=media&token=0f077793-2c0d-4220-a75b-895362ac5add"
+  },
+  {
+    "Question": "What is the effect of the parallel circuit with one branch opened?",
+    "Option1": "Current will remain same",
+    "Option2": "Whole circuit will not function",
+    "Option3": "No current will flow in that branch",
+    "Option4": "Voltage drop increase in the opened branch",
+    "Answer": "No current will flow in that branch",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the unit of resistivity?",
+    "Option1": "ohm / cm",
+    "Option2": "ohm / cm2",
+    "Option3": "ohm - metre",
+    "Option4": "ohm / metre",
+    "Answer": "ohm - metre",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which type of resistor is used for Arc quenching protection in circuit breakers?",
+    "Option1": "Varistors",
+    "Option2": "Sensistors",
+    "Option3": "Thermistors",
+    "Option4": "Light dependent resistor (LDR)",
+    "Answer": "Varistors",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Calculate the value of resistance by colour coding method.",
+    "Option1": "22 x 103 ± 10%",
+    "Option2": "23 x 104 ± 10%",
+    "Option3": "25 x 103 ± 5%",
+    "Option4": "36 x 104 ± 5%",
+    "Answer": "25 x 103 ± 5%",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/Electrician%2FSEM1%2FM4%2FM4-21.PNG?alt=media&token=c925f96c-8aef-4fe6-b9b5-2cd7ba092748"
+  },
+  {
+    "Question": "Calculate the unknown resistance “RDC” in the Wheatstone bridge circuit, if PAB=400 ohms, QBC=200 ohms and SAD=12ohms at balanced condition.",
+    "Option1": "4 Ω",
+    "Option2": "6 Ω",
+    "Option3": "8 Ω",
+    "Option4": "12 Ω",
+    "Answer": "6 Ω",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/Electrician%2FSEM1%2FM4%2FM4-22.PNG?alt=media&token=21e6f9f8-62b5-4f21-93f1-cbb132e14284"
+  },
+  {
+    "Question": "What is the reading of the voltmeter V?",
+    "Option1": "0 V",
+    "Option2": "6 V",
+    "Option3": "9 V",
+    "Option4": "18 V",
+    "Answer": "18 V",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/Electrician%2FSEM1%2FM4%2FM4-23.PNG?alt=media&token=33bc264e-e535-4d1b-8531-92a751799fd4"
+  },
+  {
+    "Question": "Which is the application of series circuit?",
+    "Option1": "Voltmeter connection",
+    "Option2": "Lighting circuits in home",
+    "Option3": "Shunt resistor in ammeter",
+    "Option4": "Multiplier resistor of a voltmeter",
+    "Answer": "Multiplier resistor of a voltmeter",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the effect on opened resistor in series circuit?",
+    "Option1": "No effect in opened resistor",
+    "Option2": "Full circuit current will flow in opened resistor",
+    "Option3": "Total supply voltage will appear across the opened resistor",
+    "Option4": "No voltage will appear across the opened resistor",
+    "Answer": "Total supply voltage will appear across the opened resistor",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Calculate the resistance value in R3 resistor.",
+    "Option1": "4 Ohm",
+    "Option2": "6 Ohm",
+    "Option3": "8 Ohm",
+    "Option4": "12 Ohm",
+    "Answer": "12 Ohm",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/Electrician%2FSEM1%2FM4%2FM4-26.PNG?alt=media&token=f978f2c3-c326-4527-ad08-abbc7ba6a313"
+  },
+  {
+    "Question": "What is the effect of the circuit, if ‘ab’ points are shorted?",
+    "Option1": "Circuit resistance will be zero",
+    "Option2": "Same current will flow in all branches",
+    "Option3": "Supply voltage will exist in each branch",
+    "Option4": "Total circuit current is equal to each branch circuit current",
+    "Answer": "Circuit resistance will be zero",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/Electrician%2FSEM1%2FM4%2FM4-27.PNG?alt=media&token=243a2e71-f816-42c7-8d8f-f699ce0c17ee"
+  },
+  {
+    "Question": "What is the name of the resistor if its resistance value increase with increase in temperature?",
+    "Option1": "Varistors",
+    "Option2": "Senistors",
+    "Option3": "Thermistors",
+    "Option4": "Light Dependent Resistor (LDR)",
+    "Answer": "Senistors",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the formula for Quantity of electricity (Q)?",
+    "Option1": "Current x Time",
+    "Option2": "Voltage x Current",
+    "Option3": "Current x Resistance",
+    "Option4": "Voltage x Resistance",
+    "Answer": "Current x Time",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the unit of conductance?",
+    "Option1": "Mho",
+    "Option2": "Ohm",
+    "Option3": "Ohm-m",
+    "Option4": "Ohm/m",
+    "Answer": "Mho",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which one defines the change in resistance in Ohm(Ω) per degree centigrade (°C)?",
+    "Option1": "Temperature effect",
+    "Option2": "Laws of temperature",
+    "Option3": "Temperature constant",
+    "Option4": "Temperature co-efficient",
+    "Answer": "Temperature co-efficient",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which type of meter is used to test the polarity of battery?",
+    "Option1": "Moving iron ammeter",
+    "Option2": "Moving coil voltmeter",
+    "Option3": "Moving iron voltmeter",
+    "Option4": "Dynamo meter type wattmeter",
+    "Answer": "Moving coil voltmeter",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the voltage drop in resistor ‘R2’ in the series circuit?",
+    "Option1": "5 volt",
+    "Option2": "10 volt",
+    "Option3": "15 volt",
+    "Option4": "20 volt",
+    "Answer": "10 volt",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/Electrician%2FSEM1%2FM4%2FM4-33.PNG?alt=media&token=70c4edab-f0bc-4b8f-8072-d03ca181c6dc"
+  },
+  {
+    "Question": "Which is the application of series circuit?",
+    "Option1": "Fuse in circuit",
+    "Option2": "Voltmeter connection",
+    "Option3": "Electrical lamp in homes",
+    "Option4": "Shunt resistor in ammeter",
+    "Answer": "Fuse in circuit",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which method is used for measuring 1 Ohm to 100K Ohm range resistance?",
+    "Option1": "Substitution method",
+    "Option2": "Kelvin bridge method",
+    "Option3": "Wheat stone bridge method",
+    "Option4": "Voltmeter and ammeter method",
+    "Answer": "Wheat stone bridge method",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the S.I unit of specific resistance?",
+    "Option1": "Ohm/cm",
+    "Option2": "Ohm/metre2",
+    "Option3": "Ohm-metre",
+    "Option4": "Micro ohm/cm2",
+    "Answer": "Ohm-metre",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the value of resistance of the resistor?",
+    "Option1": "330 ± 5% Ohm",
+    "Option2": "3300 ± 10% Ohm",
+    "Option3": "33000 ± 5 % Ohm",
+    "Option4": "330000 ± 10% Ohm",
+    "Answer": "3300 ± 10% Ohm",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/Electrician%2FSEM1%2FM4%2FM4-37.PNG?alt=media&token=a314a4b8-cc6f-465f-bbea-21cc54f3b76f"
+  },
+  {
+    "Question": "What is the purpose of the shunt resistor ‘R2’ used in series type Ohm meter circuit?",
+    "Option1": "To limit the current in the circuit",
+    "Option2": "To increase the value of meter resistance",
+    "Option3": "To adjust the zero position of the pointer",
+    "Option4": "To prevent the excess current in the circuit",
+    "Answer": "To adjust the zero position of the pointer",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/Electrician%2FSEM1%2FM4%2FM4-38.PNG?alt=media&token=0d481743-4ce7-4c91-80bb-15b109592a95"
+  },
+  {
+    "Question": "Which electrical quantity affects the heat generated in a conductor?",
+    "Option1": "Voltage",
+    "Option2": "Square of the current",
+    "Option3": "Square of the resistance",
+    "Option4": "Current passed through it",
+    "Answer": "Square of the current",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the change in value of resistance of the conductor, if its cross section area is doubled?",
+    "Option1": "No change",
+    "Option2": "Decreases 2 times",
+    "Option3": "Increases 2 times",
+    "Option4": "Decreases 4 times",
+    "Answer": "Decreases 2 times",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  }
+]

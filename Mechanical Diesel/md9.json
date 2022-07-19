@@ -1,0 +1,227 @@
+[
+  {
+    "Question": "What is the Quenching media of normalising?",
+    "Option1": "Water spray",
+    "Option2": "Open air",
+    "Option3": "Oil bath",
+    "Option4": "Water bath",
+    "Answer": "Open air",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the name of welding device?",
+    "Option1": "Motor generator",
+    "Option2": "Engine generator",
+    "Option3": "Regulator",
+    "Option4": "Alternator",
+    "Answer": "Engine generator",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/mechanical%20diesel%2FMD9%2F202.PNG?alt=media&token=33ccb20b-0153-4664-bea3-824723752b5a"
+  },
+  {
+    "Question": "What is the name of edge preparation and setup in welding process?",
+    "Option1": "Single ‘V’ Butt",
+    "Option2": "Flange butt",
+    "Option3": "Lap butt",
+    "Option4": "Corner butt",
+    "Answer": "Single ‘V’ Butt",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/mechanical%20diesel%2FMD9%2F203.PNG?alt=media&token=1b4b63b7-5cd4-4398-b56f-d3614db14ea9"
+  },
+  {
+    "Question": "What is the name of edge preparation method used in welding process?",
+    "Option1": "Single ‘V’ Butt",
+    "Option2": "Soldering",
+    "Option3": "Riveting",
+    "Option4": "Brazing",
+    "Answer": "Single ‘V’ Butt",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/mechanical%20diesel%2FMD9%2F204.PNG?alt=media&token=4a6877ab-ebfd-45eb-8085-33844adfde77"
+  },
+  {
+    "Question": "Which type of physical transformation takes place during arc welding process?",
+    "Option1": "Colour transfer",
+    "Option2": "Metal transfer",
+    "Option3": "Current transfer",
+    "Option4": "Heat transfer",
+    "Answer": "Metal transfer",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the colour of acetylene gas cylinder?",
+    "Option1": "Red",
+    "Option2": "Maroon",
+    "Option3": "Black",
+    "Option4": "Peacock blue",
+    "Answer": "Maroon",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the colour of oxygen gas cylinder?",
+    "Option1": "Red",
+    "Option2": "Maroon",
+    "Option3": "Black",
+    "Option4": "Peacock blue",
+    "Answer": "Black",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the name of oxy- acetylene gas flame?",
+    "Option1": "Arc flame",
+    "Option2": "Neutral flame",
+    "Option3": "Carburising flame",
+    "Option4": "Oxidising flame",
+    "Answer": "Neutral flame",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/mechanical%20diesel%2FMD9%2F208.PNG?alt=media&token=ef8aabfd-e244-4870-a388-5e35c06ee8ed"
+  },
+  {
+    "Question": "What is the name of the weld joint?",
+    "Option1": "Double ‘V’ butt",
+    "Option2": "Double ‘U’ butt",
+    "Option3": "Single bevel butt",
+    "Option4": "Double j butt",
+    "Answer": "Single bevel butt",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/mechanical%20diesel%2FMD9%2F209.PNG?alt=media&token=ced4c3ba-f3c3-4a84-b853-ee9922da3d3e"
+  },
+  {
+    "Question": "Name the welding process?",
+    "Option1": "Plasma arc welding",
+    "Option2": "Electro - slag welding",
+    "Option3": "Gas metal arc welding",
+    "Option4": "Submerged arc welding",
+    "Answer": "Electro - slag welding",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/mechanical%20diesel%2FMD9%2F210.PNG?alt=media&token=bed007dc-93ea-462b-9299-1bcc03dbd405"
+  },
+  {
+    "Question": "What is the dia of medium coated MS electrode used in fillet weld lap joint with 110/120 Amps welding current?",
+    "Option1": "1.0 mm",
+    "Option2": "1.5 mm",
+    "Option3": "2.5 mm",
+    "Option4": "3.15 mm",
+    "Answer": "3.15 mm",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the electrode angle with weld line?",
+    "Option1": "70° to 80°",
+    "Option2": "50° to 60°",
+    "Option3": "45° to 50°",
+    "Option4": "35° to 40°",
+    "Answer": "70° to 80°",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which is protecting the eyes from harmful rays of the electric arc welding?",
+    "Option1": "Helmet",
+    "Option2": "Lather apron",
+    "Option3": "Lather gloves",
+    "Option4": "Welding helmet screen",
+    "Answer": "Welding helmet screen",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the name of equipment?",
+    "Option1": "Motor generator set",
+    "Option2": "Engine generator set",
+    "Option3": "DC generator machine",
+    "Option4": "Alternating current welding machine",
+    "Answer": "Alternating current welding machine",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/mechanical%20diesel%2FMD9%2F214.PNG?alt=media&token=535323b7-a10a-4d7e-a758-5e11ac520be1"
+  },
+  {
+    "Question": "What is the name of part marked as X?",
+    "Option1": "Regulator",
+    "Option2": "Blow pipe",
+    "Option3": "Spark lighter",
+    "Option4": "None - return disc",
+    "Answer": "Spark lighter",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/mechanical%20diesel%2FMD9%2F215.PNG?alt=media&token=f9f864a0-7d0d-4de1-9bf6-f81e82af16dc"
+  },
+  {
+    "Question": "Which solution is used for acetylene gas connection leakage test?",
+    "Option1": "Kerosene",
+    "Option2": "Naked fire",
+    "Option3": "Soap water",
+    "Option4": "Fresh water",
+    "Answer": "Soap water",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the colour of hose carrying oxygen?",
+    "Option1": "Red",
+    "Option2": "Black",
+    "Option3": "Maroon",
+    "Option4": "Peacock blue",
+    "Answer": "Black",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the colour of hose carrying acetylene?",
+    "Option1": "Red",
+    "Option2": "Black",
+    "Option3": "Maroon",
+    "Option4": "Peacock blue",
+    "Answer": "Maroon",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the name of part marked as ‘X’?",
+    "Option1": "Safety plug",
+    "Option2": "Valve socket",
+    "Option3": "Valve spindle",
+    "Option4": "Dissolved acetylene",
+    "Answer": "Safety plug",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/mechanical%20diesel%2FMD9%2F219.PNG?alt=media&token=fcee01d1-2a16-4a55-81ef-0525aa98fb7c"
+  },
+  {
+    "Question": "What is the name of process?",
+    "Option1": "Annealing",
+    "Option2": "Carburising",
+    "Option3": "Normalising",
+    "Option4": "Case hardening",
+    "Answer": "Carburising",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/mechanical%20diesel%2FMD9%2F220.PNG?alt=media&token=03241c92-b2b3-44ba-81e8-73b669ac58f8"
+  },
+  {
+    "Question": "Which type of hardening used eddy current in the metal bar?",
+    "Option1": "Flame hardening",
+    "Option2": "Nitriding hardening",
+    "Option3": "Induction hardening",
+    "Option4": "Annealing hardening",
+    "Answer": "Induction hardening",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which type of hardening used for cam shaft production?",
+    "Option1": "Annealing",
+    "Option2": "Carburising",
+    "Option3": "Normalising",
+    "Option4": "Induction hardening",
+    "Answer": "Induction hardening",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the name of process?",
+    "Option1": "Nitriding",
+    "Option2": "Annealing",
+    "Option3": "Carburising",
+    "Option4": "Induction hardening",
+    "Answer": "Nitriding",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/mechanical%20diesel%2FMD9%2F223.PNG?alt=media&token=0ff7d81a-1ae1-4bcd-ad02-77c63ea81315"
+  },
+  {
+    "Question": "What is the name of gas flame?",
+    "Option1": "Neutral flame",
+    "Option2": "Starting flame",
+    "Option3": "Oxidising flame",
+    "Option4": "Carburising flame",
+    "Answer": "Carburising flame",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/mechanical%20diesel%2FMD9%2F224.PNG?alt=media&token=94458e5b-e5e2-4dee-a69d-c8852335b79f"
+  },
+  {
+    "Question": "What is the name of part marked as X?",
+    "Option1": "Nozzle",
+    "Option2": "Handle",
+    "Option3": "Oxygen control valve",
+    "Option4": "Acetylene control valve",
+    "Answer": "Oxygen control valve",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/mechanical%20diesel%2FMD9%2F225.PNG?alt=media&token=7ce06664-5417-4343-9647-0c8e183eb43e"
+  }
+]

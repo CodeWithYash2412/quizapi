@@ -1,0 +1,227 @@
+[
+  {
+    "Question": "Which gas is universally taken as the basic reference for GWP",
+    "Option1": "SO2",
+    "Option2": "CO2",
+    "Option3": "NH3",
+    "Option4": "AIR",
+    "Answer": "CO2",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the category of R 407c refrigerant?",
+    "Option1": "Azeotropes",
+    "Option2": "Zeotropes",
+    "Option3": "Inorganic",
+    "Option4": "Organic",
+    "Answer": "Zeotropes",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the cylinder colour code of R 22 refrigerant?",
+    "Option1": "White",
+    "Option2": "Green",
+    "Option3": "Orchid",
+    "Option4": "Orange",
+    "Answer": "Green",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Where does the ozone layer exist in atmosphere?",
+    "Option1": "Mesosphere",
+    "Option2": "Stratosphere",
+    "Option3": "Ionosphere",
+    "Option4": "Exosphere",
+    "Answer": "Stratosphere",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which is the inorganic refrigerant?",
+    "Option1": "R 170",
+    "Option2": "R 500",
+    "Option3": "R 630",
+    "Option4": "R 717",
+    "Answer": "R 717",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "How the refrigerants are classified based on heat absorption by latent and sensible heat?",
+    "Option1": "Primary and secondary",
+    "Option2": "Organic and inorganic",
+    "Option3": "Zeotropic and azeotropic",
+    "Option4": "Halocarbons and hydrocarbons",
+    "Answer": "Primary and secondary",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which refrigerant is inactive to ozone layer?",
+    "Option1": "R 12",
+    "Option2": "R 13",
+    "Option3": "R 22",
+    "Option4": "R 134a",
+    "Answer": "R 134a",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which is the numerical designation of ammonia refrigerant?",
+    "Option1": "700 + ( Molecular mass of NH3) = 717",
+    "Option2": "700 + (Molecular mass of NH3) = 718",
+    "Option3": "700 + (Molecular mass of NH3) = 719",
+    "Option4": "700 + (Molecular mass of NH 3) = 720",
+    "Answer": "700 + ( Molecular mass of NH3) = 717",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What does the number 4 of R 134a indicate?",
+    "Option1": "Number of hydrogen atoms",
+    "Option2": "Number of chlorine atoms",
+    "Option3": "Number of carbon atoms",
+    "Option4": "Number of fluorine atoms",
+    "Answer": "Number of fluorine atoms",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which substance absorbs heat and directly changes its state from solid to vapour?",
+    "Option1": "Ice",
+    "Option2": "Dry ice",
+    "Option3": "Primary refrigerants",
+    "Option4": "Secondary refrigerants",
+    "Answer": "Dry ice",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which is the effective method for refrigerant recovery?",
+    "Option1": "Condensing unit",
+    "Option2": "Charge migration",
+    "Option3": "Push pull recovery",
+    "Option4": "Use of system’s compressor",
+    "Answer": "Push pull recovery",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the type of recovery method?",
+    "Option1": "Active method",
+    "Option2": "Passive method",
+    "Option3": "Charge migration method",
+    "Option4": "Use of system’s compressor method",
+    "Answer": "Charge migration method",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/MRAC%2FSEM2%2F101%20TO%20125%2F112.PNG?alt=media&token=ec749b3e-7417-4d99-ae55-7ae27d166d7b"
+  },
+  {
+    "Question": "How numerical designations of inorganic refrigerants are assigned?",
+    "Option1": "Divide 700 to molecular mass of compound",
+    "Option2": "Multiply 700 to molecular mass of compound",
+    "Option3": "Adding 700 to molecular mass of compound",
+    "Option4": "Subtracting 700 from molecular mass of compound",
+    "Answer": "Adding 700 to molecular mass of compound",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "How many hydrogen atoms are present in R 134a?",
+    "Option1": "One",
+    "Option2": "Two",
+    "Option3": "Four",
+    "Option4": "Three",
+    "Answer": "Two",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which refrigerant is used in vapour compression cycle?",
+    "Option1": "Secondary refrigerant",
+    "Option2": "Primary refrigerant",
+    "Option3": "Brine solution",
+    "Option4": "Water",
+    "Answer": "Brine solution",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which position is safe for storing refrigerant cylinder?",
+    "Option1": "Upside down",
+    "Option2": "Horizontal",
+    "Option3": "Inclined",
+    "Option4": "Upright",
+    "Answer": "Upright",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "How to prevent the small pieces of glass wool affecting the eyes?",
+    "Option1": "Wearing goggles",
+    "Option2": "Wearing gloves",
+    "Option3": "Using mask",
+    "Option4": "Using shoes",
+    "Answer": "Wearing goggles",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the advantage of universal colour coding of refrigerant cylinders?",
+    "Option1": "Easy to identify",
+    "Option2": "Make good appearance",
+    "Option3": "Prevent corrosion on cylinder",
+    "Option4": "Provide extra strength to cylinder",
+    "Answer": "Easy to identify",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the name of process that changes the used refrigerant to new product?",
+    "Option1": "Recover",
+    "Option2": "Recycle",
+    "Option3": "Reclaim",
+    "Option4": "Manufacture",
+    "Answer": "Reclaim",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Why HCFC 22 refrigerant is recycled?",
+    "Option1": "Decrease the cost of production",
+    "Option2": "Make use of the same lubricant",
+    "Option3": "Reduce ODP and GWP of environment",
+    "Option4": "Increase the efficiency of RAC systems",
+    "Answer": "Reduce ODP and GWP of environment",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "How to safe guard the hands while handling glass wool?",
+    "Option1": "Wearing goggles",
+    "Option2": "Wearing gloves",
+    "Option3": "Using mask",
+    "Option4": "Using shoes",
+    "Answer": "Wearing gloves",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which type of insulating material is used for making ice box to cool beverages?",
+    "Option1": "Tar felt",
+    "Option2": "Glass wool",
+    "Option3": "Fibre glass",
+    "Option4": "Thermocole",
+    "Answer": "Thermocole",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Why universal numbering system is adopted for different refrigerants?",
+    "Option1": "Identifying the refrigerant’s names",
+    "Option2": "Mixing the lubricant combination",
+    "Option3": "Fixing the drier combination",
+    "Option4": "Identify the systems",
+    "Answer": "Identifying the refrigerant’s names",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the effect of releasing HCFC refrigerants to atmosphere?",
+    "Option1": "Increases ODP and GWP",
+    "Option2": "Decreases GWP and ODP",
+    "Option3": "Decreases TEWI",
+    "Option4": "Inactive to TEWI",
+    "Answer": "Increases ODP and GWP",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the effect of releasing HFC refrigerants to the atmosphere?",
+    "Option1": "Increase global warming potential",
+    "Option2": "Increase ozone depleting potential",
+    "Option3": "Decrease green house effect",
+    "Option4": "Improve water pollution",
+    "Answer": "Increase global warming potential",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  }
+]

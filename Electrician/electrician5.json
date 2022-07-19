@@ -1,0 +1,227 @@
+[
+  {
+    "Question": "What is the unit for Quantity of electricity?",
+    "Option1": "Mho",
+    "Option2": "Coulomb",
+    "Option3": "Volt /second",
+    "Option4": "Ampere/second",
+    "Answer": "Coulomb",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the name of the soldering method?",
+    "Option1": "Dip soldering",
+    "Option2": "Soldering iron",
+    "Option3": "Soldering gun",
+    "Option4": "Soldering with flame",
+    "Answer": "Soldering gun",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/Electrician%2FSEM1%2FM3%2FM3-44.PNG?alt=media&token=5813face-167b-4e61-88bc-8422f586c166"
+  },
+  {
+    "Question": "What formula is used to find Electro Motive Force (EMF)?",
+    "Option1": "EMF = Potential difference – voltage drop",
+    "Option2": "EMF = Potential difference + voltage drop",
+    "Option3": "EMF = Potential difference + voltage drop/2",
+    "Option4": "EMF = Potential difference + 2 x voltage drop",
+    "Answer": "EMF = Potential difference + voltage drop",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the current rating factor for close excess current protection of cable?",
+    "Option1": 0.81,
+    "Option2": 0.92,
+    "Option3": 1.23,
+    "Option4": 1.5,
+    "Answer": 1.23,
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the disadvantage of solid conductor compared to stranded conductor?",
+    "Option1": "Less rigidity",
+    "Option2": "Less flexibility",
+    "Option3": "Low melting point",
+    "Option4": "Low mechanical strength",
+    "Answer": "Less flexibility",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the name of the soldering method?",
+    "Option1": "Dip soldering",
+    "Option2": "Soldering with blow lamp",
+    "Option3": "Soldering with soldering gun",
+    "Option4": "Temperature controlled soldering",
+    "Answer": "Temperature controlled soldering",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/Electrician%2FSEM1%2FM3%2FM3-48.PNG?alt=media&token=dac10a06-e5bd-4346-854b-b5c08fb71dd0"
+  },
+  {
+    "Question": "What is the cause for cold solder defect in soldering?",
+    "Option1": "Excessive heating",
+    "Option2": "Insufficient heating",
+    "Option3": "Incorrect use of solder",
+    "Option4": "High wattage soldering iron",
+    "Answer": "Insufficient heating",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What happens to the voltmeter if it is connected as an ammeter?",
+    "Option1": "Low reading",
+    "Option2": "No deflection",
+    "Option3": "Meter burns out",
+    "Option4": "Overshoot deflection",
+    "Answer": "Low reading",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which is the example for coarse excess current protection?",
+    "Option1": "MCB",
+    "Option2": "MCCB",
+    "Option3": "H.R.C fuses",
+    "Option4": "Rewireable type fuse unit",
+    "Answer": "Rewireable type fuse unit",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which conductors are used for distribution lines?",
+    "Option1": "Insulated conductors",
+    "Option2": "Insulated solid conductors",
+    "Option3": "Bare conductors",
+    "Option4": "Two core cable",
+    "Answer": "Bare conductors",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "How many electrons are there in the third cell of the copper atom?",
+    "Option1": 8,
+    "Option2": 13,
+    "Option3": 18,
+    "Option4": 29,
+    "Answer": 18,
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which is the semiconductor material?",
+    "Option1": "Eureka",
+    "Option2": "Ebonite",
+    "Option3": "Manganin",
+    "Option4": "Germanium",
+    "Answer": "Germanium",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the indication of neon polarity indicator used for checking A.C. supply?",
+    "Option1": "Both electrodes will glow",
+    "Option2": "Only one electrode will glow",
+    "Option3": "Both electrodes will be flickering",
+    "Option4": "One electrode will glow and another will be flickering",
+    "Answer": "Both electrodes will glow",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Calculate the electrical energy in unit consumed by 500W lamp for 5 hours.",
+    "Option1": "0.5 unit",
+    "Option2": "1.0 unit",
+    "Option3": "1.5 unit",
+    "Option4": "2.5 unit",
+    "Answer": "2.5 unit",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the value of hot resistance of a bulb rated as 100W/250V?",
+    "Option1": "31.25 ohm",
+    "Option2": "62.50 ohm",
+    "Option3": "312.50 ohm",
+    "Option4": "625.00 ohm",
+    "Answer": "625.00 ohm",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which law states that in closed electric circuit, the applied voltage is equal to the sum of the voltage drops?",
+    "Option1": "Ohm’s law",
+    "Option2": "Laws of resistance",
+    "Option3": "Kirchhoff’s first law",
+    "Option4": "Kirchhoff’s second law",
+    "Answer": "Kirchhoff’s second law",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Calculate the total power of the circuit of two lamps rated as 200W/240V are connected in series across 240V supply?",
+    "Option1": "50 W",
+    "Option2": "100 W",
+    "Option3": "200 W",
+    "Option4": "400 W",
+    "Answer": "100 W",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the formula for the equivalent resistance (RT) of the three resistors R1, R2 & R3 are connected in parallel circuit?",
+    "Option1": "RT = R1 + R2 + R3",
+    "Option2": "RT = (1/R1) + (1/R2) + (1/R3)",
+    "Option3": "RT = 1 / (R1 + R2 + R3)",
+    "Option4": "RT = 1 / ((1/R1) + (1/R2) + (1/R3))",
+    "Answer": "RT = 1 / ( (1/R1) + (1/R2) + (1/R3) )",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the reading of ohmmeter across opened ‘R2’ resistor?",
+    "Option1": "Indicate zero reading",
+    "Option2": "Indicate infinite resistance",
+    "Option3": "Total resistance value of the circuit",
+    "Option4": "Value of sum of the resistance of R1 and R3 only",
+    "Answer": "Indicate infinite resistance",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/Electrician%2FSEM1%2FM4%2FM4-9.PNG?alt=media&token=2481686d-57f3-41c4-a2fd-21f6bfc2281c"
+  },
+  {
+    "Question": "What is the change of resistance value of the conductor as its diameter is doubled?",
+    "Option1": "Increases to two times",
+    "Option2": "Decreases to four times",
+    "Option3": "Decrease to half of the value",
+    "Option4": "No change in value of resistance",
+    "Answer": "Decreases to four times",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the name of the resistor?",
+    "Option1": "Metal film resistor",
+    "Option2": "Wire wound resistor",
+    "Option3": "Carbon – film resistor",
+    "Option4": "Carbon composition resistor",
+    "Answer": "Wire wound resistor",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/Electrician%2FSEM1%2FM4%2FM4-11.PNG?alt=media&token=ee1a5466-3e79-4d8b-9180-4b428b70ee12"
+  },
+  {
+    "Question": "Calculate the resistance value of the resistor by colour coding method.",
+    "Option1": "23 x 103 W ± 5%",
+    "Option2": "26 x 103 W ± 10%",
+    "Option3": "32 x 104 W ± 10%",
+    "Option4": "37 x 104 W ± 5%",
+    "Answer": "26 x 103 W ± 10%",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/Electrician%2FSEM1%2FM4%2FM4-12.PNG?alt=media&token=056273bc-414d-4448-9920-82eed140c857"
+  },
+  {
+    "Question": "Why the ohmmeter is graduated with non-linear scale?",
+    "Option1": "Voltage is directly proportional to resistance",
+    "Option2": "Current is inversely proportional to resistance",
+    "Option3": "Resistance is inversely proportional to the square of current",
+    "Option4": "Voltage is directly proportional to the square of the current",
+    "Answer": "Current is inversely proportional to resistance",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/Electrician%2FSEM1%2FM4%2FM4-13.PNG?alt=media&token=da24cb89-a72c-43db-8583-ef105b4b3e96"
+  },
+  {
+    "Question": "Calculate the value of unknown resistance ‘RDC’ in the Wheatstone bridge network, If PAB = 500W, QBC = 300W, SAo = 15W, at balanced condition.",
+    "Option1": "12W",
+    "Option2": "9W",
+    "Option3": "6W",
+    "Option4": "3W",
+    "Answer": "9W",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/Electrician%2FSEM1%2FM4%2FM4-14.PNG?alt=media&token=5004537b-28d4-40d1-9f74-4e3865f0990f"
+  },
+  {
+    "Question": "Which material is having negative temperature co-efficient property?",
+    "Option1": "Mica",
+    "Option2": "Eureka",
+    "Option3": "Copper",
+    "Option4": "Manganin",
+    "Answer": "Mica",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  }
+]

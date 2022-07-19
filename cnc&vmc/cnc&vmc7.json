@@ -1,0 +1,227 @@
+[
+  {
+    "Question": "What is ʺM02ʺ command?",
+    "Option1": "End of program",
+    "Option2": "Optional stop",
+    "Option3": "Program stop",
+    "Option4": "Spindle stop",
+    "Answer": "End of program",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is pressed to remove the ʺwordʺ in program?",
+    "Option1": "Delete",
+    "Option2": "Insert",
+    "Option3": "Reset",
+    "Option4": "Offset",
+    "Answer": "Delete",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which mode is used to enter part program in VMC?",
+    "Option1": "Edit",
+    "Option2": "Jog",
+    "Option3": "MDI",
+    "Option4": "Auto",
+    "Answer": "Edit",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is pressed to recover axis over travel?",
+    "Option1": "Reset",
+    "Option2": "Delete",
+    "Option3": "Enter",
+    "Option4": "Insert",
+    "Answer": "Reset",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the distance from X0, Y0, Z0 of machine zero to work zero in x,y,z direction?",
+    "Option1": "Tool length offset",
+    "Option2": "Zero offset",
+    "Option3": "Tool wear offset",
+    "Option4": "Wear offset",
+    "Answer": "Zero offset",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which is the offset from nose of the holder to overhanging length of cutter?",
+    "Option1": "Work offset",
+    "Option2": "Wear offset",
+    "Option3": "Tool offset",
+    "Option4": "Geometry offset",
+    "Answer": "Tool offset",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which is an advantage of CNC machine?",
+    "Option1": "High accuracy",
+    "Option2": "Initial cost is high",
+    "Option3": "More expensive",
+    "Option4": "Productivity depends on the programmer",
+    "Answer": "High accuracy",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is ʺG03ʺ in part program?",
+    "Option1": "Circular inter polation clockwise",
+    "Option2": "Circular inter polation counter clock wise",
+    "Option3": "Helical inter polation",
+    "Option4": "Linear inter polation",
+    "Answer": "Circular inter polation counter clock wise",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which code is used for ʺProgram end and reset?",
+    "Option1": "M06",
+    "Option2": "M30",
+    "Option3": "M10",
+    "Option4": "M04",
+    "Answer": "M30",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is ʺNʺ in N100 G00X150.0 Z200.0;?",
+    "Option1": "Program number",
+    "Option2": "Sequence number",
+    "Option3": "Tool number",
+    "Option4": "Tool offset number",
+    "Answer": "Sequence number",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the address to specify ʺyʺ axis co-ordinate arc center?",
+    "Option1": "H",
+    "Option2": "J",
+    "Option3": "K",
+    "Option4": "Auto",
+    "Answer": "J",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which is pressed to stop temporarily during auto mode operation?",
+    "Option1": "Cycle stop",
+    "Option2": "Feed hold",
+    "Option3": "Dry run",
+    "Option4": "Machine lock",
+    "Answer": "Feed hold",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which button is used to remove ʺwordʺ during program editing?",
+    "Option1": "Shift",
+    "Option2": "Insert",
+    "Option3": "Reset",
+    "Option4": "Delete",
+    "Answer": "Delete",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which button is pressed to cancel an alarm in VMC?",
+    "Option1": "Alter",
+    "Option2": "Reset",
+    "Option3": "Insert",
+    "Option4": "Delete",
+    "Answer": "Reset",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which mode is to check the movement of tool without work piece?",
+    "Option1": "Jog",
+    "Option2": "Machine lock",
+    "Option3": "Dry run",
+    "Option4": "Auto mode",
+    "Answer": "Dry run",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which mode is to check the program block one by one?",
+    "Option1": "Jog mode",
+    "Option2": "Edit mode",
+    "Option3": "Auto mode",
+    "Option4": "Single block",
+    "Answer": "Single block",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which function is used to check the program without making any axis movement?",
+    "Option1": "Dry run",
+    "Option2": "Machine lock",
+    "Option3": "Optional stop",
+    "Option4": "Jog",
+    "Answer": "Machine lock",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is pressed to restart the machine from power shutdown?",
+    "Option1": "CNC ON",
+    "Option2": "CNC OFF",
+    "Option3": "Auto cycle",
+    "Option4": "Zero return",
+    "Answer": "CNC ON",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is marked as ʹxʹ?",
+    "Option1": "Depth of cut",
+    "Option2": "Feed",
+    "Option3": "Cutting speed",
+    "Option4": "rpm",
+    "Answer": "Depth of cut",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/VMC%2F2%2F94.PNG?alt=media&token=f4dee2e0-8490-4d3b-a21b-1d5dbdc5dc3f"
+  },
+  {
+    "Question": "What is expressed as",
+    "Option1": "Cutting speed",
+    "Option2": "Feed",
+    "Option3": "Depth of cut",
+    "Option4": "Cycle time",
+    "Answer": "Cutting speed",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is ʹDʹ in",
+    "Option1": "rpm of the cutter",
+    "Option2": "Diameter of the cutter",
+    "Option3": "Cutting speed of the cutter",
+    "Option4": "Feed of the cutter",
+    "Answer": "Diameter of the cutter",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is expressed as meter/minute?",
+    "Option1": "Feed",
+    "Option2": "Cutting speed",
+    "Option3": "Depth of cut",
+    "Option4": "Cycle time",
+    "Answer": "Cutting speed",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What indicates number of repetitions in sub program?",
+    "Option1": "L",
+    "Option2": "X",
+    "Option3": "P",
+    "Option4": "%",
+    "Answer": "L",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the G-code for tapping cycle in FANUC system?",
+    "Option1": "G84",
+    "Option2": "G81",
+    "Option3": "G82",
+    "Option4": "G83",
+    "Answer": "G84",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is CRC?",
+    "Option1": "Cutter Diameter Compensation",
+    "Option2": "Cutter Length Compensation",
+    "Option3": "Cutter Radius Compensation",
+    "Option4": "Cutter Wear Compensation",
+    "Answer": "Cutter Radius Compensation",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  }
+]

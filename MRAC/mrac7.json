@@ -1,0 +1,227 @@
+[
+  {
+    "Question": "What is the boiling point of pure water in centigrade scale?",
+    "Option1": "212°C",
+    "Option2": "100°C",
+    "Option3": "32°C",
+    "Option4": "0°C",
+    "Answer": "100°C",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is bottom dead centre in reciprocating compressor cylinder?",
+    "Option1": "The piston moves up from the point of cylinder",
+    "Option2": "The piston stops in cylinder at top",
+    "Option3": "The piston moves down from the point of cylinder",
+    "Option4": "The piston starts in cylinder at top",
+    "Answer": "The piston moves up from the point of cylinder",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the part marked as X in tube cutter?",
+    "Option1": "Reamer",
+    "Option2": "Roller wheel",
+    "Option3": "Cutting wheel",
+    "Option4": "Tightening knob",
+    "Answer": "Roller wheel",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/MRAC%2FSEM1%2F151%20TO%20175%2F153.PNG?alt=media&token=a216955c-9dac-4e1d-ae9f-b5039acf6aa6"
+  },
+  {
+    "Question": "What is the barometer reading at sea level in Hg column?",
+    "Option1": "760 mm",
+    "Option2": "750 mm",
+    "Option3": "740 mm",
+    "Option4": "730 mm",
+    "Answer": "760 mm",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the capacity of doing work?",
+    "Option1": "Work",
+    "Option2": "Power",
+    "Option3": "Force",
+    "Option4": "Energy",
+    "Answer": "Energy",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which instrument is used for measuring\nheat?",
+    "Option1": "Thermometer",
+    "Option2": "Anemometer",
+    "Option3": "Calorimeter",
+    "Option4": "Ammeter",
+    "Answer": "Calorimeter",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which refrigeration system works on\ndirectly by the heat energy?",
+    "Option1": "Jet refrigeration",
+    "Option2": "Mechanical refrigeration",
+    "Option3": "Vapour absorption refrigeration",
+    "Option4": "Vapour compression refrigeration",
+    "Answer": "Vapour absorption refrigeration",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the absolute zero temperature in\ndegree centigrade?",
+    "Option1": "0°C",
+    "Option2": "100°C",
+    "Option3": "-273°C",
+    "Option4": "212°C",
+    "Answer": "-273°C",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the part marked as X in vapour\ncompression system?",
+    "Option1": "Evaporator",
+    "Option2": "Feeler bulb",
+    "Option3": "Capillary tube",
+    "Option4": "Expansion value",
+    "Answer": "Feeler bulb",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/MRAC%2FSEM1%2F151%20TO%20175%2F159.PNG?alt=media&token=472a8c00-58ba-4ec3-b736-b3c277f06e07"
+  },
+  {
+    "Question": "What is the type of refrigeration\nsystem?",
+    "Option1": "Steam - jet",
+    "Option2": "Water vapour",
+    "Option3": "Vapour absorption",
+    "Option4": "Mechanical compression",
+    "Answer": "Mechanical compression",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/MRAC%2FSEM1%2F151%20TO%20175%2F160.PNG?alt=media&token=ca8408c4-c229-4682-b9cd-3fc0d9b3182e"
+  },
+  {
+    "Question": "How the level of heat in a substance is\nexpressed?",
+    "Option1": "Micron",
+    "Option2": "Pressure",
+    "Option3": "Humidity",
+    "Option4": "Temperature",
+    "Answer": "Temperature",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the part marked as X in tube bender?",
+    "Option1": "Operating lever",
+    "Option2": "Degree of bends",
+    "Option3": "Handle",
+    "Option4": "Clamp",
+    "Answer": "Degree of bends",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/MRAC%2FSEM1%2F151%20TO%20175%2F162.PNG?alt=media&token=94d0023c-3579-4cc8-9429-20e1dd2a7afa"
+  },
+  {
+    "Question": "What is the energy of a body by virtue of its position?",
+    "Option1": "Wind energy",
+    "Option2": "Kinetic energy",
+    "Option3": "Potential energy",
+    "Option4": "Electrical energy",
+    "Answer": "Potential energy",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the physical state of ammonia at condenser inlet in vapour absorption system?",
+    "Option1": "Solid",
+    "Option2": "Liquid",
+    "Option3": "Vapour",
+    "Option4": "Semi solid",
+    "Answer": "Vapour",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which law is related to the constant PV at constant T?",
+    "Option1": "Boyles law",
+    "Option2": "Charles s law",
+    "Option3": "Pascal s law",
+    "Option4": "Renaults law",
+    "Answer": "Boyles law",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which thermodynamic process the temperature is kept constant?",
+    "Option1": "Isobaric process",
+    "Option2": "Isothermal process",
+    "Option3": "Constant volume process",
+    "Option4": "Constant pressure process",
+    "Answer": "Isothermal process",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the equivalent absolute scale for centigrade?",
+    "Option1": "Kelvin",
+    "Option2": "Celsius",
+    "Option3": "Rankine",
+    "Option4": "Fahrenheit",
+    "Answer": "Kelvin",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which method is used to connect the swaged joint in copper tubes?",
+    "Option1": "TIG welding",
+    "Option2": "Silver brazing",
+    "Option3": "Lead soldering",
+    "Option4": "Fusion welding",
+    "Answer": "Silver brazing",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which components maintain the pressure difference in RAC system?",
+    "Option1": "Condenser and filter",
+    "Option2": "Evaporator and motor",
+    "Option3": "Receiver and condenser",
+    "Option4": "Compressor and expansion device",
+    "Answer": "Compressor and expansion device",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is top dead centre in reciprocating compressor cylinder?",
+    "Option1": "The piston moves down from the point of cylinder",
+    "Option2": "The piston moves up from the point of cylinder",
+    "Option3": "The piston stops in cylinder at bottom",
+    "Option4": "The piston starts in cylinder at bottom",
+    "Answer": "The piston moves down from the point of cylinder",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which component controls the thermostat and defrost heater in frost free refrigerator?",
+    "Option1": "Thermoheater",
+    "Option2": "Defrost timer",
+    "Option3": "Relay",
+    "Option4": "OLP",
+    "Answer": "Defrost timer",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the advantage of using flux in brazing?",
+    "Option1": "Over heating",
+    "Option2": "Melting tubes",
+    "Option3": "Prevent Oxidation",
+    "Option4": "Chemical reaction",
+    "Answer": "Prevent Oxidation",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which compressor dome handles high pressure and high temperature vapour?",
+    "Option1": "Semi hermetic reciprocating compressor",
+    "Option2": "Open type reciprocating compressor",
+    "Option3": "Hermetic reciprocating compressor",
+    "Option4": "Hermetic rotary compressor",
+    "Answer": "Hermetic rotary compressor",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the absolute pressure of gas in a cylinder, if gauge reads 135.3 p.s.i?",
+    "Option1": "130 p.s.i.a",
+    "Option2": "140 p.s.i.a",
+    "Option3": "150 p.s.i.a",
+    "Option4": "160 p.s.i.a",
+    "Answer": "150 p.s.i.a",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which process of copper tubing is in progress?",
+    "Option1": "Flaring",
+    "Option2": "Reaming",
+    "Option3": "Swaging",
+    "Option4": "Pinching",
+    "Answer": "Swaging",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/MRAC%2FSEM1%2F151%20TO%20175%2F175.PNG?alt=media&token=bf5c2221-5f4f-4e69-bd51-28959442f6d6"
+  }
+]

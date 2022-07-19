@@ -1,0 +1,227 @@
+[
+  {
+    "Question": "Which group includes superscript, subscript, strike through options in MS Word?",
+    "Option1": "Clipboard",
+    "Option2": "Font",
+    "Option3": "Paragraph",
+    "Option4": "Style",
+    "Answer": "Font",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the purpose of quick access toolbar?",
+    "Option1": "To hold advance function",
+    "Option2": "To hold special function",
+    "Option3": "To hold basic function",
+    "Option4": "To hold familiar and repeated function",
+    "Answer": "To hold familiar and repeated function",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the purpose of gutter margin?",
+    "Option1": "Margin that is added to the left margin when printing",
+    "Option2": "Margin that is added to the right margin when printing",
+    "Option3": "Margin that is added to binding side of page when printing",
+    "Option4": "Margin that is added to the outside of the page when printing",
+    "Answer": "Margin that is added to binding side of page when printing",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What in the purpose of ⌧ button?",
+    "Option1": "Close button",
+    "Option2": "Office button",
+    "Option3": "Maximize buttons",
+    "Option4": "Minimize button",
+    "Answer": "Close button",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the purpose of zoom option?",
+    "Option1": "Enlarge and reduce document / text size",
+    "Option2": "Move up and down document / picture",
+    "Option3": "Scroll left and light document / picture",
+    "Option4": "Minimize and maximize the document / picture",
+    "Answer": "Enlarge and reduce document / text size",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which option is used for tab setting?",
+    "Option1": "horizontal ruler",
+    "Option2": "status bar",
+    "Option3": "vertical ruler",
+    "Option4": "vertical scroll bar",
+    "Answer": "horizontal ruler",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What in the purpose of vertical scroll bar?",
+    "Option1": "Move the document up and down",
+    "Option2": "Move the document left side",
+    "Option3": "Move the document right side",
+    "Option4": "Move the document only upwards",
+    "Answer": "Move the document up and down",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What in the purpose of undo action in MS Word?",
+    "Option1": "Restore previous action",
+    "Option2": "Get the current action",
+    "Option3": "Goes to previous page",
+    "Option4": "Goes to previous paragraph",
+    "Answer": "Restore previous action",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which option is used to activate and deactivate ruler?",
+    "Option1": "View → grids",
+    "Option2": "View → ruler",
+    "Option3": "Insert → tool bar",
+    "Option4": "Insert → ruler",
+    "Answer": "View → ruler",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the purpose of cover page?",
+    "Option1": "Allows to fill title, author, date and other information",
+    "Option2": "Fills the list of people intent to mail",
+    "Option3": "To view the mailed list",
+    "Option4": "Contains details of the documents",
+    "Answer": "Allows to fill title, author, date and other information",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which menu contains, Symbol option in MS Word?",
+    "Option1": "tools",
+    "Option2": "table",
+    "Option3": "format",
+    "Option4": "insert",
+    "Answer": "insert",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which operation is to be performed before paste?",
+    "Option1": "Ctrl + V",
+    "Option2": "Cut / copy",
+    "Option3": "Select all",
+    "Option4": "Select text",
+    "Answer": "Cut / copy",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which option is used to locate any specific character, symbols or formulas in a document?",
+    "Option1": "Find",
+    "Option2": "Searching text",
+    "Option3": "Replace",
+    "Option4": "Selecting text",
+    "Answer": "Find",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which feature is used to create a newspaper type document?",
+    "Option1": "Tables",
+    "Option2": "Tab stops",
+    "Option3": "Columns",
+    "Option4": "Bullets and numbering",
+    "Answer": "Columns",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which sequence of operation is required to insert bullets for list of data?",
+    "Option1": "Paragraph group → numbering button → select any number type",
+    "Option2": "Paragraph group → number button → select none",
+    "Option3": "Paragraph group → bullet button → type of bullets",
+    "Option4": "Paragraph group → bullet button → select none",
+    "Answer": "Paragraph group → bullet button → type of bullets",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which sequence of operation is required to remove numbering from a list of data?",
+    "Option1": "Number button → select none from number type",
+    "Option2": "Number button → select number from number list",
+    "Option3": "Bullet button → select none from bullet type",
+    "Option4": "Bullet button → select bullets from bullets list",
+    "Answer": "Number button → select none from number type",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which sequence of operation is required to remove tab stop markers from ruler?",
+    "Option1": "Drag the tab stop makers out of the ruler",
+    "Option2": "Double click the tab marker and clear all",
+    "Option3": "Right click the tab stop marker and choose remove",
+    "Option4": "Left click the tab stop marker and choose remove",
+    "Answer": "Drag the tab stop makers out of the ruler",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which feature is used to adjust the amount of space between words for alignment in MS Word?",
+    "Option1": "Spacing",
+    "Option2": "Scaling",
+    "Option3": "Justifying",
+    "Option4": "Positioning",
+    "Answer": "Justifying",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which shortcut key is used to invoke thesaurus dialog box in MS Word?",
+    "Option1": "Shift+F7",
+    "Option2": "Ctrl+F7",
+    "Option3": "Alt+F7",
+    "Option4": "Ctrl+Alt+F7",
+    "Answer": "Shift+F7",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Where does the file name of the active document displays?",
+    "Option1": "title bar",
+    "Option2": "task bar",
+    "Option3": "menu bar",
+    "Option4": "status bar",
+    "Answer": "title bar",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "How can we rectify the errors occurs while typing?",
+    "Option1": "Auto entry",
+    "Option2": "Auto add",
+    "Option3": "Auto spell",
+    "Option4": "Auto correct",
+    "Answer": "Auto correct",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which sequence of operation is required to force page break in word document?",
+    "Option1": "by using insert / selection black on the insert tab",
+    "Option2": "by positioning the cursor at the appropriate place and press enter",
+    "Option3": "by positioning the cursor at the appropriate place and press F1 key",
+    "Option4": "by position the cursor at the apporpliate place and pressing ctrl + enter",
+    "Answer": "by position the cursor at the apporpliate place and pressing ctrl + enter",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the purpose of inserting header and footer in document?",
+    "Option1": "To make the starting and ending page",
+    "Option2": "To entrance the appearance of the document",
+    "Option3": "To make larger document more readable",
+    "Option4": "To allow page headers and footer appear on the document",
+    "Answer": "To allow page headers and footer appear on the document",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the purpose of word wrap?",
+    "Option1": "Aligning text with the right margin",
+    "Option2": "Inserting space between paragraphs",
+    "Option3": "Inserting space automatically between words",
+    "Option4": "Moving text automatically to the next line",
+    "Answer": "Aligning text with the right margin",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is purpose of thesaurus tool is MS Word?",
+    "Option1": "Grammar option",
+    "Option2": "Spelling suggestion",
+    "Option3": "Synonyms and antonyms words",
+    "Option4": "Auto correction",
+    "Answer": "Synonyms and antonyms words",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  }
+]

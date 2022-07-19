@@ -1,0 +1,226 @@
+[{
+        "Question": "Which character is used to represent a range of values in Linux?",
+        "Option1": "( )",
+        "Option2": [],
+        "Option3": {},
+        "Option4": "< >",
+        "Answer": [],
+        "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+    },
+    {
+        "Question": "Which character redirects the output of one command to another in Linux?",
+        "Option1": ". dot",
+        "Option2": "| pipe",
+        "Option3": ": colon",
+        "Option4": "; semicolon",
+        "Answer": "| pipe",
+        "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+    },
+    {
+        "Question": "Which Linux command list the content of all sub directory?",
+        "Option1": "ls ~",
+        "Option2": "ls * /",
+        "Option3": "ls /",
+        "Option4": "ls ../",
+        "Answer": "ls * /",
+        "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+    },
+    {
+        "Question": "Which Linux command list the contents of parent directory?",
+        "Option1": "ls ~",
+        "Option2": "ls * /",
+        "Option3": "ls /",
+        "Option4": "ls ../",
+        "Answer": "ls ../",
+        "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+    },
+    {
+        "Question": "What is use of ‘who’ command in Linux?",
+        "Option1": "login user",
+        "Option2": "logout user",
+        "Option3": "login password",
+        "Option4": "logout password",
+        "Answer": "login user",
+        "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+    },
+    {
+        "Question": "Which command is used to hide the file?",
+        "Option1": "attrib -h filename",
+        "Option2": "attrib +h filename",
+        "Option3": "attrib /h filename",
+        "Option4": "attrib \\h filename",
+        "Answer": "attrib +h filename",
+        "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+    },
+    {
+        "Question": "Which command is used to release the read only permission?",
+        "Option1": "attrib -r filename",
+        "Option2": "attrib +r filename",
+        "Option3": "attrib /r filename",
+        "Option4": "attrib \\r filename",
+        "Answer": "attrib -r filename",
+        "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+    },
+    {
+        "Question": "Write the Linux command to remove all the permission to the user and group on the directory ‘software’?",
+        "Option1": "chmod ug - rwx software",
+        "Option2": "chmod ug - a software",
+        "Option3": "chmod ug - A software",
+        "Option4": "chmod ug - Rwx software",
+        "Answer": "chmod ug - rwx software",
+        "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+    },
+    {
+        "Question": "Which DOS command is used to display system time?",
+        "Option1": "Now",
+        "Option2": "TIME",
+        "Option3": "SYSTEM",
+        "Option4": "SYSTEMTIME",
+        "Answer": "Now",
+        "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+    },
+    {
+        "Question": "What in the result of the DOS command PROMPT $D$G?",
+        "Option1": "Prompt >",
+        "Option2": "D : >",
+        "Option3": "Current date >",
+        "Option4": "Current time >",
+        "Answer": "Current date >",
+        "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+    },
+    {
+        "Question": "Which DOS command is used to list all com files in D drive?",
+        "Option1": "DIR D :\\ com",
+        "Option2": "DIR D :\\ com. *",
+        "Option3": "DIR D :\\ * .com",
+        "Option4": "DIR D :\\ * com *",
+        "Answer": "DIR D :\\ * .com",
+        "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+    },
+    {
+        "Question": "Which Linux command is used to sort the text file ‘network’ in descending order?",
+        "Option1": "Sort / r network",
+        "Option2": "Sort - r network",
+        "Option3": "Sort + r network",
+        "Option4": "Sort \\ r network",
+        "Answer": "Sort - r network",
+        "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+    },
+    {
+        "Question": "Which Linux command to set the permission ‘x’ to user, ‘rw’ to others and ‘rwx’ to group for the file launcher?",
+        "Option1": "chmod 176 launcher",
+        "Option2": "chmod 671 launcher",
+        "Option3": "chmod 167 launcher",
+        "Option4": "chmod 166 launcher",
+        "Answer": "chmod 167 launcher",
+        "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+    },
+    {
+        "Question": "Which command is used to store the active document permanently?",
+        "Option1": "Save",
+        "Option2": "Send",
+        "Option3": "Prepare",
+        "Option4": "Save as",
+        "Answer": "Save",
+        "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+    },
+    {
+        "Question": "Which shortcut key is used to high light the entire word document?",
+        "Option1": "ctrl + A",
+        "Option2": "ctrl + O",
+        "Option3": "ctrl + S",
+        "Option4": "ctrl + E",
+        "Answer": "ctrl + A",
+        "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+    },
+    {
+        "Question": "Which tool in MS Word is used to keep the familiar and repeated options?",
+        "Option1": "title bar",
+        "Option2": "task bar",
+        "Option3": "scroll bar",
+        "Option4": "quick aceess tool bar",
+        "Answer": "quick aceess tool bar",
+        "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+    },
+    {
+        "Question": "Which area in MS Word is used to enter the text?",
+        "Option1": "work space",
+        "Option2": "work sheet",
+        "Option3": "slides",
+        "Option4": "work book",
+        "Answer": "work space",
+        "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+    },
+    {
+        "Question": "Which bar contains the current position of the cursor in MS Word?",
+        "Option1": "layout",
+        "Option2": "title bar",
+        "Option3": "status bar",
+        "Option4": "horizontal ruler",
+        "Answer": "status bar",
+        "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+    },
+    {
+        "Question": "Where does the close button appear in MS Word?",
+        "Option1": "top left corner of the window",
+        "Option2": "bottom left corner of the window",
+        "Option3": "top right corner of the window",
+        "Option4": "bottom right corner of the window",
+        "Answer": "top right corner of the window",
+        "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+    },
+    {
+        "Question": "Which one of the following is a word processor?",
+        "Option1": "MS Word",
+        "Option2": "MS Excel",
+        "Option3": "MS Access",
+        "Option4": "MS Office publisher",
+        "Answer": "MS Word",
+        "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+    },
+    {
+        "Question": "Which one of the following is text styling feature of MS Word?",
+        "Option1": "word fill",
+        "Option2": "word art",
+        "Option3": "word colour",
+        "Option4": "word font",
+        "Answer": "word art",
+        "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+    },
+    {
+        "Question": "Which option is used to store the duplicate of the active document permanently?",
+        "Option1": "Save",
+        "Option2": "Send",
+        "Option3": "Save as",
+        "Option4": "Rename",
+        "Answer": "Save as",
+        "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+    },
+    {
+        "Question": "Which option is used to view an exiting word document?",
+        "Option1": "new",
+        "Option2": "open",
+        "Option3": "publish",
+        "Option4": "prepare",
+        "Answer": "open",
+        "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+    },
+    {
+        "Question": "Which document view given an appearance as in web browser?",
+        "Option1": "Draft view",
+        "Option2": "Outline view",
+        "Option3": "Web layout view",
+        "Option4": "Full screen reading",
+        "Answer": "Web layout view",
+        "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+    },
+    {
+        "Question": "How many groups are there in Home Menu?",
+        "Option1": 4,
+        "Option2": 5,
+        "Option3": 6,
+        "Option4": 7,
+        "Answer": 5,
+        "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+    }
+]

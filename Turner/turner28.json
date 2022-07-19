@@ -1,0 +1,227 @@
+[
+  {
+    "Question": "Which formula is used to find crest width of a buttress thread?",
+    "Option1": "0.125 x pitch",
+    "Option2": "0.317 x pitch",
+    "Option3": "0.335 x pitch",
+    "Option4": "0.5 x pitch",
+    "Answer": "0.125 x pitch",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which formula is used to find root width of a buttress thread?",
+    "Option1": "0.125 x pitch",
+    "Option2": "0.317 x pitch",
+    "Option3": "0.335 x pitch",
+    "Option4": "0.5 x pitch",
+    "Answer": "0.125 x pitch",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which formula to be used to find depth of buttress thread?",
+    "Option1": "0.5 x pitch",
+    "Option2": "0.6134 x pitch",
+    "Option3": "0.6403 x pitch",
+    "Option4": "0.75 x pitch",
+    "Answer": "0.75 x pitch",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What does Sq 60 x 9 IS 4694-1968 means?",
+    "Option1": "Square Thread 60 mm dia, 9 mm pitch",
+    "Option2": "Buttress thread 60 mm dia x 9 mm pitch",
+    "Option3": "Acme thread 60 mm dia x 9 mm pitch",
+    "Option4": "Worm thread 60 mm dia x 9 mm pitch",
+    "Answer": "Square Thread 60 mm dia, 9 mm pitch",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the type of thread?",
+    "Option1": "Acme thread",
+    "Option2": "Knuckle thread",
+    "Option3": "Buttress thread",
+    "Option4": "Worm thread",
+    "Answer": "Knuckle thread",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/sem3%20176to200%2F190.PNG?alt=media&token=3bafb8b2-cb0b-4817-98b1-15407f5c9d13"
+  },
+  {
+    "Question": "Which thread has only one helical formation?",
+    "Option1": "Single start",
+    "Option2": "Double start",
+    "Option3": "Triple start",
+    "Option4": "Quadrapple",
+    "Answer": "Single start",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the meaning of M24 in M 24 x 3 single start thread?",
+    "Option1": "Core dia of thread",
+    "Option2": "Major dia of thread",
+    "Option3": "Effective dia of thread",
+    "Option4": "Depth of thread",
+    "Answer": "Major dia of thread",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the lead of M 24 x 3.5 triple start thread?",
+    "Option1": "3.5 mm",
+    "Option2": "8.5 mm",
+    "Option3": "10.5 mm",
+    "Option4": "12.8 mm",
+    "Answer": "10.5 mm",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the lead of M 10 x 1.5 double start thread?",
+    "Option1": "2 mm",
+    "Option2": "3 mm",
+    "Option3": "3.5 mm",
+    "Option4": "4 mm",
+    "Answer": "3 mm",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "How multi start threads are specified?",
+    "Option1": "By stating dia and pitch",
+    "Option2": "By stating dia and angle of thread",
+    "Option3": "By stating core dia and pitch",
+    "Option4": "By stating dia, pitch, and no. of start",
+    "Answer": "By stating dia, pitch, and no. of start",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the element of square thread marked as ‘x’?",
+    "Option1": "Major diameter",
+    "Option2": "Minor diameter",
+    "Option3": "Core diameter",
+    "Option4": "Pitch diameter",
+    "Answer": "Pitch diameter",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/sem3%20176to200%2F196.PNG?alt=media&token=2104646d-ebfd-4def-b2ef-5876c8a91683"
+  },
+  {
+    "Question": "What is the element of square thread marked as ‘x?",
+    "Option1": "Thread width",
+    "Option2": "Thread angle",
+    "Option3": "Helix angle",
+    "Option4": "Thread crest",
+    "Answer": "Helix angle",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/sem3%20176to200%2F197.PNG?alt=media&token=b389cb3a-343d-4f08-ac6d-e8135cd797b9"
+  },
+  {
+    "Question": "What is the formula for pitch diameter of thread?",
+    "Option1": "Major diameters - single depth",
+    "Option2": "Major diameters - 2 depth",
+    "Option3": "Major diameters - minor diameter",
+    "Option4": "Major diameter - Pitch",
+    "Answer": "Major diameters - single depth",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the formula to calculate the core dia of the square thread?",
+    "Option1": "Major dia - 2 x depth",
+    "Option2": "Major dia - minor dia",
+    "Option3": "Major dia - Pitch dia",
+    "Option4": "Major dia - Depth of thread",
+    "Answer": "Major dia - 2 x depth",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the name of angle marked as ‘X’ in thread cutting tool?",
+    "Option1": "Front clearance angle",
+    "Option2": "Side rake angle",
+    "Option3": "Front rake angle",
+    "Option4": "Side clearance angle",
+    "Answer": "Front clearance angle",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/sem3%20176to200%2F200.PNG?alt=media&token=b6deb3b6-701a-481e-834a-b8fb2d87acff"
+  },
+  {
+    "Question": "What is the name of tool?",
+    "Option1": "Square thread cutting tool",
+    "Option2": "Single point tool",
+    "Option3": "Knurling tool",
+    "Option4": "Form tool",
+    "Answer": "Square thread cutting tool",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/sem3%20176to200%2F201.PNG?alt=media&token=f22bacc3-00be-4d5d-bb42-24b18598bcf7"
+  },
+  {
+    "Question": "What is the ratio between the pitch diameter and number of teeth of gear?",
+    "Option1": "Tooth thickness",
+    "Option2": "Module",
+    "Option3": "Dedendum",
+    "Option4": "Addendum",
+    "Answer": "Module",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Where the knuckle threads are used?",
+    "Option1": "Screw jack",
+    "Option2": "Carpentry vice",
+    "Option3": "Railway carriage couplings",
+    "Option4": "Dead screw of lathe",
+    "Answer": "Railway carriage couplings",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the included angle of acme thread?",
+    "Option1": "55°",
+    "Option2": "45°",
+    "Option3": "30°",
+    "Option4": "29°",
+    "Answer": "29°",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which type of thread is used in lathe head screw?",
+    "Option1": "Acme thread",
+    "Option2": "Buttress thread",
+    "Option3": "Knuckle thread",
+    "Option4": "Square thread",
+    "Answer": "Acme thread",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the formula to find the helix angle of thread?",
+    "Option1": "π x lead / Pitch dia",
+    "Option2": "Pitch dia / π x lead",
+    "Option3": "lead /  π x Pitch dia",
+    "Option4": "π x Pitch dia / lead",
+    "Answer": "lead /  π x Pitch dia",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "How much angle is to be added for lead angle of a square thread as clearance to the helix angle?",
+    "Option1": "1° 55′",
+    "Option2": "1° 50′",
+    "Option3": "1° 45′",
+    "Option4": "1° 30′",
+    "Answer": "1° 30′",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the angle of BSW thread?",
+    "Option1": "60°",
+    "Option2": "55°",
+    "Option3": "29°",
+    "Option4": "45°",
+    "Answer": "55°",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "How many starts in thread?",
+    "Option1": "Triple start",
+    "Option2": "Double start",
+    "Option3": "Single start",
+    "Option4": "Quadrable start",
+    "Answer": "Triple start",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/sem3%20176to200%2F209.PNG?alt=media&token=f7ef7eeb-3df8-47f4-a50e-13001aeb582f"
+  },
+  {
+    "Question": "Which type of thread have higher mechanical advantage?",
+    "Option1": "‘V’ thread",
+    "Option2": "Acme thread",
+    "Option3": "Square thread",
+    "Option4": "Buttress thread",
+    "Answer": "Square thread",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  }
+]

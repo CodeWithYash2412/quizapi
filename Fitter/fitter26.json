@@ -1,0 +1,227 @@
+[
+  {
+    "Question": "What is the process if hot steel is cooled slowly the old structure is retained and it will have fine grains that makes it easily machined?",
+    "Option1": "Annealing",
+    "Option2": "Hardening",
+    "Option3": "Tempering",
+    "Option4": "Normalising",
+    "Answer": "Annealing",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the name if hot steel cooled rapidly to form a new structure ?",
+    "Option1": "Ferrite",
+    "Option2": "Austenite",
+    "Option3": "Martensite",
+    "Option4": "Pearlite",
+    "Answer": "Martensite",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the process to add cutting ability and wear resistance on steel?",
+    "Option1": "Tempering",
+    "Option2": "Annealing",
+    "Option3": "Normalising",
+    "Option4": "Hardening",
+    "Answer": "Hardening",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the heat treatment process to remove extreme brittleness and induce toughness and shock resistance in steel?",
+    "Option1": "Tempering",
+    "Option2": "Annealing",
+    "Option3": "Normalising",
+    "Option4": "Hardening",
+    "Answer": "Tempering",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the process of steel being heated to required temperature and held in the same temperature for a period of time?",
+    "Option1": "Soaking",
+    "Option2": "Heating",
+    "Option3": "Quenching",
+    "Option4": "Hardening",
+    "Answer": "Soaking",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the purpose of brine solution, water, oil and air used in heat treatment process?",
+    "Option1": "Soaking",
+    "Option2": "Quenching",
+    "Option3": "Heating",
+    "Option4": "Austenite",
+    "Answer": "Quenching",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What quenching media is used for special alloy steels?",
+    "Option1": "Brine solution",
+    "Option2": "Water",
+    "Option3": "Oil",
+    "Option4": "Cold Air",
+    "Answer": "Cold Air",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the heat treatment process of reheating the hardened steel to a temperature below 400°C followed by cooling?",
+    "Option1": "Tempering",
+    "Option2": "Hardening",
+    "Option3": "Annealing",
+    "Option4": "Normalising",
+    "Answer": "Tempering",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the advantage of annealing ?",
+    "Option1": "To relieve the internal stress",
+    "Option2": "To add cutting ability",
+    "Option3": "To refine the grain structure of the steel",
+    "Option4": "To increase wear resistance",
+    "Answer": "To relieve the internal stress",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the process of removing the internal defects of steel components?",
+    "Option1": "Annealing",
+    "Option2": "Normalising",
+    "Option3": "Hardened",
+    "Option4": "Tempering",
+    "Answer": "Normalising",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which key is used for transmitting light torque?",
+    "Option1": "Saddle key",
+    "Option2": "Woodruff key",
+    "Option3": "Gib head key",
+    "Option4": "Feather key",
+    "Answer": "Woodruff key",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "How the mechanical properties of steel like strength, toughness, ductility are affected?",
+    "Option1": "By tempering",
+    "Option2": "By hardening",
+    "Option3": "By annealing",
+    "Option4": "By normalising",
+    "Answer": "By hardening",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which bearing material has poor thermal conductivity?",
+    "Option1": "Nylon",
+    "Option2": "Teflon",
+    "Option3": "Sintered alloys",
+    "Option4": "Laminated phenolics",
+    "Answer": "Laminated phenolics",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the purpose of deep groove type of ball races provided in the ball bearing?",
+    "Option1": "To withstand shock",
+    "Option2": "To carry journal loads",
+    "Option3": "To withstand axial thrust",
+    "Option4": "To withstand radial load",
+    "Answer": "To withstand axial thrust",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Why the double row roller bearing is used?",
+    "Option1": "To take axial load",
+    "Option2": "To take radial load",
+    "Option3": "To take heavy axial load",
+    "Option4": "To take heavy radial load",
+    "Answer": "To take heavy radial load",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Why the melting point of bearing material should be lower than that of the shaft?",
+    "Option1": "Prevents shaft seizure",
+    "Option2": "Prevent damage to bearing",
+    "Option3": "Allow the bearing to run efficiently",
+    "Option4": "Prevent thermal expansion of shaft",
+    "Answer": "Prevents shaft seizure",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the name of washer?",
+    "Option1": "Internal type washer",
+    "Option2": "External type washer",
+    "Option3": "Internal and External washer",
+    "Option4": "Counter sunk washer",
+    "Answer": "Internal and External washer",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/FITTER%2FFITTER%20SEM3%2F151%20TO%20175%2F170.PNG?alt=media&token=fb6ca929-9786-4ba7-b277-025c79ce195f"
+  },
+  {
+    "Question": "Which alloying metal bearing can work at higher temperature and higher load carrying capacity?",
+    "Option1": "Cast iron",
+    "Option2": "White metal",
+    "Option3": "Copper lead alloys",
+    "Option4": "Cadmium based alloy",
+    "Answer": "Cadmium based alloy",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the method of metal coating?",
+    "Option1": "Cladding",
+    "Option2": "Sherardising",
+    "Option3": "Galvanising",
+    "Option4": "Electroplating",
+    "Answer": "Electroplating",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/FITTER%2FFITTER%20SEM3%2F151%20TO%20175%2F172.PNG?alt=media&token=574a7df9-e80a-47e1-88d0-da10b3def12e"
+  },
+  {
+    "Question": "Which metal is used in electroplating to the metal surface to resist corrosion for long period and to retain high polish?",
+    "Option1": "Lead",
+    "Option2": "Nickel",
+    "Option3": "Chromium",
+    "Option4": "Aluminium",
+    "Answer": "Chromium",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which metal protects corrosion resistant and does not crack or peel off due to temperature variation on coating?",
+    "Option1": "Zinc",
+    "Option2": "Nickel",
+    "Option3": "Copper",
+    "Option4": "Chromium",
+    "Answer": "Zinc",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which corrosion resistant metal is used in chemical plant and food processing?",
+    "Option1": "Lead",
+    "Option2": "Copper",
+    "Option3": "Aluminium",
+    "Option4": "Stainless steel",
+    "Answer": "Stainless steel",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the purpose of thrust ball bearing?",
+    "Option1": "Axial load",
+    "Option2": "Radial load",
+    "Option3": "Axial thrust load",
+    "Option4": "Vertical thrust load",
+    "Answer": "Vertical thrust load",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the name of bearing?",
+    "Option1": "Needle bearing",
+    "Option2": "Thrust ball bearing",
+    "Option3": "Taper roller bearing",
+    "Option4": "Angular contact ball bearing",
+    "Answer": "Needle bearing",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/FITTER%2FFITTER%20SEM3%2F151%20TO%20175%2F177.PNG?alt=media&token=78ac6f0c-f1e9-47bf-982c-fb61bb22eb37"
+  },
+  {
+    "Question": "Which bearing material is used in connecting rod and electrical motors?",
+    "Option1": "White metal",
+    "Option2": "Sintered alloy",
+    "Option3": "Aluminium alloy",
+    "Option4": "Copper lead alloy",
+    "Answer": "Copper lead alloy",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  }
+]

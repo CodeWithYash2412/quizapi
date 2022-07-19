@@ -1,0 +1,227 @@
+[
+  {
+    "Question": "Which apparatus is used to check the charging condition of voltage in battery?",
+    "Option1": "Voltmeter",
+    "Option2": "Multimeter",
+    "Option3": "Hydrometer",
+    "Option4": "High rate discharge tester",
+    "Answer": "High rate discharge tester",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which part is losing electron during electrolysis?",
+    "Option1": "Cathode",
+    "Option2": "Anode",
+    "Option3": "Electrolyte",
+    "Option4": "Seperator",
+    "Answer": "Anode",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "How the conduit pipes are specified?",
+    "Option1": "Length in metre",
+    "Option2": "Wall thickness in mm",
+    "Option3": "Inner diameter in mm",
+    "Option4": "Outer diameter in mm",
+    "Answer": "Outer diameter in mm",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the fusing factor for rewireable fuse?",
+    "Option1": 1.1,
+    "Option2": 1.4,
+    "Option3": 2.1,
+    "Option4": 2.5,
+    "Answer": 1.4,
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the purpose of underwriter’s knot for pendent holder connection?",
+    "Option1": "Avoid loose connections",
+    "Option2": "Increase mechanical strength",
+    "Option3": "Prevent excessive cap cover pressure",
+    "Option4": "Reduce the strain from the terminals of accessories",
+    "Answer": "Reduce the strain from the terminals of accessories",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the type of fuse?",
+    "Option1": "Knife edge cartridge fuse",
+    "Option2": "High rupturing capacity fuse",
+    "Option3": "Ferrule contact cartridge fuse",
+    "Option4": "Diazed screw type cartridge fuse",
+    "Answer": "High rupturing capacity fuse",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/Electrician%2FSEM2%2FElectrician12%2F44.PNG?alt=media&token=c9d8890e-920c-462c-b5de-c0533956421d"
+  },
+  {
+    "Question": "What is the name of electrical accessory?",
+    "Option1": "Bracket holder",
+    "Option2": "Edison screw type holder",
+    "Option3": "Angle swivel lamp holder",
+    "Option4": "Goliath Edison screw lamp holder",
+    "Answer": "Edison screw type holder",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/Electrician%2FSEM2%2FElectrician12%2F45.PNG?alt=media&token=33e872df-d983-4750-b973-3f9a6a6cb386"
+  },
+  {
+    "Question": "What is the name of symbol used in wiring circuit?",
+    "Option1": "Link",
+    "Option2": "Fuse",
+    "Option3": "Pull switch",
+    "Option4": "Plug and socket",
+    "Answer": "Plug and socket",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/Electrician%2FSEM2%2FElectrician12%2F46.PNG?alt=media&token=55af4558-040a-4555-ad89-baadb536b07f"
+  },
+  {
+    "Question": "Which type of load is protected by the L-series MCB?",
+    "Option1": "Motors",
+    "Option2": "Geyser",
+    "Option3": "Hand tools",
+    "Option4": "Air conditioner",
+    "Answer": "Geyser",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which type of switch is used in the circuit?",
+    "Option1": "One-way switch",
+    "Option2": "Two-way switch",
+    "Option3": "Intermediate switch",
+    "Option4": "Multiposition switch",
+    "Answer": "Two-way switch",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/Electrician%2FSEM2%2FElectrician12%2F48.PNG?alt=media&token=928728b3-fd46-4b80-a7a0-e424c20bdc47"
+  },
+  {
+    "Question": "What is the effect of low current rated cable used to connect higher current load?",
+    "Option1": "Voltage drop increases",
+    "Option2": "Load current increases",
+    "Option3": "Voltage drop decreases",
+    "Option4": "Cable damage due to heat",
+    "Answer": "Cable damage due to heat",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the name of the conduit accessory?",
+    "Option1": "Solid bend",
+    "Option2": "Solid elbow",
+    "Option3": "Inspection Bend",
+    "Option4": "Inspection elbow",
+    "Answer": "Inspection Bend",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/Electrician%2FSEM2%2FElectrician12%2F50.PNG?alt=media&token=61654422-c81c-4b54-adaa-84d4cd680ab4"
+  },
+  {
+    "Question": "How many two way switches with intermediate switch are used to control one lamp from three different places?",
+    "Option1": 1,
+    "Option2": 2,
+    "Option3": 3,
+    "Option4": 4,
+    "Answer": 2,
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the advantage of concealed wiring?",
+    "Option1": "Easy to maintain",
+    "Option2": "Less voltage drop",
+    "Option3": "High insulation resistance",
+    "Option4": "Protection against moisture",
+    "Answer": "Protection against moisture",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the name of the diagram?",
+    "Option1": "Installation plan",
+    "Option2": "Layout diagram",
+    "Option3": "Wiring diagram",
+    "Option4": "Circuit diagram",
+    "Answer": "Circuit diagram",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/Electrician%2FSEM2%2FElectrician12%2F53.PNG?alt=media&token=b3d94d9a-8b91-41c9-8ae3-a47c886b23f3"
+  },
+  {
+    "Question": "What is the fusing factor for high repturing capacity fuses (HRC)?",
+    "Option1": 1,
+    "Option2": 1.1,
+    "Option3": 1.4,
+    "Option4": 1.7,
+    "Answer": 1.1,
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which type of relay can be operated at both A.C and D.C?",
+    "Option1": "Ferred relay",
+    "Option2": "Thermal relay",
+    "Option3": "Impulse relay",
+    "Option4": "Dry reed relay",
+    "Answer": "Impulse relay",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the name of the accessory used in electrical appliances?",
+    "Option1": "2 Pin plug",
+    "Option2": "Three pin plug",
+    "Option3": "Iron connector with direct entry",
+    "Option4": "Flat connector with side entry",
+    "Answer": "Iron connector with direct entry",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/Electrician%2FSEM2%2FElectrician12%2F56.PNG?alt=media&token=1459857f-0133-45d1-bebe-a204c961cdc5"
+  },
+  {
+    "Question": "What is the name of the accessory symbol?",
+    "Option1": "Bell push switch",
+    "Option2": "Two way switch",
+    "Option3": "One way switch two poles",
+    "Option4": "Multi position switch single pole",
+    "Answer": "Multi position switch single pole",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/Electrician%2FSEM2%2FElectrician12%2F57.PNG?alt=media&token=322c2269-235a-4370-9e32-8182eb50edf4"
+  },
+  {
+    "Question": "What is the purpose of the flexible cords in domestic wiring?",
+    "Option1": "Concealed wiring",
+    "Option2": "Permanent connection",
+    "Option3": "Run cable through holes in ceiling",
+    "Option4": "Connection transportable appliances",
+    "Answer": "Connection transportable appliances",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which type of circuit breaker is used above 100 A current rating?",
+    "Option1": "Miniature Circuit Breaker (MCB",
+    "Option2": "Earth Leakage Circuit Breaker (ELCB)",
+    "Option3": "Moulded Case Circuit Breaker (MCCB)",
+    "Option4": "Residual Current Circuit Breaker (RCCB)",
+    "Answer": "Moulded Case Circuit Breaker (MCCB)",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the purpose of tin coating on copper fuse wire?",
+    "Option1": "Withstand high temperature",
+    "Option2": "Increase the fusing factor",
+    "Option3": "Prevent oxidation of copper wire",
+    "Option4": "Increase the mechanical strength",
+    "Answer": "Prevent oxidation of copper wire",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the name of the four insulated conductors group?",
+    "Option1": "Pair",
+    "Option2": "Core",
+    "Option3": "Quad",
+    "Option4": "Layer",
+    "Answer": "Quad",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "How many two way switches are required in godown wiring circuit to control four lamps",
+    "Option1": 2,
+    "Option2": 3,
+    "Option3": 4,
+    "Option4": 5,
+    "Answer": 3,
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Why tree system of wiring most suitable for multistoryed building?",
+    "Option1": "Easy load balancing",
+    "Option2": "Constant voltage distribution",
+    "Option3": "Offers minimum voltage drop",
+    "Option4": "Easy in fault finding with many fuses",
+    "Answer": "Easy in fault finding with many fuses",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  }
+]

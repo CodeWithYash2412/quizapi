@@ -1,0 +1,227 @@
+[
+  {
+    "Question": "Which device is used in conjunction with dial test indicator?",
+    "Option1": "Chuck",
+    "Option2": "Stand",
+    "Option3": "Tool rest",
+    "Option4": "Bench vice",
+    "Answer": "Tool rest",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which scraper is used to scrape small diameter holes and deburing edges of holes?",
+    "Option1": "Flat scraper",
+    "Option2": "Hook scraper",
+    "Option3": "Triangular scraper",
+    "Option4": "Bull-nose scraper",
+    "Answer": "Hook scraper",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which surface is used for scraping large bearing surface?",
+    "Option1": "Flat scraper",
+    "Option2": "Hook scraper",
+    "Option3": "Triangular scraper",
+    "Option4": "Bull-nose scraper",
+    "Answer": "Triangular scraper",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the difference between maximum limit of size and the minimum limit of size?",
+    "Option1": "Tolerance",
+    "Option2": "Basic size",
+    "Option3": "Limits of size",
+    "Option4": "Upper deviation",
+    "Answer": "Upper deviation",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which is grade of tolerance?",
+    "Option1": "Bilateral tolerance",
+    "Option2": "Unilateral tolerance",
+    "Option3": "Fundamental tolerance",
+    "Option4": "Fundamental deviation",
+    "Answer": "Bilateral tolerance",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the maximum limit of size if the basic size of the hole is 25 mm and the deviation is ± 0.2mm?",
+    "Option1": "25.2 mm",
+    "Option2": "24.8 mm",
+    "Option3": "25.02 mm",
+    "Option4": "24.08 mm",
+    "Answer": "25.02 mm",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the name of part marked X?",
+    "Option1": "Anvil",
+    "Option2": "Steam",
+    "Option3": "Pointer",
+    "Option4": "Plunger",
+    "Answer": "Anvil",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/FITTER%2FFITTER%20SEM2%2F126%20TO%20150%2FFI132.PNG?alt=media&token=954a0887-9d46-47fa-addd-c02fd61d5c0c"
+  },
+  {
+    "Question": "What is the name of the instrument?",
+    "Option1": "Dial vernier caliper",
+    "Option2": "Vernier micrometer",
+    "Option3": "Dial test indicator lever type",
+    "Option4": "Dial test indicator plunger type",
+    "Answer": "Dial test indicator lever type",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/FITTER%2FFITTER%20SEM2%2F126%20TO%20150%2FFI133.PNG?alt=media&token=b1186df5-dfe0-4e41-8aba-8680273c1a58"
+  },
+  {
+    "Question": "What is the name of fit?",
+    "Option1": "Transition fit",
+    "Option2": "Shrinkage fit",
+    "Option3": "Clearance fit",
+    "Option4": "Interference fi",
+    "Answer": "Clearance fit",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/FITTER%2FFITTER%20SEM2%2F126%20TO%20150%2FFI134.PNG?alt=media&token=d1bfac3e-e98e-4732-b865-1d04c6c85cbf"
+  },
+  {
+    "Question": "What is the maximum limit of size if size on\ndrawing is 20 -0.12/-0.21?",
+    "Option1": 19.988,
+    "Option2": 19.979,
+    "Option3": 20.012,
+    "Option4": 20.021,
+    "Answer": 20.021,
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which term indicates the difference\nbetween the maximum limit of size and minimum\nlimit of size?",
+    "Option1": "Deviation",
+    "Option2": "Tolerance",
+    "Option3": "Actual size",
+    "Option4": "Upper deviation",
+    "Answer": "Deviation",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which type of fit, the tolerance zone of\nhole is below the tolerance zone of shaft?",
+    "Option1": "Transition fit",
+    "Option2": "Clearance fit",
+    "Option3": "Shrinkage fit",
+    "Option4": "Interference fit",
+    "Answer": "Clearance fit",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which term indicates the algebraic difference between the actual size and its corresponding basic size?",
+    "Option1": "Deviation",
+    "Option2": "Actual deviation",
+    "Option3": "Upper deviation",
+    "Option4": "Lower deviation",
+    "Answer": "Lower deviation",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the name of the tool?",
+    "Option1": "Flat scraper",
+    "Option2": "Hook scraper",
+    "Option3": "Half round scraper",
+    "Option4": "Triangular scraper",
+    "Answer": "Hook scraper",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/FITTER%2FFITTER%20SEM2%2F126%20TO%20150%2FFI139.PNG?alt=media&token=10128774-9d7c-4dfa-af33-f27147b59030"
+  },
+  {
+    "Question": "What is the name of the part marked X of lever type dial test indicator?",
+    "Option1": "Pivot",
+    "Option2": "Lever",
+    "Option3": "Stylus",
+    "Option4": "Scroll",
+    "Answer": "Stylus",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/FITTER%2FFITTER%20SEM2%2F126%20TO%20150%2FFI140.PNG?alt=media&token=b17470c8-b487-4c51-bcf5-5ffbb979e151"
+  },
+  {
+    "Question": "What is marked as X in hole basic system?",
+    "Option1": "Tolerance",
+    "Option2": "Maximum dia",
+    "Option3": "Lower deviation",
+    "Option4": "Upper deviation",
+    "Answer": "Lower deviation",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/FITTER%2FFITTER%20SEM2%2F126%20TO%20150%2FFI141.PNG?alt=media&token=cb805c5e-cdc1-4f43-91e4-e4ff445b44cf"
+  },
+  {
+    "Question": "What is the expression of 30H7/g6?",
+    "Option1": "Fit",
+    "Option2": "Limits",
+    "Option3": "Deviation",
+    "Option4": "Tolerance",
+    "Answer": "Fit",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the lower limit of size in dimension of",
+    "Option1": 19.988,
+    "Option2": 20.028,
+    "Option3": 20.007,
+    "Option4": 19.979,
+    "Answer": 19.988,
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the type of fit, if the maximum size hole is larger than minimum size of shaft?",
+    "Option1": "Shrinkage fit",
+    "Option2": "Transition fit",
+    "Option3": "Clearance fit",
+    "Option4": "Interference fit",
+    "Answer": "Clearance fit",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/FITTER%2FFITTER%20SEM2%2F126%20TO%20150%2FFI144.PNG?alt=media&token=a42a93cb-5039-4abe-9c51-233cea22ebf0"
+  },
+  {
+    "Question": "What is the name of the part marked X in dial test indicator?",
+    "Option1": "Stem",
+    "Option2": "Pointer",
+    "Option3": "Back plug",
+    "Option4": "Bezel clamp",
+    "Answer": "Back plug",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/FITTER%2FFITTER%20SEM2%2F126%20TO%20150%2FFI145.PNG?alt=media&token=abaf7f4d-dc71-4442-8ec8-ce85eb89097c"
+  },
+  {
+    "Question": "What is the angle of holding the scrapers for soft metal?",
+    "Option1": "30°",
+    "Option2": "60°",
+    "Option3": "40°",
+    "Option4": "20°",
+    "Answer": "20°",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the marked as X?",
+    "Option1": "Minimum limit",
+    "Option2": "Maximum limit",
+    "Option3": "Lower deviation",
+    "Option4": "Upper deviation",
+    "Answer": "Upper deviation",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/FITTER%2FFITTER%20SEM2%2F126%20TO%20150%2FFI147.PNG?alt=media&token=ca4e342e-ff92-4b9d-b6df-0eb92ec880ff"
+  },
+  {
+    "Question": "What is the upper deviation of the component size",
+    "Option1": 0.005,
+    "Option2": 0.008,
+    "Option3": 19.995,
+    "Option4": 20.008,
+    "Answer": 20.008,
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the lower limit of size, if dimension is stated as in a drawing?",
+    "Option1": "24.85 mm",
+    "Option2": "24.75 mm",
+    "Option3": "24.000 mm",
+    "Option4": "25.021 mm",
+    "Answer": "24.85 mm",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the marked as X?",
+    "Option1": "Limit",
+    "Option2": "Tolerance zone",
+    "Option3": "Lower deviation",
+    "Option4": "Upper deviation",
+    "Answer": "Lower deviation",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/FITTER%2FFITTER%20SEM2%2F126%20TO%20150%2FFI150.PNG?alt=media&token=e23e373a-7a70-4b9c-b665-08b78ae5c5fd"
+  }
+]

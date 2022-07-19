@@ -1,0 +1,227 @@
+[
+  {
+    "Question": "Which is the constant operating condition of TEV?",
+    "Option1": "Super heat at suction line point",
+    "Option2": "Evaporator pressure at its inlet",
+    "Option3": "Enthalpy at the evaporator outlet",
+    "Option4": "Entropy at the condenser outlet",
+    "Answer": "Super heat at suction line point",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which type of defrosting method is used in frost free refrigerator?",
+    "Option1": "Hot water defrosting",
+    "Option2": "Manual defrosting",
+    "Option3": "Hot gas defrosting",
+    "Option4": "Electric defrosting",
+    "Answer": "Electric defrosting",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Why evaporator of air conditioner has more fins per inch?",
+    "Option1": "Increase the air contact",
+    "Option2": "Increase the water dripping",
+    "Option3": "Decrease the air circulation",
+    "Option4": "Produce more ice",
+    "Answer": "Increase the air contact",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Why frost accumulates in window AC evaporator?",
+    "Option1": "Over charge of refrigerant",
+    "Option2": "Less charge of refrigerant",
+    "Option3": "Capillary chocking",
+    "Option4": "Air filter blocked",
+    "Answer": "Air filter blocked",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the effect of pressure drop at the inlet of the evaporator?",
+    "Option1": "Flashing of liquid refrigerant",
+    "Option2": "Freezing of liquid refrigerant",
+    "Option3": "Freezing of liquid",
+    "Option4": "Boiling of oil",
+    "Answer": "Flashing of liquid refrigerant",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the remedy for broken bimetal thermo in a frost free refrigerator?",
+    "Option1": "Repair the bimetal thermo",
+    "Option2": "Reuse the bimetal thermo",
+    "Option3": "Replace the bimetal thermo",
+    "Option4": "Readjust the bimetal thermo",
+    "Answer": "Replace the bimetal thermo",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Why there is no frosting at the bottom only in plate coil evaporator used with refrigerator?",
+    "Option1": "Shortage of refrigerant",
+    "Option2": "Oil present in the coil",
+    "Option3": "Excess of refrigerant",
+    "Option4": "Liquid in the coil",
+    "Answer": "Oil present in the coil",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Why the supply air throw is decreased in window AC?",
+    "Option1": "Normal RPM of fan motor",
+    "Option2": "Clean air filter",
+    "Option3": "Refrigerant leaks",
+    "Option4": "Frost blocks air circulation",
+    "Answer": "Frost blocks air circulation",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the remedy for defective heating element in a frost free refrigerator?",
+    "Option1": "Repair heater",
+    "Option2": "Readjust the heater",
+    "Option3": "Replace heater and bimetal thermo",
+    "Option4": "Reuse the heater and over load protector",
+    "Answer": "Replace heater and bimetal thermo",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What are the causes for blockage in\ncapillary tube?",
+    "Option1": "Non condensable gases",
+    "Option2": "Moisture and wax from oil",
+    "Option3": "Solid particles",
+    "Option4": "Over charging of refrigerant",
+    "Answer": "Moisture and wax from oil",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the reason for frost accumulation in\nbetween fins and tubes of evaporator in frost free\nrefrigerator?",
+    "Option1": "Under charge of refrigerant",
+    "Option2": "Over charge of refrigerant",
+    "Option3": "Defective fan motor",
+    "Option4": "Defective timer",
+    "Answer": "Defective fan motor",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the reason for no cooling in a frost\nfree refrigerator?",
+    "Option1": "Defective fan motor",
+    "Option2": "Open door switch",
+    "Option3": "High watt Cabinet bulb",
+    "Option4": "Defective timer",
+    "Answer": "Defective timer",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Why the capillary tube is preferred as an\nexpansion device?",
+    "Option1": "No system pressure equalising",
+    "Option2": "Inexpensive and has no moving parts",
+    "Option3": "Expensive and more moving parts",
+    "Option4": "Periodical servicing is required",
+    "Answer": "Inexpensive and has no moving parts",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the name of part marked as ‘X’\nused as secondary heat transfer surface?",
+    "Option1": "Fins",
+    "Option2": "Plate",
+    "Option3": "Coil",
+    "Option4": "Tube",
+    "Answer": "Plate",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/MRAC%2FSEM2%2F076%20TO%20100%2F89.PNG?alt=media&token=315369dc-3003-4d49-8130-375fc8457130"
+  },
+  {
+    "Question": "Which property is desirable for an ideal refrigerant?",
+    "Option1": "High boiling point",
+    "Option2": "High freezing point",
+    "Option3": "High specify volume",
+    "Option4": "High latent heat value",
+    "Answer": "High latent heat value",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the category of R 290 refrigerant?",
+    "Option1": "Halocarbons",
+    "Option2": "Azeotropes",
+    "Option3": "Hydrocarbons",
+    "Option4": "Organic compounds",
+    "Answer": "Hydrocarbons",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What type of heat is absorbed by primary refrigerant?",
+    "Option1": "Total heat",
+    "Option2": "Latent heat",
+    "Option3": "Specific heat",
+    "Option4": "Sensible heat",
+    "Answer": "Latent heat",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "How much is the maximum capacity of refrigerant to be filled in a returnable service cylinder?",
+    "Option1": "Up to 95%",
+    "Option2": "Up to 90%",
+    "Option3": "Up to 85%",
+    "Option4": "Up to 80%",
+    "Answer": "Up to 80%",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the desirable property of POE lubricant?",
+    "Option1": "Hygroscopic",
+    "Option2": "Miscible with HFCs",
+    "Option3": "Forms acid with moisture",
+    "Option4": "Toxic gas produced during brazing",
+    "Answer": "Miscible with HFCs",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which insulating material is poured as liquid?",
+    "Option1": "Glass Wool",
+    "Option2": "Cork Board",
+    "Option3": "Wood Shave",
+    "Option4": "Poly Urethane Foam (PUF)",
+    "Answer": "Poly Urethane Foam (PUF)",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which international agency standardises the numbering system for identifying refrigerants?",
+    "Option1": "ASHRAE",
+    "Option2": "ISHRAE",
+    "Option3": "DW142",
+    "Option4": "ISO",
+    "Answer": "ASHRAE",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the ozone depleting potential of R 134a Refrigerant?",
+    "Option1": 0,
+    "Option2": 1,
+    "Option3": 2,
+    "Option4": 3,
+    "Answer": 0,
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the category of R 502 refrigerant?",
+    "Option1": "Azeotropes",
+    "Option2": "Halocarbon",
+    "Option3": "Hydrocarbon",
+    "Option4": "Organic compounds",
+    "Answer": "Azeotropes",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the refrigerant recovery method?",
+    "Option1": "Active method of recovery",
+    "Option2": "Passive method of recovery",
+    "Option3": "Charge migration method of recovery",
+    "Option4": "Use of systems compressor for recovery",
+    "Answer": "Active method of recovery",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/MRAC%2FSEM2%2F076%20TO%20100%2F99.PNG?alt=media&token=89ee541d-0e2b-495b-80f7-ad582d71edef"
+  },
+  {
+    "Question": "Which is the green house gas?",
+    "Option1": "Oxygen of atmospheric air",
+    "Option2": "Chlorofluoro carbon in air",
+    "Option3": "Helium of atmospheric air",
+    "Option4": "Neon of atmospheric air",
+    "Answer": "Chlorofluoro carbon in air",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  }
+]

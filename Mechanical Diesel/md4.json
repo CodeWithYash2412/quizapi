@@ -1,0 +1,227 @@
+[
+  {
+    "Question": "What is the name of the tool?",
+    "Option1": "Jack",
+    "Option2": "Puller",
+    "Option3": "Wrench",
+    "Option4": "Extractor",
+    "Answer": "Puller",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/mechanical%20diesel%2FMD4%2F76.PNG?alt=media&token=52fde2b3-6246-4f9c-b041-68c593f51ceb"
+  },
+  {
+    "Question": "What is the working media of pneumatic tool?",
+    "Option1": "Oil",
+    "Option2": "Air",
+    "Option3": "Water",
+    "Option4": "Kerosene",
+    "Answer": "Air",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the name of the screw driver?",
+    "Option1": "Recess screw driver",
+    "Option2": "Ratchet screw driver",
+    "Option3": "Stumpy screw driver",
+    "Option4": "Offset screw driver",
+    "Answer": "Ratchet screw driver",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/mechanical%20diesel%2FMD4%2F78.PNG?alt=media&token=cee259b7-2e24-43a2-ae46-754f011dbaaa"
+  },
+  {
+    "Question": "What is the material used to make Allen keys?",
+    "Option1": "Cast iron",
+    "Option2": "Aluminium alloy",
+    "Option3": "High speed steel",
+    "Option4": "Chrome vanadium steel",
+    "Answer": "Chrome vanadium steel",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the use of a bench vice?",
+    "Option1": "To hold a work piece",
+    "Option2": "To hold a tool",
+    "Option3": "To hold a work table",
+    "Option4": "To hold a chuck",
+    "Answer": "To hold a work piece",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the name of the spanner?",
+    "Option1": "Open spanner",
+    "Option2": "Tubular spanner",
+    "Option3": "Socket spanner",
+    "Option4": "Ring spanner",
+    "Answer": "Socket spanner",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/mechanical%20diesel%2FMD4%2F81.PNG?alt=media&token=1f714c09-f928-4913-a1ee-14a67f238896"
+  },
+  {
+    "Question": "What is the name of the spanner?",
+    "Option1": "Socket spanner",
+    "Option2": "Tubular spanner",
+    "Option3": "Hook spanner",
+    "Option4": "Adjustable spanner",
+    "Answer": "Hook spanner",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/mechanical%20diesel%2FMD4%2F82.PNG?alt=media&token=45abdffb-83b7-45bb-907b-dc7a61266ef4"
+  },
+  {
+    "Question": "Calculate the value of 1 vernier scale in the figure.",
+    "Option1": "0.06 Units",
+    "Option2": "0.07 Units",
+    "Option3": "0.08 Units",
+    "Option4": "0.09 Units",
+    "Answer": "0.09 Units",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/mechanical%20diesel%2FMD4%2F83.PNG?alt=media&token=3d869d54-06fd-4a59-8b01-123b6a859e79"
+  },
+  {
+    "Question": "What is the name of the part marked as X in vernier caliper?",
+    "Option1": "Beam",
+    "Option2": "Lock screw",
+    "Option3": "Sliding unit",
+    "Option4": "Movable jaw",
+    "Answer": "Sliding unit",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/mechanical%20diesel%2FMD4%2F84.PNG?alt=media&token=543aef03-7c50-4222-b6d0-9a9094fdfd8b"
+  },
+  {
+    "Question": "What is the least count of vernier caliper in metric system?",
+    "Option1": "0.1 mm",
+    "Option2": "0.01 mm",
+    "Option3": "0.02 mm",
+    "Option4": "0.001 mm",
+    "Answer": "0.02 mm",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which measuring instrument used to measuring inside, outside and depth of work piece?",
+    "Option1": "Steel rule",
+    "Option2": "Micrometer",
+    "Option3": "Dial caliper",
+    "Option4": "Vernier caliper",
+    "Answer": "Vernier caliper",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which part of vernier caliper used to measure internal and external measurement?",
+    "Option1": "Beam",
+    "Option2": "Sliding unit",
+    "Option3": "Fixed jaw",
+    "Option4": "Movable jaw",
+    "Answer": "Movable jaw",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the reading of vernier caliper with the least count of 0.1 mm?",
+    "Option1": "44.8 mm",
+    "Option2": "44.4 mm",
+    "Option3": "44.6 mm",
+    "Option4": "45.2 mm",
+    "Answer": "44.4 mm",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/mechanical%20diesel%2FMD4%2F88.PNG?alt=media&token=b87f9129-7e87-4a57-bdaf-400402b6cdfc"
+  },
+  {
+    "Question": "What is the reading of vernier caliper with the least count of 0.1 mm?",
+    "Option1": "0.03 mm",
+    "Option2": "0.3 mm",
+    "Option3": "0.003 mm",
+    "Option4": "1.03 mm",
+    "Answer": "0.3 mm",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/mechanical%20diesel%2FMD4%2F89.PNG?alt=media&token=7fcfbfa3-fef6-4687-ba43-593d4d7a0a10"
+  },
+  {
+    "Question": "Name the part marked X in vernier calliper.",
+    "Option1": 54,
+    "Option2": 54.2,
+    "Option3": 54.4,
+    "Option4": 55.4,
+    "Answer": 54.4,
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/mechanical%20diesel%2FMD4%2F90.PNG?alt=media&token=ab7c9f19-a9d7-44f2-a58c-4a78b0c9384d"
+  },
+  {
+    "Question": "What is the smallest possible measurement that can be taken with the depth micrometer?",
+    "Option1": "0.01 mm",
+    "Option2": "0.02 mm",
+    "Option3": "0.001 mm",
+    "Option4": "0.002 mm",
+    "Answer": "0.01 mm",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the measuring instrument used to measure diameter of a piston pin?",
+    "Option1": "Depth micrometer",
+    "Option2": "Inside micrometer",
+    "Option3": "Outside micrometer",
+    "Option4": "3 point internal micrometer",
+    "Answer": "Outside micrometer",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the reading of the outside micrometer?",
+    "Option1": "8.20 mm",
+    "Option2": "8.59 mm",
+    "Option3": "8.69 mm",
+    "Option4": "8.44 mm",
+    "Answer": "8.69 mm",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/mechanical%20diesel%2FMD4%2F93.PNG?alt=media&token=74a7042e-e66b-448d-9a46-13ce93d8bd87"
+  },
+  {
+    "Question": "What is the reading of the out side micrometer (0-25 mm)?",
+    "Option1": 2.25,
+    "Option2": 2.5,
+    "Option3": 2.75,
+    "Option4": 20.75,
+    "Answer": 2.75,
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/mechanical%20diesel%2FMD4%2F94.PNG?alt=media&token=994a53df-3995-499b-aa4b-73f569c9d1d7"
+  },
+  {
+    "Question": "Which instrument not used to check inside size of slots ?",
+    "Option1": "Vernier caliper",
+    "Option2": "Outside micrometer",
+    "Option3": "Inside micrometer",
+    "Option4": "Telescopic gauge",
+    "Answer": "Outside micrometer",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is to be checked with vacuum gauge?",
+    "Option1": "Leak in the cooling system",
+    "Option2": "Leak in the air brake system",
+    "Option3": "Leak in the inlet-manifold system",
+    "Option4": "Leak in the hydraulic brake system",
+    "Answer": "Leak in the inlet-manifold system",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the Purpose of chisel?",
+    "Option1": "Grinding",
+    "Option2": "Machining",
+    "Option3": "Reaming",
+    "Option4": "Chipping",
+    "Answer": "Chipping",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which chisel is used to remove metal from large flat surface?",
+    "Option1": "Flat chisel",
+    "Option2": "Cross cut chisel",
+    "Option3": "Half round nose chisel",
+    "Option4": "Diamond point chisel",
+    "Answer": "Flat chisel",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which type of chisel used for squaring material at the corners?",
+    "Option1": "Flat chisel",
+    "Option2": "Half round chisel",
+    "Option3": "Cross cut chisel",
+    "Option4": "Diamond point chisel",
+    "Answer": "Diamond point chisel",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the purpose of the eye hole in an hammer?",
+    "Option1": "Strike the job",
+    "Option2": "Fix the handle",
+    "Option3": "Reduce the weight",
+    "Option4": "Stamp the details",
+    "Answer": "Fix the handle",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  }
+]

@@ -1,0 +1,227 @@
+[
+  {
+    "Question": "Why chalk is applied on the face of the file?",
+    "Option1": "To reduce excessive pressure",
+    "Option2": "To increase chip removed rate",
+    "Option3": "To reduce penetration and pinning",
+    "Option4": "To increase penetration and pinning",
+    "Answer": "To reduce penetration and pinning",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the use of fine pitch hacksaw blades?",
+    "Option1": "To cut soft metal",
+    "Option2": "To cut high speed steel",
+    "Option3": "To cut high carbon steel",
+    "Option4": "To cut conduit and other thin tubes",
+    "Answer": "To cut conduit and other thin tubes",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Calculate the tap drill size for M10 x 1.25.",
+    "Option1": "8.8 mm",
+    "Option2": "8.7 mm",
+    "Option3": "8.75 mm",
+    "Option4": "8.65 mm",
+    "Answer": "8.8 mm",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the name of portion left between flutes in a drill?",
+    "Option1": "Lip",
+    "Option2": "Web",
+    "Option3": "Point",
+    "Option4": "Shank",
+    "Answer": "Web",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the reading of vernier bevel protractor?",
+    "Option1": "27°30’",
+    "Option2": "67° 30’",
+    "Option3": "157° 30’",
+    "Option4": "159° 30’",
+    "Answer": "157° 30’",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/FITTER%2FFITTER%20SEM1%2F126TO150%2Ff130.PNG?alt=media&token=da7299ee-6531-4cce-bad0-b977ef0a94b5"
+  },
+  {
+    "Question": "Which part of outside micrometer ensure a uniform pressure between the measuring surface?",
+    "Option1": "Anvil",
+    "Option2": "Thimble",
+    "Option3": "Spindle lock",
+    "Option4": "Ratchet stop",
+    "Answer": "Ratchet stop",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which part of the vernier height gauge is an intergral part of the main slide?",
+    "Option1": "Jaw",
+    "Option2": "Base",
+    "Option3": "Beam",
+    "Option4": "Jaw clamp",
+    "Answer": "Jaw",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the principle of micrometer?",
+    "Option1": "Sliding",
+    "Option2": "Screw and nut",
+    "Option3": "Rack and pinion",
+    "Option4": "Worm and worm wheel",
+    "Answer": "Screw and nut",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "How the wide range of depth can be measured by depth micrometer?",
+    "Option1": "Lengthy sleeve",
+    "Option2": "Lengthy spindle",
+    "Option3": "Adjustable base",
+    "Option4": "Equipped with a set of extension rods",
+    "Answer": "Equipped with a set of extension rods",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the reading in inch micrometer?",
+    "Option1": 0.789,
+    "Option2": 0.787,
+    "Option3": 0.783,
+    "Option4": 0.715,
+    "Answer": 0.787,
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/FITTER%2FFITTER%20SEM1%2F126TO150%2Ff135.PNG?alt=media&token=3bc1c293-0649-401d-a172-5eea3dbb35ef"
+  },
+  {
+    "Question": "Which part of the bevel protractor contact with the inclined surface while measuring? |",
+    "Option1": "Dial",
+    "Option2": "Disc",
+    "Option3": "Blade",
+    "Option4": "Stock",
+    "Answer": "Blade",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which part in drilling machine is to achieve different speed?",
+    "Option1": "Flat pulley",
+    "Option2": "Jockey pulley",
+    "Option3": "Stepped pulley",
+    "Option4": "Fast and loose pulley",
+    "Answer": "Stepped pulley",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the part marked as x in pedestal grinder?",
+    "Option1": "Tool rest",
+    "Option2": "Eye shield",
+    "Option3": "Wheel guard",
+    "Option4": "Grinding wheel",
+    "Answer": "Tool rest",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/FITTER%2FFITTER%20SEM1%2F126TO150%2Ff138.PNG?alt=media&token=b50e7a5a-8c3a-42e4-ae39-2721e91599d7"
+  },
+  {
+    "Question": "What is the name of file?",
+    "Option1": "Hand file",
+    "Option2": "Rasp cut file",
+    "Option3": "Single cut file",
+    "Option4": "Curved cut file",
+    "Answer": "Rasp cut file",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/FITTER%2FFITTER%20SEM1%2F126TO150%2Ff139.PNG?alt=media&token=fbc6fe14-1faa-4c40-9e82-57d598c3bbb0"
+  },
+  {
+    "Question": "What happens if the vice handle is over tightened?",
+    "Option1": "Spindle damage",
+    "Option2": "Hard jaw damage",
+    "Option3": "Fixed jaw damage",
+    "Option4": "Movable jaw damage",
+    "Answer": "Spindle damage",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which caliper provide fine adjustment of dimensions?",
+    "Option1": "Inside caliper",
+    "Option2": "Odd leg caliper",
+    "Option3": "Outside caliper",
+    "Option4": "Spring joint caliper",
+    "Answer": "Spring joint caliper",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which metal cutting saw is used to cut large cross section area?",
+    "Option1": "Power saw",
+    "Option2": "Contour saw",
+    "Option3": "Circular saw",
+    "Option4": "Horizontal band saw",
+    "Answer": "Circular saw",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Why marking tables are made up of cast iron?",
+    "Option1": "Self lubricating",
+    "Option2": "Make more rigidity",
+    "Option3": "Maintain the accuracy",
+    "Option4": "Prevent thermal expansion",
+    "Answer": "Self lubricating",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the name of gauge?",
+    "Option1": "Bevel gauge",
+    "Option2": "Angle gauge",
+    "Option3": "Surface gauge",
+    "Option4": "Universal bevel gauge",
+    "Answer": "Bevel gauge",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/FITTER%2FFITTER%20SEM1%2F126TO150%2Ff144.PNG?alt=media&token=1cc5744a-9887-4c5a-953f-ddd387172980"
+  },
+  {
+    "Question": "Which file is used for manufacturing of dies and moulds?",
+    "Option1": "Rotary file",
+    "Option2": "Tinkers file",
+    "Option3": "Barrette file",
+    "Option4": "Rasp cut file",
+    "Answer": "Rotary file",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the method of removing metal chips clogged between the teeth of files?",
+    "Option1": "Brush",
+    "Option2": "Wire brush",
+    "Option3": "Copper strip",
+    "Option4": "Chalk powder",
+    "Answer": "Copper strip",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which vice is used for holding small work that requires filing or drilling?",
+    "Option1": "Pin vice",
+    "Option2": "Pipe vice",
+    "Option3": "Hand vice",
+    "Option4": "Tool maker s vice",
+    "Answer": "Tool maker s vice",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which hacksaw blade is used for cutting along curved lines?",
+    "Option1": "HSS blade",
+    "Option2": "All hard blade",
+    "Option3": "Flexible blade",
+    "Option4": "Diamond blade",
+    "Answer": "Flexible blade",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which chisel is used for cutting keyways?",
+    "Option1": "Flat chisel",
+    "Option2": "Cross cut chisel",
+    "Option3": "Punching chisel",
+    "Option4": "Diamond point chisel",
+    "Answer": "Cross cut chisel",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Name the part marked X in hammer?",
+    "Option1": "Pein",
+    "Option2": "Face",
+    "Option3": "Cheek",
+    "Option4": "Eye hole",
+    "Answer": "Pein",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/FITTER%2FFITTER%20SEM1%2F126TO150%2Ff150.PNG?alt=media&token=411a43d1-6ae6-46ac-947c-d804911dd9b1"
+  }
+]

@@ -1,0 +1,227 @@
+[
+  {
+    "Question": "What is applied to find the leakage on acetylene gas connection?",
+    "Option1": "Soap bubbles",
+    "Option2": "Halide torch",
+    "Option3": "LPG torch",
+    "Option4": "By smell",
+    "Answer": "Soap bubbles",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which gas line is used with hose union in gas welding set?",
+    "Option1": "LPG",
+    "Option2": "Oxygen",
+    "Option3": "Acetylene",
+    "Option4": "Carbon di oxide",
+    "Answer": "Acetylene",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/MRAC%2FSEM1%2F126%20TO%20150%2F127.PNG?alt=media&token=c275e2dd-e308-4ceb-9ae5-f1bfcff6ec3a"
+  },
+  {
+    "Question": "Which component secures the hose with regulator union in gas welding set?",
+    "Option1": "Steel wire",
+    "Option2": "Hose clamp",
+    "Option3": "Fibre clip",
+    "Option4": "Iron chain",
+    "Answer": "Hose clamp",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "How the cylinders of gas welding set are secured in trolley?",
+    "Option1": "By cable",
+    "Option2": "Using chain",
+    "Option3": "Tightened with rope",
+    "Option4": "Tied up with belt",
+    "Answer": "Using chain",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which is adjusted to the size of electrode in welding process?",
+    "Option1": "Conductor",
+    "Option2": "Thickness",
+    "Option3": "Length",
+    "Option4": "Ampere",
+    "Answer": "Ampere",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is done after gas charging and pinching the process tube in refrigerator?",
+    "Option1": "Flaring",
+    "Option2": "Charging",
+    "Option3": "Swaging",
+    "Option4": "Brazing",
+    "Answer": "Brazing",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "How much volume of oxygen is needed for complete combustion of one unit volume of acetylene?",
+    "Option1": "1.5 times",
+    "Option2": "2.5 times",
+    "Option3": "3.5 times",
+    "Option4": "4.5 times",
+    "Answer": "2.5 times",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which method of welding process is suitable to nonferrous dissimilar metals?",
+    "Option1": "Cold welding",
+    "Option2": "Explosion welding",
+    "Option3": "Brazing and bronze welding",
+    "Option4": "Ultrasonic method of welding",
+    "Answer": "Brazing and bronze welding",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the purpose of using goggles during chipping the slag from weld bead?",
+    "Option1": "To protect eyes",
+    "Option2": "To protect hand",
+    "Option3": "To protect leg",
+    "Option4": "To protect head",
+    "Answer": "To protect eyes",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the name of joint between pieces located at right angle to each other?",
+    "Option1": "T - Joint",
+    "Option2": "Lap joint",
+    "Option3": "Butt joint",
+    "Option4": "Grooved joint",
+    "Answer": "T - Joint",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which factor determines the current setting during welding?",
+    "Option1": "Types of joint",
+    "Option2": "Position of weld",
+    "Option3": "Length of electrode",
+    "Option4": "Diameter of electrode",
+    "Answer": "Diameter of electrode",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the fault if excess deposit of tiny metal globules formed on the job surface along weld?",
+    "Option1": "Incomplete penetration",
+    "Option2": "Slag inclusion",
+    "Option3": "Blow hole",
+    "Option4": "Spatters",
+    "Answer": "Spatters",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Why the acetylene gas is avoided with copper pipe lines or fittings in oxy-acetylene welding set?",
+    "Option1": "Copper is expensive",
+    "Option2": "Copper is not flexible hose",
+    "Option3": "Copper and acetylene form explosive",
+    "Option4": "Copper pipe consumes more acetylene",
+    "Answer": "Copper and acetylene form explosive",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Why the filler metal does not melt and flow into the joint in bronze welding of copper?",
+    "Option1": "Excess use of flux",
+    "Option2": "Due to excess of polished surface",
+    "Option3": "Surface coated with oxides or oily material",
+    "Option4": "Excessive heating of metal s surface",
+    "Answer": "Surface coated with oxides or oily material",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the precautionary measure taken if flame snaps out and back fires?",
+    "Option1": "Shut off both valve quickly and dip in water",
+    "Option2": "Shut off oxygen first and acetylene next",
+    "Option3": "Shut off acetylene first, oxygen next and dip in water",
+    "Option4": "Shut off both valve, oxygen first and dip in water",
+    "Answer": "Shut off acetylene first, oxygen next and dip in water",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the defect marked as x in fracture of weld?",
+    "Option1": "Porosity",
+    "Option2": "Blow hole",
+    "Option3": "Slag inclusion",
+    "Option4": "Fracture metal",
+    "Answer": "Blow hole",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/MRAC%2FSEM1%2F126%20TO%20150%2F141.PNG?alt=media&token=02e1754c-c3c7-4e7f-8aba-f09378d6b8b7"
+  },
+  {
+    "Question": "What is the weld test without destroying or breaking the joint?",
+    "Option1": "Destructive test",
+    "Option2": "Non destructive test",
+    "Option3": "Radio graphic test",
+    "Option4": "Magnetic test",
+    "Answer": "Non destructive test",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the part marked as X in vapour\ncompression system?",
+    "Option1": "Receiver",
+    "Option2": "Liquid line",
+    "Option3": "Suction line",
+    "Option4": "Discharge line",
+    "Answer": "Receiver",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/MRAC%2FSEM1%2F126%20TO%20150%2F143.PNG?alt=media&token=4cd7aefc-ae45-4b87-8e01-bb1df7509dfa"
+  },
+  {
+    "Question": "What is the name of component used in\nrefrigerator?",
+    "Option1": "Strainer",
+    "Option2": "Capillary tube",
+    "Option3": "Condenser coil",
+    "Option4": "Accumulator tank",
+    "Answer": "Capillary tube",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/MRAC%2FSEM1%2F126%20TO%20150%2F144.PNG?alt=media&token=443a7226-7b79-4d5b-927b-8390bfa91ae0"
+  },
+  {
+    "Question": "What is the atmospheric pressure at sea\nlevel?",
+    "Option1": "1.033 kg/cm2",
+    "Option2": "1.3 Kg/cm2",
+    "Option3": "1.5 Kg/cm2",
+    "Option4": "1.6 Kg/cm2",
+    "Answer": "1.033 kg/cm2",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the rate of doing work?",
+    "Option1": "Duty",
+    "Option2": "Force",
+    "Option3": "Power",
+    "Option4": "Velocity",
+    "Answer": "Power",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the melting temperature of silver\nbrazing rod?",
+    "Option1": "1120°F",
+    "Option2": "1200°F",
+    "Option3": "1250°F",
+    "Option4": "1300°F",
+    "Answer": "1120°F",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the part marked as X in flaring\nset?",
+    "Option1": "Flaring block",
+    "Option2": "Flaring yoke",
+    "Option3": "Wing nut",
+    "Option4": "Chamfer",
+    "Answer": "Flaring yoke",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/MRAC%2FSEM1%2F126%20TO%20150%2F148.PNG?alt=media&token=ab8d4367-fd6f-4124-b394-551259847b9d"
+  },
+  {
+    "Question": "Which instrument is used to measure\natmospheric pressure?",
+    "Option1": "Hygrometer",
+    "Option2": "Hydrometer",
+    "Option3": "Manometer",
+    "Option4": "Barometer",
+    "Answer": "Barometer",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the unit of heat in M.K.S system?",
+    "Option1": "B.T.U (British thermal unit)",
+    "Option2": "K.Cal (Kilo Calorie)",
+    "Option3": "KV (Kilo Volt)",
+    "Option4": "K.W (Kilo Watt)",
+    "Answer": "K.Cal (Kilo Calorie)",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  }
+]

@@ -1,0 +1,227 @@
+[
+  {
+    "Question": "Which control is suitable to collect the input from the user in VBA?",
+    "Option1": "Label",
+    "Option2": "Text box",
+    "Option3": "Command button",
+    "Option4": "User form",
+    "Answer": "Text box",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which is a proper object hierarchy in VBA?",
+    "Option1": "Worksheet, Workbook, Application, Range",
+    "Option2": "Range, Application, Worksheet, Workbook",
+    "Option3": "Range, Worksheet, Workbook, Application",
+    "Option4": "Application, Workbook, Worksheet, Range",
+    "Answer": "Application, Workbook, Worksheet, Range",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the shortcut key to run the current procedure in VBA?",
+    "Option1": "F2",
+    "Option2": "F4",
+    "Option3": "F5",
+    "Option4": "F8",
+    "Answer": "F5",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which window displays the entire list of local varibles and their current values in VBA?",
+    "Option1": "Locals window",
+    "Option2": "Watch window",
+    "Option3": "Immediate window",
+    "Option4": "Debugging window",
+    "Answer": "Locals window",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which window is similar to the locals window, but it is used to tracing the variables in VBA?",
+    "Option1": "Call stack window",
+    "Option2": "Watch window",
+    "Option3": "Immediate window",
+    "Option4": "Debugging window",
+    "Answer": "Watch window",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which shortcut key is used to open the immediate window?",
+    "Option1": "Ctrl + G",
+    "Option2": "Ctrl + L",
+    "Option3": "Alt + G",
+    "Option4": "Alt + L",
+    "Answer": "Ctrl + G",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the another name trigger for an action in VBA?",
+    "Option1": "Methods",
+    "Option2": "Modules",
+    "Option3": "Events",
+    "Option4": "Macros",
+    "Answer": "Events",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which shortcut key allows debugger to run the current procedure and go line after line called the procedure in VBA?",
+    "Option1": "Ctrl + Shift + F6",
+    "Option2": "Ctrl + Shift + F7",
+    "Option3": "Ctrl + Shift + F8",
+    "Option4": "Ctrl + Shift + F9",
+    "Answer": "Ctrl + Shift + F8",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "While debugging code, which statement allows to go to the highlighted line?",
+    "Option1": "Step into",
+    "Option2": "Step over",
+    "Option3": "Step out",
+    "Option4": "Show next",
+    "Answer": "Show next",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which control is used to increase or decrease a value, such as a number time or date?",
+    "Option1": "Scroll Bar",
+    "Option2": "Spin Button",
+    "Option3": "Combo Box",
+    "Option4": "Toggle Button",
+    "Answer": "Spin Button",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which VBA function compares given strings and returns -1 if the first string is smaller than the second string, returns 0 if both are equal and 1 if the first string is greater than second string?",
+    "Option1": "Strcmp",
+    "Option2": "Strcomp",
+    "Option3": "Compare",
+    "Option4": "Scmp",
+    "Answer": "Strcmp",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which scope does the variable declared with dim and remains in the existance only as long as the procedure in which if is declared is running?",
+    "Option1": "Global scope",
+    "Option2": "Local scope",
+    "Option3": "Module scope",
+    "Option4": "Project scope",
+    "Answer": "Local scope",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What will be the output of the following VBA code?",
+    "Option1": 3,
+    "Option2": 9,
+    "Option3": 18,
+    "Option4": 81,
+    "Answer": 3,
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/COPA%2Fsem2%2FM2-L3-1.PNG?alt=media&token=2b6f3d90-79f9-4975-a2ed-5006bfea280a"
+  },
+  {
+    "Question": "What will be the output for the following VBA code?",
+    "Option1": 0,
+    "Option2": 1,
+    "Option3": 11,
+    "Option4": 30,
+    "Answer": 1,
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/COPA%2Fsem2%2FM2-L3-2.PNG?alt=media&token=66335a4f-2729-4a74-8c2a-4df57ddef780"
+  },
+  {
+    "Question": "What will be the output of the following VBA code?",
+    "Option1": "Institute",
+    "Option2": "institute",
+    "Option3": "INSTITUTE",
+    "Option4": "instiTUTE",
+    "Answer": "INSTITUTE",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/COPA%2Fsem2%2FM2-L3-3.PNG?alt=media&token=e479824c-fbc2-42c6-bec1-bb550b7a1d63"
+  },
+  {
+    "Question": "What will be the output of the following VBA code?",
+    "Option1": "arte",
+    "Option2": "hear",
+    "Option3": "hole",
+    "Option4": "eart",
+    "Answer": "hear",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/COPA%2Fsem2%2FM2-L3-4.PNG?alt=media&token=5fe62aef-0277-4f57-812d-e6c414db796c"
+  },
+  {
+    "Question": "What will be the output of the following VBA code?",
+    "Option1": "Operator",
+    "Option2": "Computer o",
+    "Option3": "Computer",
+    "Option4": "Computer operator",
+    "Answer": "Computer o",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/COPA%2Fsem2%2FM2-L3-5.PNG?alt=media&token=436d71fa-c63a-4e20-8182-173345f8e292"
+  },
+  {
+    "Question": "What will be the output of the following VBA code?",
+    "Option1": 13,
+    "Option2": "The length is 11",
+    "Option3": "The length is 13",
+    "Option4": "THE LENGTH IS 13",
+    "Answer": "The length is 13",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/COPA%2Fsem2%2FM2-L3-6.PNG?alt=media&token=8595557d-0e63-4c89-9315-7c0cab5c5b8b"
+  },
+  {
+    "Question": "What will be the output of the following VBA function?",
+    "Option1": "matics",
+    "Option2": "Mathem",
+    "Option3": "Mathemat",
+    "Option4": "Mathematics",
+    "Answer": "matics",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/COPA%2Fsem2%2FM2-L3-7.PNG?alt=media&token=c7f9e63c-1076-4674-b8f6-8a25872d846b"
+  },
+  {
+    "Question": "What type of software is Tally?",
+    "Option1": "Accounting Software",
+    "Option2": "Application Software",
+    "Option3": "Language Translator",
+    "Option4": "System Software",
+    "Answer": "Accounting Software",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the purpose of financial management feature in Tally?",
+    "Option1": "Importing and exporting data",
+    "Option2": "For stock transfer",
+    "Option3": "To get daily balances and Transaction value",
+    "Option4": "To prepare purchase records",
+    "Answer": "To get daily balances and Transaction value",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which area in Tally screen provides quick access to different options?",
+    "Option1": "Button bar",
+    "Option2": "Calculator",
+    "Option3": "Product info",
+    "Option4": "Work area",
+    "Answer": "Button bar",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which is prepared to ascertain actual profit or loss of the business?",
+    "Option1": "Balance sheet",
+    "Option2": "Book-keeping",
+    "Option3": "Profit and loss account",
+    "Option4": "Trading account",
+    "Answer": "Profit and loss account",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is meant by current date in Tally?",
+    "Option1": "Calendar date",
+    "Option2": "Last voucher date",
+    "Option3": "Last worked date",
+    "Option4": "System date",
+    "Answer": "Last worked date",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which are the things and properties for resale that converts into cash?",
+    "Option1": "Current assets",
+    "Option2": "Business Transaction",
+    "Option3": "Liabilities",
+    "Option4": "Purchase",
+    "Answer": "Current assets",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  }
+]

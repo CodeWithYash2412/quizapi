@@ -1,0 +1,227 @@
+[
+  {
+    "Question": "What is the name of foundation bolt?",
+    "Option1": "Eye bolt",
+    "Option2": "Bent bolt",
+    "Option3": "Rawl bolt",
+    "Option4": "Conical washer foundation bolt",
+    "Answer": "Conical washer foundation bolt",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/FITTER%2FFITTER%20SEM4%2F226%20TO%20250%2F226.PNG?alt=media&token=7e200330-1be7-4cc2-8c70-6ca1a7b7585e"
+  },
+  {
+    "Question": "Which wire rope strands are twisted in the same direction?",
+    "Option1": "Lang lay rope",
+    "Option2": "Rigid lay rope",
+    "Option3": "Regular lay rope",
+    "Option4": "Combined lay rope",
+    "Answer": "Lang lay rope",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the purpose of triangular frame base resting on ground in the frame of derrick lifting equipment?",
+    "Option1": "Prevent the vibration",
+    "Option2": "Avoid slipping of load",
+    "Option3": "Prevent imbalance of load",
+    "Option4": "Prevent base from moving under load",
+    "Answer": "Prevent base from moving under load",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Why foundation bolts are essential to machines?",
+    "Option1": "Observe vibration",
+    "Option2": "Hold machine firmly",
+    "Option3": "Improve the production",
+    "Option4": "Avoid shifting of machine",
+    "Answer": "Hold machine firmly",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the material of sling hooks?",
+    "Option1": "Low carbon steel",
+    "Option2": "High carbon steel",
+    "Option3": "High tensile steel",
+    "Option4": "Medium carbon steel",
+    "Answer": "High tensile steel",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the name of the crane?",
+    "Option1": "Gantry crane",
+    "Option2": "Pillar jib crane",
+    "Option3": "Travelling crane",
+    "Option4": "Bracket jib crane",
+    "Answer": "Gantry crane",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/FITTER%2FFITTER%20SEM4%2F226%20TO%20250%2F231.PNG?alt=media&token=a1963cd3-9c27-4436-b531-e7fcd64d1d68"
+  },
+  {
+    "Question": "What is the purpose of dynamo eye bolt?",
+    "Option1": "Lift vertical load",
+    "Option2": "Lower horizontal load",
+    "Option3": "Lead inclined load",
+    "Option4": "Suspend radial load",
+    "Answer": "Lift vertical load",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which crane consists of bridge constructed girders supporting a travelling hoist?",
+    "Option1": "Frame derrick crane",
+    "Option2": "Gin pole derrick crane",
+    "Option3": "Overhead travelling crane",
+    "Option4": "Guyed derrick crane",
+    "Answer": "Overhead travelling crane",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the purpose of using lubricant?",
+    "Option1": "Increase friction",
+    "Option2": "Reduce friction",
+    "Option3": "Increase the loading capacity",
+    "Option4": "Increase the speed of moving elements",
+    "Answer": "Reduce friction",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "How jib crane is used to move the load?",
+    "Option1": "Radially",
+    "Option2": "Vertically",
+    "Option3": "Horizontally",
+    "Option4": "Inclined angle",
+    "Answer": "Horizontally",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which type of rope is used for heavy duty hoisting?",
+    "Option1": "Wire ropes",
+    "Option2": "Yarn ropes",
+    "Option3": "Cotton ropes",
+    "Option4": "Manila ropes",
+    "Answer": "Wire ropes",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which tool is used in inspection during the acceptance tests of new machines?",
+    "Option1": "Steel rule",
+    "Option2": "Plumb bob",
+    "Option3": "Try square",
+    "Option4": "Test mandrels",
+    "Answer": "Test mandrels",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which wire rope strands are twisted in the opposite direction?",
+    "Option1": "Regular lay rope",
+    "Option2": "Rigid lay rope",
+    "Option3": "Land lay rope",
+    "Option4": "Combined lay rope",
+    "Answer": "Regular lay rope",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the operation performed before geometrical tests on machines?",
+    "Option1": "Erecting",
+    "Option2": "Inspecting",
+    "Option3": "Levelling",
+    "Option4": "Grouting",
+    "Answer": "Levelling",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is used for checking the horizontal and vertical levels of a machine?",
+    "Option1": "Mason level",
+    "Option2": "Block spirit level",
+    "Option3": "Simple spirit level",
+    "Option4": "Precision spirit level",
+    "Answer": "Block spirit level",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the name of crane?",
+    "Option1": "Gantry crane",
+    "Option2": "Pillar jib crane",
+    "Option3": "Travelling wall crane",
+    "Option4": "Truck mounted crane",
+    "Answer": "Truck mounted crane",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/FITTER%2FFITTER%20SEM4%2F226%20TO%20250%2F241.PNG?alt=media&token=1356def2-d06a-4615-9047-d4e2239d9678"
+  },
+  {
+    "Question": "What material is used as a grouting for steam turbines?",
+    "Option1": "Lead",
+    "Option2": "Sulphur",
+    "Option3": "Clay, lime, brick grout",
+    "Option4": "Cement concrete grout",
+    "Answer": "Lead",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the name of foundation bolts?",
+    "Option1": "Rag bolt",
+    "Option2": "Bent bolt",
+    "Option3": "Rawl bolt",
+    "Option4": "Cotter bolt",
+    "Answer": "Rawl bolt",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/FITTER%2FFITTER%20SEM4%2F226%20TO%20250%2F243.PNG?alt=media&token=21c76b42-3a6d-4db0-8b20-5ac18d6f0ff1"
+  },
+  {
+    "Question": "What is the purpose of crow bar?",
+    "Option1": "To raise the loads",
+    "Option2": "To suspend the loads",
+    "Option3": "To lift and move the loads",
+    "Option4": "To lower the load",
+    "Answer": "To lift and move the loads",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which grouting process is unaffected by oil or grease?",
+    "Option1": "Lead grout",
+    "Option2": "Sulphur grout",
+    "Option3": "Cement concrete grout",
+    "Option4": "Clay and lime mixed grout",
+    "Answer": "Sulphur grout",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "How many types of test mandrels are available for geometrical test?",
+    "Option1": "Six",
+    "Option2": "Two",
+    "Option3": "Four",
+    "Option4": "Three",
+    "Answer": "Two",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Why geometrical test is carried out while testing machine tool?",
+    "Option1": "Performance of machine",
+    "Option2": "Check the level of machine",
+    "Option3": "Check the skill of operation",
+    "Option4": "Grade the accuracy of machine",
+    "Answer": "Grade the accuracy of machine",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the material used for manufacturing manila and hemp ropes?",
+    "Option1": "Polyester",
+    "Option2": "Fibre of wild banana plants",
+    "Option3": "Nylon",
+    "Option4": "Polypropylene",
+    "Answer": "Fibre of wild banana plants",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which crane is used in remote place and offsite?",
+    "Option1": "Gantry crane",
+    "Option2": "Pillar jib crane",
+    "Option3": "Travelling wall crane",
+    "Option4": "Truck mounted crane",
+    "Answer": "Truck mounted crane",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the name of foundation bolt?",
+    "Option1": "Rag bolt",
+    "Option2": "Eye bolt",
+    "Option3": "Rawl bolt",
+    "Option4": "Bent type bolt",
+    "Answer": "Rag bolt",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/FITTER%2FFITTER%20SEM4%2F226%20TO%20250%2F250.PNG?alt=media&token=4e437070-ab1e-4cff-916e-ef665554e124"
+  }
+]

@@ -1,0 +1,227 @@
+[
+  {
+    "Question": "What is the preventive remedy for scale in water cooled condenser tubes in package AC?",
+    "Option1": "Install flow meter",
+    "Option2": "Minimise water flow",
+    "Option3": "Improve water quality",
+    "Option4": "Increase water pressure",
+    "Answer": "Improve water quality",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the remedy for loosened one belt in multidrive belts of blower unit?",
+    "Option1": "Align the drive pully",
+    "Option2": "Align the driven pully",
+    "Option3": "Remove the loosened one",
+    "Option4": "Replace the whole set of belts",
+    "Answer": "Replace the whole set of belts",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the remedy for noisy blower with excessive axial play in AHU?",
+    "Option1": "Apply grease",
+    "Option2": "Change belts",
+    "Option3": "Replace blower unit",
+    "Option4": "Change the air filter",
+    "Answer": "Replace blower unit",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Why the water flow switch is bypassed to test the HP control switch in package AC?",
+    "Option1": "Make the unit not to trip",
+    "Option2": "Raise the oil pressure more",
+    "Option3": "Stopping the unit immediately",
+    "Option4": "Lower the head pressure in compressor",
+    "Answer": "Make the unit not to trip",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which parameter of heater element is increased in OLP due to hot compressor dome?",
+    "Option1": "Voltage",
+    "Option2": "Resistance",
+    "Option3": "Capacitance",
+    "Option4": "Magnetic field",
+    "Answer": "Resistance",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the effect on compressor motor if water pressure switch trips out in package AC?",
+    "Option1": "Does not stop",
+    "Option2": "Stops working",
+    "Option3": "Does not start",
+    "Option4": "Motor burns out",
+    "Answer": "Stops working",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the effect on adjusting the thermostat differential too close in package AC?",
+    "Option1": "Unit does not start",
+    "Option2": "Normal cooling effect",
+    "Option3": "Unit runs continuously",
+    "Option4": "Unit starts and stops frequently",
+    "Answer": "Unit starts and stops frequently",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the reason for switching contacts get carbonised in package AC electrical wiring?",
+    "Option1": "Humidity",
+    "Option2": "Quality is bad",
+    "Option3": "Loose connections",
+    "Option4": "Too tight connection contacts",
+    "Answer": "Loose connections",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which RAC system belongs to centralised air conditioning?",
+    "Option1": "Split AC",
+    "Option2": "Window AC",
+    "Option3": "Cassette AC",
+    "Option4": "Chiller plant AC",
+    "Answer": "Chiller plant AC",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the percentage of HCl used for making descaling solution with water?",
+    "Option1": "1%",
+    "Option2": "5%",
+    "Option3": "15%",
+    "Option4": "55%",
+    "Answer": "5%",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which instrument is used to measure the total pressure in an air duct?",
+    "Option1": "Hygrometer",
+    "Option2": "Velocimeter",
+    "Option3": "Anemometer",
+    "Option4": "Pitot tube manometer",
+    "Answer": "Pitot tube manometer",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is meant by total pressure in a duct?",
+    "Option1": "Velocity pressure - static pressure",
+    "Option2": "Static pressure + velocity pressure",
+    "Option3": "Velocity pressure + suction pressure",
+    "Option4": "Suction pressure + discharge pressure",
+    "Answer": "Static pressure + velocity pressure",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which device controls the moisture in AC room air?",
+    "Option1": "Humidistat",
+    "Option2": "Hydrometer",
+    "Option3": "Hygrometer",
+    "Option4": "Anemometer",
+    "Answer": "Humidistat",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which part of a central AC system cannot be repaired after pump down operation?",
+    "Option1": "Condenser",
+    "Option2": "Evaporator",
+    "Option3": "Liquid receiver",
+    "Option4": "Expansion device",
+    "Answer": "Liquid receiver",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which device is installed in ducts to control air flow?",
+    "Option1": "Grille",
+    "Option2": "Damper",
+    "Option3": "Diffuser",
+    "Option4": "Register",
+    "Answer": "Damper",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which components are used in AHU of central AC plant?",
+    "Option1": "Blower, Air filter, Evaporator",
+    "Option2": "Condenser, Fan, Compressor",
+    "Option3": "Evaporator, Compressor, Blower",
+    "Option4": "Air filter, Compressor, Condenser",
+    "Answer": "Blower, Air filter, Evaporator",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which component removes the burrs and moisture from the circulating refrigerant in AC plant?",
+    "Option1": "Air filter",
+    "Option2": "Filter drier",
+    "Option3": "HEPA filter",
+    "Option4": "Oil strainer",
+    "Answer": "Filter drier",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which differentiates the industrial AC compared to domestic AC system?",
+    "Option1": "Blowers are used",
+    "Option2": "Separate plant room",
+    "Option3": "Condensation of refrigerants",
+    "Option4": "Filters for air and refrigerants",
+    "Answer": "Separate plant room",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the purpose of using the water cooled condenser in industrial AC plant?",
+    "Option1": "Reduce the pressure",
+    "Option2": "Increase the temperature",
+    "Option3": "Reject more heat to water",
+    "Option4": "Absorb less heat from system",
+    "Answer": "Reject more heat to water",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which T across water tubes indicates the shell and tube condenser for decalling process?",
+    "Option1": "2°C",
+    "Option2": "3°C",
+    "Option3": "4°C",
+    "Option4": "5°C",
+    "Answer": "5°C",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which part of the working refrigeration system, the non condensable accumulate?",
+    "Option1": "Accumulator",
+    "Option2": "Top of condenser",
+    "Option3": "Evaporator outlet",
+    "Option4": "Compressor crankcase",
+    "Answer": "Top of condenser",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the evaporator surface temperature maintained in dehumidifier?",
+    "Option1": "Above dry bulb temperature of air",
+    "Option2": "Below dry bulb temperature of air",
+    "Option3": "Above dew point temperature of air",
+    "Option4": "Below dew point temperature of air",
+    "Answer": "Below dew point temperature of air",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the purpose of using humidistat in an industrial AC plant?",
+    "Option1": "Purifies air",
+    "Option2": "Add moisture to air",
+    "Option3": "Control humidity of air",
+    "Option4": "Remove moisture from air",
+    "Answer": "Control humidity of air",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the purpose of cooling tower in central AC plant?",
+    "Option1": "Cool the chilled water",
+    "Option2": "Maintain refrigerant flow",
+    "Option3": "Cool the liquid refrigerant",
+    "Option4": "Cool the condenser water",
+    "Answer": "Cool the condenser water",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which part of water pump becomes worn out fast?",
+    "Option1": "Bearing",
+    "Option2": "Impeller",
+    "Option3": "Water seal",
+    "Option4": "Shaft sleeve",
+    "Answer": "Shaft sleeve",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  }
+]

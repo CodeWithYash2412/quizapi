@@ -1,0 +1,227 @@
+[
+  {
+    "Question": "Which application uses the digital\nICs?",
+    "Option1": "Amplifier",
+    "Option2": "Logic gates",
+    "Option3": "Tuned circuits",
+    "Option4": "Voltage regulator",
+    "Answer": "Logic gates",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the process involved across D1\nand D2?",
+    "Option1": "Simple rectification",
+    "Option2": "Two diodes full wave rectification",
+    "Option3": "Two diodes half wave rectification",
+    "Option4": "Two diodes quarter wave rectification",
+    "Answer": "Two diodes full wave rectification",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/MRAC%2FSEM1%2F101%20TO%20125%2F102.PNG?alt=media&token=0e77c5d3-e0d1-48f0-9b24-23da5c75026e"
+  },
+  {
+    "Question": "Which process is done by the IC?",
+    "Option1": "Amplification",
+    "Option2": "Modulation",
+    "Option3": "Regulation",
+    "Option4": "Oscillation",
+    "Answer": "Regulation",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/MRAC%2FSEM1%2F101%20TO%20125%2F103.PNG?alt=media&token=fcd1c2e9-fcc3-4adc-93b6-e3338419ec95"
+  },
+  {
+    "Question": "What is the value of resistance as per colour codes?",
+    "Option1": "2 K3 Ω ± 5%",
+    "Option2": "3 K3 Ω ± 10%",
+    "Option3": "4 K3 Ω ± 15%",
+    "Option4": "5 K3 Ω ±20%",
+    "Answer": "3 K3 Ω ± 10%",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/MRAC%2FSEM1%2F101%20TO%20125%2F104.PNG?alt=media&token=b1d5834b-1bcd-435c-b499-70004ab5e309"
+  },
+  {
+    "Question": "What is the process involved for converting AC to DC power supply?",
+    "Option1": "Inversion",
+    "Option2": "Regulation",
+    "Option3": "Convection",
+    "Option4": "Rectification",
+    "Answer": "Rectification",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "How the maximum reverse voltage across the diode is termed in reverse biased condition?",
+    "Option1": "Diode voltage",
+    "Option2": "Ripple frequency",
+    "Option3": "Peak inverse voltage",
+    "Option4": "Peak rectification voltage",
+    "Answer": "Peak inverse voltage",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the device used for arc welding?",
+    "Option1": "Spring loaded clamp",
+    "Option2": "Lugs for welding",
+    "Option3": "Electrode holder",
+    "Option4": "Screw clamp",
+    "Answer": "Electrode holder",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/MRAC%2FSEM1%2F101%20TO%20125%2F107.PNG?alt=media&token=8fd0b537-2e14-4c6f-9c30-491fa0ff3065"
+  },
+  {
+    "Question": "What is the part marked as X in welding blow pipe?",
+    "Option1": "Handle",
+    "Option2": "Mixing chamber",
+    "Option3": "Neck pipe with nozzle",
+    "Option4": "Oxygen inlet connection",
+    "Answer": "Neck pipe with nozzle",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/MRAC%2FSEM1%2F101%20TO%20125%2F108.PNG?alt=media&token=14127c41-15b8-4098-b768-15aa2506dc3d"
+  },
+  {
+    "Question": "What is the tool used for holding hot metals?",
+    "Option1": "Tongs",
+    "Option2": "Spanner",
+    "Option3": "Pipe vice",
+    "Option4": "Bench vice",
+    "Answer": "Tongs",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/MRAC%2FSEM1%2F101%20TO%20125%2F109.PNG?alt=media&token=8d587df7-77a4-4e91-b7c5-7b540784d770"
+  },
+  {
+    "Question": "What is the safety device used during arc welding?",
+    "Option1": "Screw clamp",
+    "Option2": "Hand screen",
+    "Option3": "Electrode holder",
+    "Option4": "Lugs for welding",
+    "Answer": "Hand screen",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/MRAC%2FSEM1%2F101%20TO%20125%2F110.PNG?alt=media&token=2e2e015a-f1b4-4e90-8823-43a7f9ea6ddf"
+  },
+  {
+    "Question": "What is the storage capacity of oxygen cylinder?",
+    "Option1": "3 m3",
+    "Option2": "5 m3",
+    "Option3": "6 m3",
+    "Option4": "7 m3",
+    "Answer": "7 m3",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the flame temperature range of oxy acetylene gas flame?",
+    "Option1": "1800°C to 2200°C",
+    "Option2": "2400°C to 2700°C",
+    "Option3": "2700°C to 2800°C",
+    "Option4": "3100°C to 3300°C",
+    "Answer": "3100°C to 3300°C",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the percentage range of silver in copper to copper pipes brazing rod?",
+    "Option1": "20 to 35%",
+    "Option2": "35 to 45%",
+    "Option3": "45 to 60%",
+    "Option4": "60 to 100%",
+    "Answer": "35 to 45%",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the colour of acetylene hose pipe in oxy - acetylene welding set?",
+    "Option1": "Maroon",
+    "Option2": "Green",
+    "Option3": "Black",
+    "Option4": "Red",
+    "Answer": "Maroon",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the hand tool used on gas welding torch?",
+    "Option1": "Tongs",
+    "Option2": "Lighter",
+    "Option3": "Tip cleaner",
+    "Option4": "Cylinder key",
+    "Answer": "Tip cleaner",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/MRAC%2FSEM1%2F101%20TO%20125%2F115.PNG?alt=media&token=c8658d02-0863-422c-8b51-7a9497c7da22"
+  },
+  {
+    "Question": "What is the colour of oxygen hose pipe in oxy - acetylene welding set?",
+    "Option1": "Maroon",
+    "Option2": "Green",
+    "Option3": "Black",
+    "Option4": "Red",
+    "Answer": "Black",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the ampere setting for 3.5 mm diameter electrode in welding?",
+    "Option1": "50 Ampere",
+    "Option2": "60 Ampere",
+    "Option3": "100 Ampere",
+    "Option4": "110 Ampere",
+    "Answer": "110 Ampere",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which group the acetylene gas belongs?",
+    "Option1": "HC",
+    "Option2": "HFC",
+    "Option3": "CFC",
+    "Option4": "HCFC",
+    "Answer": "HC",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the tool used to remove the slag from the welding?",
+    "Option1": "Tongs",
+    "Option2": "Chipping hammer",
+    "Option3": "Cross peen hammer",
+    "Option4": "Ball peen hammer",
+    "Answer": "Chipping hammer",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which is the welding method if the filler rod only is fused?",
+    "Option1": "Non fusion",
+    "Option2": "Pressure",
+    "Option3": "Fusion",
+    "Option4": "Forge",
+    "Answer": "Non fusion",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which material is used to make electrode holder for welding?",
+    "Option1": "Steel",
+    "Option2": "Cast iron",
+    "Option3": "Aluminium",
+    "Option4": "Copper alloy",
+    "Answer": "Copper alloy",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which flame is used for welding brass?",
+    "Option1": "Wide flame",
+    "Option2": "Neutral flame",
+    "Option3": "Oxidising flame",
+    "Option4": "Carburising flame",
+    "Answer": "Oxidising flame",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which gas is produced by the chemical reaction of carbide and water?",
+    "Option1": "Oxygen",
+    "Option2": "Nitrogen",
+    "Option3": "Acetylene",
+    "Option4": "Carbon dioxide",
+    "Answer": "Acetylene",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the ratio of oxygen to acetylene in neutral flame for brazing?",
+    "Option1": "1:3",
+    "Option2": "2 :1",
+    "Option3": "1:1",
+    "Option4": "1:2",
+    "Answer": "1:1",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which valve is closed first while extinguishing flame in gas welding process?",
+    "Option1": "Acetylene",
+    "Option2": "Hydrogen",
+    "Option3": "Oxygen",
+    "Option4": "Air",
+    "Answer": "Hydrogen",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  }
+]

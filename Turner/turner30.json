@@ -1,0 +1,227 @@
+[
+  {
+    "Question": "What is the width of the tool to cut a square thread of 60 x 9 mm pitch?",
+    "Option1": "4.5 mm",
+    "Option2": "9.5 mm",
+    "Option3": "9 mm",
+    "Option4": "8.5 mm",
+    "Answer": "4.5 mm",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the relationship between pitch and lead of a single start thread?",
+    "Option1": "Lead is twice the pitch",
+    "Option2": "Lead is half the pitch",
+    "Option3": "Lead is equal to pitch",
+    "Option4": "Lead is ¼ pitch",
+    "Answer": "Lead is equal to pitch",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the depth of ½” BSW 13TPI single start thread?",
+    "Option1": "0.025″",
+    "Option2": "0.038″",
+    "Option3": "0.049″",
+    "Option4": "0.082″",
+    "Answer": "0.049″",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Calculate change gears to cut a three start thread having a pitch of 1.5 mm; the lead screw has a pitch of 6 mm.",
+    "Option1": "Driver 45 teeth, Driven 60 teeth",
+    "Option2": "Driver 60 teeth, Driven 50 teeth",
+    "Option3": "Driver 30 teeth, Driven 70 teeth",
+    "Option4": "Driver 50 teeth, Driven 100 teeth",
+    "Answer": "Driver 45 teeth, Driven 60 teeth",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the name of device?",
+    "Option1": "Driving plate",
+    "Option2": "Catch plate",
+    "Option3": "Soled faceplate",
+    "Option4": "Cat head",
+    "Answer": "Soled faceplate",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/sem3%20226to250%2F240.PNG?alt=media&token=bac92457-6538-4f02-bee4-76eebcf410df"
+  },
+  {
+    "Question": "What is the purpose of slots provided in the device?",
+    "Option1": "For cutting single start thread",
+    "Option2": "Supporting eccentric job during turning",
+    "Option3": "Supporting lengthy job during turning",
+    "Option4": "For multi start threading",
+    "Answer": "For multi start threading",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/sem3%20226to250%2F241.PNG?alt=media&token=4fa7e72d-ccc1-425a-a0e4-d2deb970309c"
+  },
+  {
+    "Question": "Where multistart threads are used?",
+    "Option1": "For easy alignment",
+    "Option2": "For quick transmission",
+    "Option3": "For easy engagement",
+    "Option4": "For general fastening",
+    "Answer": "For quick transmission",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Calculate pitch diameter of f 24 x 3 mm square thread?",
+    "Option1": "21 mm",
+    "Option2": "21.5 mm",
+    "Option3": "22.5 mm",
+    "Option4": "24 mm",
+    "Answer": "22.5 mm",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Calculate pitch diameter of M16 x 2 mm square thread?",
+    "Option1": "14 mm",
+    "Option2": "15 mm",
+    "Option3": "15.5 mm",
+    "Option4": "16 mm",
+    "Answer": "15 mm",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Calculate the pitch diameter of M 36 x 4 mm square thread?",
+    "Option1": "32 mm",
+    "Option2": "33 mm",
+    "Option3": "34 mm",
+    "Option4": "35 mm",
+    "Answer": "34 mm",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Calculate the pitch diameter of M 64 x 6 mm square thread?",
+    "Option1": "58 mm",
+    "Option2": "60 mm",
+    "Option3": "61 mm",
+    "Option4": "62 mm",
+    "Answer": "61 mm",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the relation between pitch and lead in multistart thread?",
+    "Option1": "Lead = No. start x pitch",
+    "Option2": "Lead = Pitch",
+    "Option3": "Lead = ½ pitch",
+    "Option4": "Lead = 1/3 x pitch",
+    "Answer": "Lead = No. start x pitch",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Find the lead of a 2 start thread having pitch 1.5 mm?",
+    "Option1": "1.50 mm",
+    "Option2": "3.00 mm",
+    "Option3": "4.50 mm",
+    "Option4": "6.00 mm",
+    "Answer": "3.00 mm",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the nose cutter width of the square threads tool?",
+    "Option1": "0.5 x Pitch",
+    "Option2": "equal to pitch",
+    "Option3": "Pitch / 0.5",
+    "Option4": "2 x Pitch",
+    "Answer": "0.5 x Pitch",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "How many number of teeth gear is used to as translating gear to cut metric thread on British lathe?",
+    "Option1": 100,
+    "Option2": 127,
+    "Option3": 140,
+    "Option4": 135,
+    "Answer": 127,
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the full form of CNC?",
+    "Option1": "Computer Number based Control system",
+    "Option2": "Centralized Number Condition",
+    "Option3": "Computer Numerical Control",
+    "Option4": "Computer Nomen Clature Condition",
+    "Answer": "Computer Numerical Control",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which year the numerical control of new era spaned automation?",
+    "Option1": 1950,
+    "Option2": 1952,
+    "Option3": 1960,
+    "Option4": 1963,
+    "Answer": 1952,
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which century, the fixed automatic mechanism introduction?",
+    "Option1": "18th Century",
+    "Option2": "19th Century",
+    "Option3": "17th Century",
+    "Option4": "In middle of 19th Century",
+    "Answer": "18th Century",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which year along with CNC systems the commercial industrial robot was manufactured?",
+    "Option1": 1972,
+    "Option2": 1870,
+    "Option3": 1930,
+    "Option4": 1961,
+    "Answer": 1961,
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "In Which country the automatically controlled factory was introduced before two centuries?",
+    "Option1": "In Japan",
+    "Option2": "In Germany",
+    "Option3": "In Europe",
+    "Option4": "In America",
+    "Answer": "In Europe",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the full form of CAM?",
+    "Option1": "Computer Aided Manufacturing",
+    "Option2": "Centralized Advanced Manufacturing",
+    "Option3": "Computerized Advance Machine Tool",
+    "Option4": "Computerized Applicable Method",
+    "Answer": "Computer Aided Manufacturing",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the full form of CAD?",
+    "Option1": "Computerized Advance Development",
+    "Option2": "Computer Aided Designing",
+    "Option3": "Centralised Advanced Data Storage",
+    "Option4": "Computer Applicable Data Storage",
+    "Answer": "Computer Aided Designing",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "In CNC control system means?",
+    "Option1": "CNC - Power control system",
+    "Option2": "CNC - Electrical drives control",
+    "Option3": "CNC - Software",
+    "Option4": "CNC - Program organiser",
+    "Answer": "CNC - Software",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "How many axes in the CNC lathe machine?",
+    "Option1": "Two axes x and z",
+    "Option2": "Three axes x,y,z",
+    "Option3": "Multi axes more than three",
+    "Option4": "Vertical and Horizontal",
+    "Answer": "Two axes x and z",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What do you mean by ATC preparation of part programming axis convention in CNC Machines?",
+    "Option1": "Alternate Tool Centre",
+    "Option2": "Automatic Tool Changer",
+    "Option3": "Automatic Tool Checking",
+    "Option4": "Axillary Tool Checking",
+    "Answer": "Automatic Tool Changer",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  }
+]

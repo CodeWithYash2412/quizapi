@@ -1,0 +1,227 @@
+[
+  {
+    "Question": "Which part connects the piston with small end of connecting rod in a reciprocating compressor?",
+    "Option1": "Piston pin",
+    "Option2": "Piston bolt",
+    "Option3": "Piston rings",
+    "Option4": "Piston sleeve",
+    "Answer": "Piston pin",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the type of induction motor?",
+    "Option1": "DC motor",
+    "Option2": "Slip ring induction motor",
+    "Option3": "Squirrel cage induction motor",
+    "Option4": "Single phase induction motor",
+    "Answer": "Slip ring induction motor",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/MRAC%2FSEM2%2F001%20TO%20025%2F2.PNG?alt=media&token=7b1c8b67-34a5-4e6f-be7d-856c42ed62ce"
+  },
+  {
+    "Question": "What is the name of electromechanical control?",
+    "Option1": "PTC relay",
+    "Option2": "Current relay",
+    "Option3": "Centrifugal switch",
+    "Option4": "Voltage type relay",
+    "Answer": "Centrifugal switch",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/MRAC%2FSEM2%2F001%20TO%20025%2F3.PNG?alt=media&token=cacb4b4d-888a-45fb-b5e3-4b03a88f1bd2"
+  },
+  {
+    "Question": "Which winding is made of thin wire in single phase motor?",
+    "Option1": "Main",
+    "Option2": "Series",
+    "Option3": "Starting",
+    "Option4": "Running",
+    "Answer": "Starting",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the name of part marked as X ?",
+    "Option1": "Rotor",
+    "Option2": "Blade",
+    "Option3": "Piston",
+    "Option4": "Housing",
+    "Answer": "Blade",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/MRAC%2FSEM2%2F001%20TO%20025%2F5.PNG?alt=media&token=bf4deeca-3a2e-4668-87f6-9c96452e0e72"
+  },
+  {
+    "Question": "What is the name of part marked as X ?",
+    "Option1": "Piston",
+    "Option2": "Disc valve",
+    "Option3": "Swash plate",
+    "Option4": "Magnetic clutch",
+    "Answer": "Swash plate",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/MRAC%2FSEM2%2F001%20TO%20025%2F6.PNG?alt=media&token=016c1520-983e-4ac1-a9b7-dc198502d657"
+  },
+  {
+    "Question": "Which formula is used to find slip of a\n3phase induction motor in percentage?",
+    "Option1": "Ns-Ns/Nr x 100",
+    "Option2": "Ns-Nr/Ns x 100",
+    "Option3": "Nr-Ns/Ns x 100",
+    "Option4": "Ns-Nr/Nr x 100",
+    "Answer": "Ns-Nr/Ns x 100",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the name of part marked as X ?",
+    "Option1": "Cylinder",
+    "Option2": "Piston",
+    "Option3": "Rotor",
+    "Option4": "Vane",
+    "Answer": "Rotor",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/MRAC%2FSEM2%2F001%20TO%20025%2F8.PNG?alt=media&token=c78f56b5-c45b-4714-8c31-560279c9eaed"
+  },
+  {
+    "Question": "What is the physical condition of refrigerant\nin hermetic dome of rotary compressor?",
+    "Option1": "LP Liquid",
+    "Option2": "HP Liquid",
+    "Option3": "HP Vapour",
+    "Option4": "LP Vapour",
+    "Answer": "HP Vapour",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which is a positive displacement\ncompressor?",
+    "Option1": "Centrifugal compressor",
+    "Option2": "Scroll compressor",
+    "Option3": "Water pump",
+    "Option4": "Oil pump",
+    "Answer": "Scroll compressor",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which instrument is used to identify the\nterminals of a compressor motor?",
+    "Option1": "Ammeter",
+    "Option2": "Voltmeter",
+    "Option3": "Ohm meter",
+    "Option4": "Anemometer",
+    "Answer": "Ohm meter",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the name of single phase\nmotor?",
+    "Option1": "Shaded pole motor",
+    "Option2": "Capacitor start and run motor",
+    "Option3": "Capacitor run induction motor (PSC)",
+    "Option4": "Resistance start induction run motor",
+    "Answer": "Capacitor run induction motor (PSC)",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/MRAC%2FSEM2%2F001%20TO%20025%2F12.PNG?alt=media&token=d3ce8368-16b7-4f75-a0d4-402c736d92d2"
+  },
+  {
+    "Question": "Which motor has the least starting\ntorque?",
+    "Option1": "CSIR",
+    "Option2": "CSR",
+    "Option3": "RSIR",
+    "Option4": "PSC",
+    "Answer": "RSIR",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which winding is made of thick wire in single phase induction motor?",
+    "Option1": "Starting",
+    "Option2": "Running",
+    "Option3": "Auxiliary",
+    "Option4": "Additional",
+    "Answer": "Running",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which type of compressor is used for domestic refrigerator?",
+    "Option1": "Semi sealed compressor",
+    "Option2": "Centrifugal compressor",
+    "Option3": "Hermetic compressor",
+    "Option4": "Open type compressor",
+    "Answer": "Hermetic compressor",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the revolving part of induction motor?",
+    "Option1": "Stator",
+    "Option2": "Rotor",
+    "Option3": "Relay",
+    "Option4": "Winding",
+    "Answer": "Rotor",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the name of part marked as X ?",
+    "Option1": "Rotor",
+    "Option2": "Stator",
+    "Option3": "Main winding",
+    "Option4": "Centrifugal switch",
+    "Answer": "Centrifugal switch",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/MRAC%2FSEM2%2F001%20TO%20025%2F17.PNG?alt=media&token=a9ab9d15-e52a-4d3c-a11c-29171c35af84"
+  },
+  {
+    "Question": "Which type of rotor is used in 3Ø induction motor?",
+    "Option1": "Squirrel cage rotor",
+    "Option2": "Shaded pole rotor",
+    "Option3": "Laminated rotor",
+    "Option4": "Solid rotor",
+    "Answer": "Squirrel cage rotor",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the temperature set in thermostat that stops the compressor motor?",
+    "Option1": "Cut in",
+    "Option2": "Range",
+    "Option3": "Cut out",
+    "Option4": "Differential",
+    "Answer": "Cut out",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the name of part marked as ‘x’ in rotary compressor?",
+    "Option1": "Blade",
+    "Option2": "Cylinder",
+    "Option3": "Eccentric cam",
+    "Option4": "Discharge port",
+    "Answer": "Eccentric cam",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/MRAC%2FSEM2%2F001%20TO%20025%2F20.PNG?alt=media&token=7e02cf32-ee49-40a4-b9a5-22dbb79c65a1"
+  },
+  {
+    "Question": "Which lubricant oil is used in swash plate of R 134a compressor?",
+    "Option1": "Servo 20",
+    "Option2": "POE",
+    "Option3": "SAE - 40",
+    "Option4": "Mineral oil",
+    "Answer": "POE",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which valve is closed during compression stroke in reciprocating compressor?",
+    "Option1": "Service valve",
+    "Option2": "Liquid line valve",
+    "Option3": "Discharge valve",
+    "Option4": "Suction valve",
+    "Answer": "Suction valve",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which gas is used for pressure testing the compressor dome?",
+    "Option1": "Air",
+    "Option2": "Oxygen",
+    "Option3": "Nitrogen",
+    "Option4": "Refrigerant",
+    "Answer": "Nitrogen",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which cooling medium is used to cool the motor of a hermetic reciprocating compressor in AC?",
+    "Option1": "Discharge vapour",
+    "Option2": "Liquid refrigerant",
+    "Option3": "Suction vapour",
+    "Option4": "Water",
+    "Answer": "Suction vapour",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the method of starting a 3 phase slip ring induction motor?",
+    "Option1": "With starting relay",
+    "Option2": "Using starting capacitor",
+    "Option3": "With running capacitor",
+    "Option4": "Adding resistance to rotor winding",
+    "Answer": "Adding resistance to rotor winding",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  }
+]

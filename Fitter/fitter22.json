@@ -1,0 +1,227 @@
+[
+  {
+    "Question": "Which file is used for finishing sharp corners?",
+    "Option1": "Pillar file",
+    "Option2": "Riffler file",
+    "Option3": "Barrette file",
+    "Option4": "Warding file",
+    "Answer": "Barrette file",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the name of file?",
+    "Option1": "Tinker’s file",
+    "Option2": "Crossing file",
+    "Option3": "Swiss pattern file",
+    "Option4": "Dread naught file",
+    "Answer": "Tinker’s file",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/FITTER%2FFITTER%20SEM3%2F051%20TO%20075%2F53.PNG?alt=media&token=23f00205-1cbd-4b6f-ad60-84c7af6b5ab4"
+  },
+  {
+    "Question": "Which device is used to check the workpiece to confirm the shape?",
+    "Option1": "Profile gauge",
+    "Option2": "Snap gauge",
+    "Option3": "Caliper gauge",
+    "Option4": "Progressive gauge",
+    "Answer": "Profile gauge",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the purpose of feeler gauge?",
+    "Option1": "Check the depth of drilled hole",
+    "Option2": "Check the pitch of screw thread",
+    "Option3": "Check the radius of workpiece",
+    "Option4": "Check the gap between the mating parts",
+    "Answer": "Check the gap between the mating parts",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the name of gauge?",
+    "Option1": "Drill gauge",
+    "Option2": "Centre gauge",
+    "Option3": "Profile gauge",
+    "Option4": "Standard wire gauge",
+    "Answer": "Standard wire gauge",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/FITTER%2FFITTER%20SEM3%2F051%20TO%20075%2F56.PNG?alt=media&token=c6d288fc-f7dd-4b17-8291-d2042d4942bd"
+  },
+  {
+    "Question": "Which gauge is used to check the outside diameter of a cylindrical shaft?",
+    "Option1": "Plug gauge",
+    "Option2": "Plain ring gauge",
+    "Option3": "Taper ring gauge",
+    "Option4": "Progressive plug gauge",
+    "Answer": "Plain ring gauge",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the act of joining the slip gauges together for building up sizes?",
+    "Option1": "Glazing",
+    "Option2": "Pinning",
+    "Option3": "Loading",
+    "Option4": "Wringing",
+    "Answer": "Wringing",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What material is used to make sine bar?",
+    "Option1": "Invar steel",
+    "Option2": "High speed steel",
+    "Option3": "High carbon steel",
+    "Option4": "Stabilized chromium steel",
+    "Answer": "Stabilized chromium steel",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "How the length of sine bar is specified?",
+    "Option1": "Distance between outer point of roller",
+    "Option2": "Distance between inner point of roller",
+    "Option3": "Distance between centre point of rollers",
+    "Option4": "Distance between the edges of sine bar",
+    "Answer": "Distance between centre point of rollers",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which one forms the hypotenuse of the triangle while checking with sine bar?",
+    "Option1": "Surface plate",
+    "Option2": "Sine bar width",
+    "Option3": "Sine bar length",
+    "Option4": "Slip gauges height",
+    "Answer": "Sine bar length",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the effect of excessive application of abrasive compound in lapping operation?",
+    "Option1": "Developing inaccuracies",
+    "Option2": "Bright spots will be visible",
+    "Option3": "Obstruct component movement",
+    "Option4": "Lapping compound will be sticky",
+    "Answer": "Developing inaccuracies",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is caused if the lap is harder than the workpiece?",
+    "Option1": "Workpiece will cut the lap",
+    "Option2": "Accuracy can’t be obtained",
+    "Option3": "Lap will cut the workpiece",
+    "Option4": "Lapping operation leaves high spots",
+    "Answer": "Workpiece will cut the lap",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which material is used to make small diameter laps?",
+    "Option1": "Cast iron",
+    "Option2": "Aluminium",
+    "Option3": "Bronze or zinc",
+    "Option4": "Copper or brass",
+    "Answer": "Copper or brass",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the name of surface texture measuring instrument?",
+    "Option1": "Dial test indicator",
+    "Option2": "Electrical surface indicator",
+    "Option3": "Electronic surface indicator",
+    "Option4": "Mechanical surface indicator",
+    "Answer": "Mechanical surface indicator",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/FITTER%2FFITTER%20SEM3%2F051%20TO%20075%2F65.PNG?alt=media&token=8f9238b1-a624-40ee-a4d7-be09fbf4b0a8"
+  },
+  {
+    "Question": "Why manual stroking is preferred for large quantities in honing operation?",
+    "Option1": "To reduce cost",
+    "Option2": "To reduce time",
+    "Option3": "To keep close tolerance",
+    "Option4": "To reduce maintenance cost",
+    "Answer": "To keep close tolerance",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the purpose of hardening?",
+    "Option1": "Refine the structure",
+    "Option2": "Increase toughness",
+    "Option3": "Increase cutting ability",
+    "Option4": "Relieve stress and strain",
+    "Answer": "Increase cutting ability",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which method of heat treatment to improve machinability and ductility in the job?",
+    "Option1": "Annealing",
+    "Option2": "Hardening",
+    "Option3": "Tempering",
+    "Option4": "Normalizing",
+    "Answer": "Annealing",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the disadvantage of flame hardening in the heat treatment process?",
+    "Option1": "More distortion",
+    "Option2": "Long hardening time",
+    "Option3": "Small depth of hardening",
+    "Option4": "Not suitable for small workpieces",
+    "Answer": "Not suitable for small workpieces",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the name of method in metallic coating done by rolling or drawing the layers of metal on the base metal?",
+    "Option1": "Spraying",
+    "Option2": "Cladding",
+    "Option3": "Enameling",
+    "Option4": "Molten metal bath",
+    "Answer": "Cladding",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which type of key used if the hub of pulley has to axially slide on the shaft to some distance?",
+    "Option1": "Feather key",
+    "Option2": "Flat saddle key",
+    "Option3": "Circular taper key",
+    "Option4": "Hallow saddle key",
+    "Answer": "Feather key",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the name of file?",
+    "Option1": "Pillar file",
+    "Option2": "Warding file",
+    "Option3": "Dreadnaught file",
+    "Option4": "Swiss pattern file",
+    "Answer": "Warding file",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/FITTER%2FFITTER%20SEM3%2F051%20TO%20075%2F72.PNG?alt=media&token=e6995492-2efd-4cbf-a43b-bff54b43001a"
+  },
+  {
+    "Question": "Which nut protects the bolt end thread from damages?",
+    "Option1": "Cap nut",
+    "Option2": "Castle nut",
+    "Option3": "Slotted nut",
+    "Option4": "Knurled nut",
+    "Answer": "Cap nut",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which grade slip gauge is used for precision tool room applications?",
+    "Option1": "Grade 00",
+    "Option2": "Grade 0",
+    "Option3": "Grade I",
+    "Option4": "Grade II",
+    "Answer": "Grade I",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which material is used to make slip gauge block?",
+    "Option1": "Tool steel",
+    "Option2": "Low grade steel",
+    "Option3": "High grade steel with low thermal expansion",
+    "Option4": "High carbon steel",
+    "Answer": "High grade steel with low thermal expansion",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which operation is performed with fine abrasive particles?",
+    "Option1": "Filing",
+    "Option2": "Lapping",
+    "Option3": "Scraping",
+    "Option4": "Polishing",
+    "Answer": "Lapping",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  }
+]

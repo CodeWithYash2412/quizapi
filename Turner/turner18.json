@@ -1,0 +1,227 @@
+[
+  {
+    "Question": "Which type of defect is marked as ‘X’?",
+    "Option1": "Chipping",
+    "Option2": "Wear of clearance face",
+    "Option3": "Crater wear",
+    "Option4": "Step",
+    "Answer": "Crater wear",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/176to200%2FS177.PNG?alt=media&token=82f95a6e-83a9-45a6-a7c0-811a89d8583a"
+  },
+  {
+    "Question": "What is the criteria for the selection of interchangeable anvil of a screw thread micrometer?",
+    "Option1": "Major diameter",
+    "Option2": "Minor diameter",
+    "Option3": "Profile and pitch",
+    "Option4": "Root diameter",
+    "Answer": "Profile and pitch",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the effect of reversing the machine with out disengaging the half nut in thread cutting?",
+    "Option1": "For avoid catching the thread in each cut",
+    "Option2": "For improve the productivity",
+    "Option3": "Reduce the wear and tear of half nut",
+    "Option4": "For the use of chasing dial",
+    "Answer": "For avoid catching the thread in each cut",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "How much the compound rest should be tilted for cutting metric thread by compound rest?",
+    "Option1": "15°",
+    "Option2": "30°",
+    "Option3": "45°",
+    "Option4": "60°",
+    "Answer": "30°",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Find the gears required to cut 4.5mm pitch on a lathe having a lead screw of 4 TPI. Gears available from 20 to 120 teeth by 5 teeth with a special gear of 127T.",
+    "Option1": "90T on driver and 127T on driven",
+    "Option2": "127T on driver and 90T on driven",
+    "Option3": "60T on driver and 127T on driven",
+    "Option4": "127T on driver and 60T on driven",
+    "Answer": "90T on driver and 127T on driven",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which angle is ground on ACME threading tool?",
+    "Option1": "29°",
+    "Option2": "45°",
+    "Option3": "55°",
+    "Option4": "60°",
+    "Answer": "29°",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the angle of ACME thread?",
+    "Option1": "29°",
+    "Option2": "45°",
+    "Option3": "55°",
+    "Option4": "60°",
+    "Answer": "29°",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which is the type of thread?",
+    "Option1": "Square thread",
+    "Option2": "Buttress thread",
+    "Option3": "Saw tooth thread",
+    "Option4": "ACME thread",
+    "Answer": "ACME thread",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/176to200%2FS184.PNG?alt=media&token=5fa84eb4-ff6a-4edb-aec9-e0317173e7b8"
+  },
+  {
+    "Question": "Which is the element of thread?",
+    "Option1": "Depth",
+    "Option2": "Pitch diameter",
+    "Option3": "Pitch",
+    "Option4": "Lead",
+    "Answer": "Pitch",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/176to200%2FS185.PNG?alt=media&token=94bd9b70-585b-46db-8916-6b318b5640a8"
+  },
+  {
+    "Question": "What is the formula used to find flat width of a buttress thread?",
+    "Option1": "PITCH/2",
+    "Option2": "PITCH/3",
+    "Option3": "PITCH/4",
+    "Option4": "PITCH/8",
+    "Answer": "PITCH/8",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the shape of buttress thread flank?",
+    "Option1": "One flank is 90° and the other 45°",
+    "Option2": "One flank is 30° and the other 45°",
+    "Option3": "One flank is 60° and the other 45°",
+    "Option4": "Two flanks are at 60°",
+    "Answer": "One flank is 90° and the other 45°",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the angle of saw tooth thread?",
+    "Option1": "29°",
+    "Option2": "30°",
+    "Option3": "45°",
+    "Option4": "90°",
+    "Answer": "30°",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which is the type of thread?",
+    "Option1": "Acme thread",
+    "Option2": "Square thread",
+    "Option3": "Worm thread",
+    "Option4": "Saw tooth thread",
+    "Answer": "Saw tooth thread",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/176to200%2FS185.PNG?alt=media&token=94bd9b70-585b-46db-8916-6b318b5640a8"
+  },
+  {
+    "Question": "What does BIS stand for?",
+    "Option1": "Bureau of international standard",
+    "Option2": "Bureau of Indian standard",
+    "Option3": "Bureau of international society",
+    "Option4": "Bureau of Indian society",
+    "Answer": "Bureau of Indian standard",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which is the angle of buttress thread?",
+    "Option1": "30°",
+    "Option2": "45°",
+    "Option3": "55°",
+    "Option4": "60°",
+    "Answer": "45°",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which is the type thread?",
+    "Option1": "ACME",
+    "Option2": "Square",
+    "Option3": "Saw tooth",
+    "Option4": "Buttress",
+    "Answer": "Buttress",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/176to200%2FS192.PNG?alt=media&token=efbc8c8a-396c-4800-8d99-5eaaaa9ed48c"
+  },
+  {
+    "Question": "Which formula is used to find crest width of a buttress thread?",
+    "Option1": "0.125 x pitch",
+    "Option2": "0.317 x pitch",
+    "Option3": "0.335 x pitch",
+    "Option4": "0.5 x pitch",
+    "Answer": "0.125 x pitch",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which formula is used to find root width of a buttress thread?",
+    "Option1": "0.125 x pitch",
+    "Option2": "0.317 x pitch",
+    "Option3": "0.335 x pitch",
+    "Option4": "0.5 x pitch",
+    "Answer": "0.125 x pitch",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which formula is used to find depth of buttress thread?",
+    "Option1": "0.5 x pitch",
+    "Option2": "0.6134 x pitch",
+    "Option3": "0.6403 x pitch",
+    "Option4": "0.75 x pitch",
+    "Answer": "0.75 x pitch",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the name of screw thread element marked as ‘X’?",
+    "Option1": "Axis",
+    "Option2": "Lead",
+    "Option3": "Helix",
+    "Option4": "Pitch",
+    "Answer": "Lead",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/176to200%2FS196.PNG?alt=media&token=af2b96c1-1e52-4197-a78c-e0e7efc85f78"
+  },
+  {
+    "Question": "What is the thread depth of square thread SQ60x9?",
+    "Option1": "4.5 mm",
+    "Option2": "9.0 mm",
+    "Option3": "18 mm",
+    "Option4": "42 mm",
+    "Answer": "4.5 mm",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which formula is used to find depth of ACME thread?",
+    "Option1": "0.5 x pitch",
+    "Option2": "0.6134 x pitch",
+    "Option3": "0.6403 x pitch",
+    "Option4": "0.75 x pitch",
+    "Answer": "0.5 x pitch",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which one is the use of thread?",
+    "Option1": "Used in screw jack",
+    "Option2": "Used on lathe lead screw",
+    "Option3": "Used for general purpose",
+    "Option4": "Used for precision measuring instruments",
+    "Answer": "Used on lathe lead screw",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/176to200%2FS199.PNG?alt=media&token=d97fe9b0-a078-4f37-8954-78ab308988ae"
+  },
+  {
+    "Question": "Which type thread is used in lathe lead screw?",
+    "Option1": "Metric",
+    "Option2": "Buttress",
+    "Option3": "Square",
+    "Option4": "ACME",
+    "Answer": "ACME",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which formula is to find crest width of ACME thread?",
+    "Option1": "0.317 x pitch",
+    "Option2": "0.335 x pitch",
+    "Option3": "0.5 x pitch",
+    "Option4": "0.75 x pitch",
+    "Answer": "0.317 x pitch",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  }
+]

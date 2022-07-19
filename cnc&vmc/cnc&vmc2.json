@@ -1,0 +1,227 @@
+[
+  {
+    "Question": "What should be the safety precaution for\nholding the work piece to the lathe chuck?",
+    "Option1": "Cleaned",
+    "Option2": "Measured",
+    "Option3": "Clamped securl y",
+    "Option4": "Polished",
+    "Answer": "Clamped securl y",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which part provides linear travel to the\ntool in CNC lathe?",
+    "Option1": "Lead screw",
+    "Option2": "Ball screw",
+    "Option3": "Warm wheel",
+    "Option4": "Rack and Pinion",
+    "Answer": "Ball screw",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which axis the fore finger indicates in right\nhand thumb rule?",
+    "Option1": "Y axis",
+    "Option2": "X axis",
+    "Option3": "Z Axis",
+    "Option4": "A axis",
+    "Answer": "X axis",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/VMC%2F3.PNG?alt=media&token=e50e0188-1f44-4fca-b297-ed32da54846a"
+  },
+  {
+    "Question": "What is the control system of the CNC\nmachine?",
+    "Option1": "Straight cut control",
+    "Option2": "2-D Contouring control",
+    "Option3": "3-D Contouring control",
+    "Option4": "2½ D Contouring control",
+    "Answer": "2-D Contouring control",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which quadrant in cartesian co-ordinate\nwill have positive value both in X and Y?",
+    "Option1": "Fourth",
+    "Option2": "Second",
+    "Option3": "Third",
+    "Option4": "First",
+    "Answer": "First",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which G-code description maximum\nspindle speed setting?",
+    "Option1": "G50",
+    "Option2": "G71",
+    "Option3": "G72",
+    "Option4": "G42",
+    "Answer": "G50",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the function of M02 code in part\nprogramming?",
+    "Option1": "Programme stop",
+    "Option2": "Optional stop",
+    "Option3": "End of programme execution",
+    "Option4": "Coolant ON",
+    "Answer": "End of programme execution",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which code is used for peck drilling in\nFANUC controller system?",
+    "Option1": "G 80",
+    "Option2": "G 76",
+    "Option3": "G 72",
+    "Option4": "G 74",
+    "Answer": "G 74",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which G code describe machine tool\nmovement of grooving cycle?",
+    "Option1": "G 73",
+    "Option2": "G 75",
+    "Option3": "G 92",
+    "Option4": "G 98",
+    "Answer": "G 75",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the function of G 32 code?",
+    "Option1": "Rapid traverse",
+    "Option2": "Liner inter potation",
+    "Option3": "Thread cutting",
+    "Option4": "Circulation inter polation",
+    "Answer": "Thread cutting",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the role of G-wards in part\nprogramming function?",
+    "Option1": "Preparatory function",
+    "Option2": "Sequence of operation by the tool",
+    "Option3": "Indicate position of tool motion",
+    "Option4": "Specify the cutting speed process",
+    "Answer": "Preparatory function",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which is the programme for depth of cut\nof 2-5 mm is given?",
+    "Option1": "N003 M0 8 G 01 X -2.5",
+    "Option2": "N004 G 01 Z -2.5",
+    "Option3": "N004 G 01 Z -2.5",
+    "Option4": "N007 G 00 X + 5",
+    "Answer": "N003 M0 8 G 01 X -2.5",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/VMC%2F4.PNG?alt=media&token=d5faaf29-d792-46a3-ab8d-665ef8b964be"
+  },
+  {
+    "Question": "Which is the part programme to limit the\nRPM to 3000?",
+    "Option1": "G 92 S 3000",
+    "Option2": "G 96 N 3000",
+    "Option3": "G 00 T 3000",
+    "Option4": "G 01 S 250",
+    "Answer": "G 92 S 3000",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which common word address used to\nmiscellaneous function in CNC lathe?",
+    "Option1": "N",
+    "Option2": "G",
+    "Option3": "S",
+    "Option4": "M",
+    "Answer": "M",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which M-code is defined and implement\nto spindles stop?",
+    "Option1": "M05",
+    "Option2": "M08",
+    "Option3": "M11",
+    "Option4": "M14",
+    "Answer": "M05",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the code M11 defined by the\nmachine tool?",
+    "Option1": "Coolant OFF",
+    "Option2": "Coolant ON",
+    "Option3": "Chuck close",
+    "Option4": "Door close",
+    "Answer": "Chuck close",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which code describe the auxiliary function\nof CNC machine?",
+    "Option1": "N- words",
+    "Option2": "M- words",
+    "Option3": "G- words",
+    "Option4": "T- words",
+    "Answer": "M- words",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which is the programme for simple\nturning operation for the length of -30 mm?",
+    "Option1": "N 008 G 01 Y -2.5",
+    "Option2": "N 011 G 00 X 020",
+    "Option3": "N 009 G 01 Z -30",
+    "Option4": ": N 010 G 01 X 5 Z -30",
+    "Answer": "N 009 G 01 Z -30",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which is the method in avoidance of\ncollisions due to programme?",
+    "Option1": "Full cycle simulation",
+    "Option2": "Reduce motor speed",
+    "Option3": "Give less feed",
+    "Option4": "Reduce cutter speed",
+    "Answer": "Full cycle simulation",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the feed of CNC machine XYZ axis?",
+    "Option1": "1 to 2 mm/min",
+    "Option2": "5 to 50 mm/min",
+    "Option3": "1 to 1000 mm/min",
+    "Option4": "1 to 100 mm/min",
+    "Answer": "1 to 1000 mm/min",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "How many times the cutting speed of\nceramic tool is greater than H.S.S?",
+    "Option1": "20 times",
+    "Option2": "15 times",
+    "Option3": "4 times",
+    "Option4": "42 times",
+    "Answer": "42 times",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which device enables crash prevention on\ndifferent types of CNC machines?",
+    "Option1": "Encoder - dish position sensors",
+    "Option2": "Servo motor",
+    "Option3": "Control computer",
+    "Option4": "Comparator",
+    "Answer": "Encoder - dish position sensors",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the expansion of MDI in CNC?",
+    "Option1": "Mannual Data Input",
+    "Option2": "Managing Diet Instruction",
+    "Option3": "Maintain the Data Instruction",
+    "Option4": "Machine Development in Industry",
+    "Answer": "Mannual Data Input",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which is axis of spindle in CNC lathe?",
+    "Option1": "X axis",
+    "Option2": "Y axis",
+    "Option3": "Z axis",
+    "Option4": "4ᵗʰ axis",
+    "Answer": "Z axis",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which mode allows an operation to check\nthe program by executing only one program block\nat a time?",
+    "Option1": "Single block mode",
+    "Option2": "MDI mode",
+    "Option3": "Edit mode",
+    "Option4": "Auto mode",
+    "Answer": "Single block mode",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  }
+]

@@ -1,0 +1,227 @@
+[
+  {
+    "Question": "Which method prevents the foul smell of drainage entering the AHU?",
+    "Option1": "Strainer",
+    "Option2": "U - trap",
+    "Option3": "Louvers",
+    "Option4": "Exhaust fan",
+    "Answer": "U - trap",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the purpose of rinsing the condenser tubes with water after descaling process in industrial AC plant?",
+    "Option1": "Remove algae",
+    "Option2": "Remove scales",
+    "Option3": "Check block in tubes",
+    "Option4": "Remove acid particles",
+    "Answer": "Remove acid particles",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which psychrometric processes are represented between initial (t1) and final (t2) conditions of air in the chart?",
+    "Option1": "Cooling and humidification",
+    "Option2": "Heating and humidification",
+    "Option3": "Cooling and dehumidification",
+    "Option4": "Heating and dehumidification",
+    "Answer": "Heating and dehumidification",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/MRAC%2FSEM4%2F201%20TO%20225%2F203.PNG?alt=media&token=145c5c7e-9115-4b62-bf8b-bef9c220b03f"
+  },
+  {
+    "Question": "Which process is indicated between 1 and 2 by the arrow mark at constant dry bulb temperature?",
+    "Option1": "Cooling",
+    "Option2": "Heating",
+    "Option3": "Humidification",
+    "Option4": "Dehumidification",
+    "Answer": "Dehumidification",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/MRAC%2FSEM4%2F201%20TO%20225%2F204.PNG?alt=media&token=60ad322c-340b-4d25-8c25-73ffab6683ff"
+  },
+  {
+    "Question": "Which psychrometric processes are represented between initial (t1) and final (t2) conditions of air in the chart?",
+    "Option1": "Cooling and humidification",
+    "Option2": "Heating and humidification",
+    "Option3": "Heating and dehumidification",
+    "Option4": "Cooling and dehumidification",
+    "Answer": "Cooling and humidification",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/MRAC%2FSEM4%2F201%20TO%20225%2F205.PNG?alt=media&token=b748b5f2-1b61-4000-b291-0a32b2cf54cc"
+  },
+  {
+    "Question": "What is the capacity of air conditioner if it removes 18000 BTU/hr heat from the space?",
+    "Option1": "1.00 T.R",
+    "Option2": "1.25 T.R",
+    "Option3": "1.50 T.R",
+    "Option4": "2.00 T.R",
+    "Answer": "1.50 T.R",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "How much heat is released from 2 HP motor if 746 W motor releases 3 K Cal/hr?",
+    "Option1": "3 K Cal/hr",
+    "Option2": "4 K Cal/hr",
+    "Option3": "5 K Cal/hr",
+    "Option4": "6 K Cal/hr",
+    "Answer": "6 K Cal/hr",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the advantage of electrically interlocked circuit for motors and pumps in a chiller plant?",
+    "Option1": "Start the loads non sequentially",
+    "Option2": "Start the loads when not needed",
+    "Option3": "Stop the loads when not required",
+    "Option4": "Start and stop the loads sequentially",
+    "Answer": "Start and stop the loads sequentially",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What service operation is in progress with shell and tube condenser?",
+    "Option1": "Measuring quantity of water",
+    "Option2": "Checking resistance of tubes",
+    "Option3": "Decaling of condenser tubes",
+    "Option4": "Removing tubes from condenser",
+    "Answer": "Decaling of condenser tubes",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/MRAC%2FSEM4%2F201%20TO%20225%2F209.PNG?alt=media&token=06a89598-1eaf-4e31-a655-a2631690d380"
+  },
+  {
+    "Question": "Which parameter indicates that the central AC system has non condensable gas?",
+    "Option1": "Liquid line temperature",
+    "Option2": "Pressure drop in discharge line",
+    "Option3": "Condenser inlet water temperature",
+    "Option4": "Condenser outlet water temperature",
+    "Answer": "Condenser outlet water temperature",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the advantage of air washer compared to cooling coil of AHU?",
+    "Option1": "Faster heat transfer",
+    "Option2": "Quick dehumidification",
+    "Option3": "No eliminators are required",
+    "Option4": "Can be used in small systems",
+    "Answer": "Faster heat transfer",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the advantage of variable speed pumping load control in chiller AC plant?",
+    "Option1": "Heating control is easy",
+    "Option2": "High cost of maintenance",
+    "Option3": "Control valves are eliminated",
+    "Option4": "Cooling coil can be eliminated",
+    "Answer": "Control valves are eliminated",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the purpose of using rubber pads while installing compressor?",
+    "Option1": "Fill gaps",
+    "Option2": "Prevent leaks",
+    "Option3": "Locate the parts",
+    "Option4": "Absorb vibration",
+    "Answer": "Absorb vibration",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the advantage of using indirect expansion chiller AC system?",
+    "Option1": "Quick cooling",
+    "Option2": "Cooling tower is not needed",
+    "Option3": "Less quantity of primary refrigerant",
+    "Option4": "Less quantity of secondary refrigerant",
+    "Answer": "Less quantity of primary refrigerant",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the purpose of gland packing in water line valves of chiller AC plant?",
+    "Option1": "Prevent leakage",
+    "Option2": "Control water flow",
+    "Option3": "Reduce valve noise",
+    "Option4": "Smooth handling of valve",
+    "Answer": "Prevent leakage",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the purpose of valves in chiller AC plants?",
+    "Option1": "Removes dust",
+    "Option2": "Control air flow",
+    "Option3": "Increase pressure",
+    "Option4": "Regulate the flow of water",
+    "Answer": "Regulate the flow of water",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the cause of water hammer or valve chatter in water pump lines?",
+    "Option1": "Low pump pressure",
+    "Option2": "Blocked suction line",
+    "Option3": "High pump pressure",
+    "Option4": "Low velocity of water",
+    "Answer": "High pump pressure",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the cause of bubbles in liquid line sight glass after gas charging the system?",
+    "Option1": "Excess refrigerant",
+    "Option2": "Shortage of refrigerant",
+    "Option3": "Oil bubbles in sight glass",
+    "Option4": "Nitrogen trapped in system",
+    "Answer": "Shortage of refrigerant",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the effect if the refrigeration system is started before chilled water pump?",
+    "Option1": "No cooling",
+    "Option2": "Water warms in chillier",
+    "Option3": "Water freezes in chillier",
+    "Option4": "Excess of heat transfer",
+    "Answer": "Water freezes in chillier",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which control trips if the expansion valve inlet strainer is blocked in chiller AC plant?",
+    "Option1": "Thermostat control",
+    "Option2": "Low pressure cut out",
+    "Option3": "Oil pressure cut out",
+    "Option4": "High pressure cut out",
+    "Answer": "Low pressure cut out",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the effect of improper alignment of machines while installing a central AC plant?",
+    "Option1": "Silent operation",
+    "Option2": "Excess of wear and tear",
+    "Option3": "Less noise and vibration",
+    "Option4": "Less power consumption",
+    "Answer": "Excess of wear and tear",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the remedy for no lubrication even if the sight glass shows proper oil level?",
+    "Option1": "Replace oil pump",
+    "Option2": "Add oil to crankcase",
+    "Option3": "Replace oil pressure gauge",
+    "Option4": "Replace oil pressure cut out",
+    "Answer": "Replace oil pump",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "How the brine freezing on cooling coil is prevented in ice plant?",
+    "Option1": "Add water to brine",
+    "Option2": "Add glycol to brine",
+    "Option3": "Reduce concentration",
+    "Option4": "Increase salt concentration",
+    "Answer": "Increase salt concentration",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the cause of discolouration of oil in a compressor?",
+    "Option1": "Moisture in oil",
+    "Option2": "Dirty drier filter",
+    "Option3": "Low pressure of oil",
+    "Option4": "Liquid refrigerant in oil",
+    "Answer": "Moisture in oil",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the effect if the oil return from oil separator to the compressor is blocked?",
+    "Option1": "Suction pressure rises",
+    "Option2": "Discharge pressure decreases",
+    "Option3": "Compressor oil level falls down",
+    "Option4": "Compressor oil level increases",
+    "Answer": "Compressor oil level falls down",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  }
+]

@@ -1,0 +1,227 @@
+[
+  {
+    "Question": "Which parameter is the cause for loading effect on measuring instruments?",
+    "Option1": "Low accuracy",
+    "Option2": "High sensitivity",
+    "Option3": "Low sensitivity",
+    "Option4": "Low influence error",
+    "Answer": "Low sensitivity",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Name the type of instrument",
+    "Option1": "Attraction type moving iron",
+    "Option2": "Repulsion type moving iron",
+    "Option3": "Permanent magnet moving coil",
+    "Option4": "Dynamo meter type moving coil",
+    "Answer": "Attraction type moving iron",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/Electrician%2FSEM2%2FElectrician18%2F191.PNG?alt=media&token=5544f280-f896-4da6-85e4-3140ff0782bd"
+  },
+  {
+    "Question": "Which meter is used to measure revolution per minute of a motor?",
+    "Option1": "Tachometer",
+    "Option2": "Energy meter",
+    "Option3": "Ampere hour meter",
+    "Option4": "Centre zero ammeter",
+    "Answer": "Tachometer",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "How to identify the moving iron type instrument?",
+    "Option1": "No terminal marking",
+    "Option2": "Terminal marked (+) only",
+    "Option3": "One terminal coloured red",
+    "Option4": "Terminal marked (+) and (-)",
+    "Answer": "No terminal marking",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which is an absolute instrument?",
+    "Option1": "Ammeter",
+    "Option2": "Volt meter",
+    "Option3": "Energy meter",
+    "Option4": "Tangent galvanometer",
+    "Answer": "Tangent galvanometer",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which force produces movement of pointer in an indicating instrument?",
+    "Option1": "Damping force",
+    "Option2": "Deflecting force",
+    "Option3": "Repulsion force",
+    "Option4": "Controlling force",
+    "Answer": "Deflecting force",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the function of integrating instrument?",
+    "Option1": "Displays the quantity",
+    "Option2": "Indicates the quantity",
+    "Option3": "Registers the quantity",
+    "Option4": "Measures the quantity",
+    "Answer": "Registers the quantity",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which position an instrument using gravity control reads accurately?",
+    "Option1": "Any position",
+    "Option2": "Vertical position",
+    "Option3": "Inclined position",
+    "Option4": "Horizontal position",
+    "Answer": "Vertical position",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which quantity is measured by an electrodynamo type instrument?",
+    "Option1": "Power",
+    "Option2": "Current",
+    "Option3": "Voltage",
+    "Option4": "Resistance",
+    "Answer": "Power",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "How to achieve maximum accuracy in measurement using analog instrument?",
+    "Option1": "Keep low input impedance",
+    "Option2": "Keep high input impedance",
+    "Option3": "Use short connecting leads",
+    "Option4": "Provide correct damping system",
+    "Answer": "Provide correct damping system",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which material is used to make heating\nelement?",
+    "Option1": "Silver",
+    "Option2": "Copper",
+    "Option3": "Nichrome",
+    "Option4": "Aluminium",
+    "Answer": "Nichrome",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the name of the part of electric iron?",
+    "Option1": "Sole plate",
+    "Option2": "Pressure plate",
+    "Option3": "Mica insulation",
+    "Option4": "Asbestos sheet",
+    "Answer": "Sole plate",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/Electrician%2FSEM2%2FElectrician18%2F202.PNG?alt=media&token=10f2dcc5-5310-447f-89b1-663286ca34d1"
+  },
+  {
+    "Question": "What is the function of stirrer motor in micro\nwave oven?",
+    "Option1": "Draws cooling air inside",
+    "Option2": "Spreads the heat uniformly",
+    "Option3": "Exhausts the hot air outside",
+    "Option4": "Revolves and reflects the electromagnetic\nenergy",
+    "Answer": "Revolves and reflects the electromagnetic\nenergy",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the purpose of U bend marked as X\nin geyser?",
+    "Option1": "Prevents draining of water",
+    "Option2": "Avoids the forming of scales",
+    "Option3": "Reduces the pressure of outlet pipe",
+    "Option4": "Restricts the air locking inside the tank",
+    "Answer": "Prevents draining of water",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/Electrician%2FSEM2%2FElectrician18%2F204.PNG?alt=media&token=12d8a808-d24e-4d71-b146-752bdff5582b"
+  },
+  {
+    "Question": "Which type of A.C single phase motor is used\nin food mixer?",
+    "Option1": "Universal motor",
+    "Option2": "Repulsion motor",
+    "Option3": "Split phase motor",
+    "Option4": "Shaded pole motor",
+    "Answer": "Universal motor",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which is the position for maximum output of\nthe heater?",
+    "Option1": "Position 1",
+    "Option2": "Position 2",
+    "Option3": "Position 3",
+    "Option4": "Position 4",
+    "Answer": "Position 2",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/Electrician%2FSEM2%2FElectrician18%2F206.PNG?alt=media&token=3acef249-cfda-4b0d-a560-ca745f507183"
+  },
+  {
+    "Question": "Which formula is used to calculate the heat generated as per Joules law?",
+    "Option1": "Heat generated = IRT / J cal",
+    "Option2": "Heat generated = I2RT / J cal",
+    "Option3": "Heat generated = IR2T / J cal",
+    "Option4": "Heat generated = (IR)2 T / J cal",
+    "Answer": "Heat generated = I2RT / J cal",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Calculate the heat generated in a electric heater of 1000 watt, 240 volt, worked for 5 minutes?",
+    "Option1": "70.5 Kilo calories",
+    "Option2": "71.0 Kilo calories",
+    "Option3": "71.6 Kilo calories",
+    "Option4": "72.1 Kilo calories",
+    "Answer": "71.6 Kilo calories",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the purpose of protection grooves at various places in a heater base plate?",
+    "Option1": "Radiate the heat properly",
+    "Option2": "Retain the heating element firmly",
+    "Option3": "Place the vessels firmly on heater plate",
+    "Option4": "Protect the heating element from damage",
+    "Answer": "Retain the heating element firmly",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the purpose of sole plate in electric kettle?",
+    "Option1": "Acts as a balancing weight",
+    "Option2": "Acts as an insulator for element",
+    "Option3": "Protect the kettle base from damage",
+    "Option4": "Keep the element in close contact with container",
+    "Answer": "Keep the element in close contact with container",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the magnetron tube filament voltage used in microwave oven?",
+    "Option1": "1.5 V A.C",
+    "Option2": "2.0 V A.C",
+    "Option3": "3.0 V A.C",
+    "Option4": "3.2 V A.C",
+    "Answer": "3.2 V A.C",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the fault in a food mixer if it runs intermittently?",
+    "Option1": "Worn out brushes",
+    "Option2": "Armature coil open",
+    "Option3": "Defective commutator",
+    "Option4": "Field winding partially short",
+    "Answer": "Worn out brushes",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the defect in a single phase pump motor if it runs with slow speed?",
+    "Option1": "Defective capacitor",
+    "Option2": "Open starting winding",
+    "Option3": "Short in starting winding",
+    "Option4": "Short in running winding",
+    "Answer": "Defective capacitor",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the function of neutral path in AC supply system for appliances?",
+    "Option1": "Provides current return path",
+    "Option2": "Provides voltage level constant",
+    "Option3": "Reduces voltage drop in wiring",
+    "Option4": "Maintains load current constant",
+    "Answer": "Provides current return path",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the function of magnetron tube in a microwave oven?",
+    "Option1": "Amplifies the microwave signal",
+    "Option2": "Changes the polarity every half cycle",
+    "Option3": "Oscillate and produce cooking frequency",
+    "Option4": "Converts microwave energy to electrical energy",
+    "Answer": "Oscillate and produce cooking frequency",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  }
+]

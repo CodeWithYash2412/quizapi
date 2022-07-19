@@ -1,0 +1,227 @@
+[
+  {
+    "Question": "Which one of the following code is suitable for spindle rotation in clock wise direction?",
+    "Option1": "G02",
+    "Option2": "M03",
+    "Option3": "G03",
+    "Option4": "M04",
+    "Answer": "M03",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What do you mean by simulation?",
+    "Option1": "Cross checking of programmable DATA",
+    "Option2": "Finding out of work offset values",
+    "Option3": "Finding out of tool geometrical values",
+    "Option4": "Editing of related part program",
+    "Answer": "Cross checking of programmable DATA",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What do you mean by MPG?",
+    "Option1": "Manual Program Graphics",
+    "Option2": "Manually Pulse Generator",
+    "Option3": "Manual Procedure to Calculate Geometrical Values",
+    "Option4": "Manually Procure the Digital Graphics",
+    "Answer": "Manually Pulse Generator",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "The CNC key boards have with following keys?",
+    "Option1": "Alphabetic control keys",
+    "Option2": "Alphanumerical control keys electronic",
+    "Option3": "CNC codes",
+    "Option4": "Numerical Data based keys only",
+    "Answer": "Alphanumerical control keys electronic",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which one of the following command the G02 code indicates?",
+    "Option1": "Linear interpolation",
+    "Option2": "Circular interpolation clockwise direction",
+    "Option3": "Circular interpolation counter clockwise direction",
+    "Option4": "Cross sectional interpolation",
+    "Answer": "Circular interpolation clockwise direction",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which code suitable for circular interpolation counter clockwise direction?",
+    "Option1": "G01",
+    "Option2": "G02",
+    "Option3": "G03",
+    "Option4": "G04",
+    "Answer": "G03",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which code is suitable for tool nose radius compensation at right side?",
+    "Option1": "G50",
+    "Option2": "G42",
+    "Option3": "G40",
+    "Option4": "G41",
+    "Answer": "G42",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which G-code is suitable for data input in mm?",
+    "Option1": "G21",
+    "Option2": "G27",
+    "Option3": "G20",
+    "Option4": "G28",
+    "Answer": "G21",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which one of the following M-code is suitable for chuck close?",
+    "Option1": "M09",
+    "Option2": "M11",
+    "Option3": "M10",
+    "Option4": "M13",
+    "Answer": "M11",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which one of the following M-code is suitable for coolant pump ON?",
+    "Option1": "M10",
+    "Option2": "M11",
+    "Option3": "M09",
+    "Option4": "M08",
+    "Answer": "M08",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which one of the code is used to rewind the program?",
+    "Option1": "M38",
+    "Option2": "M30",
+    "Option3": "M39",
+    "Option4": "M40",
+    "Answer": "M30",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which code is suitable for multiple turning cycle in FANUC CNC control system?",
+    "Option1": "G71",
+    "Option2": "G92",
+    "Option3": "G96",
+    "Option4": "G94",
+    "Answer": "G71",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which G-code is suitable for thread cutting?",
+    "Option1": "G30",
+    "Option2": "G32",
+    "Option3": "G34",
+    "Option4": "G01",
+    "Answer": "G32",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which mode is used to edit the program?",
+    "Option1": "Jog mode",
+    "Option2": "Edit mode",
+    "Option3": "MDI mode",
+    "Option4": "Auto mode",
+    "Answer": "Edit mode",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which mode is used to move the turret in micron level?",
+    "Option1": "Auto mode",
+    "Option2": "Jog mode",
+    "Option3": "MDI mode",
+    "Option4": "Incremental jog mode",
+    "Answer": "Incremental jog mode",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which mode is used for moving the turret in X and Z direction?",
+    "Option1": "Jog mode",
+    "Option2": "Edit mode",
+    "Option3": "Auto mode",
+    "Option4": "MDI mode",
+    "Answer": "Jog mode",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "In Which mode we can input the program command manually?",
+    "Option1": "Auto mode",
+    "Option2": "Jog mode",
+    "Option3": "MDI mode",
+    "Option4": "Edit mode",
+    "Answer": "MDI mode",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which mode the program will be executed continuously one block after another block?",
+    "Option1": "Jog mode",
+    "Option2": "Auto mode",
+    "Option3": "Edit mode",
+    "Option4": "Manual mode",
+    "Answer": "Auto mode",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "How many ways CNC machine tool systems can be classified?",
+    "Option1": 2,
+    "Option2": 3,
+    "Option3": 4,
+    "Option4": 5,
+    "Answer": 3,
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Why in CNC machine tool, the part program entered in edit mode is stored into the computer memory?",
+    "Option1": "Can be used only once",
+    "Option2": "Can be used again and again",
+    "Option3": "Can be used again but it has to be modified every time",
+    "Option4": "Cannot say",
+    "Answer": "Can be used again and again",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which is the advantage of CNC machine over conventional machines?",
+    "Option1": "High cutting speed",
+    "Option2": "Feed back control",
+    "Option3": "High feed",
+    "Option4": "Mass production",
+    "Answer": "Mass production",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which is the operation in point to point system used?",
+    "Option1": "Drilling",
+    "Option2": "Parting",
+    "Option3": "Grooving",
+    "Option4": "Facing",
+    "Answer": "Drilling",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which of the following feed back devices can sense both speed and position?",
+    "Option1": "Resolver",
+    "Option2": "Tachometer",
+    "Option3": "Encoder",
+    "Option4": "Motor",
+    "Answer": "Encoder",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Encodor is used in CNC machine tool to sense and control?",
+    "Option1": "Spindle speed",
+    "Option2": "Spindle position",
+    "Option3": "Table position",
+    "Option4": "Work position",
+    "Answer": "Table position",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which axis is parallel to Z - axis?",
+    "Option1": "X - axis",
+    "Option2": "Spindle axis",
+    "Option3": "Tool axis",
+    "Option4": "Y-axis",
+    "Answer": "Spindle axis",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  }
+]

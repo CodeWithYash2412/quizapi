@@ -1,0 +1,227 @@
+[
+  {
+    "Question": "Which valve is an orifice or restrictor in hydraulic system?",
+    "Option1": "Flow control valve",
+    "Option2": "Check valve",
+    "Option3": "Direction control valve",
+    "Option4": "Pressure Valve",
+    "Answer": "Flow control valve",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which device enables different flow rate of oil?",
+    "Option1": "Throttle valve",
+    "Option2": "Pressure valve",
+    "Option3": "Orifice",
+    "Option4": "Restriction flow",
+    "Answer": "Throttle valve",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the periodic oil drain from the compressor?",
+    "Option1": "Once in a week",
+    "Option2": "Once in a month",
+    "Option3": "Once in every 3 months",
+    "Option4": "Once in every 6 months",
+    "Answer": "Once in a week",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which type of filter is used for trapping various sizes of particular matter?",
+    "Option1": "Mechanical filter",
+    "Option2": "Absorbent filter",
+    "Option3": "Magnetic filter",
+    "Option4": "Suction filter",
+    "Answer": "Absorbent filter",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which type of filter is used to remove ferrous materials from oil in hydraulic system?",
+    "Option1": "Pressure line filter",
+    "Option2": "Offline filter",
+    "Option3": "Magnetic filter",
+    "Option4": "Absorbent filter",
+    "Answer": "Magnetic filter",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which property in hydraulic oil function is medium for heat transfer?",
+    "Option1": "Shear stability",
+    "Option2": "Low volatility",
+    "Option3": "Low foaming tendency",
+    "Option4": "Good thermal capacity and conductivity",
+    "Answer": "Good thermal capacity and conductivity",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which device is used for handling and removing contamination from hydraulic oil?",
+    "Option1": "Hydraulic filter",
+    "Option2": "Actuators",
+    "Option3": "Valve",
+    "Option4": "Regulator",
+    "Answer": "Hydraulic filter",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which part of double acting cylinder prevents air leakage from cylinder to atmosphere?",
+    "Option1": "Piston seal",
+    "Option2": "Rod Seal",
+    "Option3": "Piston end",
+    "Option4": "Rod end",
+    "Answer": "Rod Seal",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the defect caused by inter locked air bubbles and pockets in the hydraulic pipe lines and components?",
+    "Option1": "Cavitation",
+    "Option2": "Static pressure",
+    "Option3": "Vapour Pressure",
+    "Option4": "Pressure jerks",
+    "Answer": "Cavitation",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the cause for oil flow under pressure while passing through the restricted passage?",
+    "Option1": "Increase Heat",
+    "Option2": "Decrease Heat",
+    "Option3": "Decrease volume",
+    "Option4": "Increase pressure",
+    "Answer": "Increase Heat",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which valve prevents the system pressure from rising too high if the pressure regulating valve fails?",
+    "Option1": "Check valve",
+    "Option2": "Relief valve",
+    "Option3": "Pressure valve",
+    "Option4": "Direction control valve",
+    "Answer": "Relief valve",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which causes more than 90% of hydraulic system failure?",
+    "Option1": "Contamination of hydraulic fluid",
+    "Option2": "Leak of valve",
+    "Option3": "Pump",
+    "Option4": "Electric power",
+    "Answer": "Contamination of hydraulic fluid",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which type of filter helps to protect the pump from fluid contaminations?",
+    "Option1": "Suction filter",
+    "Option2": "Magnetic filter",
+    "Option3": "Absorbent filter",
+    "Option4": "Mechanical filter",
+    "Answer": "Suction filter",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the system of lubrication?",
+    "Option1": "Wick feed",
+    "Option2": "Ring oiling",
+    "Option3": "Splash system",
+    "Option4": "Manual screw down system",
+    "Answer": "Ring oiling",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/FITTER%2FFITTER%20SEM4%2F176%20TO%20200%2F189.PNG?alt=media&token=0a5f1a0f-cc55-40d5-add9-37346a9c2b05"
+  },
+  {
+    "Question": "What is the property of lubricant that can withstand high pressure or load?",
+    "Option1": "Oiliness",
+    "Option2": "Viscosity",
+    "Option3": "Fire point",
+    "Option4": "Flashpoint",
+    "Answer": "Viscosity",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the flash point of general purpose machinery oil?",
+    "Option1": "160°C",
+    "Option2": "196°C",
+    "Option3": "210°C",
+    "Option4": "204°C",
+    "Answer": "160°C",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the name of the clutch?",
+    "Option1": "Air clutch",
+    "Option2": "Dog clutch",
+    "Option3": "Cone clutch",
+    "Option4": "Single plate clutch",
+    "Answer": "Dog clutch",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/FITTER%2FFITTER%20SEM4%2F176%20TO%20200%2F192.PNG?alt=media&token=5973d1d3-90f7-4c81-a5ee-99050562300d"
+  },
+  {
+    "Question": "What is the name of lubrication system?",
+    "Option1": "Wick feed",
+    "Option2": "Ring oiling",
+    "Option3": "Gravity feed",
+    "Option4": "Splash lubricating",
+    "Answer": "Splash lubricating",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/FITTER%2FFITTER%20SEM4%2F176%20TO%20200%2F193.PNG?alt=media&token=fea05add-467c-46ef-b4c3-e6281a0f814a"
+  },
+  {
+    "Question": "What is the name of clutch?",
+    "Option1": "Air clutch",
+    "Option2": "Multiplate",
+    "Option3": "Cone clutch",
+    "Option4": "Over riding clutch",
+    "Answer": "Air clutch",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/FITTER%2FFITTER%20SEM4%2F176%20TO%20200%2F194.PNG?alt=media&token=bd29d09f-d6d9-4cfa-9134-3439ca5966a5"
+  },
+  {
+    "Question": "What is the main advantage of toothed chain drive?",
+    "Option1": "Increase the tension chain drive",
+    "Option2": "Provide noiseless and uniform drive",
+    "Option3": "Efficient between shafts in short distance",
+    "Option4": "Provide high speed low torque transmission",
+    "Answer": "Provide noiseless and uniform drive",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the ratio of soluble oil added to water to get non corrosive effect?",
+    "Option1": 0.0451388888888889,
+    "Option2": 0.0486111111111111,
+    "Option3": 0.0520833333333333,
+    "Option4": 0.0555555555555556,
+    "Answer": 0.0555555555555556,
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the system of lubrication?",
+    "Option1": "Wick feed",
+    "Option2": "Splash feed",
+    "Option3": "Ring oiling feed",
+    "Option4": "Hand pressure feed",
+    "Answer": "Splash feed",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/FITTER%2FFITTER%20SEM4%2F176%20TO%20200%2F197.PNG?alt=media&token=44040517-e0e6-4cfc-9d19-e93096a13333"
+  },
+  {
+    "Question": "What is the purpose of using lubricant?",
+    "Option1": "Prevent wear",
+    "Option2": "Increases friction",
+    "Option3": "Increases the loading capacity",
+    "Option4": "Increases the speed of moving elements",
+    "Answer": "Prevent wear",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "How the low speed gear is lubricated?",
+    "Option1": "Oil pump",
+    "Option2": "Splash type",
+    "Option3": "Gravity feed",
+    "Option4": "Oilcan type or brush",
+    "Answer": "Oilcan type or brush",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the symbol marked as ‘x’?",
+    "Option1": "Daily",
+    "Option2": "Weekly",
+    "Option3": "Monthly",
+    "Option4": "Schedule for frequency other than above",
+    "Answer": "Monthly",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/FITTER%2FFITTER%20SEM4%2F176%20TO%20200%2F200.PNG?alt=media&token=43acab15-b992-46a1-9c8a-46766e227585"
+  }
+]

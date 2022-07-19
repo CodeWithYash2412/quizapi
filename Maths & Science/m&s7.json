@@ -1,0 +1,227 @@
+[
+  {
+    "Question": "What is the boiling point of water?",
+    "Option1": "0°C",
+    "Option2": "32°C",
+    "Option3": "100°C",
+    "Option4": "212°C",
+    "Answer": "100°C",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the melting point of mercury?",
+    "Option1": "-357°C",
+    "Option2": "-209°C",
+    "Option3": "-7.1°C",
+    "Option4": "-38.72°C",
+    "Answer": "-38.72°C",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the boiling point of mercury?",
+    "Option1": "357°C",
+    "Option2": "280°C",
+    "Option3": "759°C",
+    "Option4": "767°C",
+    "Answer": "357°C",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the ratio of force (or) thrust per unit area?",
+    "Option1": "Work",
+    "Option2": "Power",
+    "Option3": "Pressure",
+    "Option4": "Energy",
+    "Answer": "Pressure",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the equivalent pascal value for 1 bar?",
+    "Option1": "105 pascal",
+    "Option2": "107 pascal",
+    "Option3": "103 pascal",
+    "Option4": "109 pascal",
+    "Answer": "105 pascal",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the SI unit of pressure?",
+    "Option1": "Joule",
+    "Option2": "Pascal",
+    "Option3": "Bar",
+    "Option4": "Newton",
+    "Answer": "Pascal",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which machine converts mechanical energy into electrical energy?",
+    "Option1": "Battery",
+    "Option2": "Generator",
+    "Option3": "Heater",
+    "Option4": "Iron box",
+    "Answer": "Generator",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which is the unit of current?",
+    "Option1": "Ampere",
+    "Option2": "Volt",
+    "Option3": "Ohm",
+    "Option4": "Watt",
+    "Answer": "Ampere",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which is the unit of resistance?",
+    "Option1": "Ampere",
+    "Option2": "Volt",
+    "Option3": "Ohm",
+    "Option4": "Watt",
+    "Answer": "Ohm",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the flow of electrons in any conductor?",
+    "Option1": "Voltage",
+    "Option2": "Current",
+    "Option3": "Resistance",
+    "Option4": "Power",
+    "Answer": "Current",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which property of a substance is opposing the flow of electric current?",
+    "Option1": "Current",
+    "Option2": "Voltage",
+    "Option3": "Resistance",
+    "Option4": "EMF",
+    "Answer": "Resistance",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which is very good conductor?",
+    "Option1": "Copper",
+    "Option2": "Cast iron",
+    "Option3": "Wrought iron",
+    "Option4": "Steel",
+    "Answer": "Copper",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which is mineral insulator?",
+    "Option1": "Glass",
+    "Option2": "Quartz",
+    "Option3": "Mica",
+    "Option4": "Porcelain",
+    "Answer": "Mica",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the total resistance if three resistances of 3 ohms, 9 ohms and 5 ohms are connected in series?",
+    "Option1": "11 ohms",
+    "Option2": "7 ohm",
+    "Option3": "17 ohms",
+    "Option4": "1/17 ohms",
+    "Answer": "17 ohms",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which is same in series connection of resistors in a circuit?",
+    "Option1": "Current",
+    "Option2": "Voltage",
+    "Option3": "Resistance",
+    "Option4": "Power",
+    "Answer": "Current",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which law states that at constant termperature the current passing through a closed circuit is directly proportional to the potential difference and inversely proportional to the resistance?",
+    "Option1": "Ohm´s law",
+    "Option2": "Lenz´s law",
+    "Option3": "Newton´s law",
+    "Option4": "Hooke´s law",
+    "Answer": "Ohm´s law",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the resistance? I = 11.5 Amps V = 380 Volts R = _______Ohms",
+    "Option1": "13 ohms",
+    "Option2": "23 ohms",
+    "Option3": "33 ohms",
+    "Option4": "43 ohms",
+    "Answer": "33 ohms",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/M%26S%2F151%20TO%20175%2F170.PNG?alt=media&token=6fb28c17-c827-4d63-ba82-81e1c5d13006"
+  },
+  {
+    "Question": "What is the current? R = 50 Ohms 220 Volts I =______Amps",
+    "Option1": "4.1 Amps",
+    "Option2": "4.2 Amps",
+    "Option3": "4.3 Amps",
+    "Option4": "4.4 Amps",
+    "Answer": "4.4 Amps",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/M%26S%2F151%20TO%20175%2F171.PNG?alt=media&token=78847680-d5f7-420d-97df-b61952bec554"
+  },
+  {
+    "Question": "What is the voltage? R = 250 Ohms I = 0.44 Amps V = _____Volts",
+    "Option1": "100 Volts",
+    "Option2": "105 Volts",
+    "Option3": "108 Volts",
+    "Option4": "110 Volts",
+    "Answer": "110 Volts",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/M%26S%2F151%20TO%20175%2F172.PNG?alt=media&token=04ca12b8-d8a5-4e2a-9c23-0fe164792c47"
+  },
+  {
+    "Question": "Which statement is correct according to ohm´s law?",
+    "Option1": "I μ 1/V",
+    "Option2": "I μ R",
+    "Option3": "I μ V/R",
+    "Option4": "I μ R/V",
+    "Answer": "I μ V/R",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the filament resistance if a 6 volt bulb draws a current of 0.5 Amps?",
+    "Option1": "12 W",
+    "Option2": "10 W",
+    "Option3": "3 W",
+    "Option4": "1.2 W",
+    "Answer": "12 W",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "How much watt second in 1 watt hour?",
+    "Option1": "1000 watt sec",
+    "Option2": "2000 watt sec",
+    "Option3": "3600 watt sec",
+    "Option4": "4000 watt sec",
+    "Answer": "3600 watt sec",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the power if an emf of one volt causes a current flow of 1ampere?",
+    "Option1": "1 watt",
+    "Option2": "1 kilowatt",
+    "Option3": "1 HP",
+    "Option4": "1 Kilowatt hour",
+    "Answer": "1 watt",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which is equal to electric power?",
+    "Option1": "R2I watts",
+    "Option2": "I2R watts",
+    "Option3": "2IR watts",
+    "Option4": "2RI watts",
+    "Answer": "I2R watts",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "How much power does it consumes if an electric heater draws a current of 10 amps at 200 volts?",
+    "Option1": "2000 watts",
+    "Option2": "2010 watts",
+    "Option3": "2020 watts",
+    "Option4": "2030 watts",
+    "Answer": "2000 watts",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  }
+]

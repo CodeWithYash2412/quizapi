@@ -1,0 +1,227 @@
+[
+  {
+    "Question": "Which of these is a semi-conductor?",
+    "Option1": "Gold",
+    "Option2": "Lead",
+    "Option3": "Silicon",
+    "Option4": "Plastic",
+    "Answer": "Silicon",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "The cooling effect in a cooling tower can be increased by ..............",
+    "Option1": "Increasing velocity of air over wet surface",
+    "Option2": "Lowering barometric pressure",
+    "Option3": "Reducing humidity of air",
+    "Option4": "All of the above",
+    "Answer": "All of the above",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "CRO gives ...................",
+    "Option1": "Actual representation",
+    "Option2": "Visual representation",
+    "Option3": "Approximate representation",
+    "Option4": "Incorrect representation",
+    "Answer": "Visual representation",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Integrated circuits are normally made of ...............",
+    "Option1": "Silicon",
+    "Option2": "Germanium",
+    "Option3": "Copper",
+    "Option4": "Aluminium",
+    "Answer": "Silicon",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "The active components in an IC are .................",
+    "Option1": "Resistors",
+    "Option2": "Capacitors",
+    "Option3": "Transistors and diodes",
+    "Option4": "None of the above",
+    "Answer": "Transistors and diodes",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Temporary hardness of water is removed by .................",
+    "Option1": "Filtering",
+    "Option2": "Boiling",
+    "Option3": "Chemical treatment",
+    "Option4": "None of the above",
+    "Answer": "Boiling",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Natural draft cooling towers are mainly used in ...........",
+    "Option1": "Steel plants",
+    "Option2": "Power stations",
+    "Option3": "Fertilizer plants",
+    "Option4": "Aluminium manufacturing plants",
+    "Answer": "Power stations",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is used in pre-treatment of water to remove large objects?",
+    "Option1": "Bacteria",
+    "Option2": "Oil and grease",
+    "Option3": "Air",
+    "Option4": "Screen",
+    "Answer": "Screen",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "In the evaporator the refrigerant enters at ................",
+    "Option1": "Very low pressure",
+    "Option2": "Low pressure",
+    "Option3": "Medium pressure",
+    "Option4": "High pressure",
+    "Answer": "Very low pressure",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "The type of evaporator used in large refrigeration and central air conditioning systems is ....",
+    "Option1": "Shell and tube evaporator",
+    "Option2": "Finned evaporator",
+    "Option3": "Plate surface evaporator",
+    "Option4": "Bare tube evaporator",
+    "Answer": "Shell and tube evaporator",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Why are ice cans made tapered in height?",
+    "Option1": "To reduce weight",
+    "Option2": "To facilitate dumping",
+    "Option3": "To improve appearance",
+    "Option4": "To make fabrication easier",
+    "Answer": "To facilitate dumping",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "The instrument used to measure relative humidity is .............",
+    "Option1": "Barometer",
+    "Option2": "Psychrometer",
+    "Option3": "Manometer",
+    "Option4": "Pressure gauge",
+    "Answer": "Psychrometer",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Pressure on the high pressure side of a mechanical refrigeration unit is called",
+    "Option1": "Suction pressure",
+    "Option2": "Discharge or head pressure",
+    "Option3": "Differential pressure",
+    "Option4": "Absolute pressure",
+    "Answer": "Discharge or head pressure",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "The cooling tower shown in figure given below is .............",
+    "Option1": "Natural draft cooling tower",
+    "Option2": "Induced draft cooling tower",
+    "Option3": "Forced draft cooling tower",
+    "Option4": "Inducted draft cooling tower",
+    "Answer": "Forced draft cooling tower",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/MRAC%2FSEM3%2F39.PNG?alt=media&token=3e79320c-e759-4d77-b020-8503066b934d"
+  },
+  {
+    "Question": "In psychrometry (shown below) chart, Y - axis indicates .................",
+    "Option1": "Humidity ratio",
+    "Option2": "Dry bulb temperature",
+    "Option3": "Enthalpy",
+    "Option4": "Wet bulb temperature",
+    "Answer": "Humidity ratio",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/MRAC%2FSEM3%2F40.PNG?alt=media&token=4204d2ff-cdda-4c76-b576-1e452f748c60"
+  },
+  {
+    "Question": "In psychrometry (shown below) chart, X - axis indicates .................",
+    "Option1": "Humidity ratio",
+    "Option2": "Dry bulb temperature",
+    "Option3": "Enthalpy",
+    "Option4": "Wet bulb temperature",
+    "Answer": "Dry bulb temperature",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/MRAC%2FSEM3%2F41.PNG?alt=media&token=14c39447-5221-4bf0-9b66-aeb4efd6eab4"
+  },
+  {
+    "Question": "Dry bulb temperature (DBT) is the actual temperature of ............",
+    "Option1": "Moist air",
+    "Option2": "Dry air",
+    "Option3": "Dry ice",
+    "Option4": "Saturated air",
+    "Answer": "Moist air",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "AHU stands for ....................",
+    "Option1": "Air Handling Unit",
+    "Option2": "Air Heating Unit",
+    "Option3": "Air Humidifying Unit",
+    "Option4": "None of these",
+    "Answer": "Air Handling Unit",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Refrigeration is used in medical industry for____________.",
+    "Option1": "storing blood",
+    "Option2": "refining petroleum",
+    "Option3": "production of ice",
+    "Option4": "production of rocket fuel",
+    "Answer": "storing blood",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Identify the refrigeration tool shown in the figure",
+    "Option1": "Tube Bender",
+    "Option2": "Flaring Tool",
+    "Option3": "Tube Cutter",
+    "Option4": "Pinching Tool",
+    "Answer": "Tube Bender",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/MRAC%2FSEM3%2F45.PNG?alt=media&token=20c2997c-9432-49bc-b220-28cb76240890"
+  },
+  {
+    "Question": "Which of the following tools is used to open and close the service valve?",
+    "Option1": "Cylindrical valve key",
+    "Option2": "Pinching Tool",
+    "Option3": "Punch set",
+    "Option4": "Swagging Tool",
+    "Answer": "Cylindrical valve key",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "_____________is a cutting tool used to make the metal surface smooth.",
+    "Option1": "File",
+    "Option2": "Hacksaw",
+    "Option3": "Scriber",
+    "Option4": "Trammel",
+    "Answer": "File",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which of these is used to make deep holes in the wood?",
+    "Option1": "Gimlet",
+    "Option2": "Stake",
+    "Option3": "Snap",
+    "Option4": "Mallet",
+    "Answer": "Gimlet",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which of the following device measures electric current in a circuit?",
+    "Option1": "Ammeter",
+    "Option2": "Wattmeter",
+    "Option3": "Voltmeter",
+    "Option4": "Watt-hour meter",
+    "Answer": "Ammeter",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "____________is not an insulator.",
+    "Option1": "Eureka",
+    "Option2": "Asbestos",
+    "Option3": "Ebonite",
+    "Option4": "Glass",
+    "Answer": "Eureka",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  }
+]

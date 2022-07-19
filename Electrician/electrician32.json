@@ -1,0 +1,227 @@
+[
+  {
+    "Question": "Which resistor is used to measure light intensity?",
+    "Option1": "VDR",
+    "Option2": "NTC",
+    "Option3": "PTC",
+    "Option4": "LDR",
+    "Answer": "LDR",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which code indicates silicon semiconductor diode?",
+    "Option1": "OA 79",
+    "Option2": "BY 126",
+    "Option3": "IN 4007",
+    "Option4": "2N 3055",
+    "Answer": "BY 126",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the input ripple frequency (Fin) of full wave rectifier?",
+    "Option1": "Fin = ½ F",
+    "Option2": "Fin = Fin",
+    "Option3": "Fin = 2 Fin",
+    "Option4": "none of them",
+    "Answer": "Fin = 2 Fin",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which is a active component?",
+    "Option1": "Inductor",
+    "Option2": "Resistor",
+    "Option3": "Capacitor",
+    "Option4": "Transistor",
+    "Answer": "Transistor",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which letter indicates the compound material cadmium sulphide?",
+    "Option1": "A",
+    "Option2": "B",
+    "Option3": "C",
+    "Option4": "R",
+    "Answer": "R",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the name of the symbol?",
+    "Option1": "Two input OR gate",
+    "Option2": "Two input AND gate",
+    "Option3": "Two input NOR gate",
+    "Option4": "Two input NAND gate",
+    "Answer": "Two input NAND gate",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/Electrician%2FSEM4%2FElectrician32%2F6.PNG?alt=media&token=5340a615-5446-47b4-9d7b-f55fe809ac40"
+  },
+  {
+    "Question": "Which is a passive component?",
+    "Option1": "Diac",
+    "Option2": "Diode",
+    "Option3": "Transistor",
+    "Option4": "Capacitor",
+    "Answer": "Capacitor",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the name of the device symbol?",
+    "Option1": "SCR",
+    "Option2": "IGBT",
+    "Option3": "DIAC",
+    "Option4": "TRIAC",
+    "Answer": "DIAC",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/Electrician%2FSEM4%2FElectrician32%2F8.PNG?alt=media&token=343e9e68-4ce0-4590-bedc-c3f15d0c1dd4"
+  },
+  {
+    "Question": "How many characters are in hexadecimal number system?",
+    "Option1": 6,
+    "Option2": 8,
+    "Option3": 12,
+    "Option4": 16,
+    "Answer": 16,
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which electronic circuit generates A.C signal without input?",
+    "Option1": "Filter circuit",
+    "Option2": "Rectifier circuit",
+    "Option3": "Amplifier circuit",
+    "Option4": "Oscillator circuit",
+    "Answer": "Oscillator circuit",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which instrument provides a visual\nrepresentation of measured or tested quantities?",
+    "Option1": "Voltage stabilizer",
+    "Option2": "Function generator",
+    "Option3": "Cathode ray oscilloscope",
+    "Option4": "Radio frequency generator",
+    "Answer": "Cathode ray oscilloscope",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the name of amplifier?",
+    "Option1": "Common emitter amplifier",
+    "Option2": "Class B push pull amplifier",
+    "Option3": "Common collector amplifier",
+    "Option4": "Class AB push pull amplifier",
+    "Answer": "Class B push pull amplifier",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/Electrician%2FSEM4%2FElectrician32%2F12.PNG?alt=media&token=3829d6eb-6e0a-427b-99cb-10f23c4788b5"
+  },
+  {
+    "Question": "What is the formula to calculate the\nresonance frequency in an oscillator circuit?",
+    "Option1": "Fr = 1 / 2πLC",
+    "Option2": "Fr = 1 / √2πLC",
+    "Option3": "Fr = 1 / 2π √LC",
+    "Option4": "Fr = 1 / LC √2π",
+    "Answer": "Fr = 1 / 2π √LC",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the minimum voltage required in the\nbase emitter junction to conduct a silicon\ntransistor?",
+    "Option1": "0.2 V – 0.3 V",
+    "Option2": "0.4 V – 0.5 V",
+    "Option3": "0.6 V – 0.7 V",
+    "Option4": "0.8 V – 0.9 V",
+    "Answer": "0.6 V – 0.7 V",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the minimum and maximum value of\nresistor with four colour bands, red, violet, orange\nand gold respectively?",
+    "Option1": "23750Ω - 26250Ω",
+    "Option2": "24700Ω - 27300Ω",
+    "Option3": "25650Ω - 28350Ω",
+    "Option4": "22400Ω - 33600Ω",
+    "Answer": "25650Ω - 28350Ω",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the reason for barrier voltage is more\nin silicon material?",
+    "Option1": "Lower atomic number",
+    "Option2": "Resistance is very low",
+    "Option3": "Doping percentage is more",
+    "Option4": "Valance electrons are two only",
+    "Answer": "Lower atomic number",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the reason for widened barrier in a\nreverse biased diode?",
+    "Option1": "Minority carriers in two materials are\nneutralised",
+    "Option2": "Electron in N material is drifted to positive\nterminal",
+    "Option3": "Holes in P material attracted to negative\nterminal",
+    "Option4": "Electrons and holes are attracted towards supply terminals",
+    "Answer": "Electrons and holes are attracted towards supply terminals",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the output voltage in the full wave rectifier circuit?",
+    "Option1": "No output",
+    "Option2": "Rated output",
+    "Option3": "Half the rated output",
+    "Option4": "Double the rated output",
+    "Answer": "No output",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/Electrician%2FSEM4%2FElectrician32%2F18.PNG?alt=media&token=d446dbd7-3562-412e-b0d4-1c49d7010326"
+  },
+  {
+    "Question": "Which filter circuit is capable of removing voltage spikes in the rectifier circuit?",
+    "Option1": "LC filter",
+    "Option2": "RC filter",
+    "Option3": "Capacitor input filter",
+    "Option4": "Series inductor filter",
+    "Answer": "LC filter",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which is the advanced version of power electronic component used in the output stage in drives?",
+    "Option1": "FET",
+    "Option2": "UJT",
+    "Option3": "SCR",
+    "Option4": "IGBT",
+    "Answer": "IGBT",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "How the decimal number can be converted into binary number?",
+    "Option1": "Divide decimal by 4",
+    "Option2": "Multiplying decimal by 4",
+    "Option3": "Dividing decimal by 2",
+    "Option4": "Multiplying decimal 2",
+    "Answer": "Dividing decimal by 2",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the purpose of using binary coded decimal (BCD) system in digital circuits?",
+    "Option1": "Storing the data inputs",
+    "Option2": "Control the binary system",
+    "Option3": "Interface to binary system",
+    "Option4": "Segregating the input parameters",
+    "Answer": "Storing the data inputs",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which logic gate refers the truth table?",
+    "Option1": "OR gate",
+    "Option2": "NOT gate",
+    "Option3": "AND gate",
+    "Option4": "NOR gate",
+    "Answer": "AND gate",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/Electrician%2FSEM4%2FElectrician32%2F23.PNG?alt=media&token=a386b93f-7794-4a33-ad70-ebbe0703a588"
+  },
+  {
+    "Question": "Which quantity can be measured by CRO?",
+    "Option1": "Frequency",
+    "Option2": "Inductance",
+    "Option3": "Resistance",
+    "Option4": "Power factor",
+    "Answer": "Frequency",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which is the main application of SCR?",
+    "Option1": "Amplifier",
+    "Option2": "Oscillators",
+    "Option3": "Multi vibrators",
+    "Option4": "Speed control of motors",
+    "Answer": "Speed control of motors",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  }
+]

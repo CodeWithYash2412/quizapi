@@ -1,0 +1,226 @@
+[{
+        "Question": "What is the capacity of typical DVD?",
+        "Option1": "40 MB",
+        "Option2": "50 MB",
+        "Option3": "60 MB",
+        "Option4": "4.7 Gb",
+        "Answer": "4.7 Gb",
+        "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+    },
+    {
+        "Question": "Which process is used to record data on to an optical disc?",
+        "Option1": "Burning",
+        "Option2": "Reading",
+        "Option3": "Accepting",
+        "Option4": "Accessing",
+        "Answer": "Burning",
+        "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+    },
+    {
+        "Question": "Which software interface the major hardware components of the computer with OS?",
+        "Option1": "BIOS",
+        "Option2": "CMOS",
+        "Option3": "DOS",
+        "Option4": "POST",
+        "Answer": "BIOS",
+        "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+    },
+    {
+        "Question": "What is BIOS?",
+        "Option1": "firmware",
+        "Option2": "Hardware",
+        "Option3": "Middleware",
+        "Option4": "Software",
+        "Answer": "firmware",
+        "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+    },
+    {
+        "Question": "What is the purpose of Nero StartSmart?",
+        "Option1": "Format HDD",
+        "Option2": "Burn CD/DVD",
+        "Option3": "Format pen drive",
+        "Option4": "Format CD/DVD",
+        "Answer": "Burn CD/DVD",
+        "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+    },
+    {
+        "Question": "Which system is used by bluetooth for board casting?",
+        "Option1": "Satellite",
+        "Option2": "Microwaves",
+        "Option3": "Telephone lines",
+        "Option4": "Radio waves",
+        "Answer": "Radio waves",
+        "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+    },
+    {
+        "Question": "Which one is used as authentication for paring bluetooth devices?",
+        "Option1": "Keyboard",
+        "Option2": "Keycode",
+        "Option3": "Passcode",
+        "Option4": "Password",
+        "Answer": "Passcode",
+        "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+    },
+    {
+        "Question": "Which program is used to enable the devices to work with OS ?",
+        "Option1": "Antivirus",
+        "Option2": "Device driver",
+        "Option3": "System Software",
+        "Option4": "Application Software",
+        "Answer": "Device driver",
+        "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+    },
+    {
+        "Question": "What is the name of the smaller divisions made in Hard disk?",
+        "Option1": "Head",
+        "Option2": "Partitions",
+        "Option3": "Sectors",
+        "Option4": "Tacks",
+        "Answer": "Partitions",
+        "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+    },
+    {
+        "Question": "Which key is used to open CMOS setup utility?",
+        "Option1": "Alt",
+        "Option2": "Del",
+        "Option3": "Enter",
+        "Option4": "Tab",
+        "Answer": "Del",
+        "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+    },
+    {
+        "Question": "What is the process of deleting all the data on the hard drive?",
+        "Option1": "Delete",
+        "Option2": "Erase",
+        "Option3": "Formatting",
+        "Option4": "Uninstall",
+        "Answer": "Formatting",
+        "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+    },
+    {
+        "Question": "What is the purpose of BIOS shadow?",
+        "Option1": "Copying RAM to ROM",
+        "Option2": "Coping ROM to RAM",
+        "Option3": "Copying HD to RAM",
+        "Option4": "Copying RAM to HD",
+        "Answer": "Coping ROM to RAM",
+        "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+    },
+    {
+        "Question": "What should be done, after fixing a problem or installing a new application or making configuration in a computer?",
+        "Option1": "Hibernate",
+        "Option2": "Restart",
+        "Option3": "Shutdown",
+        "Option4": "Sleep",
+        "Answer": "Restart",
+        "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+    },
+    {
+        "Question": "What is the name of hierarchical file system in DOS?",
+        "Option1": "Tree structure",
+        "Option2": "Root structure",
+        "Option3": "Hybrid structure",
+        "Option4": "Directory structure",
+        "Answer": "Root structure",
+        "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+    },
+    {
+        "Question": "Which DOS command is used to delete a directory?",
+        "Option1": "RD",
+        "Option2": "REMOVE",
+        "Option3": "DEL",
+        "Option4": "DELETE",
+        "Answer": "RD",
+        "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+    },
+    {
+        "Question": "Which character is used to represent parent directory in Linux?",
+        "Option1": ".",
+        "Option2": "..",
+        "Option3": "~",
+        "Option4": "*",
+        "Answer": "..",
+        "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+    },
+    {
+        "Question": "Which character is used to redirect output in to an existing file in Linux?",
+        "Option1": ">",
+        "Option2": ">>",
+        "Option3": "<",
+        "Option4": "<<",
+        "Answer": ">>",
+        "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+    },
+    {
+        "Question": "Which command is used to specify the location of files or folders in MSDOS?",
+        "Option1": "dir",
+        "Option2": "path",
+        "Option3": "sub directories",
+        "Option4": "tree",
+        "Answer": "path",
+        "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+    },
+    {
+        "Question": "How the directories under the root directory are called?",
+        "Option1": "dir",
+        "Option2": "path",
+        "Option3": "sub directories",
+        "Option4": "tree",
+        "Answer": "sub directories",
+        "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+    },
+    {
+        "Question": "Which filename will matches the command. DIR????T.TxT in DOS?",
+        "Option1": "TIME . TXT",
+        "Option2": "TEXT . TXT",
+        "Option3": "TEMP . TXT",
+        "Option4": "TEMPT . TxT",
+        "Answer": "TEMPT . TxT",
+        "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+    },
+    {
+        "Question": "What is the used of CD command in DOS?",
+        "Option1": "create a directory",
+        "Option2": "change the device name",
+        "Option3": "create root directory",
+        "Option4": "change the path of current directory",
+        "Answer": "change the path of current directory",
+        "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+    },
+    {
+        "Question": "What is the maximum number of character allowed as file name in DOS?",
+        "Option1": "3 characters",
+        "Option2": "6 characters",
+        "Option3": "7 characters",
+        "Option4": "8 characters",
+        "Answer": "8 characters",
+        "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+    },
+    {
+        "Question": "Which one of the following is the wildcard character?",
+        "Option1": "* and /",
+        "Option2": "? and /",
+        "Option3": "* and ?",
+        "Option4": "? and @",
+        "Answer": "* and ?",
+        "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+    },
+    {
+        "Question": "Which DOS command is used to create a text file?",
+        "Option1": "List",
+        "Option2": "Type",
+        "Option3": "Copycon",
+        "Option4": "Dir",
+        "Answer": "Copycon",
+        "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+    },
+    {
+        "Question": "Which one of the following is the directory separator in Linux?",
+        "Option1": "/",
+        "Option2": "\\",
+        "Option3": "//",
+        "Option4": "\\\\",
+        "Answer": "/",
+        "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+    }
+]

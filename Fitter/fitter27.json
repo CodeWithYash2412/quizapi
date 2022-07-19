@@ -1,0 +1,227 @@
+[
+  {
+    "Question": "What is the operation of a metal coated with other metal to obtain protecting surface?",
+    "Option1": "Cladding",
+    "Option2": "Galvanising",
+    "Option3": "Cementation",
+    "Option4": "Electroplating",
+    "Answer": "Electroplating",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which metal powder is used in calorising process to prevent corrosion?",
+    "Option1": "Zinc powder",
+    "Option2": "Nickel powder",
+    "Option3": "Chromium powder",
+    "Option4": "Aluminium powder",
+    "Answer": "Aluminium powder",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the temperature required to process the chromising for prevention of corrosion?",
+    "Option1": "900 to 1100°C",
+    "Option2": "1000 to 1100°C",
+    "Option3": "1100 to 1200°C",
+    "Option4": "1300 to 1400°C",
+    "Answer": "1300 to 1400°C",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which metal has high resistance to chemical reaction?",
+    "Option1": "Lead",
+    "Option2": "Nickel",
+    "Option3": "Copper",
+    "Option4": "Aluminium",
+    "Answer": "Nickel",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the name of part marked ‘X’?",
+    "Option1": "Ball case",
+    "Option2": "Inner race",
+    "Option3": "Outer race",
+    "Option4": "Ball separating gauge",
+    "Answer": "Ball separating gauge",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/FITTER%2FFITTER%20SEM3%2F176%20TO%20200%2F183.PNG?alt=media&token=3eff5d65-b6a4-4658-b7d9-65b9b6d48174"
+  },
+  {
+    "Question": "Which bearing material is used for light loading and low speed application?",
+    "Option1": "Cast iron",
+    "Option2": "Tin bronze",
+    "Option3": "Cadmium based alloy",
+    "Option4": "Copper and lead alloys",
+    "Answer": "Cast iron",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the disadvantage of thrust ball bearing?",
+    "Option1": "Cannot take any radial load",
+    "Option2": "Cannot take horizontal end thrust",
+    "Option3": "Cannot take load on both directions",
+    "Option4": "Cannot take any vertical thrust load",
+    "Answer": "Cannot take horizontal end thrust",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Why deep groove type of ball races provided in the ball bearing?",
+    "Option1": "Withstand shock",
+    "Option2": "Withstand axial thrust",
+    "Option3": "Withstand radial load",
+    "Option4": "Carry journal loads",
+    "Answer": "Withstand axial thrust",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which bearing carry the load parallel to its bearing axis?",
+    "Option1": "Split bearing",
+    "Option2": "Plain bearing",
+    "Option3": "Thrust bearing",
+    "Option4": "Radial bearing",
+    "Answer": "Thrust bearing",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which bearing material is best suited for hard journals?",
+    "Option1": "Sintered alloy",
+    "Option2": "Aluminium alloy",
+    "Option3": "Copper lead alloy",
+    "Option4": "Cadmium based alloy",
+    "Answer": "Aluminium alloy",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which bearing material has low co-efficient of friction and high material cost?",
+    "Option1": "Nylon",
+    "Option2": "Teflon",
+    "Option3": "Thrust ball bearing",
+    "Option4": "Laminated phenolics",
+    "Answer": "Teflon",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which type of bearing used for taking high axial thrust load?",
+    "Option1": "Roller bearing",
+    "Option2": "Tapered roller bearing",
+    "Option3": "Self align roller bearing",
+    "Option4": "Angular contact ball bearing",
+    "Answer": "Tapered roller bearing",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the name of bearing?",
+    "Option1": "Split bearing",
+    "Option2": "Solid bearing",
+    "Option3": "Thrust bearing",
+    "Option4": "Journal bearing",
+    "Answer": "Solid bearing",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/FITTER%2FFITTER%20SEM3%2F176%20TO%20200%2F191.PNG?alt=media&token=78603562-9346-4a9e-bc14-0c51963c38ee"
+  },
+  {
+    "Question": "What is the name of bearing?",
+    "Option1": "Ball bearing",
+    "Option2": "Roller bearing",
+    "Option3": "Thrust bearing",
+    "Option4": "Journal bearing",
+    "Answer": "Thrust bearing",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/FITTER%2FFITTER%20SEM3%2F176%20TO%20200%2F192.PNG?alt=media&token=4bec951e-5148-47a9-9df9-714c43074573"
+  },
+  {
+    "Question": "What is the name of bearing?",
+    "Option1": "Split bearing",
+    "Option2": "Bush bearing",
+    "Option3": "Solid bearing",
+    "Option4": "Journal bearing",
+    "Answer": "Split bearing",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/FITTER%2FFITTER%20SEM3%2F176%20TO%20200%2F193.PNG?alt=media&token=54a0d393-0d03-4e0d-96f7-7114c25a9646"
+  },
+  {
+    "Question": "Which type of bearing used for very heavy radial load?",
+    "Option1": "Ball bearing",
+    "Option2": "Bush bearing",
+    "Option3": "Needle bearing",
+    "Option4": "Double row roller bearing",
+    "Answer": "Double row roller bearing",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which type of bearing is designed to take axial thrust as well as radial loads?",
+    "Option1": "Ball bearing",
+    "Option2": "Roller bearing",
+    "Option3": "Taper roller bearing",
+    "Option4": "Angular contact ball bearing",
+    "Answer": "Angular contact ball bearing",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the name of instrument",
+    "Option1": "Depth vernier gauge",
+    "Option2": "Vernier height gauge",
+    "Option3": "Clamp type height gauge",
+    "Option4": "Height gauge with slip gauge holder",
+    "Answer": "Height gauge with slip gauge holder",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/FITTER%2FFITTER%20SEM3%2F176%20TO%20200%2F197.PNG?alt=media&token=185050c3-374c-4f76-b2b1-e6115d5a05a2"
+  },
+  {
+    "Question": "Which type of bearing metal is self lubricated?",
+    "Option1": "White metal",
+    "Option2": "Sintered alloy",
+    "Option3": "Aluminium alloy",
+    "Option4": "Cadmium based alloy",
+    "Answer": "Sintered alloy",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which bearing is used in the limited space?",
+    "Option1": "Needle bearing",
+    "Option2": "Thrust ball bearing",
+    "Option3": "Taper roller bearing",
+    "Option4": "Angular contact ball bearing",
+    "Answer": "Needle bearing",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which bearing loading is at right angles to the bearing axis?",
+    "Option1": "Thrust bearing",
+    "Option2": "Journal bearing",
+    "Option3": "Solid bearing",
+    "Option4": "Split bearing",
+    "Answer": "Journal bearing",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which type of bearing has provision for wear adjustment?",
+    "Option1": "Adjustable slide bearing",
+    "Option2": "Thrust ball bearing",
+    "Option3": "Tapered roller bearing",
+    "Option4": "Self aligned bush bearing",
+    "Answer": "Adjustable slide bearing",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the type of key?",
+    "Option1": "Feather key",
+    "Option2": "Gib head key",
+    "Option3": "Woodruff key",
+    "Option4": "Flat saddle key",
+    "Answer": "Woodruff key",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/FITTER%2FFITTER%20SEM3%2F176%20TO%20200%2F203.PNG?alt=media&token=8201334e-9d6c-40d3-a0af-be523ef7b6b4"
+  },
+  {
+    "Question": "Which part of ball bearing do not rotate along the bearing assembly?",
+    "Option1": "Ball cage",
+    "Option2": "Inner race",
+    "Option3": "Outer race",
+    "Option4": "Rolling elements",
+    "Answer": "Outer race",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Why extra clearance is provided between bearing and journal in the aluminium alloy bearing?",
+    "Option1": "To allow lubricant to flow freely",
+    "Option2": "To overcome leaner expansion",
+    "Option3": "To over come co-efficient expansion",
+    "Option4": "To overcome high thermal expansion",
+    "Answer": "To overcome high thermal expansion",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  }
+]

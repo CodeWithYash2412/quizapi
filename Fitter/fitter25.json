@@ -1,0 +1,227 @@
+[
+  {
+    "Question": "What is the name of nut having top part in cylindrical shape and bottom part in hexagonal shape?",
+    "Option1": "Slotted nut",
+    "Option2": "T - Nuts",
+    "Option3": "Cap nuts",
+    "Option4": "Castle nuts",
+    "Answer": "Castle nuts",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which type of machine screw used in heavy duty assembly work?",
+    "Option1": "Pan head screw",
+    "Option2": "Cheese head screw",
+    "Option3": "Round head screw",
+    "Option4": "Hexagon head screws",
+    "Answer": "Hexagon head screws",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which type of machine screw is used in light assembly work?",
+    "Option1": "Hexagon head screw",
+    "Option2": "Cheese head screw",
+    "Option3": "Hexagon socket head cap screws",
+    "Option4": "Square head counter sink head screws",
+    "Answer": "Cheese head screw",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which file with sharp and parallel teeth used on soft and non metallic materials?",
+    "Option1": "Pillar file",
+    "Option2": "Tinker file",
+    "Option3": "Dreadnaught file",
+    "Option4": "Warding file",
+    "Answer": "Dreadnaught file",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which file used as finishing tool and ensure precision smoothness?",
+    "Option1": "Swiss pattern file",
+    "Option2": "Pillar file",
+    "Option3": "Dreadnaught file",
+    "Option4": "Warding file",
+    "Answer": "Swiss pattern file",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the thickness range of BIS set of feeler gauge?",
+    "Option1": "0.01 mm to 1 mm in steps of 0.01 mm",
+    "Option2": "0.02 mm to 1 mm in steps of 0.02 mm",
+    "Option3": "0.03 mm to 1 mm in steps of 0.01 mm",
+    "Option4": "0.04 mm to 1 mm in steps of 0.01 mm",
+    "Answer": "0.02 mm to 1 mm in steps of 0.02 mm",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the height of slip gauge (q = 25° = 0.4226)?",
+    "Option1": 41.26,
+    "Option2": 42.26,
+    "Option3": 43.26,
+    "Option4": 44.26,
+    "Answer": 42.26,
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/FITTER%2FFITTER%20SEM3%2F126%20TO%20150%2F134.PNG?alt=media&token=8321c9b3-da6c-4e63-9cb9-0279aed25e0a"
+  },
+  {
+    "Question": "What is the instrument used for measuring internal diameter of workpiece?",
+    "Option1": "Parallel leg caliper",
+    "Option2": "Outside caliper",
+    "Option3": "Pair of special jaws by using slip gauge",
+    "Option4": "Vernier caliper",
+    "Answer": "Pair of special jaws by using slip gauge",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/FITTER%2FFITTER%20SEM3%2F126%20TO%20150%2F135.PNG?alt=media&token=887d1d3c-8378-40af-b628-90b7ae399d08"
+  },
+  {
+    "Question": "What is the calibration grade of slip gauges?",
+    "Option1": "Grade 0",
+    "Option2": "Grade 00",
+    "Option3": "Grade I",
+    "Option4": "Grade II",
+    "Answer": "Grade 00",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the method of build of size using slip gauge?",
+    "Option1": "Wringing",
+    "Option2": "Sliding",
+    "Option3": "Glazing",
+    "Option4": "Loading",
+    "Answer": "Wringing",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/FITTER%2FFITTER%20SEM3%2F126%20TO%20150%2F138.PNG?alt=media&token=9e63ca11-5830-4c1e-ae0c-7e0821a86467"
+  },
+  {
+    "Question": "What is the gauge used?",
+    "Option1": "Thread ring gauge",
+    "Option2": "Thread plug gauge",
+    "Option3": "Screw pitch gauge",
+    "Option4": "Thread caliper gauge",
+    "Answer": "Thread plug gauge",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/FITTER%2FFITTER%20SEM3%2F126%20TO%20150%2F139.PNG?alt=media&token=28c0fcce-746f-42f5-9bbb-14fe88aad3da"
+  },
+  {
+    "Question": "What is the purpose of ring gauge?",
+    "Option1": "Check the outside diameter",
+    "Option2": "Check the holes diameter",
+    "Option3": "Check the tapered shaft diameter",
+    "Option4": "Check the outside threads",
+    "Answer": "Check the outside diameter",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the range of size in individual radius gauges?",
+    "Option1": "Step of 1mm",
+    "Option2": "Step of 0.5mm",
+    "Option3": "Step of 1.5mm",
+    "Option4": "Step of 2mm",
+    "Answer": "Step of 1mm",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the gauge to check acceptable size on external diameter of a shaft?",
+    "Option1": "Ring gauge - Go",
+    "Option2": "Plug gauge - Go",
+    "Option3": "Ring gauge - No Go",
+    "Option4": "Plug gauge - No Go",
+    "Answer": "Ring gauge - Go",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/FITTER%2FFITTER%20SEM3%2F126%20TO%20150%2F142.PNG?alt=media&token=6bb18b1f-6947-4929-819f-4b927972f09a"
+  },
+  {
+    "Question": "What is the finishing process carried out with abrasive sticks to correct the profile of internal cylindrical surfaces?",
+    "Option1": "Lapping",
+    "Option2": "Honing",
+    "Option3": "Grinding",
+    "Option4": "Filing",
+    "Answer": "Honing",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which lapping material used for easy charging and rapid cutting?",
+    "Option1": "Cast iron",
+    "Option2": "Copper and brass",
+    "Option3": "Close grained iron",
+    "Option4": "White cast iron",
+    "Answer": "Copper and brass",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which lap material is inexpensive and can be expanded if worn out?",
+    "Option1": "Brass",
+    "Option2": "Cast iron",
+    "Option3": "Lead",
+    "Option4": "Bronze",
+    "Answer": "Lead",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which type of abrasive material is externally hard and used in lapping for heavy stock removal?",
+    "Option1": "Silicon carbide",
+    "Option2": "Aluminium oxide",
+    "Option3": "Boron carbide",
+    "Option4": "Diamond",
+    "Answer": "Silicon carbide",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which abrasive is used for lapping dies and gauges?",
+    "Option1": "Boron carbide",
+    "Option2": "Silicon carbide",
+    "Option3": "Diamond",
+    "Option4": "Aluminium oxide",
+    "Answer": "Boron carbide",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which is the hardest of all abrasive material and used for lapping tungsten carbide?",
+    "Option1": "Silicon carbide",
+    "Option2": "Boron carbide",
+    "Option3": "Diamond",
+    "Option4": "Aluminium oxide",
+    "Answer": "Diamond",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the abrasive used for lapping accurately finishing very small holes?",
+    "Option1": "Silicon carbide",
+    "Option2": "Diamond",
+    "Option3": "Boron carbide",
+    "Option4": "Aluminium oxide",
+    "Answer": "Diamond",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the purpose of lapping vehicles?",
+    "Option1": "Regulate cutting action and lubricate surface",
+    "Option2": "Medium effective operation",
+    "Option3": "Decrease dimensional accuracy",
+    "Option4": "Decrease cutting ability",
+    "Answer": "Regulate cutting action and lubricate surface",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which lapping vehicle is used for lapping copper and its alloys?",
+    "Option1": "Vegetable oil",
+    "Option2": "Machine oil",
+    "Option3": "Soluble oil",
+    "Option4": "Petroleum jelly",
+    "Answer": "Soluble oil",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the purpose of lapping tool?",
+    "Option1": "Lapping tool for external surface",
+    "Option2": "Lapping tool for internal surface",
+    "Option3": "Lapping tool for external cylindrical surface",
+    "Option4": "Lapping tool for internal cylindrical surface",
+    "Answer": "Lapping tool for external cylindrical surface",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/FITTER%2FFITTER%20SEM3%2F126%20TO%20150%2F152.PNG?alt=media&token=3c36a52f-fd2e-46c9-8d9f-4259fac8545b"
+  },
+  {
+    "Question": "What is the temperature that change of structure to austenite starts at 723° in heat treatment process?",
+    "Option1": "Lower critical temperature",
+    "Option2": "Upper critical temperature",
+    "Option3": "Melting temperature",
+    "Option4": "Critical temperature",
+    "Answer": "Lower critical temperature",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  }
+]

@@ -1,0 +1,227 @@
+[
+  {
+    "Question": "What is the shape of telescopic gauge?",
+    "Option1": "C - shaped",
+    "Option2": "U - shaped",
+    "Option3": "T - shaped",
+    "Option4": "S - shaped",
+    "Answer": "T - shaped",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the name of instrument?",
+    "Option1": "Telescopic gauge",
+    "Option2": "Inside micrometer",
+    "Option3": "Bore dial gauge",
+    "Option4": "Micrometer external",
+    "Answer": "Inside micrometer",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/sem3%20151to175%2F160.PNG?alt=media&token=4d46e30b-fce3-4e96-a6db-1afc6e55f3e1"
+  },
+  {
+    "Question": "What is the least count of inside micrometer - metric?",
+    "Option1": "0.1 mm",
+    "Option2": "0.01 mm",
+    "Option3": "0.001 mm",
+    "Option4": "0.02 mm",
+    "Answer": "0.01 mm",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the length a spacing collar used in inside micrometer?",
+    "Option1": "12 mm",
+    "Option2": "13 mm",
+    "Option3": "25 mm",
+    "Option4": "38 mm",
+    "Answer": "12 mm",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "How many types of split bearing?",
+    "Option1": 4,
+    "Option2": 3,
+    "Option3": 5,
+    "Option4": 2,
+    "Answer": 2,
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the name of split bearing?",
+    "Option1": "Flanged pattern type",
+    "Option2": "Parallel pattern type",
+    "Option3": "Spherical pattern type",
+    "Option4": "Bush pattern type",
+    "Answer": "Flanged pattern type",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/sem3%20151to175%2F164.PNG?alt=media&token=bc033868-74d5-4f6a-b2ec-94438d77c796"
+  },
+  {
+    "Question": "What is the name of split bearing?",
+    "Option1": "Flanged pattern type",
+    "Option2": "Parallel pattern type",
+    "Option3": "Spherical pattern type",
+    "Option4": "Bush pattern type",
+    "Answer": "Parallel pattern type",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/sem3%20151to175%2F165.PNG?alt=media&token=9e7c5331-aeb3-42b4-8cbb-588c896b9f45"
+  },
+  {
+    "Question": "What is the name of part marked as ‘x’ in setting the tool makers button?",
+    "Option1": "Surface plate",
+    "Option2": "Angle plate",
+    "Option3": "Gauge block",
+    "Option4": "Pressure",
+    "Answer": "Gauge block",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/sem3%20151to175%2F166.PNG?alt=media&token=7096d1f4-bce7-4d01-9650-cc9aaeaa4f28"
+  },
+  {
+    "Question": "Which one is used for producing a bore to a high degree of positional accuracy?",
+    "Option1": "Reamer",
+    "Option2": "Drill",
+    "Option3": "Boring tool",
+    "Option4": "Tool maker's button",
+    "Answer": "Tool maker's button",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which work holding device is more suitable for accurate boring using tool maker’s button?",
+    "Option1": "3-Jaw chuck",
+    "Option2": "Magnetic chuck",
+    "Option3": "Collect",
+    "Option4": "Face plate",
+    "Answer": "Face plate",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the operation?",
+    "Option1": "Checking the height of job",
+    "Option2": "Turning button with height gauge",
+    "Option3": "Marking button with height gauge",
+    "Option4": "Setting button with height gauge",
+    "Answer": "Setting button with height gauge",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/sem3%20151to175%2F169.PNG?alt=media&token=8e30245c-7afc-4d6f-abc6-f87e0c6c1c80"
+  },
+  {
+    "Question": "What is the specific use of tool maker’s button in lathe operation?",
+    "Option1": "For producing a tool to high degree accuracy",
+    "Option2": "For producing bore to a high degree of positional accuracy",
+    "Option3": "For producing a button to a high degree of positional accuracy",
+    "Option4": "For producing tool to a high degree of positional accuracy",
+    "Answer": "For producing bore to a high degree of positional accuracy",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the use of inside micrometer?",
+    "Option1": "To measure the depth of hole",
+    "Option2": "Measuring keyways and small slots",
+    "Option3": "Measuring the external surface",
+    "Option4": "Determine the distance between internal parallel surface",
+    "Answer": "Determine the distance between internal parallel surface",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "How the two halves of split bearing is joined?",
+    "Option1": "On diameter line",
+    "Option2": "On chord line",
+    "Option3": "On length vice",
+    "Option4": "On offset of shaft",
+    "Answer": "On diameter line",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What do you mean by stating in a drawing?",
+    "Option1": "Upper deviation",
+    "Option2": "Concentricity",
+    "Option3": "Positional tolerance",
+    "Option4": "Hole tolerance",
+    "Answer": "Positional tolerance",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/sem3%20151to175%2F174.PNG?alt=media&token=6462c3bf-45e7-4a64-acbb-3a4585428ee7"
+  },
+  {
+    "Question": "What is the name of first member in a simple gear train?",
+    "Option1": "Driven",
+    "Option2": "Driver",
+    "Option3": "Idler",
+    "Option4": "Reverible gear",
+    "Answer": "Driver",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the name of last member in a simple gear train?",
+    "Option1": "Driver",
+    "Option2": "Idler",
+    "Option3": "Driven",
+    "Option4": "Reversing gear",
+    "Answer": "Driven",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "How many numbers of gears having in a simple gear train?",
+    "Option1": 2,
+    "Option2": 3,
+    "Option3": 4,
+    "Option4": 5,
+    "Answer": 3,
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the formula used to find flat width of a buttress thread?",
+    "Option1": "Pitch/2",
+    "Option2": "Pitch/3",
+    "Option3": "Pitch/4",
+    "Option4": "Pitch/8",
+    "Answer": "Pitch/8",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the shape of buttress thread flank?",
+    "Option1": "One flank is 90° and the other 45°",
+    "Option2": "One flank is 30° and the other 45°",
+    "Option3": "One flank is 60° and the other 45°",
+    "Option4": "Two flanks are at 60°",
+    "Answer": "One flank is 90° and the other 45°",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the angle of saw tooth thread?",
+    "Option1": "29°",
+    "Option2": "30°",
+    "Option3": "45°",
+    "Option4": "90°",
+    "Answer": "30°",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the type of thread?",
+    "Option1": "Acme thread",
+    "Option2": "Square thread",
+    "Option3": "Worm thread",
+    "Option4": "Saw tooth thread",
+    "Answer": "Saw tooth thread",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/sem3%20151to175%2F182.PNG?alt=media&token=7c9b2edb-519a-49cb-b0d7-7c3a5e0c3c93"
+  },
+  {
+    "Question": "What does BIS stands for?",
+    "Option1": "Bureau of International Standard",
+    "Option2": "Bureau of Indian Standard",
+    "Option3": "Bureau of International Society",
+    "Option4": "Bereau of Indian Society",
+    "Answer": "Bureau of Indian Standard",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which one is the angle of buttress thread?",
+    "Option1": "30°",
+    "Option2": "45°",
+    "Option3": "55°",
+    "Option4": "60°",
+    "Answer": "45°",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the type of thread?",
+    "Option1": "Acme",
+    "Option2": "Square",
+    "Option3": "Saw tooth",
+    "Option4": "Buttress",
+    "Answer": "Buttress",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/sem3%20151to175%2F185.PNG?alt=media&token=cc2ca23e-b9f6-479c-a5bf-aeb43944a073"
+  }
+]

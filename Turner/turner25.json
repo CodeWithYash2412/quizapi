@@ -1,0 +1,227 @@
+[
+  {
+    "Question": "What is the most accepted method of representing roughness?",
+    "Option1": "Grade number",
+    "Option2": "Symbol",
+    "Option3": "Units",
+    "Option4": "Weight",
+    "Answer": "Grade number",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the purpose of slots milled on two planes of angle plate?",
+    "Option1": "Reduce the weight",
+    "Option2": "Clamp the job",
+    "Option3": "Maintain accuracy",
+    "Option4": "Good appreance",
+    "Answer": "Clamp the job",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What will happen if lap material used to make laps harder than work piece?",
+    "Option1": "Improve better geometrical accuracy",
+    "Option2": "Abrasives cut the lap instead of work piece",
+    "Option3": "Improve dimensional accuracy",
+    "Option4": "Refines surface finish",
+    "Answer": "Abrasives cut the lap instead of work piece",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "How we can protect the surface of marking table to maintain accuracy?",
+    "Option1": "By providing a guard",
+    "Option2": "Providing plastic coating",
+    "Option3": "By applying thin layers of oil",
+    "Option4": "Provide a stand",
+    "Answer": "By applying thin layers of oil",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which part is marked as ‘X’ in copying attachment?",
+    "Option1": "Master profile",
+    "Option2": "Stylus",
+    "Option3": "Work piece",
+    "Option4": "Rear tool slide",
+    "Answer": "Work piece",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/sem3%20101to125%2F112.PNG?alt=media&token=1f0d6400-a3dd-4927-8c63-eef654e6eb67"
+  },
+  {
+    "Question": "Which part is marked as ‘X’ in copying attachment?",
+    "Option1": "Master profile",
+    "Option2": "Stylus",
+    "Option3": "Rear tool slide",
+    "Option4": "Control lever for hydraulic slide",
+    "Answer": "Stylus",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/sem3%20101to125%2F113.PNG?alt=media&token=7e2eb84b-4196-4357-9f0f-3d2cd096603e"
+  },
+  {
+    "Question": "Which part in marked as ‘X’ in copying attachment?",
+    "Option1": "Master profile",
+    "Option2": "Stylus",
+    "Option3": "Work piece",
+    "Option4": "Rear tool slide",
+    "Answer": "Master profile",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/sem3%20101to125%2F114.PNG?alt=media&token=72ed7e71-3fc4-4297-89a0-e5cce2bc89e6"
+  },
+  {
+    "Question": "What is the name of attachment?",
+    "Option1": "Taper turning attachment",
+    "Option2": "Milling attachment",
+    "Option3": "Grinding attachment",
+    "Option4": "Copying attachment",
+    "Answer": "Grinding attachment",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/sem3%20101to125%2F115.PNG?alt=media&token=afe5f289-78fa-4e85-a333-c05eaf26c5f4"
+  },
+  {
+    "Question": "What is the name of attachment?",
+    "Option1": "Taper turning attachment",
+    "Option2": "Milling attachment",
+    "Option3": "Grinding attachment",
+    "Option4": "Copying attachment",
+    "Answer": "Milling attachment",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/sem3%20101to125%2F116.PNG?alt=media&token=a3a11f07-51d5-48cb-be49-5b103904e2aa"
+  },
+  {
+    "Question": "What is the name of operation?",
+    "Option1": "Grinding",
+    "Option2": "Gear cutting",
+    "Option3": "Relieving a gear cutter",
+    "Option4": "Spherical turning",
+    "Answer": "Relieving a gear cutter",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/sem3%20101to125%2F117.PNG?alt=media&token=2f9f827d-2a06-430b-a525-2949267f94b4"
+  },
+  {
+    "Question": "What is the name of attachment?",
+    "Option1": "Copying attachment",
+    "Option2": "Gear cutting attachment",
+    "Option3": "Grinding attachment",
+    "Option4": "Taper turning attachment",
+    "Answer": "Gear cutting attachment",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/sem3%20101to125%2F118.PNG?alt=media&token=6f5cf1de-18d9-4b02-9872-0f6ec4ab821f"
+  },
+  {
+    "Question": "What is the type of checking?",
+    "Option1": "Checking effective diameter using 3 wire method",
+    "Option2": "Checking effective diameter using prism",
+    "Option3": "Checking minor diameter using micrometer",
+    "Option4": "Checking major diameter using 3 wire method",
+    "Answer": "Checking effective diameter using 3 wire method",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/sem3%20101to125%2F119.PNG?alt=media&token=11f892ee-eb88-4bff-bc95-8a9b8286c3b0"
+  },
+  {
+    "Question": "What is the name of gauge?",
+    "Option1": "Screw thread micrometer",
+    "Option2": "Screw thread ring gauge",
+    "Option3": "Screw thread plug gauge",
+    "Option4": "Screw thread caliper gauge",
+    "Answer": "Screw thread caliper gauge",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/sem3%20101to125%2F120.PNG?alt=media&token=cc8796a9-3ea4-48ff-acf7-f0fa88a25c31"
+  },
+  {
+    "Question": "What is the name of gauge?",
+    "Option1": "Thread ring gauge",
+    "Option2": "Thread plug gauge",
+    "Option3": "Plain ring gauge",
+    "Option4": "Thread calliper gauge",
+    "Answer": "Thread ring gauge",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/sem3%20101to125%2F121.PNG?alt=media&token=000bcc27-ec85-41bf-9702-db6a29ff25b3"
+  },
+  {
+    "Question": "What is the name of gauge?",
+    "Option1": "Screw pitch gauge",
+    "Option2": "Snap gauge",
+    "Option3": "Feeler gauge",
+    "Option4": "Caliper gauge",
+    "Answer": "Screw pitch gauge",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/sem3%20101to125%2F122.PNG?alt=media&token=925bf759-e88d-47b6-8673-5f4b77b85e8c"
+  },
+  {
+    "Question": "What is the name of part marked as ‘X’ in thread measurement?",
+    "Option1": "Slip gauge",
+    "Option2": "Taper parallels",
+    "Option3": "Micrometers",
+    "Option4": "Vee prism",
+    "Answer": "Taper parallels",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/sem3%20101to125%2F123.PNG?alt=media&token=76dd2e41-da05-4e77-9ff5-008422391f02"
+  },
+  {
+    "Question": "What is the name of part marked as ‘X’?",
+    "Option1": "Precision roller",
+    "Option2": "Slip gauges built up",
+    "Option3": "Parallel blocks",
+    "Option4": "Taper parallels",
+    "Answer": "Slip gauges built up",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/sem3%20101to125%2F124.PNG?alt=media&token=e02d6186-8871-4711-99c6-c293516a1cb0"
+  },
+  {
+    "Question": "What is the name of device?",
+    "Option1": "Milling machine",
+    "Option2": "Optical projector",
+    "Option3": "Grinding machine",
+    "Option4": "Slotting machine",
+    "Answer": "Optical projector",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/sem3%20101to125%2F125.PNG?alt=media&token=13e9cb83-5eef-441d-9345-ac189ecbae16"
+  },
+  {
+    "Question": "What does M20 stands for?",
+    "Option1": "Metric thread 20 mm diameter",
+    "Option2": "Metric thread 20 mm length",
+    "Option3": "Metric thread 20 mm pitch",
+    "Option4": "Metric thread 20 mm lead",
+    "Answer": "Metric thread 20 mm diameter",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the formula for metric thread depth?",
+    "Option1": "0.5 x pitch",
+    "Option2": "0.6134 x pitch",
+    "Option3": "0.6403 x pitch",
+    "Option4": "0.75 x pitch",
+    "Answer": "0.6134 x pitch",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the name of lathe attachment?",
+    "Option1": "Grinding attachment",
+    "Option2": "Milling attachment",
+    "Option3": "Copying attachment",
+    "Option4": "Taper turning attachment",
+    "Answer": "Copying attachment",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/sem3%20101to125%2F128.PNG?alt=media&token=81afb12a-363d-4ef5-9687-e2086d7e41a0"
+  },
+  {
+    "Question": "What is the advantage of follower steady rest over fixed steady rest?",
+    "Option1": "Support at fixed place of work",
+    "Option2": "Support continuous entire length of work",
+    "Option3": "It rotate with the work",
+    "Option4": "It rotate and moves along the work",
+    "Answer": "Support continuous entire length of work",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the disadvantage of fixed steady rest over follower steady rest?",
+    "Option1": "Support at one fixed place only",
+    "Option2": "Support continuous entire length",
+    "Option3": "It rotate with the job",
+    "Option4": "It rotate and moves along the work",
+    "Answer": "Support at one fixed place only",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the purpose of locking screw marked as ‘x’ in steady rest?",
+    "Option1": "To lock the bearing pad",
+    "Option2": "To clamp the steady rest",
+    "Option3": "To lock the top portion of steady rest",
+    "Option4": "To adjust the bearing pad",
+    "Answer": "To lock the bearing pad",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/sem3%20101to125%2F131.PNG?alt=media&token=d5c10094-da15-4be5-be05-7151fe1bb655"
+  },
+  {
+    "Question": "What is the advantage of roller steady rest over fixed rest?",
+    "Option1": "It can fixed on saddle",
+    "Option2": "Easy to rotate the work",
+    "Option3": "It rotates and moves along the work",
+    "Option4": "It can fixed on tool post",
+    "Answer": "Easy to rotate the work",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  }
+]

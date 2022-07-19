@@ -1,0 +1,227 @@
+[
+  {
+    "Question": "Which type of motor is used in the wet grinder?",
+    "Option1": "Universal motor",
+    "Option2": "Repulsion motor",
+    "Option3": "Capacitor start induction run motor",
+    "Option4": "Capacitor start capacitor run motor",
+    "Answer": "Capacitor start induction run motor",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the name of the circuit?",
+    "Option1": "Electronic fan regulator",
+    "Option2": "Electronic voltage multiplier",
+    "Option3": "Electronic voltage stabilizer",
+    "Option4": "Electronic triggering circuit of SCR",
+    "Answer": "Electronic fan regulator",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/Electrician%2FSEM2%2FElectrician19%2F217.PNG?alt=media&token=6270bd02-c4e9-4010-9f12-7b0416454058"
+  },
+  {
+    "Question": "Which type of transformer is used for high frequency application?",
+    "Option1": "Ring core transformer",
+    "Option2": "Ferrite core transformer",
+    "Option3": "Silicon steel core transformer",
+    "Option4": "Grain oriented core transformer",
+    "Answer": "Ferrite core transformer",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the relationship between primary voltage (E1, V1) and secondary voltage (E2, V2) in a ideal transformer?",
+    "Option1": "E1= V1 and E2 = V2",
+    "Option2": "E1 > V1 and E2 > V2",
+    "Option3": "E1 < V1 and E2 < V2",
+    "Option4": "E1 = V2 and E2 = V1",
+    "Answer": "E1= V1 and E2 = V2",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/Electrician%2FSEM2%2FElectrician19%2F219.PNG?alt=media&token=367b6287-96f6-4a73-847f-8e3bf4239dad"
+  },
+  {
+    "Question": "What is the function of conservator in transformer?",
+    "Option1": "Prevents the moisture entry",
+    "Option2": "Transfers the heat to atmosphere",
+    "Option3": "Allows to release internal pressure",
+    "Option4": "Allows expansion of oil level due to load variation",
+    "Answer": "Allows expansion of oil level due to load variation",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which loss of transformer is determined by short circuit test?",
+    "Option1": "Copper loss",
+    "Option2": "Windage loss",
+    "Option3": "Hysteresis loss",
+    "Option4": "Eddy current loss",
+    "Answer": "Copper loss",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Calculate the voltage regulation in percentage of the transformer if the no load voltage is 240 volt and full load voltage is 220 volt?",
+    "Option1": "7.2 %",
+    "Option2": "8.3 %",
+    "Option3": "8.71 %",
+    "Option4": "9.09 %",
+    "Answer": "9.09 %",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the purpose of using laminated core in transformer?",
+    "Option1": "Reduce copper loss",
+    "Option2": "Reduce hysteresis loss",
+    "Option3": "Reduce mechanical loss",
+    "Option4": "Reduce eddy current loss",
+    "Answer": "Reduce eddy current loss",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the cooling method of transformer?",
+    "Option1": "Oil natural cooling",
+    "Option2": "Oil natural air forced cooling",
+    "Option3": "Oil forced air forced cooling",
+    "Option4": "Oil natural water forced cooling",
+    "Answer": "Oil natural cooling",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/Electrician%2FSEM2%2FElectrician19%2F224.PNG?alt=media&token=399b90d7-ba70-4705-ad31-aeaf7f3d0137"
+  },
+  {
+    "Question": "What is the condition for obtaining maximum efficiency from transformer?",
+    "Option1": "Copper loss > Iron loss",
+    "Option2": "Copper loss < Iron loss",
+    "Option3": "Copper loss = Iron loss",
+    "Option4": "Copper loss =Eddy current loss",
+    "Answer": "Copper loss = Iron loss",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the function of top float switch of buchholz relay in transformer?",
+    "Option1": "Activate in moisture presence",
+    "Option2": "Activate at overloading condition",
+    "Option3": "Activate at open circuit condition",
+    "Option4": "Activate at high temperature condition",
+    "Answer": "Activate at overloading condition",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Why the core of current transformer is having low reactance and low core losses?",
+    "Option1": "To minimise the burden",
+    "Option2": "To maintain constant output",
+    "Option3": "To prevent high static shield",
+    "Option4": "To minimise the error in reading",
+    "Answer": "To minimise the error in reading",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "How the error in reading of a potential transformer can be reduced?",
+    "Option1": "Using thin laminated core",
+    "Option2": "Providing long magnetic path",
+    "Option3": "Using high flux density material",
+    "Option4": "Providing good quality core material",
+    "Answer": "Providing good quality core material",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Why the load is disconnected before the OFF load tap changing operation?",
+    "Option1": "To disconnect the tappings from neutral point",
+    "Option2": "To disconnect the moving contact of the diverter",
+    "Option3": "To avoid heavy sparking at the contact points",
+    "Option4": "To provide an electrical isolation for the windings",
+    "Answer": "To avoid heavy sparking at the contact points",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the name of the part in power transformer?",
+    "Option1": "Breather",
+    "Option2": "Tap charger",
+    "Option3": "Explosion vent",
+    "Option4": "Buchholz relay",
+    "Answer": "Buchholz relay",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/Electrician%2FSEM2%2FElectrician19%2F230.PNG?alt=media&token=bd74c364-02ef-4b36-a8fd-3bda94b9c804"
+  },
+  {
+    "Question": "Which condition is absolutely essential for parallel operation of two transformers?",
+    "Option1": "Nature of load",
+    "Option2": "Type of cooling",
+    "Option3": "Phase sequence",
+    "Option4": "Class of insulation used",
+    "Answer": "Phase sequence",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which construction technique is used to reduce copper loss in larger transformers?",
+    "Option1": "Use of laminated core",
+    "Option2": "By reducing core thickness",
+    "Option3": "By using grain oriented core",
+    "Option4": "Use stepped core arrangement",
+    "Answer": "Use stepped core arrangement",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the name of transformer?",
+    "Option1": "Air core transformer",
+    "Option2": "Iron core transformer",
+    "Option3": "Ring core transformer",
+    "Option4": "Ferrite core transformer",
+    "Answer": "Air core transformer",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/Electrician%2FSEM2%2FElectrician19%2F233.PNG?alt=media&token=a89167e8-72d9-424b-97b6-b09f64480794"
+  },
+  {
+    "Question": "Which transformer is used to measure high voltage installations?",
+    "Option1": "Pulse transformers",
+    "Option2": "Ignition transformers",
+    "Option3": "Potential transformers",
+    "Option4": "Constant voltage transformers",
+    "Answer": "Potential transformers",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "How does the moisture is controlled in breather fitted on power transformers?",
+    "Option1": "Using silica gel",
+    "Option2": "Using transformer oil",
+    "Option3": "Using sodium chloride",
+    "Option4": "Using ammonium jelly",
+    "Answer": "Using silica gel",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which power loss is assessed by open-circuit test on transformer?",
+    "Option1": "Hysteresis loss only",
+    "Option2": "Eddy current loss only",
+    "Option3": "Copper loss",
+    "Option4": "Core loss",
+    "Answer": "Core loss",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which is determined by the crackle test of transformer oil?",
+    "Option1": "Acidity",
+    "Option2": "Moisture",
+    "Option3": "Viscosity",
+    "Option4": "Dielectric strength",
+    "Answer": "Moisture",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which material is used to make core of power transformer?",
+    "Option1": "Soft iron",
+    "Option2": "Rolled steel",
+    "Option3": "Copper alloy",
+    "Option4": "Cold rolled grain oriented",
+    "Answer": "Cold rolled grain oriented",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the name of transformer?",
+    "Option1": "Auto transformer",
+    "Option2": "Core type transformer",
+    "Option3": "Shell type transformer",
+    "Option4": "Audio frequency transformer",
+    "Answer": "Core type transformer",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/Electrician%2FSEM2%2FElectrician19%2F239.PNG?alt=media&token=5e66b063-bcc4-4cd5-9830-7bf382c8e364"
+  },
+  {
+    "Question": "What is the purpose of providing explosion vent in a power transformer?",
+    "Option1": "Air releasing",
+    "Option2": "Heat releasing",
+    "Option3": "Pressure releasing",
+    "Option4": "Moisture releasing",
+    "Answer": "Pressure releasing",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  }
+]

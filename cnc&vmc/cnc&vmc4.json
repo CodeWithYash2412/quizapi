@@ -1,0 +1,227 @@
+[
+  {
+    "Question": "What is the safety sign?",
+    "Option1": "Flammable",
+    "Option2": "Poison",
+    "Option3": "Risk of electric shock",
+    "Option4": "Radio active",
+    "Answer": "Risk of electric shock",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/VMC%2F2%2F1.PNG?alt=media&token=61d60d58-5fec-487d-810e-eb39af7354a5"
+  },
+  {
+    "Question": "Which switch is used to stop the machine suddenly?",
+    "Option1": "Cycle stop",
+    "Option2": "Emergency stop",
+    "Option3": "Toggle switch",
+    "Option4": "Spindle stop",
+    "Answer": "Emergency stop",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "How CNC machine is controlled?",
+    "Option1": "By operator",
+    "Option2": "By program",
+    "Option3": "Control system",
+    "Option4": "Electrical unit",
+    "Answer": "By program",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is part program?",
+    "Option1": "Instruction to machine",
+    "Option2": "Instruction to supervisor",
+    "Option3": "Instruction to manager",
+    "Option4": "Instruction to operator",
+    "Answer": "Instruction to machine",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is marked as ʹxʹ?",
+    "Option1": "Tool changing arm",
+    "Option2": "Spindle",
+    "Option3": "Tool magazine",
+    "Option4": "Column",
+    "Answer": "Tool magazine",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/VMC%2F2%2F5.PNG?alt=media&token=536807d0-69f8-4d8f-b735-7a685879703d"
+  },
+  {
+    "Question": "What is marked as ʹxʹ?",
+    "Option1": "Screw shaft",
+    "Option2": "Balls",
+    "Option3": "Ball screw nut",
+    "Option4": "Seal",
+    "Answer": "Balls",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/VMC%2F2%2F6.PNG?alt=media&token=08303a9e-1f59-40fd-914f-05e73806b341"
+  },
+  {
+    "Question": "Which code is used for ʺCircular interpolation clock wise directionʺ?",
+    "Option1": "G01",
+    "Option2": "G02",
+    "Option3": "G03",
+    "Option4": "G00",
+    "Answer": "G02",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which device is used for feed back system in CNC?",
+    "Option1": "Control unit",
+    "Option2": "Axis motor",
+    "Option3": "Encoder",
+    "Option4": "Spindle motor",
+    "Answer": "Encoder",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the operation?",
+    "Option1": "Face milling",
+    "Option2": "Side milling",
+    "Option3": "Pocket milling",
+    "Option4": "Slot milling",
+    "Answer": "Pocket milling",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/VMC%2F2%2F9.PNG?alt=media&token=5ef2e8c0-ea77-43f4-8bf1-c57a7b34bc7d"
+  },
+  {
+    "Question": "Which machine is used for face milling operation?",
+    "Option1": "CNC lathe",
+    "Option2": "CNC grinding",
+    "Option3": "CNC VMC",
+    "Option4": "CNC wire EDM",
+    "Answer": "CNC VMC",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the operation to produce internal thread in VMC?",
+    "Option1": "Reaming",
+    "Option2": "Tapping",
+    "Option3": "Drilling",
+    "Option4": "Boring",
+    "Answer": "Tapping",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is name of control system?",
+    "Option1": "Point to point control",
+    "Option2": "Contouring control",
+    "Option3": "2D control",
+    "Option4": "Straight cut control",
+    "Answer": "Contouring control",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/VMC%2F2%2F12.PNG?alt=media&token=c83dab8e-a090-49d6-bc2f-f46534390970"
+  },
+  {
+    "Question": "Which operation is performed by point- to-point system?",
+    "Option1": "Side milling",
+    "Option2": "Face milling",
+    "Option3": "Drilling",
+    "Option4": "Pocket milling",
+    "Answer": "Drilling",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is X-axis movement in VMC?",
+    "Option1": "Transverse",
+    "Option2": "Longitudinal",
+    "Option3": "Up",
+    "Option4": "Down",
+    "Answer": "Longitudinal",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is ATC?",
+    "Option1": "Automatic Tool Changer",
+    "Option2": "Automatic Pallet Changer",
+    "Option3": "Automatic Gauge Changer",
+    "Option4": "Automatic Tool Setter",
+    "Answer": "Automatic Tool Changer",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which axis is moving up and down in VMC?",
+    "Option1": "X",
+    "Option2": "Z",
+    "Option3": "Y",
+    "Option4": "B",
+    "Answer": "Z",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which part is used to prevent access into CNC milling?",
+    "Option1": "Door",
+    "Option2": "Control panel",
+    "Option3": "Machine table",
+    "Option4": "Machine spindle",
+    "Answer": "Door",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which system uses in punched tape?",
+    "Option1": "NC system",
+    "Option2": "CNC system",
+    "Option3": "DNC system",
+    "Option4": "Conventional system",
+    "Answer": "NC system",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which form a program block in CNC?",
+    "Option1": "Cams",
+    "Option2": "Levers",
+    "Option3": "Gears",
+    "Option4": "Alpha numeric codes",
+    "Answer": "Alpha numeric codes",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which motor is used for table movement on CNC milling?",
+    "Option1": "Spindle motor",
+    "Option2": "Hydraulic motor",
+    "Option3": "Coolant motor",
+    "Option4": "Servo motor",
+    "Answer": "Servo motor",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What type of guide way is used in CNC milling?",
+    "Option1": "Flat",
+    "Option2": "Dove tail",
+    "Option3": "V and flat",
+    "Option4": "LM guide way",
+    "Answer": "LM guide way",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is G code for ʺLinear interpolationʺ?",
+    "Option1": "G91",
+    "Option2": "G90",
+    "Option3": "G00",
+    "Option4": "G01",
+    "Answer": "G01",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which interpolation is joining two points in straight line?",
+    "Option1": "Circular interpolation",
+    "Option2": "Linear interpolation",
+    "Option3": "Helical interpolation",
+    "Option4": "Parabolic interpolation",
+    "Answer": "Linear interpolation",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which system provides feed motion along X or Y axis?",
+    "Option1": "Point -to-point control",
+    "Option2": "Contouring control",
+    "Option3": "Straight cut control",
+    "Option4": "3D contouring control",
+    "Answer": "Straight cut control",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the advantage of CNC machine?",
+    "Option1": "Less flexible",
+    "Option2": "Less investment",
+    "Option3": "Less accuracy",
+    "Option4": "Complicated jobs machining",
+    "Answer": "Complicated jobs machining",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  }
+]

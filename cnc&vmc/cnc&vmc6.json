@@ -1,0 +1,227 @@
+[
+  {
+    "Question": "What is the unit of cutting speed in VMC?",
+    "Option1": "Meter/sec",
+    "Option2": "Meter/min",
+    "Option3": "MM/min",
+    "Option4": "Revolution/min",
+    "Answer": "Meter/min",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is unit of feed in VMC?",
+    "Option1": "mm/min",
+    "Option2": "mm/rev",
+    "Option3": "mm/sec",
+    "Option4": "metre/min",
+    "Answer": "mm/min",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the use of ʺG01ʺ code?",
+    "Option1": "Radius milling",
+    "Option2": "Concave milling",
+    "Option3": "Straight line milling",
+    "Option4": "Index milling",
+    "Answer": "Straight line milling",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which method is used to avoid machine collision in VMC during initial practice?",
+    "Option1": "Simulation",
+    "Option2": "Auto cycle",
+    "Option3": "Manual method",
+    "Option4": "Jog method",
+    "Answer": "Simulation",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which mode is adopted for block by block execution of a CNC programme?",
+    "Option1": "Auto mode",
+    "Option2": "MD mode",
+    "Option3": "Jog mode",
+    "Option4": "Single block mode",
+    "Answer": "Single block mode",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is ʺT01ʺ in M06T01; in FANUC program?",
+    "Option1": "Tool offset no:1",
+    "Option2": "Tool no:6",
+    "Option3": "Tool no:1",
+    "Option4": "Tool wear offset no:01",
+    "Answer": "Tool offset no:1",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which ʹMʹ code is used to stop in between different operations?",
+    "Option1": "M01",
+    "Option2": "M00",
+    "Option3": "M30",
+    "Option4": "M20",
+    "Answer": "M00",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which record is provided with operation sequence of a component?",
+    "Option1": "Job card",
+    "Option2": "Process planning",
+    "Option3": "Maintenance sheet",
+    "Option4": "Estimation sheet",
+    "Answer": "Process planning",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which offset is used to adjust the dimension of the component due to tool wear involve?",
+    "Option1": "Work offset",
+    "Option2": "Geometry offset",
+    "Option3": "Wear offset",
+    "Option4": "Zero offset",
+    "Answer": "Wear offset",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which axis do homing first in VMC?",
+    "Option1": "X - axis",
+    "Option2": "Z - axis",
+    "Option3": "Y - axis",
+    "Option4": "B - axis",
+    "Answer": "Z - axis",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What do you check mainly in VMC before starting?",
+    "Option1": "Work piece",
+    "Option2": "Tool available",
+    "Option3": "Proper voltage",
+    "Option4": "Gauges",
+    "Answer": "Proper voltage",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which mode is used for fine slide movement manually for work offset setting?",
+    "Option1": "JOG",
+    "Option2": "MPG",
+    "Option3": "MDI",
+    "Option4": "Edit",
+    "Answer": "MPG",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which mode is used to copy the part program in VMC?",
+    "Option1": "MDI",
+    "Option2": "JOG",
+    "Option3": "AUTO",
+    "Option4": "Edit",
+    "Answer": "Edit",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which mode is used to enter part program?",
+    "Option1": "Auto mode",
+    "Option2": "MDI mode",
+    "Option3": "Edit mode",
+    "Option4": "JOG mode",
+    "Answer": "Edit mode",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is ʺM04S500ʺ in CNC program?",
+    "Option1": "Spindle rotation CW 500 rpm",
+    "Option2": "Spindle rotation CCW 500 rpm",
+    "Option3": "Spindle stop",
+    "Option4": "Spindle orientation",
+    "Answer": "Spindle rotation CCW 500 rpm",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is ʺG54ʺ in FANUC VMC?",
+    "Option1": "Tool offset",
+    "Option2": "Work co-ordinate system",
+    "Option3": "Tool radius offset",
+    "Option4": "Tool wear offset",
+    "Answer": "Work co-ordinate system",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Where to enter the tool length value in VMC?",
+    "Option1": "Work offset",
+    "Option2": "Geometrical offset",
+    "Option3": "Wear offset",
+    "Option4": "Zero offset",
+    "Answer": "Geometrical offset",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is marked as ʹxʹ?",
+    "Option1": "Test arbor",
+    "Option2": "Edge finder",
+    "Option3": "Cutter arbor",
+    "Option4": "Boring bar",
+    "Answer": "Edge finder",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/VMC%2F2%2F68.PNG?alt=media&token=f950166c-a914-4aac-a7e7-3100ac3e298f"
+  },
+  {
+    "Question": "Which knob is used to stop the machine suddenly?",
+    "Option1": "Feed rate over ride",
+    "Option2": "Spindle stop",
+    "Option3": "Cycle stop",
+    "Option4": "Emergency stop",
+    "Answer": "Emergency stop",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which knob is used to control rapid motion in VMC?",
+    "Option1": "Mode selection",
+    "Option2": "Rapid traverse",
+    "Option3": "Feed rate over ride",
+    "Option4": "Spindle speed over ride",
+    "Answer": "Rapid traverse",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Where the program numbers stored in VMC?",
+    "Option1": "Directory",
+    "Option2": "File",
+    "Option3": "Folder",
+    "Option4": "Parameter",
+    "Answer": "Directory",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the part marked as ʹxʹ ?",
+    "Option1": "Plug gauge",
+    "Option2": "Ring gauge",
+    "Option3": "Feeler gauge",
+    "Option4": "Screw pitch gauge",
+    "Answer": "Feeler gauge",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/VMC%2F2%2F72.PNG?alt=media&token=65a3e3a7-017a-4c9e-992c-bbebdaee8985"
+  },
+  {
+    "Question": "Which function is used for movement command in part program?",
+    "Option1": "Preparatory function",
+    "Option2": "Miscellaneous function",
+    "Option3": "Speed function",
+    "Option4": "Feed function",
+    "Answer": "Preparatory function",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is ʹSʹ in CNC part program?",
+    "Option1": "Feed",
+    "Option2": "Sub program",
+    "Option3": "Spindle speed",
+    "Option4": "Depth of cut",
+    "Answer": "Spindle speed",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which button is pressed to select program number from directory?",
+    "Option1": "OSRH",
+    "Option2": "Reset",
+    "Option3": "Measure",
+    "Option4": "Alter",
+    "Answer": "OSRH",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  }
+]

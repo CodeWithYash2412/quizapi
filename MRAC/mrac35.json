@@ -1,0 +1,227 @@
+[
+  {
+    "Question": "Why the temperatures of inlet and outlet water in shell and tube condenser are recorded in log sheet?",
+    "Option1": "Study about the plant",
+    "Option2": "Judge quality of water",
+    "Option3": "Checking the hardness of water",
+    "Option4": "Fix descaling time for condenser",
+    "Answer": "Fix descaling time for condenser",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which parameter of power supply reduces the starting current in VFD motor?",
+    "Option1": "Decreased power factor",
+    "Option2": "Increased supply voltage",
+    "Option3": "Lower frequency operation",
+    "Option4": "Decreased resistance mode",
+    "Answer": "Lower frequency operation",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Why the U trap is provided in water drain line of AHU?",
+    "Option1": "Allows air from outside",
+    "Option2": "Block dust from outside",
+    "Option3": "Prevent entry of foul smell",
+    "Option4": "Ensure free flow of drain water",
+    "Answer": "Prevent entry of foul smell",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the benefit of VRV system?",
+    "Option1": "Bigger in size",
+    "Option2": "Many controls",
+    "Option3": "Energy saving",
+    "Option4": "Saving refrigerant",
+    "Answer": "Energy saving",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which type of AC system is capable of heating or cooling in different zones simultaneously?",
+    "Option1": "Package AC",
+    "Option2": "Central plant AC",
+    "Option3": "VRV AC system",
+    "Option4": "VAV AC system",
+    "Answer": "VRV AC system",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which distribution system is absent in VRV operation compared to central AC plant?",
+    "Option1": "Refrigeration",
+    "Option2": "Ducting system",
+    "Option3": "Refrigerant flow",
+    "Option4": "Interlocked wiring",
+    "Answer": "Ducting system",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which version of motors are used in ductless multisplit system?",
+    "Option1": "Bioptional drive",
+    "Option2": "Trioptional drive",
+    "Option3": "Variable frequency drive",
+    "Option4": "Constant frequency drive",
+    "Answer": "Variable frequency drive",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which refrigerant is used with VRF AC system?",
+    "Option1": "R 11",
+    "Option2": "R 12",
+    "Option3": "R 502",
+    "Option4": "R 410A",
+    "Answer": "R 410A",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "How the indoor unit acts during heating cycle of heat pump?",
+    "Option1": "Condenser",
+    "Option2": "Evaporator",
+    "Option3": "Expansion device",
+    "Option4": "Electrical heater",
+    "Answer": "Condenser",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the purpose of evacuating the system before gas charging?",
+    "Option1": "Flush oil particles",
+    "Option2": "Charge refrigerant",
+    "Option3": "Remove refrigerant",
+    "Option4": "Remove moisture and non-condensable",
+    "Answer": "Remove moisture and non-condensable",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which process is done to remove the oil and other impurities from the condenser tubes?",
+    "Option1": "Purging",
+    "Option2": "Flushing",
+    "Option3": "Evacuation",
+    "Option4": "Pressurising",
+    "Answer": "Flushing",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which valve is first closed to start the pump down operation in central AC plant?",
+    "Option1": "Receiver inlet valve",
+    "Option2": "Receiver outlet valve",
+    "Option3": "Suction service valve",
+    "Option4": "Discharge service valve",
+    "Answer": "Receiver outlet valve",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which valve is used to release the non condensable gases from AC plant?",
+    "Option1": "Purge valve",
+    "Option2": "Check valve",
+    "Option3": "Service valve",
+    "Option4": "Solenoid valve",
+    "Answer": "Purge valve",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the reason for short cycling of LP control switch in AC plant?",
+    "Option1": "Excess of water flow",
+    "Option2": "Excess of refrigerant",
+    "Option3": "Shortage of water flow",
+    "Option4": "Shortage of refrigerant",
+    "Answer": "Shortage of refrigerant",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which parameters in log sheet indicate the air blocking in ducts?",
+    "Option1": "All grille temperatures",
+    "Option2": "Liquid line temperature",
+    "Option3": "Inlet and outlet temperature of chillier",
+    "Option4": "Temperatures in chilled water system",
+    "Answer": "All grille temperatures",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the effect on system performance if the AC system is at undercharged condition?",
+    "Option1": "Poor cooling",
+    "Option2": "Excess cooling",
+    "Option3": "Compressor over loading",
+    "Option4": "Compressor trips by HP cut out",
+    "Answer": "Poor cooling",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the cause of oil foaming in compressor crankcase at the time of starting?",
+    "Option1": "Poor condensation",
+    "Option2": "Damaged oil separator",
+    "Option3": "Excess oil in crankcase",
+    "Option4": "Defective oil heater/circuit",
+    "Answer": "Defective oil heater/circuit",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Why the LP cut out control is bypassed electrically before pump down operation?",
+    "Option1": "Avoid oil foaming",
+    "Option2": "Prevent liquid entry to compressor",
+    "Option3": "Increase current of the compressor motor",
+    "Option4": "To lower the suction pressure close to 0.5 kg/cm2",
+    "Answer": "To lower the suction pressure close to 0.5 kg/cm2",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which type of pump is used in AC plants\nfor circulation of chilled water?",
+    "Option1": "Gear",
+    "Option2": "Screw",
+    "Option3": "Rotary",
+    "Option4": "Centrifugal",
+    "Answer": "Centrifugal",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which secondary refrigerant is used for\nhuman comfort in chiller plant AC?",
+    "Option1": "Brine",
+    "Option2": "Water",
+    "Option3": "Ammonia",
+    "Option4": "Ethylene glycol",
+    "Answer": "Water",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is meant by hydronic system?",
+    "Option1": "Pressure equaliser",
+    "Option2": "Humidity control system",
+    "Option3": "Pressure control system",
+    "Option4": "Water distribution system in HVAC",
+    "Answer": "Water distribution system in HVAC",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which device is used to measure the\ndensity of brine solution?",
+    "Option1": "Lactometer",
+    "Option2": "Hydrometer",
+    "Option3": "Hygrometer",
+    "Option4": "Thermometer",
+    "Answer": "Hydrometer",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the pH level of water used for final\nrinsing of condenser tubes after descaling?",
+    "Option1": "4 to 4.5",
+    "Option2": "7 to 7.5",
+    "Option3": "10 to 12",
+    "Option4": "9 to 10.5",
+    "Answer": "7 to 7.5",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the name of device marked as x ?",
+    "Option1": "Diffuser grille",
+    "Option2": "Splitter damper",
+    "Option3": "Butterfly damper",
+    "Option4": "Multiple vane damper",
+    "Answer": "Butterfly damper",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/MRAC%2FSEM4%2F151%20TO%20175%2F174.PNG?alt=media&token=62d9e4e5-bc3c-4f4e-a447-d7b5869b24fa"
+  },
+  {
+    "Question": "What is the formula for finding cooling\ntower efficiency?",
+    "Option1": "Range + Approach / Range X 100",
+    "Option2": "Range + Approach / Range - Approach X 100",
+    "Option3": "Range / Range+Approach X 100",
+    "Option4": "Range / Range X Approach + 100",
+    "Answer": "Range / Range+Approach X 100",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  }
+]

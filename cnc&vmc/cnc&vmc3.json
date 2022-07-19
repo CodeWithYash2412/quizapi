@@ -1,0 +1,227 @@
+[
+  {
+    "Question": "Which is the input of CNC lathe?",
+    "Option1": "Microphone",
+    "Option2": "Control panel",
+    "Option3": "Joy stick",
+    "Option4": "Mouse",
+    "Answer": "Control panel",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is ʹFʹ for the given block\nG01 X20 Y50 F120?",
+    "Option1": "Function",
+    "Option2": "Feed back",
+    "Option3": "Feed",
+    "Option4": "Frequency",
+    "Answer": "Feed",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which is the control developed by siemens\ncompany?",
+    "Option1": "Usage",
+    "Option2": "Allen",
+    "Option3": "Mazatrol",
+    "Option4": "Sinumeric",
+    "Answer": "Sinumeric",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the simulation process in a CNC\nmachine?",
+    "Option1": "Planning function",
+    "Option2": "Implementing function",
+    "Option3": "Verification activit",
+    "Option4": "Correcting function",
+    "Answer": "Verification activit",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "How the simulation take place in CNC\nmachine?",
+    "Option1": "By hardware device",
+    "Option2": "Through a software",
+    "Option3": "Through machined device",
+    "Option4": "Through electric device",
+    "Answer": "Through a software",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which offset is used to adjust the\nmachined size become x 40.44mm instead of\nprogrammed size x 40.49 reduced 0.04 mm?",
+    "Option1": "Work offset",
+    "Option2": "Geometrical offset",
+    "Option3": "Wear offset",
+    "Option4": "Tool offset",
+    "Answer": "Wear offset",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the explanation of program\nN005G01 X 5Z-30?",
+    "Option1": "Taper turning for the length of 30 mm",
+    "Option2": "Tool returns out to its initial position",
+    "Option3": "Tool is moving towards left by 30 mm",
+    "Option4": "Against, infeed of 5 mm in given",
+    "Answer": "Taper turning for the length of 30 mm",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which traverse ʹXʹ 60 mm as per technical\nspecification of CNC machine?",
+    "Option1": "Saddle movement",
+    "Option2": "Head movement",
+    "Option3": "Column movement",
+    "Option4": "Turret movement",
+    "Answer": "Saddle movement",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the mode to check the\neffectiveness of the program?",
+    "Option1": "Dry run",
+    "Option2": "Jog mode",
+    "Option3": "Edit mode",
+    "Option4": "Single block mode",
+    "Answer": "Dry run",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the symbol identity?",
+    "Option1": "Spindle stop / Start",
+    "Option2": "Feed stop / Start",
+    "Option3": "Single block",
+    "Option4": "Direction keys",
+    "Answer": "Spindle stop / Start",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/VMC%2F5.PNG?alt=media&token=92927fba-3c8b-4f1e-8053-9509c8da7227"
+  },
+  {
+    "Question": "Which designate length of boring bar as\nper ISO designation?",
+    "Option1": "S",
+    "Option2": "U",
+    "Option3": 32,
+    "Option4": "C",
+    "Answer": "U",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What ʹPʹ designate in turning tool holder\nas per ISO nomenclature?",
+    "Option1": "Insert clamping method",
+    "Option2": "Insert shape",
+    "Option3": "Holder style",
+    "Option4": "Insert clearance angle",
+    "Answer": "Insert clamping method",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What X,Y indicates in traverse system of\nprogram G85 x 60Y28.. R2F120?",
+    "Option1": "Hole position in X axis",
+    "Option2": "Hole position in Y axis",
+    "Option3": "Hole position XY axis",
+    "Option4": "Hole position in X plane",
+    "Answer": "Hole position XY axis",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is terminology distance from the\ntool zone point on the tool turnout to the tool tip?",
+    "Option1": "Reference point",
+    "Option2": "Machine zero",
+    "Option3": "Zero off set",
+    "Option4": "Tool off set",
+    "Answer": "Tool off set",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the terminology of the distance\nfrom machine zero point to the work origin point?",
+    "Option1": "Reference point",
+    "Option2": "Machine zero",
+    "Option3": "Zero off set",
+    "Option4": "Tool off set",
+    "Answer": "Zero off set",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the designation of the basic\nmovement of sides are in horizontal, vertical and\ncross direction?",
+    "Option1": "XYZ",
+    "Option2": "UVW",
+    "Option3": "WXV",
+    "Option4": "VUW",
+    "Answer": "XYZ",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which is the axis for work offset as\nmeasured?",
+    "Option1": "X and Y direction",
+    "Option2": "W and X direction",
+    "Option3": "X and Z direction",
+    "Option4": "Y and W direction",
+    "Answer": "X and Z direction",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the drilling cycle code commands\nin sinumeric system?",
+    "Option1": "G83",
+    "Option2": "G74",
+    "Option3": "G75",
+    "Option4": "G84",
+    "Answer": "G83",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What does the word Q stand in FANUC\nsystem peck drilling cycle syntax as\nG 83 X-Y-Z-R-Q-F-K ?",
+    "Option1": "Depth",
+    "Option2": "Position of R plane",
+    "Option3": "Depth of per pass",
+    "Option4": "Number of repeates",
+    "Answer": "Depth of per pass",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which machine code is used for parting\noperation in a CNC machine?",
+    "Option1": "G72",
+    "Option2": "G75",
+    "Option3": "G92",
+    "Option4": "G74",
+    "Answer": "G75",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the advantage of CNC machine?",
+    "Option1": "Less flexible",
+    "Option2": "Less investment",
+    "Option3": "Less accuracy",
+    "Option4": "Complicated jobs machining",
+    "Answer": "Complicated jobs machining",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "How tool life is expressed?",
+    "Option1": "Minutes",
+    "Option2": "Seconds",
+    "Option3": "Hours",
+    "Option4": "Days",
+    "Answer": "Minutes",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which button is pressed to select program number from directory?",
+    "Option1": "OSRH",
+    "Option2": "Reset",
+    "Option3": "Measure",
+    "Option4": "Alter",
+    "Answer": "OSRH",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the type of co-ordinate system?",
+    "Option1": "Continuous",
+    "Option2": "Point to point",
+    "Option3": "Cartesian",
+    "Option4": "Polar",
+    "Answer": "Polar",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/VMC%2F2%2F126.PNG?alt=media&token=5490be5d-c100-47a6-8daf-95a8fa7579a9"
+  },
+  {
+    "Question": "What is ʺG16ʺ command in part program?",
+    "Option1": "Parabolic interpolation",
+    "Option2": "Polar co-ordinates ON",
+    "Option3": "Corresion co-ordinate ON",
+    "Option4": "Inch programming",
+    "Answer": "Polar co-ordinates ON",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  }
+]

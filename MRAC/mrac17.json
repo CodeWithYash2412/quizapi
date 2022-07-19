@@ -1,0 +1,227 @@
+[
+  {
+    "Question": "What is the capacity of compressor motor used in 1Ton window air conditioner?",
+    "Option1": "0.50 HP",
+    "Option2": "0.75 HP",
+    "Option3": "0.95 HP",
+    "Option4": "1.00 HP",
+    "Answer": "0.75 HP",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which device is used to exhaust the room air in window AC?",
+    "Option1": "Damper",
+    "Option2": "Air filter",
+    "Option3": "Filter drier",
+    "Option4": "Air washer",
+    "Answer": "Damper",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Where the filter drier is installed in window AC refrigerant circuit?",
+    "Option1": "Discharge line",
+    "Option2": "Suction line",
+    "Option3": "Service line",
+    "Option4": "Liquid line",
+    "Answer": "Liquid line",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which winding has high inductance value in CSR compressor motor?",
+    "Option1": "Common winding",
+    "Option2": "Running winding",
+    "Option3": "Starting winding",
+    "Option4": "Auxiliary winding",
+    "Answer": "Running winding",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Where the relay coil is internally connected in voltage relay?",
+    "Option1": "Across 1 and 2",
+    "Option2": "Across 5 and 1",
+    "Option3": "Across 5 and 2",
+    "Option4": "Across 2 and 4",
+    "Answer": "Across 5 and 2",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the value of starting capacitor used for 1.5TR capacity window air conditioner?",
+    "Option1": "40 to 60 MFD",
+    "Option2": "80 to 100 MFD",
+    "Option3": "130 to 150 MFD",
+    "Option4": "150 to 160 MFD",
+    "Answer": "80 to 100 MFD",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which stabilizer capacity is used for 1 Ton window air conditioner?",
+    "Option1": "2 KVA",
+    "Option2": "3 KVA",
+    "Option3": "4 KVA",
+    "Option4": "5 KVA",
+    "Answer": "3 KVA",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the reason for Compressor does not start ?",
+    "Option1": "Defective fresh air damper",
+    "Option2": "Defective oscillation motor",
+    "Option3": "Defective fan motor",
+    "Option4": "Defective OLP",
+    "Answer": "Defective OLP",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "How to neutralise the concentration of leaked ammonia from air?",
+    "Option1": "Recover ammonia from air",
+    "Option2": "Spraying a lot of water",
+    "Option3": "Shut down the plant",
+    "Option4": "Spray Hydrochloric acid",
+    "Answer": "Spraying a lot of water",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the reason for excessive frost on evaporator coil in window AC?",
+    "Option1": "Evaporator fins not blocked by dust",
+    "Option2": "Blower rotating at higher speed",
+    "Option3": "Air filter blocked completely",
+    "Option4": "More air circulation in evaporator",
+    "Answer": "Air filter blocked completely",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the reason for Very high condenser temperature in a window air conditioner?",
+    "Option1": "Water splashes condenser",
+    "Option2": "More air flows into the condenser",
+    "Option3": "Fan motor working in good condition",
+    "Option4": "Dust accumulated in the condenser fins",
+    "Answer": "Dust accumulated in the condenser fins",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the reason for the compressor motor burn out in a window air conditioner?",
+    "Option1": "Defective fan capacitor",
+    "Option2": "Defective fan motor",
+    "Option3": "Defective blower",
+    "Option4": "Defective OLP",
+    "Answer": "Defective OLP",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the remedy for the defective OLP in a window air conditioner?",
+    "Option1": "Repair the OLP",
+    "Option2": "Replace the OLP",
+    "Option3": "Remove the parts",
+    "Option4": "Repair the heater element",
+    "Answer": "Replace the OLP",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the reason for the compressor does not start but the fan motor works normally in window AC?",
+    "Option1": "Defective blower",
+    "Option2": "Defective fan motor",
+    "Option3": "Defective fan capacitor",
+    "Option4": "Defective compressor motor",
+    "Answer": "Defective compressor motor",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the remedy to remove moisture from the window AC system?",
+    "Option1": "Over gas charge in the system",
+    "Option2": "Evacuate the system deeply",
+    "Option3": "Clean the evaporator fins",
+    "Option4": "Clean the condenser fins",
+    "Answer": "Evacuate the system deeply",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the cause of reduced supply air throw though air filter is clean in window AC?",
+    "Option1": "No frost in the evaporator",
+    "Option2": "Frost accumulated in the evaporator",
+    "Option3": "Dust accumulated in the condenser",
+    "Option4": "No dust accumulated in the\nevaporator",
+    "Answer": "Frost accumulated in the evaporator",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the effect of sensing higher\ntemperature by thermistor NTC?",
+    "Option1": "Resistance increases",
+    "Option2": "Resistance decreases",
+    "Option3": "Resistance becomes zero",
+    "Option4": "Resistance becomes infinity",
+    "Answer": "Resistance decreases",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the part marked as ‘X’?",
+    "Option1": "Fan",
+    "Option2": "Blower",
+    "Option3": "Fan motor",
+    "Option4": "Blower motor",
+    "Answer": "Blower",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/MRAC%2FSEM2%2F151%20TO%20175%2F168.PNG?alt=media&token=98ecc32d-c96a-4f66-8557-85359dd7605b"
+  },
+  {
+    "Question": "What is the part marked as ‘X’?",
+    "Option1": "Fan",
+    "Option2": "Blower",
+    "Option3": "Condenser",
+    "Option4": "Blower Motor",
+    "Answer": "Fan",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/MRAC%2FSEM2%2F151%20TO%20175%2F169.PNG?alt=media&token=71223d9e-c8dc-4107-b379-c58fa85a6792"
+  },
+  {
+    "Question": "Which component belongs to indoor unit of split AC?",
+    "Option1": "Compressor",
+    "Option2": "Condenser",
+    "Option3": "Evaporator",
+    "Option4": "Drier",
+    "Answer": "Evaporator",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which control opens the compressor motor circuit in the event of continuous overload?",
+    "Option1": "Thermostat",
+    "Option2": "Fusible plug",
+    "Option3": "Bimetal strip",
+    "Option4": "Spring loaded relief valve",
+    "Answer": "Bimetal strip",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which motor is used to drive the blower of indoor unit in ductable split air conditioners?",
+    "Option1": "Shaded pole motor",
+    "Option2": "Permanent split capacitor motor",
+    "Option3": "Three phase induction motor",
+    "Option4": "Capacitor start capacitor run motor",
+    "Answer": "Permanent split capacitor motor",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which fan is used in condensing unit of ductable split air conditioner?",
+    "Option1": "Forward cured fan",
+    "Option2": "Centrifugal fan",
+    "Option3": "Propeller fan",
+    "Option4": "Radial fan",
+    "Answer": "Propeller fan",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which component belongs to outdoor unit of split AC?",
+    "Option1": "Blower",
+    "Option2": "Air filter",
+    "Option3": "Compressor",
+    "Option4": "Evaporator coil",
+    "Answer": "Compressor",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which material is used to make ducts in split AC?",
+    "Option1": "Thermocole",
+    "Option2": "GI sheet",
+    "Option3": "Wood",
+    "Option4": "Fibre",
+    "Answer": "GI sheet",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  }
+]

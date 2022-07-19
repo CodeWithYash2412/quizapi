@@ -1,0 +1,227 @@
+[
+  {
+    "Question": "What is the name of the angle marked x in the reamer?",
+    "Option1": "Rake angle",
+    "Option2": "Flute angle",
+    "Option3": "Helix angle",
+    "Option4": "Clearance angle",
+    "Answer": "Helix angle",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/FITTER%2FFITTER%20SEM2%2F001%20TO%20025%2FFI1.PNG?alt=media&token=96dd1457-039a-481a-a4ff-0eb115c13479"
+  },
+  {
+    "Question": "What is the name of the process of finishing the drilled hole?",
+    "Option1": "Reaming",
+    "Option2": "Spot facing",
+    "Option3": "Counter boring",
+    "Option4": "Counter sinking",
+    "Answer": "Reaming",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Why hand reamers have uneven spacing of teeth?",
+    "Option1": "Reduce chattering",
+    "Option2": "Remove more metals",
+    "Option3": "Increase the efficiency",
+    "Option4": "Increase the life of the tool",
+    "Answer": "Reduce chattering",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the purpose of clearance angle in twist drill?",
+    "Option1": "Prevent rough holes",
+    "Option2": "Prevent over size holes",
+    "Option3": "Prevent unequal angle of cutting edges",
+    "Option4": "Prevent friction of drill behind the cutting edges",
+    "Answer": "Prevent friction of drill behind the cutting edges",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the angle of counter sinking for riveting?",
+    "Option1": "75°",
+    "Option2": "80°",
+    "Option3": "90°",
+    "Option4": "120°",
+    "Answer": "75°",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the reason for over heated drill while drilling?",
+    "Option1": "Drill held not correctly",
+    "Option2": "Work is not rigidly held",
+    "Option3": "Clearance angle is incorrect",
+    "Option4": "Flutes are clogged with chips",
+    "Answer": "Clearance angle is incorrect",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the name of the operation to enlarge the hole for given depth?",
+    "Option1": "Reaming",
+    "Option2": "Spot facing",
+    "Option3": "Counter boring",
+    "Option4": "Counter sinking",
+    "Answer": "Counter boring",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What will happen if the clearance angle of drill is more?",
+    "Option1": "Cutting edge will be blunt",
+    "Option2": "Cutting edge will not be sharp",
+    "Option3": "Cutting edge will become weak",
+    "Option4": "Cutting edge will not cut material",
+    "Answer": "Cutting edge will become weak",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What will happen if the spindle running out of centre while drilling?",
+    "Option1": "Drill will break",
+    "Option2": "Drills are over heated",
+    "Option3": "Drill make rough hole",
+    "Option4": "Over sized holes are made",
+    "Answer": "Over sized holes are made",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the name of the element marked as x of the thread?",
+    "Option1": "Root",
+    "Option2": "Lead",
+    "Option3": "Pitch",
+    "Option4": "Flank",
+    "Answer": "Pitch",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/FITTER%2FFITTER%20SEM2%2F001%20TO%20025%2FFI10.PNG?alt=media&token=858c8f49-e776-4995-b579-ad1df2b2bcdf"
+  },
+  {
+    "Question": "What A represents in grinding wheel specification 32A46H8V?",
+    "Option1": "Grade",
+    "Option2": "Grain size",
+    "Option3": "Type of bond",
+    "Option4": "Type of abrasive",
+    "Answer": "Type of abrasive",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is to be done after dressing the grinding wheel to run concentric?",
+    "Option1": "Truing",
+    "Option2": "Glazing",
+    "Option3": "Loading",
+    "Option4": "Dressing",
+    "Answer": "Truing",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the product obtained from blast furnace?",
+    "Option1": "Pig iron",
+    "Option2": "Cast iron",
+    "Option3": "Wrought iron",
+    "Option4": "Malleable iron",
+    "Answer": "Pig iron",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which metal is used to manufacture magnets, ball bearing and cutting tool?",
+    "Option1": "Cobalt",
+    "Option2": "Cadmium",
+    "Option3": "Vanadium",
+    "Option4": "Molybdenum",
+    "Answer": "Cobalt",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "How much copper contains in pyrites ore?",
+    "Option1": 0.15,
+    "Option2": 0.32,
+    "Option3": 0.5,
+    "Option4": 0.45,
+    "Answer": 0.32,
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which metal is resistant to many types of acids?",
+    "Option1": "Tin",
+    "Option2": "Nickel",
+    "Option3": "Lead",
+    "Option4": "Chromium",
+    "Answer": "Lead",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the use of telescopic gauge?",
+    "Option1": "Measure depth",
+    "Option2": "Measure external dimension",
+    "Option3": "Measure angular dimension",
+    "Option4": "Measure size of holes, slots",
+    "Answer": "Measure size of holes, slots",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which method is suitable to remove the broken stud very near to the surface?",
+    "Option1": "Ezy out method",
+    "Option2": "Making drill hole",
+    "Option3": "Prick punch method",
+    "Option4": "Using square taper punch",
+    "Answer": "Prick punch method",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the angle of counter sink head screws?",
+    "Option1": "60°",
+    "Option2": "90°",
+    "Option3": "105°",
+    "Option4": "120°",
+    "Answer": "90°",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the name of the angle in the drill bit marked as x?",
+    "Option1": "Chisel angle",
+    "Option2": "Rake angle",
+    "Option3": "Point angle",
+    "Option4": "Lip clearance angle",
+    "Answer": "Lip clearance angle",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/FITTER%2FFITTER%20SEM2%2F001%20TO%20025%2FFI20.PNG?alt=media&token=fc17f9e6-2681-48b0-8524-5ebb0cd7b289"
+  },
+  {
+    "Question": "Which angle is determined by the helix angle in drill bit?",
+    "Option1": "Point angle",
+    "Option2": "Rake angle",
+    "Option3": "Chisel angle",
+    "Option4": "Clearance angle",
+    "Answer": "Rake angle",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the use of reamer?",
+    "Option1": "Drill a hole",
+    "Option2": "Enlarging a hole",
+    "Option3": "Threading a hole",
+    "Option4": "Finishing to correct size of the drilled hole",
+    "Answer": "Finishing to correct size of the drilled hole",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the purpose of type N twist drills?",
+    "Option1": "Used for hard material",
+    "Option2": "Used for brittle material",
+    "Option3": "Used for soft and tough material",
+    "Option4": "Used for normal low carbon steel",
+    "Answer": "Used for normal low carbon steel",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which reamer will have a long taper lead?",
+    "Option1": "Hand reamer",
+    "Option2": "Socket reamer",
+    "Option3": "Machine reamer",
+    "Option4": "Helical fluted reamer",
+    "Answer": "Socket reamer",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the function of pilot in the hand reamer with pilot?",
+    "Option1": "Keep size of hole accurate",
+    "Option2": "Removes the burr from the hole",
+    "Option3": "Provide smooth functioning of reamer",
+    "Option4": "Keep reamer concentric with hole to be reamed",
+    "Answer": "Keep reamer concentric with hole to be reamed",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  }
+]

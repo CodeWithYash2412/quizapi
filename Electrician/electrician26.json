@@ -1,0 +1,227 @@
+[
+  {
+    "Question": "Which speed is called as synchronous speed in 3 phase induction motor?",
+    "Option1": "No load speed",
+    "Option2": "Full load speed",
+    "Option3": "Rotating magnetic field speed",
+    "Option4": "Relative speed between stator and rotor",
+    "Answer": "Rotating magnetic field speed",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the name of the starter symbol?",
+    "Option1": "D.O.L starter",
+    "Option2": "Auto transformer starter",
+    "Option3": "Automatic star/delta starter",
+    "Option4": "Semi automatic star/delta starter",
+    "Answer": "Auto transformer starter",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/Electrician%2FSEM3%2FElectrician26%2F140.PNG?alt=media&token=60a5ed75-4369-405a-9c65-3bd640dc72ba"
+  },
+  {
+    "Question": "What is the electrical degree of 6 pole stator of motor?",
+    "Option1": "360°",
+    "Option2": "720°",
+    "Option3": "1080°",
+    "Option4": "1440°",
+    "Answer": "1080°",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Calculate the number of coils per phase per pair of poles of 3 phase motor having 2 pole, 24 slots,12 coils?",
+    "Option1": 1,
+    "Option2": 2,
+    "Option3": 3,
+    "Option4": 4,
+    "Answer": 4,
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the name of the starter symbol?",
+    "Option1": "Star delta starter",
+    "Option2": "Rheostatic starter",
+    "Option3": "Direct on-line starter",
+    "Option4": "Autotransformer starter",
+    "Answer": "Star delta starter",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/Electrician%2FSEM3%2FElectrician26%2F144.PNG?alt=media&token=979e1784-4f7d-45c4-a58f-966c93be1f40"
+  },
+  {
+    "Question": "What is the formula to calculate pitch\nfactor?",
+    "Option1": "Pitch factor = Pole pitch / Winding pitch",
+    "Option2": "Pitch factor = Winding pitch /  Pole pitch",
+    "Option3": "Pitch factor = Number of slots / Number of poles",
+    "Option4": "Pitch factor =Number of poles / Number of slots",
+    "Answer": "Pitch factor = Winding pitch /  Pole pitch",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "How pole pitch is measured in terms of slots\nin AC winding?",
+    "Option1": "Total electrical degree / Number of slots",
+    "Option2": "Number of slots / Total electrical degree",
+    "Option3": "No. of slots in the stator / No. of poles",
+    "Option4": "No. of poles / No. of slots in the stator",
+    "Answer": "No. of slots in the stator / No. of poles",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the formula to calculate the mean\ncircumference of the coil?",
+    "Option1": "Lm = 𝐿𝑜𝑢𝑡−𝐿𝑖𝑛 / 2cm",
+    "Option2": "Lm = 𝐿𝑖𝑛+𝐿𝑜𝑢𝑡 / 2cm",
+    "Option3": "Lm = 2 / 𝐿𝑜𝑢𝑡−𝐿𝑖𝑛 cm",
+    "Option4": "Lm = 2 / 𝐿𝑖𝑛+𝐿𝑜𝑢𝑡 cm",
+    "Answer": "Lm = 𝐿𝑖𝑛+𝐿𝑜𝑢𝑡 / 2cm",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the synchronous speed of a A.C 3\nphase induction motor having 6 poles at a\nfrequency of 50 Hertz?",
+    "Option1": "800 rpm",
+    "Option2": "1000 rpm",
+    "Option3": "1200 rpm",
+    "Option4": "1440 rpm",
+    "Answer": "1000 rpm",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Calculate the percentage slip in a 3 phase\ninduction motor having 6 poles with a frequency of\n50 Hertz rotating with actual speed of 960 rpm?",
+    "Option1": "2%",
+    "Option2": "3%",
+    "Option3": "4%",
+    "Option4": "5%",
+    "Answer": "4%",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the rotor frequency of a 3 phase\nsquirrel cage induction motor at the time of\nstarting?",
+    "Option1": "Equal to supply frequency",
+    "Option2": "3 times less than supply frequency",
+    "Option3": "3 times more than supply frequency",
+    "Option4": "√3 times less than supply frequency",
+    "Answer": "Equal to supply frequency",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "How the voltage is received in the rotor of\ninduction motor?",
+    "Option1": "Direct connection from stator",
+    "Option2": "Due to back emf produced in stator",
+    "Option3": "Direct connection to rotor from supply",
+    "Option4": "By the transformer action of stator and rotor",
+    "Answer": "By the transformer action of stator and rotor",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which method is applied to control the speed of 3 phase squirrel cage induction motor from its rotor side?",
+    "Option1": "Cascade operation",
+    "Option2": "Changing applied voltage",
+    "Option3": "Changing applied frequency",
+    "Option4": "Changing the number of poles",
+    "Answer": "Cascade operation",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which loss of 3 phase induction motor is determined by blocked rotor test?",
+    "Option1": "Copper loss",
+    "Option2": "Friction loss",
+    "Option3": "Hysteresis loss",
+    "Option4": "Eddy current loss",
+    "Answer": "Copper loss",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Why pre heating is necessary for motors before varnishing in rewinding process?",
+    "Option1": "To dry the varnish quickly in winding",
+    "Option2": "To easy flow of varnish in the winding",
+    "Option3": "To increase the insulation resistance value",
+    "Option4": "To drive out the moisture in between winding layers",
+    "Answer": "To drive out the moisture in between winding layers",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which type of test is conducted using internal growler in AC motor winding?",
+    "Option1": "Ground test",
+    "Option2": "Polarity test",
+    "Option3": "Continuity test",
+    "Option4": "Short circuit test",
+    "Answer": "Short circuit test",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which device is used to test startor winding short and open fault?",
+    "Option1": "Tong Tester",
+    "Option2": "Internal Growler",
+    "Option3": "External Growler",
+    "Option4": "Digital multimeter",
+    "Answer": "Internal Growler",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the purpose of using thermal cutout in addition to fuse in A.C motor circuit?",
+    "Option1": "Protect from heavy load",
+    "Option2": "Protect against high voltage",
+    "Option3": "Allow for continuous over loading",
+    "Option4": "Protect against dead short circuit",
+    "Answer": "Allow for continuous over loading",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which type of motor is used to provide high starting torque at variable speed?",
+    "Option1": "Universal motor",
+    "Option2": "Permanent capacitor motor",
+    "Option3": "3 Phase slip ring induction motor",
+    "Option4": "3 Phase single squirrel cage induction motor",
+    "Answer": "3 Phase slip ring induction motor",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the relation between torque and slip in an A.C induction motor?",
+    "Option1": "Slip increases torque decreases",
+    "Option2": "Slip increases torque increases",
+    "Option3": "Slip decreases torque increases",
+    "Option4": "Slip decreases torque decreases",
+    "Answer": "Slip increases torque increases",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is effect of A.C induction motor if rotor bar is in open circuit?",
+    "Option1": "Vibration of shaft",
+    "Option2": "Motor will not start",
+    "Option3": "Runs in slow speed",
+    "Option4": "Over heating of motor",
+    "Answer": "Over heating of motor",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which type of wire is used for rewinding of A.C 3 phase motors?",
+    "Option1": "Super enamelled copper wire",
+    "Option2": "PVC covered copper winding wire",
+    "Option3": "Single cotton covered copper wire",
+    "Option4": "Double cotton covered copper wire",
+    "Answer": "Super enamelled copper wire",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which material is used as wedges in winding process?",
+    "Option1": "Empire",
+    "Option2": "Cotton",
+    "Option3": "Bamboo",
+    "Option4": "Terylene",
+    "Answer": "Bamboo",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which test in winding is essential before giving supply?",
+    "Option1": "Ground test",
+    "Option2": "Polarity test",
+    "Option3": "Open circuit test",
+    "Option4": "Short circuit test",
+    "Answer": "Polarity test",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Why the rotor bars are mounted in a slightly skewed position in 3 phase motor?",
+    "Option1": "Generate maximum flux",
+    "Option2": "Reduce the stray losses",
+    "Option3": "Maintain the rotor speed constant",
+    "Option4": "Produce more uniform rotor field and torque",
+    "Answer": "Produce more uniform rotor field and torque",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  }
+]

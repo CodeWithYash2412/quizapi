@@ -1,0 +1,227 @@
+[
+  {
+    "Question": "Which formula is used to calculate force?",
+    "Option1": "Pressure ÷ Area",
+    "Option2": "Pressure x Area",
+    "Option3": "Pressure - Area",
+    "Option4": "Pressure + Area",
+    "Answer": "Pressure x Area",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the unit of force in SI unit?",
+    "Option1": "Kilogram",
+    "Option2": "Newton",
+    "Option3": "Dyne",
+    "Option4": "Pounds",
+    "Answer": "Newton",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the name of valve?",
+    "Option1": "Flow control valve",
+    "Option2": "Ball type check valve",
+    "Option3": "Swing check valve",
+    "Option4": "Pressure type valve",
+    "Answer": "Swing check valve",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/FITTER%2FFITTER%20SEM4%2F126%20TO%20150%2F128.PNG?alt=media&token=739876d9-20e9-4faa-9e96-9c0c89dbcb74"
+  },
+  {
+    "Question": "What is the name of the valve symbol?",
+    "Option1": "Directional control valve",
+    "Option2": "Flow control valve",
+    "Option3": "3/2 way valve",
+    "Option4": "5/2 way valve",
+    "Answer": "3/2 way valve",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/FITTER%2FFITTER%20SEM4%2F126%20TO%20150%2F129.PNG?alt=media&token=22f688a5-8076-40f0-86f2-71100c816962"
+  },
+  {
+    "Question": "What is the name of pneumatic valve symbol?",
+    "Option1": "Directional control valve",
+    "Option2": "Roller valve",
+    "Option3": "Pressure valve",
+    "Option4": "Flow control valve",
+    "Answer": "Directional control valve",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/FITTER%2FFITTER%20SEM4%2F126%20TO%20150%2F130.PNG?alt=media&token=8dcef5ff-750c-45fe-89e8-fc60c66bb18f"
+  },
+  {
+    "Question": "What is the name of pneumatic symbol?",
+    "Option1": "Filter",
+    "Option2": "Lubricator",
+    "Option3": "Dryer",
+    "Option4": "Pressure gauge",
+    "Answer": "Lubricator",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/FITTER%2FFITTER%20SEM4%2F126%20TO%20150%2F131.PNG?alt=media&token=15b09ec3-17ef-43d9-9f1f-5ae477bb0623"
+  },
+  {
+    "Question": "What is the name of valve?",
+    "Option1": "5 port 2 position valve",
+    "Option2": "3 port 2 position valve",
+    "Option3": "4 port 3 position valve",
+    "Option4": "4 port 2 position valve",
+    "Answer": "5 port 2 position valve",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/FITTER%2FFITTER%20SEM4%2F126%20TO%20150%2F132.PNG?alt=media&token=712a16a9-e47b-47a0-838c-6560ac5f638d"
+  },
+  {
+    "Question": "What is the name of part marked as X?",
+    "Option1": "Cylinder",
+    "Option2": "Piston",
+    "Option3": "Spring",
+    "Option4": "Inlet port",
+    "Answer": "Spring",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/FITTER%2FFITTER%20SEM4%2F126%20TO%20150%2F133.PNG?alt=media&token=497edb28-4b7b-4df4-87a1-23e559920e17"
+  },
+  {
+    "Question": "What is the name of part marked as X?",
+    "Option1": "Cylinder",
+    "Option2": "Piston",
+    "Option3": "Seal",
+    "Option4": "Spring",
+    "Answer": "Seal",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/FITTER%2FFITTER%20SEM4%2F126%20TO%20150%2F134.PNG?alt=media&token=88ec2240-b745-4d6f-a881-4bf385a0a7bc"
+  },
+  {
+    "Question": "What is the formula for the cylinder output force?",
+    "Option1": "F = P/A X 10",
+    "Option2": "F = A/P X 10",
+    "Option3": "F = (PXA) / 10",
+    "Option4": "F = 10 / (PXA)",
+    "Answer": "F = (PXA) / 10",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the volumetric efficiency of piston type motor?",
+    "Option1": 0.8,
+    "Option2": 0.75,
+    "Option3": 0.98,
+    "Option4": 0.95,
+    "Answer": 0.95,
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which parameter is specified to design hydromotor?",
+    "Option1": "Maximum operating pressure",
+    "Option2": "Maximum oil saving method",
+    "Option3": "Maximum piston size",
+    "Option4": "Maximum cylinder size",
+    "Answer": "Maximum operating pressure",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the name of motor?",
+    "Option1": "Gear type of motor",
+    "Option2": "Vane type motor",
+    "Option3": "Axial piston motor",
+    "Option4": "Radial piston motor",
+    "Answer": "Radial piston motor",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/FITTER%2FFITTER%20SEM4%2F126%20TO%20150%2F138.PNG?alt=media&token=b4828b0e-3f34-4abf-a213-0e4bbd04a1b1"
+  },
+  {
+    "Question": "What is type of hydromotor?",
+    "Option1": "Gear type",
+    "Option2": "Vane type",
+    "Option3": "Piston type",
+    "Option4": "Propeller type",
+    "Answer": "Gear type",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/FITTER%2FFITTER%20SEM4%2F126%20TO%20150%2F139.PNG?alt=media&token=1106dca0-f9cf-4189-927e-2f4e5b38a380"
+  },
+  {
+    "Question": "How many types are there in Hydromotors?",
+    "Option1": "4 type",
+    "Option2": "3 type",
+    "Option3": "5 type",
+    "Option4": "2 type",
+    "Answer": "3 type",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the name of part marked as 'X' in double acting cylinder?",
+    "Option1": "Guide ring",
+    "Option2": "Piston rod",
+    "Option3": "Lock nut",
+    "Option4": "Cylinder cap",
+    "Answer": "Piston rod",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/FITTER%2FFITTER%20SEM4%2F126%20TO%20150%2F141.PNG?alt=media&token=62222942-8d99-470e-a02b-ac6164098f70"
+  },
+  {
+    "Question": "What is the name of symbol used in hydraulic cylinder?",
+    "Option1": "Single acting load returns the piston",
+    "Option2": "Single acting return piston",
+    "Option3": "Double acting power stoke",
+    "Option4": "Double acting with crushing",
+    "Answer": "Single acting load returns the piston",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/FITTER%2FFITTER%20SEM4%2F126%20TO%20150%2F142.PNG?alt=media&token=88b57172-63e1-44dc-8c2d-c41468c47c1f"
+  },
+  {
+    "Question": "How direction control valves are classified?",
+    "Option1": "Number of ports and position",
+    "Option2": "Direction of flow",
+    "Option3": "Maximum pressure of valve",
+    "Option4": "Direction of pressure",
+    "Answer": "Number of ports and position",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the type of direction control valve?",
+    "Option1": "2/2 way valve",
+    "Option2": "3/2 way valve",
+    "Option3": "4/2 way valve",
+    "Option4": "4/3 way valve",
+    "Answer": "3/2 way valve",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/FITTER%2FFITTER%20SEM4%2F126%20TO%20150%2F144.PNG?alt=media&token=ebbc58ed-f070-4eb8-8e9b-3281d8b9a08b"
+  },
+  {
+    "Question": "What is the name of circuit diagram?",
+    "Option1": "2/2 way valve",
+    "Option2": "3/2 way valve",
+    "Option3": "4/2 way valve",
+    "Option4": "4/3 way valve",
+    "Answer": "4/2 way valve",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/FITTER%2FFITTER%20SEM4%2F126%20TO%20150%2F145.PNG?alt=media&token=7bd01cb2-5167-4f2a-ba45-a65290371092"
+  },
+  {
+    "Question": "What is the name of the part marked as X in Hydraulic power System?",
+    "Option1": "Two piston valve",
+    "Option2": "Double acting cylinder",
+    "Option3": "Pump",
+    "Option4": "Reservoir",
+    "Answer": "Reservoir",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/FITTER%2FFITTER%20SEM4%2F126%20TO%20150%2F146.PNG?alt=media&token=2115743a-287d-4702-80ab-bce034388163"
+  },
+  {
+    "Question": "Which gauge indicates the amount of fluid pressure in the hydraulic system?",
+    "Option1": "Vacuum gauge",
+    "Option2": "Pressure gauge",
+    "Option3": "Fluid gauge",
+    "Option4": "Pneumatic gauge",
+    "Answer": "Pressure gauge",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the name of adjustable restrictor?",
+    "Option1": "Needle restrictor",
+    "Option2": "Longitudinal restrictor",
+    "Option3": "Gap restrictor",
+    "Option4": "Circumferential restrictor",
+    "Answer": "Needle restrictor",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the operating voltage of electro pneumatics?",
+    "Option1": "10V- 140V",
+    "Option2": "12V - 220V",
+    "Option3": "15V - 200V",
+    "Option4": "200V - 240V",
+    "Answer": "12V - 220V",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the name of the part marked as X in one way flow control valve?",
+    "Option1": "Throttling screw",
+    "Option2": "Notch",
+    "Option3": "Opening of spring ball",
+    "Option4": "Valve set",
+    "Answer": "Notch",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/FITTER%2FFITTER%20SEM4%2F126%20TO%20150%2F150.PNG?alt=media&token=46cacce5-5ecf-4758-a2e7-1c9f49c02feb"
+  }
+]

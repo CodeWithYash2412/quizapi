@@ -1,0 +1,227 @@
+[
+  {
+    "Question": "How the minimum three axes are named in CNC machines?",
+    "Option1": "Axes of X,Y, and Z",
+    "Option2": "Axes of A,B and C",
+    "Option3": "Axes of P,Q and R",
+    "Option4": "Axes of I,J and K",
+    "Answer": "Axes of X,Y, and Z",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What do you mean by HMC axis convention of CNC machines?",
+    "Option1": "Horizontal Marking Centre",
+    "Option2": "Horizontal Machining Centre",
+    "Option3": "Horizontal Measuring Centre",
+    "Option4": "Horizontal Machining Contour",
+    "Answer": "Horizontal Machining Centre",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which one of the direction shown by thumb finger in right hand coordinate system?",
+    "Option1": "Direction of spindle rotation",
+    "Option2": "Direction of X axis",
+    "Option3": "Direction of Y axis",
+    "Option4": "Direction of Z axis",
+    "Answer": "Direction of X axis",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What do you mean by coordinate system?",
+    "Option1": "The coordinate system is a two dimensional number line",
+    "Option2": "It is only the direction of spindle rotation",
+    "Option3": "The cutting tool has to move in longitudinal direction",
+    "Option4": "The work table has to move radial for 180 degrees",
+    "Answer": "The coordinate system is a two dimensional number line",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which axis in the graph indicates vertical line?",
+    "Option1": "Origin line",
+    "Option2": "X axis",
+    "Option3": "Z axis",
+    "Option4": "Y axis",
+    "Answer": "Y axis",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/sem4%201to25%2F15.PNG?alt=media&token=ff56d1ff-5b20-4f28-b0cc-91513cc97589"
+  },
+  {
+    "Question": "Which axis in the graph indicates the horizontal line ?",
+    "Option1": "1st and 2nd quadrant",
+    "Option2": "Z axis",
+    "Option3": "Y axis",
+    "Option4": "X axis",
+    "Answer": "X axis",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/sem4%201to25%2F16.PNG?alt=media&token=72671dab-b93e-4be6-b80c-5c800a7ae796"
+  },
+  {
+    "Question": "What involves to produce component on conventional lathe?",
+    "Option1": "Involves more manual work",
+    "Option2": "More production rate",
+    "Option3": "Less manual work",
+    "Option4": "Computer takes care",
+    "Answer": "Involves more manual work",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the meanings of open loop and closed loop?",
+    "Option1": "These both are programmable data",
+    "Option2": "These both are two types of control systems in CNC machines",
+    "Option3": "Data collecting systems",
+    "Option4": "Data storage system",
+    "Answer": "These both are two types of control systems in CNC machines",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "How the CNC machines are generally grouped?",
+    "Option1": "2 Axis only",
+    "Option2": "3 Axis only",
+    "Option3": "Multi axis only",
+    "Option4": "2 axis, 3 axis and Multi axis",
+    "Answer": "2 axis, 3 axis and Multi axis",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "How the programmed spindle speed may modified in increments?",
+    "Option1": "Increments of 15%",
+    "Option2": "Increments of 10%",
+    "Option3": "Increments of 5%",
+    "Option4": "Increments of 100%",
+    "Answer": "Increments of 5%",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which axis the spindle moves on vertical machining centres?",
+    "Option1": "Z axis",
+    "Option2": "Y axis",
+    "Option3": "X axis",
+    "Option4": "B axis",
+    "Answer": "Z axis",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What do you mean by VMC?",
+    "Option1": "Virtual Machine Control",
+    "Option2": "Vertical Machining Centre",
+    "Option3": "Vertical Measuring Centre",
+    "Option4": "Vertical Measuring Counter",
+    "Answer": "Vertical Machining Centre",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the basis of absolute co-ordinate point?",
+    "Option1": "Based on the last point entered",
+    "Option2": "Based on the origine(0,0)",
+    "Option3": "Based on the work end point",
+    "Option4": "Based on the tool geometry only",
+    "Answer": "Based on the origine(0,0)",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the basis of incremental co-ordinate system?",
+    "Option1": "Based on the origin",
+    "Option2": "Based on the tool geometry",
+    "Option3": "Based on the last point entered",
+    "Option4": "Based on the tool nose radius",
+    "Answer": "Based on the last point entered",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "How the points are marked in polar co-ordinate system?",
+    "Option1": "Pole as 'O' and polar axis as 'L' angle",
+    "Option2": "Pole as X and axis as Y",
+    "Option3": "Pole as Z and axis as C",
+    "Option4": "Pole as B and axis as C",
+    "Answer": "Pole as 'O' and polar axis as 'L' angle",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which letter the origin indicates in co-ordinate geometry?",
+    "Option1": "By letter 'O'",
+    "Option2": "By letter 'X'",
+    "Option3": "By letter 'Y'",
+    "Option4": "By letter 'B'",
+    "Answer": "By letter 'O'",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is 'O' indicates?",
+    "Option1": "The centre axis",
+    "Option2": "The origin",
+    "Option3": "The reference point",
+    "Option4": "The position of work table",
+    "Answer": "The origin",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/sem4%201to25%2F27.PNG?alt=media&token=f5052415-79ce-4784-ba24-e96920d744a7"
+  },
+  {
+    "Question": "What is the X and Y axes values from the following graph?",
+    "Option1": "X = 6.0; Y = 4.0",
+    "Option2": "X = -6.0; Y = 4.0",
+    "Option3": "X = -6.0; Y = -4.0",
+    "Option4": "none of these",
+    "Answer": "X = 6.0; Y = 4.0",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/sem4%201to25%2F28.PNG?alt=media&token=b050f6d1-cfe2-473e-9dcd-9570a6e8696d"
+  },
+  {
+    "Question": "What is the directional value of X and Y?",
+    "Option1": "X in Negative Y in Positive",
+    "Option2": "X in Positive Y in Negative",
+    "Option3": "X and Y both in Negative",
+    "Option4": "X and Y both in Positive",
+    "Answer": "X and Y both in Negative",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/sem4%201to25%2F29.PNG?alt=media&token=ecd0370f-028f-40b3-ab1f-bc92d490a76e"
+  },
+  {
+    "Question": "What are the values of X and Y for first quadrant?",
+    "Option1": "Both X and Y in Positive",
+    "Option2": "X in Negative Y in Positive",
+    "Option3": "X in Positive Y in Negative",
+    "Option4": "Both X and Y in Negative",
+    "Answer": "Both X and Y in Positive",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/sem4%201to25%2F30.PNG?alt=media&token=86b9bf14-14d9-43f5-b3ae-e0389848f76f"
+  },
+  {
+    "Question": "How the co-ordinate system specifies each point uniquely in a plane by?",
+    "Option1": "In the direction of origin only",
+    "Option2": "In longitudinal direction",
+    "Option3": "In cross sectional direction only",
+    "Option4": "A pair of numerical coordinates",
+    "Answer": "A pair of numerical coordinates",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "How many minimum axis are provided in machining centres?",
+    "Option1": "2 axes",
+    "Option2": "4 axes",
+    "Option3": "3 axes",
+    "Option4": "5 axes",
+    "Answer": "3 axes",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the maximum range of spindle speed?",
+    "Option1": "120%",
+    "Option2": "90%",
+    "Option3": "100%",
+    "Option4": "5% only",
+    "Answer": "120%",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "How much maximum feed range available on CNC machine?",
+    "Option1": "The maximum feed range 5%",
+    "Option2": "The maximum feed range 75%",
+    "Option3": "The maximum feed range 100%",
+    "Option4": "The maximum feed range 120%",
+    "Answer": "The maximum feed range 120%",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "How much percentage of feed, system may activates in rapid traverse?",
+    "Option1": "5% only",
+    "Option2": "120%",
+    "Option3": "100% only",
+    "Option4": "50%",
+    "Answer": "100% only",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  }
+]

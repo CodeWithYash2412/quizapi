@@ -1,0 +1,227 @@
+[
+  {
+    "Question": "Which component absorbs the maximum heat from the cabinet materials in frost free refrigerator?",
+    "Option1": "Condenser",
+    "Option2": "Evaporator",
+    "Option3": "Compressor",
+    "Option4": "Expansion valve",
+    "Answer": "Evaporator",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the function of refrigerant fluid in a refrigerator?",
+    "Option1": "Releases heat inside the cabinet",
+    "Option2": "Absorbs heat from inside the cabinet",
+    "Option3": "Absorbs heat from outside the cabinet",
+    "Option4": "Absorbs heat from bottom side cabinet",
+    "Answer": "Absorbs heat from inside the cabinet",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the resistance level of start winding in a refrigerator s compressor motor?",
+    "Option1": "Medium resistance",
+    "Option2": "High resistance",
+    "Option3": "Zero resistance",
+    "Option4": "Low resistance",
+    "Answer": "High resistance",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "How the potential relay coil is connected internally to the relay terminals?",
+    "Option1": "5 and 1",
+    "Option2": "5 and 4",
+    "Option3": "5 and 2",
+    "Option4": "2 and 4",
+    "Answer": "5 and 2",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which refrigerant is used in domestic refrigerator?",
+    "Option1": "R 22",
+    "Option2": "R 32",
+    "Option3": "R 134 a",
+    "Option4": "R 407 c",
+    "Answer": "R 134 a",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "How the zeotropic refrigerant is taken from the cylinder for charging it into RAC system?",
+    "Option1": "Liquid state",
+    "Option2": "Vapour state",
+    "Option3": "Vapour and liquid",
+    "Option4": "Super heated vapour",
+    "Answer": "Liquid state",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which two terminals read the highest resistance while testing refrigerator compressor motor?",
+    "Option1": "Start and run",
+    "Option2": "Common and run",
+    "Option3": "Start and common",
+    "Option4": "Start and compressor body",
+    "Answer": "Start and run",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which test is in progress in compressor motor?",
+    "Option1": "Earth testing",
+    "Option2": "Compressor pumping test",
+    "Option3": "Compressor efficiency test",
+    "Option4": "Compressor winding test",
+    "Answer": "Compressor winding test",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/MRAC%2FSEM1%2F201%20TO%20225%2F208.PNG?alt=media&token=fd0016d7-6bcf-4f36-9365-17fe418e223e"
+  },
+  {
+    "Question": "Which method is used to check the leakage of hydro fluoro carbon refrigerants?",
+    "Option1": "Electric torch",
+    "Option2": "Litmus paper",
+    "Option3": "Sulphur candles",
+    "Option4": "Electronic leak detector",
+    "Answer": "Electronic leak detector",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which gas is used for pressurising and testing leakage of RAC system?",
+    "Option1": "O2",
+    "Option2": "N2",
+    "Option3": "O3",
+    "Option4": "SO2",
+    "Answer": "N2",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which process absorbs heat from the cabinet in refrigerator",
+    "Option1": "Expansion",
+    "Option2": "Compression",
+    "Option3": "Evaporation",
+    "Option4": "Condensation",
+    "Answer": "Evaporation",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is ensured before removing a leaky evaporator in a refrigerator?",
+    "Option1": "Recharge refrigerant to the system",
+    "Option2": "Check the drain tray of evaporator",
+    "Option3": "Removal of the thermostat sensor",
+    "Option4": "Pressurize the system with refrigerant",
+    "Answer": "Removal of the thermostat sensor",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the fault in compressor motor if there is electrical continuity between the dome and motor terminal?",
+    "Option1": "Shorted run winding",
+    "Option2": "Open common terminal",
+    "Option3": "Shorted start winding",
+    "Option4": "Grounded compressor motor",
+    "Answer": "Grounded compressor motor",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "How does the evaporator frost affect the sub zero temperature thermally in refrigerator?",
+    "Option1": "As conductor",
+    "Option2": "As insulator",
+    "Option3": "As convector",
+    "Option4": "As radiator",
+    "Answer": "As insulator",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the reason for filter drier sweating in refrigerator?",
+    "Option1": "Nitrogen in the system",
+    "Option2": "Moisture in the system",
+    "Option3": "Oxygen in the system",
+    "Option4": "Oil in the system",
+    "Answer": "Moisture in the system",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the component used in frost free refrigerator?",
+    "Option1": "Over load protector",
+    "Option2": "Bimetal thermo",
+    "Option3": "PTC relay",
+    "Option4": "Timer",
+    "Answer": "Timer",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/MRAC%2FSEM1%2F201%20TO%20225%2F216.PNG?alt=media&token=d3ad3a25-e80c-43cb-93e6-992f0aa4feb3"
+  },
+  {
+    "Question": "What is the component used in frost free refrigerator?",
+    "Option1": "Over load protector",
+    "Option2": "Defrost heater",
+    "Option3": "PTC relay",
+    "Option4": "Timer",
+    "Answer": "Defrost heater",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/MRAC%2FSEM1%2F201%20TO%20225%2F217.PNG?alt=media&token=ca2cf30f-ebad-4561-9a83-fa7199f084f6"
+  },
+  {
+    "Question": "Which component defrosts in frost free refrigerator?",
+    "Option1": "Bulb",
+    "Option2": "Heater",
+    "Option3": "Thermostat",
+    "Option4": "Capillary tube",
+    "Answer": "Heater",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Where the thermal bulb is fixed in frost free refrigerator?",
+    "Option1": "Liquid line",
+    "Option2": "Discharge line",
+    "Option3": "Last coil of condenser",
+    "Option4": "Last coil of evaporator",
+    "Answer": "Last coil of evaporator",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the component used in frost free refrigerator?",
+    "Option1": "Strainer",
+    "Option2": "Capillary",
+    "Option3": "Condenser",
+    "Option4": "Accumulator",
+    "Answer": "Strainer",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/MRAC%2FSEM1%2F201%20TO%20225%2F220.PNG?alt=media&token=682bf5d0-95da-4278-bcad-ecec6ef34c57"
+  },
+  {
+    "Question": "What is the component used in frost free refrigerator?",
+    "Option1": "PTC relay",
+    "Option2": "Defrost heater",
+    "Option3": "Over load protector",
+    "Option4": "Evaporator fan motor",
+    "Answer": "Evaporator fan motor",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/MRAC%2FSEM1%2F201%20TO%20225%2F221.PNG?alt=media&token=c66c469f-3bbf-4d2e-b860-ab3cf0c83445"
+  },
+  {
+    "Question": "Which component switches ON/OFF the starting winding in RSIR motor?",
+    "Option1": "Thermostat",
+    "Option2": "Capacitor",
+    "Option3": "Relay",
+    "Option4": "OLP",
+    "Answer": "Relay",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the cut out temperature of bimetal thermo in frost free refrigerator?",
+    "Option1": "5°C",
+    "Option2": "10°C",
+    "Option3": "20°C",
+    "Option4": "25°C",
+    "Answer": "10°C",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which domestic system uses automatic defrost?",
+    "Option1": "Frost free refrigerator",
+    "Option2": "Conventional refrigerator",
+    "Option3": "Split air - conditioner",
+    "Option4": "Window air - conditioner",
+    "Answer": "Frost free refrigerator",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which sheet is used to check the tigtness of door gasket of a refrigerator?",
+    "Option1": "Rubber",
+    "Option2": "Plastic",
+    "Option3": "Copper",
+    "Option4": "Zinc",
+    "Answer": "Plastic",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  }
+]

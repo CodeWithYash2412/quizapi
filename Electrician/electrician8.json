@@ -1,0 +1,227 @@
+[
+  {
+    "Question": "How can you increase the pulling strength of an electromagnet?",
+    "Option1": "Increase the field intensity",
+    "Option2": "Reduce the current in the coil",
+    "Option3": "Reduce the number of turns in the coil",
+    "Option4": "Increase the B-H curve of the material",
+    "Answer": "Increase the field intensity",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which defines the flux density is always lagging behind the magnetising force?",
+    "Option1": "Hysteresis",
+    "Option2": "Magnetic intensity",
+    "Option3": "Magnetic induction",
+    "Option4": "Residual magnetism",
+    "Answer": "Hysteresis",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the effect on surrounding metal placed in a magnetic field?",
+    "Option1": "Hysteresis",
+    "Option2": "Skin effect",
+    "Option3": "Eddy current",
+    "Option4": "Dielectric stress",
+    "Answer": "Eddy current",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "In which device the air capacitors are used?",
+    "Option1": "TV tuner",
+    "Option2": "Oscillator",
+    "Option3": "Loudspeaker",
+    "Option4": "Radio receiver",
+    "Answer": "Radio receiver",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What will happen, if the polarized electrolytic capacitor is reversely connected?",
+    "Option1": "No effect on the capacitor",
+    "Option2": "Explode due to excessive heat",
+    "Option3": "Current is reduced in the circuit",
+    "Option4": "Value of capacitance will be increased",
+    "Answer": "Explode due to excessive heat",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which is the diamagnetic substance?",
+    "Option1": "Wood",
+    "Option2": "Nickel",
+    "Option3": "Platinum",
+    "Option4": "Manganese",
+    "Answer": "Wood",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the S.I unit of Flux density?",
+    "Option1": "Tesla",
+    "Option2": "Weber",
+    "Option3": "Weber/metre",
+    "Option4": "Ampere-turns",
+    "Answer": "Tesla",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What indicates the shape of a BH curve (Hysteresis loop) of material?",
+    "Option1": "Reluctance of the material",
+    "Option2": "Field intensity of the substance",
+    "Option3": "Magnetic properties of the material",
+    "Option4": "Pulling power of the magnetic material",
+    "Answer": "Magnetic properties of the material",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which electrical quantity is directly proportional to the eddy current?",
+    "Option1": "Voltage",
+    "Option2": "Current",
+    "Option3": "Frequency",
+    "Option4": "Resistance",
+    "Answer": "Frequency",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which is the cause for changing the permeability?",
+    "Option1": "Length",
+    "Option2": "Flux density",
+    "Option3": "Field intensity",
+    "Option4": "Magneto motive force",
+    "Answer": "Flux density",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which type of capacitor is used for space electronics?",
+    "Option1": "Plastic film type",
+    "Option2": "Ceramic disc type",
+    "Option3": "Electrolytic-Aluminum type",
+    "Option4": "Electrolytic-Tantalum type",
+    "Answer": "Electrolytic-Tantalum type",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the effect of the electrolytic capacitor, if open circuit fault occurs?",
+    "Option1": "It will not function",
+    "Option2": "It will burst at once",
+    "Option3": "It will become leaky",
+    "Option4": "It will function normally",
+    "Answer": "It will not function",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What will be the change in value of capacitance if the distance of the plates are decreased in the capacitor?",
+    "Option1": "Becomes zero",
+    "Option2": "Remains same",
+    "Option3": "Decreases",
+    "Option4": "Increases",
+    "Answer": "Increases",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which property of magnet is illustrated?",
+    "Option1": "Directive property",
+    "Option2": "Induction property",
+    "Option3": "Saturation property",
+    "Option4": "Poles existing property",
+    "Answer": "Directive property",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/Electrician%2FSEM1%2FM5%2FM5-31.PNG?alt=media&token=b4d81d63-e7d1-4670-86f9-81bace4446e0"
+  },
+  {
+    "Question": "Which is a paramagnetic substance?",
+    "Option1": "Air",
+    "Option2": "Steel",
+    "Option3": "Glass",
+    "Option4": "Water",
+    "Answer": "Air",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which method of magnetization is used to make commercial purpose permanent magnets?",
+    "Option1": "Induction method",
+    "Option2": "Single touch method",
+    "Option3": "Double touch method",
+    "Option4": "Divided touch method",
+    "Answer": "Induction method",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the effect of inductance if the distance between the turns increases?",
+    "Option1": "Increases",
+    "Option2": "Decreases",
+    "Option3": "Becomes zero",
+    "Option4": "Remains same",
+    "Answer": "Increases",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the function of dielectric insulator in capacitor?",
+    "Option1": "Increases the strength of capacitance",
+    "Option2": "Prevents any current flow between plates",
+    "Option3": "Protects from short circuit between the plates",
+    "Option4": "Helps to hold the charge in capacitor for long period",
+    "Answer": "Prevents any current flow between plates",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which factor is determining the value of capacitance in capacitor?",
+    "Option1": "Area of the plates",
+    "Option2": "Shape of the plates",
+    "Option3": "Material of the plates",
+    "Option4": "Thickness of the plates",
+    "Answer": "Area of the plates",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which type of capacitors are used in RF coupling circuit?",
+    "Option1": "Tantalum",
+    "Option2": "Monolithic",
+    "Option3": "Electrolytic",
+    "Option4": "Metalized poly propylene",
+    "Answer": "Monolithic",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the unit of susceptance?",
+    "Option1": "Mho",
+    "Option2": "Ohm",
+    "Option3": "Henry",
+    "Option4": "Farad",
+    "Answer": "Mho",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the resistance of the inductive coil takes 5A current across 240V, 50Hz supply at 0.8 power factor?",
+    "Option1": "48 W",
+    "Option2": "42.5W",
+    "Option3": "38.4W",
+    "Option4": "26.6W",
+    "Answer": "42.5W",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "How the resonance frequency (fr) can be increased in A.C series circuit?",
+    "Option1": "Increasing the inductance value",
+    "Option2": "Reducing the capacitance value",
+    "Option3": "Increasing the capacitance value",
+    "Option4": "Increasing the value of resistance",
+    "Answer": "Reducing the capacitance value",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the main cause for below 0.5 lagging power factor in 3 phase system?",
+    "Option1": "Due to fluctuation of voltage",
+    "Option2": "True power due to resistive load",
+    "Option3": "Reactive power due to more inductive load",
+    "Option4": "Reactive power due to more capacitive load",
+    "Answer": "Reactive power due to more inductive load",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the current in neutral conductor in 3 phase unbalanced load in star connected system?",
+    "Option1": "No current will flow",
+    "Option2": "The algebraic sum of current in 3 phases",
+    "Option3": "The algebraic sum of current in 2 phases only",
+    "Option4": "Lesser than the lowest current in any one of the phases",
+    "Answer": "Lesser than the lowest current in any one of the phases",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  }
+]

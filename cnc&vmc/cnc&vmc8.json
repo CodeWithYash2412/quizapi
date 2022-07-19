@@ -1,0 +1,227 @@
+[
+  {
+    "Question": "What is G41?",
+    "Option1": "Cutter radius compensation cancel",
+    "Option2": "Cutter radius Compensation Left",
+    "Option3": "Cutter radius Compensation Right",
+    "Option4": "Cutter Height Compensation",
+    "Answer": "Cutter radius Compensation Left",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is marked as ʹxʹ?",
+    "Option1": "Programmed path",
+    "Option2": "Compensated path",
+    "Option3": "Roughing path",
+    "Option4": "Finishing path",
+    "Answer": "Compensated path",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/VMC%2F2%2F102.PNG?alt=media&token=1878ed27-65fe-43f9-8eeb-9920f97a0c88"
+  },
+  {
+    "Question": "What is ʹDʹ command in tool offset?",
+    "Option1": "Wear of cutter",
+    "Option2": "Tool material",
+    "Option3": "Length of cutter",
+    "Option4": "Radius tool",
+    "Answer": "Radius tool",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which is two dimensional co-ordinate system?",
+    "Option1": "Absolute",
+    "Option2": "Incremental",
+    "Option3": "Polar co-ordinate",
+    "Option4": "Cartesiar coordinate",
+    "Answer": "Polar co-ordinate",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is wear offset?",
+    "Option1": "Tool length setting",
+    "Option2": "Geometry setting",
+    "Option3": "Tool wear adjustments",
+    "Option4": "Work offset setting",
+    "Answer": "Tool wear adjustments",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is perpendicular distance between original and final surface of the work piece?",
+    "Option1": "Feed",
+    "Option2": "Cutting speed",
+    "Option3": "Depth of cut",
+    "Option4": "rpm",
+    "Answer": "Depth of cut",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is cycle time in milling?",
+    "Option1": "Milling time",
+    "Option2": "Driving time",
+    "Option3": "Turning time",
+    "Option4": "Shaping time",
+    "Answer": "Milling time",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is used to avoid repetition of programme blocks?",
+    "Option1": "Main program",
+    "Option2": "Absolute program",
+    "Option3": "Incremental program",
+    "Option4": "Sub program",
+    "Answer": "Sub program",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the ʺMʺ code for sub program end in FANUC system?",
+    "Option1": "M98",
+    "Option2": "M18",
+    "Option3": "M19",
+    "Option4": "M99",
+    "Answer": "M99",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "How sub program is identified in numeric system?",
+    "Option1": "X",
+    "Option2": "L",
+    "Option3": "P",
+    "Option4": "U",
+    "Answer": "L",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is used to produce identical parts in VMC?",
+    "Option1": "Main program",
+    "Option2": "Sub program",
+    "Option3": "Canned cycle",
+    "Option4": "Roughing cycle",
+    "Answer": "Sub program",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is ʹFʹ in ʺG84 X_Y_Z_R_F_?",
+    "Option1": "Hole position",
+    "Option2": "Cutting feed rate",
+    "Option3": "Hole depth",
+    "Option4": "Position of R-plane",
+    "Answer": "Cutting feed rate",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is ʹQʹ in G87 X_Y_R_Z_Q_F_ in FANUC system?",
+    "Option1": "Feed",
+    "Option2": "Depth",
+    "Option3": "Hole position",
+    "Option4": "Shift value",
+    "Answer": "Shift value",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is G code for back boring cycle in FANUC system?",
+    "Option1": "G83",
+    "Option2": "G85",
+    "Option3": "G87",
+    "Option4": "G89",
+    "Answer": "G87",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is G73 in FANUC system?",
+    "Option1": "High speed peck drilling cycle",
+    "Option2": "Boring cycle",
+    "Option3": "Back boring cycle",
+    "Option4": "Tapping",
+    "Answer": "High speed peck drilling cycle",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Where is tool reference point lies in the cutter in VMC?",
+    "Option1": "Outer",
+    "Option2": "Inner",
+    "Option3": "Center",
+    "Option4": "Bottom",
+    "Answer": "Center",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which code makes the compensated path to the right side of programmed path?",
+    "Option1": "G40",
+    "Option2": "G41",
+    "Option3": "G42",
+    "Option4": "G43",
+    "Answer": "G42",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which code makes the compensated path to the left side of programmed path?",
+    "Option1": "G40",
+    "Option2": "G41",
+    "Option3": "G42",
+    "Option4": "G43",
+    "Answer": "G41",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is radius vector in polar co-ordinate system?",
+    "Option1": "Point to arc center",
+    "Option2": "Angle from origin",
+    "Option3": "Point to point",
+    "Option4": "Point to the origin",
+    "Answer": "Point to the origin",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which co-ordinate system is used to program hole positions on a bolt circle?",
+    "Option1": "Cartesian",
+    "Option2": "Polar co-ordinate",
+    "Option3": "Point to point",
+    "Option4": "Continuous path",
+    "Answer": "Polar co-ordinate",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which co-ordinate system, a point is defined by the distance from a reference point and an angle from a reference direction?",
+    "Option1": "Point to point",
+    "Option2": "Cartesian",
+    "Option3": "Polar",
+    "Option4": "Continuous",
+    "Answer": "Polar",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is pressed to stop all motions of machines immediately?",
+    "Option1": "Close feed rate knob",
+    "Option2": "Emergency stop",
+    "Option3": "Close speed knob",
+    "Option4": "Main OFF",
+    "Answer": "Emergency stop",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is E-switch?",
+    "Option1": "Emergency",
+    "Option2": "Edit",
+    "Option3": "Enter",
+    "Option4": "Reset",
+    "Answer": "Emergency",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is ʹzʹ in G81 X-Y-Z-R-K-F-?",
+    "Option1": "Hole position",
+    "Option2": "Hole depth",
+    "Option3": "Feed",
+    "Option4": "Number of repeats",
+    "Answer": "Hole depth",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is radial co-ordinate in polar co-ordinate system?",
+    "Option1": "Angle from the pole",
+    "Option2": "Distance from the pole",
+    "Option3": "Point to point",
+    "Option4": "Point to arc center",
+    "Answer": "Distance from the pole",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  }
+]

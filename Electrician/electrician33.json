@@ -1,0 +1,227 @@
+[
+  {
+    "Question": "What is the function of R1 variable resistor?",
+    "Option1": "Controls the current in R2",
+    "Option2": "Protects from overload to TRIAC",
+    "Option3": "Protects the RFI filter from overloading",
+    "Option4": "Controls the pulse rate for triggering the TRIAC",
+    "Answer": "Controls the pulse rate for triggering the TRIAC",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/Electrician%2FSEM4%2FElectrician33%2F26.PNG?alt=media&token=75a8b08f-6efa-490e-ac39-a067ba2247d0"
+  },
+  {
+    "Question": "What is the purpose of connecting L1 through C1 to the transistor base?",
+    "Option1": "Provides DC supply",
+    "Option2": "Provides positive feed back",
+    "Option3": "Provides negative feedback",
+    "Option4": "Provides transistor biasing voltage",
+    "Answer": "Provides positive feed back",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/Electrician%2FSEM4%2FElectrician33%2F27.PNG?alt=media&token=4dc0c341-63c3-46e4-a1e1-7c29c032a768"
+  },
+  {
+    "Question": "What is the criteria to decide a material as conductor, semi conductor and insulator?",
+    "Option1": "Atomic bonding structure of atom",
+    "Option2": "Existence of valance electrons in atom",
+    "Option3": "Atomic weight of the atom of the material",
+    "Option4": "Atomic number of the atom of the material",
+    "Answer": "Existence of valance electrons in atom",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which doping material is used to make P-type semi conductor?",
+    "Option1": "Boron",
+    "Option2": "Arsenic",
+    "Option3": "Antimony",
+    "Option4": "Phosphorous",
+    "Answer": "Boron",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which type of biasing is required to a NPN transistor for amplification?",
+    "Option1": "Base ground, emitter and collector positive",
+    "Option2": "Base negative, emitter positive and collector negative",
+    "Option3": "Base positive, emitter negative and collector positive",
+    "Option4": "Base positive, emitter negative and collector negative",
+    "Answer": "Base positive, emitter negative and collector positive",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the type of function in the transistor circuit?",
+    "Option1": "Switching",
+    "Option2": "Oscillation",
+    "Option3": "Modulation",
+    "Option4": "Amplification",
+    "Answer": "Switching",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/Electrician%2FSEM4%2FElectrician33%2F31.PNG?alt=media&token=95f356b3-e798-48eb-8455-c9264b8fd86c"
+  },
+  {
+    "Question": "Why negative feedback is required in amplifier circuits?",
+    "Option1": "To reduce the distortion",
+    "Option2": "To increase the amplification factor",
+    "Option3": "To increase the output voltage gain",
+    "Option4": "To increase the output current gain",
+    "Answer": "To reduce the distortion",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the purpose of DIAC in power control circuits?",
+    "Option1": "As rectifier",
+    "Option2": "For triggering",
+    "Option3": "As an oscillator",
+    "Option4": "For amplification",
+    "Answer": "For triggering",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which type of control device is used in electronic fan regulator control circuits?",
+    "Option1": "FET",
+    "Option2": "UJT",
+    "Option3": "DIAC",
+    "Option4": "TRIAC",
+    "Answer": "TRIAC",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which quadrant operation of SCR delivers heavy current in reverse biasing?",
+    "Option1": "First quadrant",
+    "Option2": "Third quadrant",
+    "Option3": "Fourth quadrant",
+    "Option4": "Second quadrant",
+    "Answer": "Third quadrant",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which logic gate refers the truth table?",
+    "Option1": "AND",
+    "Option2": "NOT",
+    "Option3": "NOR",
+    "Option4": "NAND",
+    "Answer": "NOR",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/Electrician%2FSEM4%2FElectrician33%2F36.PNG?alt=media&token=9312546e-8459-4881-bbe0-a4fd27432e12"
+  },
+  {
+    "Question": "What is the use of time-base control switch or knob in the CRO?",
+    "Option1": "Select sweep speed",
+    "Option2": "Select input voltage range",
+    "Option3": "Select input signal voltage",
+    "Option4": "Select intensity of the beam",
+    "Answer": "Select sweep speed",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Why a snubber circuit is used in the TRIAC motor control circuit?",
+    "Option1": "To avoid false triggering",
+    "Option2": "To increase the life of TRIAC",
+    "Option3": "To increase the motor torque",
+    "Option4": "To maintain the motor speed constant",
+    "Answer": "To avoid false triggering",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the output DC voltage in half wave rectifier, if the input AC voltage is 24 volt?",
+    "Option1": "24 Volt",
+    "Option2": "12 Volt",
+    "Option3": "9.6 Volt",
+    "Option4": "10.8 Volt",
+    "Answer": "10.8 Volt",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Why most of semi conductor devices are made by silicon compared to germanium?",
+    "Option1": "High barrier voltage",
+    "Option2": "High resistance range",
+    "Option3": "High thermal conductivity",
+    "Option4": "High current carrying capacity",
+    "Answer": "High barrier voltage",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the output voltage if the centre tap of transformer is open circuited in a full wave rectifier circuit?",
+    "Option1": "Zero voltage",
+    "Option2": "Full rated output",
+    "Option3": "Half of the rated output",
+    "Option4": "One fourth of rated output",
+    "Answer": "Zero voltage",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which oscillator provides high accurate stable frequency?",
+    "Option1": "Hartley oscillator",
+    "Option2": "Colpitts oscillator",
+    "Option3": "Quartz crystal oscillator",
+    "Option4": "R.C phase shift oscillator",
+    "Answer": "Hartley oscillator",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the characteristic property of base material in a transistor?",
+    "Option1": "Lightly doped and very thin",
+    "Option2": "Heavily doped and very thin",
+    "Option3": "Lightly doped and very larger",
+    "Option4": "Heavily doped and very larger",
+    "Answer": "Lightly doped and very thin",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the type of amplifier?",
+    "Option1": "Push Pull Amplifier",
+    "Option2": "Common Base Amplifier",
+    "Option3": "Emitter Follower Amplifier",
+    "Option4": "Common Emitter Amplifier",
+    "Answer": "Common Emitter Amplifier",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/Electrician%2FSEM4%2FElectrician33%2F44.PNG?alt=media&token=8ec15e6e-4cc6-4229-bbcb-f0acbfcc3491"
+  },
+  {
+    "Question": "Which resistor determines the voltage gain in a common emitter amplifier?",
+    "Option1": "R1",
+    "Option2": "R2",
+    "Option3": "RL",
+    "Option4": "Re",
+    "Answer": "RL",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/Electrician%2FSEM4%2FElectrician33%2F45.PNG?alt=media&token=42a3c3e7-1f60-43b1-99da-a50d7d9097ef"
+  },
+  {
+    "Question": "Which multi vibrator produces a repetitive pulse wave form output?",
+    "Option1": "Astable multi vibrator",
+    "Option2": "Bistable multi vibrator",
+    "Option3": "One shot multi vibrator",
+    "Option4": "Monostable multi vibrator",
+    "Answer": "Astable multi vibrator",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Why a feedback network is used in the oscillator?",
+    "Option1": "To cancel noise distortion",
+    "Option2": "To phase shift the signal by 60°",
+    "Option3": "To phase shift the signal by 180°",
+    "Option4": "To cancel second harmonic distortion",
+    "Answer": "To phase shift the signal by 180°",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/Electrician%2FSEM4%2FElectrician33%2F47.PNG?alt=media&token=3c82d6e9-8943-4764-bd03-a28414114a26"
+  },
+  {
+    "Question": "What is the main application of a Field Effect Transistor (FET)?",
+    "Option1": "Voltage control device",
+    "Option2": "Current control device",
+    "Option3": "Positive feedback device",
+    "Option4": "Low input impedance device",
+    "Answer": "Voltage control device",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the main function of Uni Junction Transistor (UJT)?",
+    "Option1": "Relaxation oscillator",
+    "Option2": "Broadcast transmitter",
+    "Option3": "Loud speaker amplifier",
+    "Option4": "Microphone input device",
+    "Answer": "Relaxation oscillator",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "How the gate terminal of N channel JFET biased",
+    "Option1": "Gates are reverse biased",
+    "Option2": "Gates are forward biased",
+    "Option3": "Gates are forward biased with drain",
+    "Option4": "Gates are reverse biased with source",
+    "Answer": "Gates are reverse biased with source",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  }
+]

@@ -1,0 +1,227 @@
+[
+  {
+    "Question": "Which type of switch is used to control the room air temperature in split AC?",
+    "Option1": "Over load protector",
+    "Option2": "Thermostat switch",
+    "Option3": "Manual switch",
+    "Option4": "Thermal relay",
+    "Answer": "Thermostat switch",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which type fan blade is used with out door unit of split AC?",
+    "Option1": "Vane",
+    "Option2": "Guide vane",
+    "Option3": "Propeller",
+    "Option4": "Centrifugal",
+    "Answer": "Propeller",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "How many fan motors are used in split AC?",
+    "Option1": "Two",
+    "Option2": "Five",
+    "Option3": "Four",
+    "Option4": "Three",
+    "Answer": "Two",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which type of fan blade is used with indoor unit?",
+    "Option1": "Guide vane",
+    "Option2": "Blower",
+    "Option3": "Axial",
+    "Option4": "Vane",
+    "Answer": "Blower",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Where the refrigerant is stored in split AC during pump down operation?",
+    "Option1": "Accumulator",
+    "Option2": "Compressor",
+    "Option3": "Evaporator",
+    "Option4": "Condenser",
+    "Answer": "Condenser",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which horizontal distance is preferred between indoor and outdoor units in ductable split AC installation?",
+    "Option1": "15 meters",
+    "Option2": "12 meters",
+    "Option3": "20 meters",
+    "Option4": "25 meters",
+    "Answer": "12 meters",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which process is done first in split AC for shifting from one place to another?",
+    "Option1": "Flushing",
+    "Option2": "Evacuation",
+    "Option3": "Pump down",
+    "Option4": "Vacuumisation",
+    "Answer": "Pump down",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which operation is in progress?",
+    "Option1": "Open the front grill",
+    "Option2": "Test the blower fan",
+    "Option3": "Clean the condenser",
+    "Option4": "Open the louvers of unit",
+    "Answer": "Open the front grill",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/MRAC%2FSEM2%2F176%20TO%20200%2F183.PNG?alt=media&token=1d27417e-383f-4d6a-8747-d4f58bd7f795"
+  },
+  {
+    "Question": "Which fan motor speed is used with outdoor unit in split AC?",
+    "Option1": "Single speed",
+    "Option2": "Double speed",
+    "Option3": "Triple speed",
+    "Option4": "Five speed",
+    "Answer": "Single speed",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the function of starting capacitor in CSIR motor?",
+    "Option1": "Gives initial torque",
+    "Option2": "Gives running torque",
+    "Option3": "Corrects power factor",
+    "Option4": "Improves energy efficiency",
+    "Answer": "Gives initial torque",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the advantage of periodical cleaning of air filter?",
+    "Option1": "Decrease the volume of air handling",
+    "Option2": "Increase the speed of fan motor",
+    "Option3": "Decrease the cooling capacity",
+    "Option4": "Increase the cooling capacity",
+    "Answer": "Increase the cooling capacity",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What tonnage capacity of split AC unit uses 150/200 MFD starting capacitor?",
+    "Option1": "1 TR",
+    "Option2": "1.5 TR",
+    "Option3": "2.0 TR",
+    "Option4": "2.5 TR",
+    "Answer": "2.0 TR",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which valve helps to attend mechanical faults without wasting the gas in split AC?",
+    "Option1": "Gate valve",
+    "Option2": "Float valve",
+    "Option3": "Service valve",
+    "Option4": "Expansion valve",
+    "Answer": "Service valve",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which is the mounting location of evaporator in ductable split unit?",
+    "Option1": "Floor mounting",
+    "Option2": "Wall mounting",
+    "Option3": "Ceiling mounting",
+    "Option4": "Roof mounting",
+    "Answer": "Ceiling mounting",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the function of remote control in split AC?",
+    "Option1": "Humidity setting",
+    "Option2": "Pressure setting",
+    "Option3": "Drain water control",
+    "Option4": "Transmits signal to operate AC",
+    "Answer": "Transmits signal to operate AC",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the cause for noisy fan motor in outdoor unit of split AC?",
+    "Option1": "Bearing worn out",
+    "Option2": "Motor Burnt",
+    "Option3": "Shaft struck",
+    "Option4": "Blade bent",
+    "Answer": "Bearing worn out",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "How the pressure drop of refrigerant flow is minimised during installation of indoor and outdoor units in ductable split AC?",
+    "Option1": "Pipe lines with more joints",
+    "Option2": "With more horizontal distance",
+    "Option3": "System pipes with minimum bends",
+    "Option4": "Install units as far as possible",
+    "Answer": "System pipes with minimum bends",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the reason for poor condensation in split AC?",
+    "Option1": "High ambient temperature",
+    "Option2": "Low ambient temperature",
+    "Option3": "Condenser tube leaky",
+    "Option4": "Blower motor failure",
+    "Answer": "High ambient temperature",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the effect on defective thermostat sensor in split AC?",
+    "Option1": "Unit consumes less power",
+    "Option2": "Increases super heat",
+    "Option3": "AC unit runs continuously",
+    "Option4": "Relay malfunctions",
+    "Answer": "AC unit runs continuously",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the reason for air conditioner running continuously but no cooling effect ?",
+    "Option1": "Condensation poor",
+    "Option2": "Refrigerant is more",
+    "Option3": "Refrigerant leaked",
+    "Option4": "Over charged oil",
+    "Answer": "Refrigerant leaked",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What type of compressor motor is used in inverter split AC?",
+    "Option1": "Constant speed compressor motor",
+    "Option2": "Centrifugal compressor motor",
+    "Option3": "Open type compressor motor",
+    "Option4": "Variable speed motor",
+    "Answer": "Variable speed motor",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the name of component is used in car air conditioner?",
+    "Option1": "Accumulator",
+    "Option2": "Receiver drier",
+    "Option3": "Low pressure switch holder",
+    "Option4": "High pressure switch holder",
+    "Answer": "Receiver drier",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/MRAC%2FSEM2%2F176%20TO%20200%2F197.PNG?alt=media&token=89e774aa-0233-4fe9-bd62-dfaced97e3eb"
+  },
+  {
+    "Question": "Where the filter drier is installed in a car AC system?",
+    "Option1": "Liquid line",
+    "Option2": "Suction line",
+    "Option3": "Service line",
+    "Option4": "Discharge line",
+    "Answer": "Liquid line",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which device engages the compressor shaft in car AC?",
+    "Option1": "Thermo switch",
+    "Option2": "Car engine pulley",
+    "Option3": "Over load protector",
+    "Option4": "Electro magnetic clutch",
+    "Answer": "Electro magnetic clutch",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "How many speed selection is used with indoor air blower in ductable multi split AC?",
+    "Option1": "One - speed",
+    "Option2": "Two - speed",
+    "Option3": "Three - speed",
+    "Option4": "Four - speed",
+    "Answer": "Three - speed",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  }
+]

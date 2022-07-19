@@ -1,0 +1,182 @@
+[
+  {
+    "Question": "What is the differential of low pressure cut out control switch? If LPC cuts out at 2.2kg/cm2 and LPC cut in at 2.4kg/cm2",
+    "Option1": "0.8 kg/ cm2",
+    "Option2": "0.4 kg/ cm2",
+    "Option3": "0.2 kg/ cm2",
+    "Option4": "0.1 kg/ cm2",
+    "Answer": "0.2 kg/ cm2",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the absolute pressure of gas cylinder if the gauge reads 15.3 p.s.i.g?",
+    "Option1": "10 p.s.i.a",
+    "Option2": "20 p.s.i.a",
+    "Option3": "30 p.s.i.a",
+    "Option4": "40 p.s.i.a",
+    "Answer": "30 p.s.i.a",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which size service port is used in automobile air conditioners for HFC-134a refrigerant?",
+    "Option1": "¼ \" - 13 ACME",
+    "Option2": "½ \" - 16 ACME",
+    "Option3": "3/8 \" - 15 ACME",
+    "Option4": "5/16 \" - 14 ACME",
+    "Answer": "½ \" - 16 ACME",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is tested by the multimeter on thermostatic switch?",
+    "Option1": "Grounded/shorted thermostat",
+    "Option2": "Refrigerant leakage of bellow",
+    "Option3": "Working of knob in thermostat",
+    "Option4": "Cut-in and cut-out function of thermostat",
+    "Answer": "Cut-in and cut-out function of thermostat",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/MRAC%2FSEM4%2F251%20TO%20270%2F254.PNG?alt=media&token=82dd9528-be25-480d-85cc-7f84e016011a"
+  },
+  {
+    "Question": "Which operation is carried out on pulley?",
+    "Option1": "Pulling",
+    "Option2": "Pushing",
+    "Option3": "Aligning",
+    "Option4": "Tightening",
+    "Answer": "Pulling",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/MRAC%2FSEM4%2F251%20TO%20270%2F255.PNG?alt=media&token=e6b3e0b2-ce50-4ca7-9eaf-b6d00d16df87"
+  },
+  {
+    "Question": "What is being tested between the compressor drive pulley and the function plate in a car air-conditioner?",
+    "Option1": "Clutch clearance using a blade",
+    "Option2": "Clutch clearance using a knife",
+    "Option3": "Clutch clearance using a feeler gauge",
+    "Option4": "Clutch clearance using a screw driver",
+    "Answer": "Clutch clearance using a feeler gauge",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/MRAC%2FSEM4%2F251%20TO%20270%2F256.PNG?alt=media&token=c98c4e48-9ecc-416f-abc6-a0b70b528f80"
+  },
+  {
+    "Question": "What is tested by 12V DC battery on compressor used in automobile air conditioner?",
+    "Option1": "Working of compressor",
+    "Option2": "Working of magnetic clutch",
+    "Option3": "Testing of mounting clearance",
+    "Option4": "Testing of compressor mounting",
+    "Answer": "Working of magnetic clutch",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/MRAC%2FSEM4%2F251%20TO%20270%2F257.PNG?alt=media&token=79ac20b9-b48a-4d25-afa8-2b435cad1d41"
+  },
+  {
+    "Question": "Why the service port fitting size differs in HFC-134a from CFC-12 car AC system?",
+    "Option1": "Increases quantity of refrigerant charge",
+    "Option2": "Decreases quantity of refrigerant charge",
+    "Option3": "Avoids cross contamination of refrigerants",
+    "Option4": "Improves performance of car air conditioners",
+    "Answer": "Avoids cross contamination of refrigerants",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the advantage of recycling R 134a refrigerant?",
+    "Option1": "Minimise air pollution",
+    "Option2": "Reduce global warming",
+    "Option3": "Increase water pollution",
+    "Option4": "Increase ozone depletion",
+    "Answer": "Reduce global warming",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which controls the speed of blower fan motor to vary air cooling or heating in car AC?",
+    "Option1": "Selector switch and resistors",
+    "Option2": "Thermostat and return-air sensor",
+    "Option3": "Ambient and cabinet temperature",
+    "Option4": "Increase or decrease refrigerant flow",
+    "Answer": "Selector switch and resistors",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Why the miscibility of refrigerant and oil is preferred in car AC?",
+    "Option1": "Lubricate the clutch assembly",
+    "Option2": "Lubricate the heat exchangers",
+    "Option3": "Circulate oil back to compressor",
+    "Option4": "Lubricate the moving parts of TEV",
+    "Answer": "Circulate oil back to compressor",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What are the controls connected in series with the magnetic clutch of compressor in car AC?",
+    "Option1": "Thermostat, LPC, HPC",
+    "Option2": "LPC, Blower Fan Motor",
+    "Option3": "HPC, Condenser Fan Motor",
+    "Option4": "Thermostat, Condenser Fan Motor",
+    "Answer": "Thermostat, LPC, HPC",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the function of magnetic clutch in an automobile air conditioner?",
+    "Option1": "Check Rpm of engine shaft",
+    "Option2": "Check Rpm of compressor shaft",
+    "Option3": "Start and stop the evaporator blower",
+    "Option4": "Start and stop the compressor electro magnetically",
+    "Answer": "Start and stop the compressor electro magnetically",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What are the three pressure actuated electrical control switches connected in series in an automobile air-conditioner?",
+    "Option1": "LPC, HPC and Blower-switch",
+    "Option2": "Thermostat, Electromagnetic clutch, on-off control",
+    "Option3": "Thermostat, Thermostatic expansion valve, Blower-switch",
+    "Option4": "Thermostat, Low-pressure control and high pressure control",
+    "Answer": "Thermostat, Low-pressure control and high pressure control",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the reason for water dripping inside the AC bus?",
+    "Option1": "Drain pan is leak proof",
+    "Option2": "Leakage of evaporator coil",
+    "Option3": "Poor insulation at the bottom of drain pan",
+    "Option4": "Worn out shock absorbers on the bus wheels",
+    "Answer": "Poor insulation at the bottom of drain pan",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the effect of sludge in car AC?",
+    "Option1": "Chokes the orifice of TEV",
+    "Option2": "Blocks the orifice of AEV",
+    "Option3": "Closes the orifice of TEEV",
+    "Option4": "Closes the orifice of capillary",
+    "Answer": "Chokes the orifice of TEV",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the reason for intermittent cooling cycle in car AC?",
+    "Option1": "Moisture in the system",
+    "Option2": "Fully evacuated system",
+    "Option3": "Excess of lubricant in receiver",
+    "Option4": "Non condensables in the system",
+    "Answer": "Moisture in the system",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the reason for having 2.5 kg/cm2 on low and high side of car AC system?",
+    "Option1": "Defective thermostat",
+    "Option2": "Excessive oil in evaporator",
+    "Option3": "Too close differential in LPC",
+    "Option4": "Defective compressor valve",
+    "Answer": "Defective compressor valve",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Why both the gauges read abnormal high pressures while testing the car AC performance?",
+    "Option1": "Poor pumping",
+    "Option2": "Oxygen in system",
+    "Option3": "Nitrogen in system",
+    "Option4": "Excessive refrigerant charge",
+    "Answer": "Excessive refrigerant charge",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/MRAC%2FSEM4%2F251%20TO%20270%2F269.PNG?alt=media&token=c184df3d-ca40-47fc-a4ef-5cecc49e7e91"
+  },
+  {
+    "Question": "What is the cause of bubbles in liquid line at sight glass in car AC system?",
+    "Option1": "No refrigerant charge",
+    "Option2": "Shortage of refrigerant",
+    "Option3": "Over charge of refrigerant",
+    "Option4": "Correct charge of refrigerant",
+    "Answer": "Shortage of refrigerant",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  }
+]

@@ -1,0 +1,227 @@
+[
+  {
+    "Question": "What is the effect on molten solder due to repeated melting?",
+    "Option1": "Tin content reduced",
+    "Option2": "Lead content reduced",
+    "Option3": "Prevent slug formation",
+    "Option4": "Uneven flowing in joints",
+    "Answer": "Tin content reduced",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What will happen to PVC insulation in cable carries excess current continuously for long period?",
+    "Option1": "Voltage drop increases",
+    "Option2": "Voltage drop decreases",
+    "Option3": "Insulation resistance increases",
+    "Option4": "Insulation resistance decreases",
+    "Answer": "Insulation resistance decreases",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which method of cable laying is suitable for congested areas?",
+    "Option1": "Racks in air",
+    "Option2": "Duct pipes",
+    "Option3": "Along buildings",
+    "Option4": "Direct in ground",
+    "Answer": "Duct pipes",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the name of the part marked X in UG cables?",
+    "Option1": "Serving",
+    "Option2": "Bedding",
+    "Option3": "Armouring",
+    "Option4": "Lead sheath",
+    "Answer": "Lead sheath",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/Electrician%2FSEM1%2FM3%2FM3-20.PNG?alt=media&token=fdd2dabb-2926-4843-bbb3-b805cf4b04de"
+  },
+  {
+    "Question": "What is the fault of U.G cable identified in the circuit?",
+    "Option1": "Ground fault",
+    "Option2": "Short circuit fault",
+    "Option3": "Open circuit fault",
+    "Option4": "Weak insulation fault",
+    "Answer": "Short circuit fault",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/Electrician%2FSEM1%2FM3%2FM3-21.PNG?alt=media&token=e420c453-bee4-4bb2-8cb5-ca6c6e1ab3cc"
+  },
+  {
+    "Question": "Which part of the underground cable is protecting the metallic sheath against corrosion?",
+    "Option1": "Serving",
+    "Option2": "Bedding",
+    "Option3": "Armouring",
+    "Option4": "Lead sheath",
+    "Answer": "Bedding",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Why the soldering iron must be kept into a stand that not in use while soldering",
+    "Option1": "It prevents burns and fire",
+    "Option2": "To control the excessive heat",
+    "Option3": "To save the time of soldering process",
+    "Option4": "To save the operator from electric shock",
+    "Answer": "It prevents burns and fire",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which type of wire joint is found in the junction box?",
+    "Option1": "Aerial tap joint",
+    "Option2": "Plain tap joint",
+    "Option3": "Rat tail joint",
+    "Option4": "Married joint",
+    "Answer": "Rat tail joint",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the name of the joint?",
+    "Option1": "Married joint",
+    "Option2": "Scarfed joint",
+    "Option3": "Western union joint",
+    "Option4": "Britannia straight joint",
+    "Answer": "Married joint",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/Electrician%2FSEM1%2FM3%2FM3-25.PNG?alt=media&token=8b4bf73f-a755-493f-804b-76c8f1af9c65"
+  },
+  {
+    "Question": "What is the use of Britannia T joint?",
+    "Option1": "Extending the length of the lines",
+    "Option2": "Inside and outside wiring installation",
+    "Option3": "Mechanical stress not required on conductor",
+    "Option4": "Tapping the service connection from overhead lines",
+    "Answer": "Tapping the service connection from overhead lines",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which type of soldering method is used for servicing and repairing work?",
+    "Option1": "Dip soldering",
+    "Option2": "Soldering with a flame",
+    "Option3": "Soldering with soldering gun",
+    "Option4": "Soldering with a soldering iron",
+    "Answer": "Soldering with soldering gun",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the use of dip soldering method?",
+    "Option1": "Soft soldering",
+    "Option2": "Piping and cable soldering work",
+    "Option3": "Soldering miniature components on PCB",
+    "Option4": "Soldering sensitive electric components",
+    "Answer": "Soldering miniature components on PCB",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Name the part marked X of belted U.G cable.",
+    "Option1": "Jute filling",
+    "Option2": "Armouring",
+    "Option3": "Lead sheath",
+    "Option4": "Paper insulation",
+    "Answer": "Lead sheath",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/Electrician%2FSEM1%2FM3%2FM3-29.PNG?alt=media&token=31697307-6654-46ad-9556-c3836c50a608"
+  },
+  {
+    "Question": "Which insulating material is used as hot pouring compound for making joints in underground cable?",
+    "Option1": "Polyamine hardener",
+    "Option2": "Cast resin compound",
+    "Option3": "Bituminous compound",
+    "Option4": "Epoxy cast resin compound",
+    "Answer": "Bituminous compound",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the purpose of bedding insulation of U.G. cable?",
+    "Option1": "Protect the cable from mechanical injury",
+    "Option2": "Protect the cable from moisture and gases",
+    "Option3": "Protect armouring from atmospheric condition",
+    "Option4": "Protect the metallic sheath against corrosion",
+    "Answer": "Protect the metallic sheath against corrosion",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which test is conducted to locate the faults in U.G. cables?",
+    "Option1": "Loop test",
+    "Option2": "External growler test",
+    "Option3": "Break down voltage test",
+    "Option4": "Insulation resistance test",
+    "Answer": "Loop test",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What does the number 1.40 represent if a stranded conductor is designated as 7/1.40?",
+    "Option1": "Area of cross section",
+    "Option2": "Radius of one conductor",
+    "Option3": "Diameter of all conductor",
+    "Option4": "Diameter of each conductor",
+    "Answer": "Diameter of each conductor",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the value of electrical conductivity of aluminium conductor?",
+    "Option1": "61 mho/m",
+    "Option2": "56 mho/m",
+    "Option3": "35 mho/m",
+    "Option4": "28 mho/m",
+    "Answer": "35 mho/m",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the rating factor of cable provided with coarse excess current protection?",
+    "Option1": 1.11,
+    "Option2": 1.23,
+    "Option3": 0.81,
+    "Option4": 0.707,
+    "Answer": 0.81,
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the size of neutral conductor compared to phase conductor in U.G cable?",
+    "Option1": "Same size of phase conductor",
+    "Option2": "Half size of phase conductor",
+    "Option3": "1/4 size of phase conductor",
+    "Option4": "1/3 size of phase conductor",
+    "Answer": "Half size of phase conductor",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the name of the tool?",
+    "Option1": "Cutting plier",
+    "Option2": "Wire stripper",
+    "Option3": "Crimping tool",
+    "Option4": "Side cutting plier",
+    "Answer": "Crimping tool",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/Electrician%2FSEM1%2FM3%2FM3-37.PNG?alt=media&token=214be68e-f76d-4711-b080-bbecc281c599"
+  },
+  {
+    "Question": "What is the reading of the micrometer?",
+    "Option1": "5.05 mm",
+    "Option2": "5.00 mm",
+    "Option3": "4.55 mm",
+    "Option4": "4.05 mm",
+    "Answer": "4.55 mm",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/Electrician%2FSEM1%2FM3%2FM3-39.PNG?alt=media&token=8291e40b-dd16-424d-9a01-4c4a56ad6b80"
+  },
+  {
+    "Question": "Which method of soldering is used for repairing the vehicle body?",
+    "Option1": "Dip soldering",
+    "Option2": "Soldering with flame",
+    "Option3": "Soldering with soldering iron",
+    "Option4": "Soldering with soldering gun",
+    "Answer": "Soldering with flame",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the advantage of stranded conductor over solid conductor?",
+    "Option1": "Cost is less",
+    "Option2": "More flexible",
+    "Option3": "Less voltage drop",
+    "Option4": "More insulation resistance",
+    "Answer": "More flexible",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the current capacity of the 16 Amp. Cable, if it is protected by coarse excess current protection?",
+    "Option1": "11 A",
+    "Option2": "13 A",
+    "Option3": "15 A",
+    "Option4": "18 A",
+    "Answer": "13 A",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  }
+]

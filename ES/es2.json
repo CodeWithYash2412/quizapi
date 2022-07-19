@@ -1,0 +1,227 @@
+[
+  {
+    "Question": "The word that expresses a sudden and strong feeling is called_________",
+    "Option1": "punctuation",
+    "Option2": "interjection",
+    "Option3": "conjunction",
+    "Option4": "apostrophe",
+    "Answer": "interjection",
+    "image": ""
+  },
+  {
+    "Question": "When you greet higher official’s such as Teacher, Instructor or Supervisor, you should use ___________",
+    "Option1": "“Good morning”",
+    "Option2": "“Hello”",
+    "Option3": "“Hey”",
+    "Option4": "“Hi”",
+    "Answer": "“Good morning”",
+    "image": ""
+  },
+  {
+    "Question": "Which is a silent letter in the word “ANSWER”?",
+    "Option1": "R",
+    "Option2": "E",
+    "Option3": "S",
+    "Option4": "W",
+    "Answer": "W",
+    "image": ""
+  },
+  {
+    "Question": "Which one is a “Do’s” of discussion etiquettes?",
+    "Option1": "Loose your temper",
+    "Option2": "Listen to others",
+    "Option3": "Talk about irrelevant details",
+    "Option4": "Use impolite or rude language",
+    "Answer": "Listen to others",
+    "image": ""
+  },
+  {
+    "Question": "Which one is a “Don’t” of discussion etiquette?",
+    "Option1": "Be open minded",
+    "Option2": "Use moderate tone",
+    "Option3": "Listen to others",
+    "Option4": "Argue unnecessary",
+    "Answer": "Argue unnecessary",
+    "image": ""
+  },
+  {
+    "Question": "Which one is a brain of computer?",
+    "Option1": "Keyboard",
+    "Option2": "CPU",
+    "Option3": "Monitor",
+    "Option4": "Hard disk",
+    "Answer": "CPU",
+    "image": ""
+  },
+  {
+    "Question": "Which one is a cardinal number?",
+    "Option1": 10,
+    "Option2": "V",
+    "Option3": "VII",
+    "Option4": "XI",
+    "Answer": 10,
+    "image": ""
+  },
+  {
+    "Question": "Which one is a cardinal number?",
+    "Option1": "X",
+    "Option2": "II",
+    "Option3": "IV",
+    "Option4": 3,
+    "Answer": 3,
+    "image": ""
+  },
+  {
+    "Question": "Which one is a cardinal number?",
+    "Option1": "IV",
+    "Option2": "10th",
+    "Option3": "1st",
+    "Option4": 1,
+    "Answer": 1,
+    "image": ""
+  },
+  {
+    "Question": "Which one is a cardinal number?",
+    "Option1": "One",
+    "Option2": "Fifth",
+    "Option3": "Eighth",
+    "Option4": "Second",
+    "Answer": "One",
+    "image": ""
+  },
+  {
+    "Question": "Which one is an exclamatory sentence?",
+    "Option1": "What a beautiful house it is!",
+    "Option2": "It is a beautiful house_",
+    "Option3": "Is it a beautiful house?",
+    "Option4": "Your house is beautiful_",
+    "Answer": "What a beautiful house it is!",
+    "image": ""
+  },
+  {
+    "Question": "Which one is in active voice?",
+    "Option1": "Ram has passed the exam_",
+    "Option2": "The ball was caught by him_",
+    "Option3": "The book was being read by her_",
+    "Option4": "We were driven home by dad_",
+    "Answer": "Ram has passed the exam_",
+    "image": ""
+  },
+  {
+    "Question": "Which one is in passive voice?",
+    "Option1": "Mohan is painting a house",
+    "Option2": "She was reading a book",
+    "Option3": "Her birthday was celebrated by us",
+    "Option4": "I have seen that movie",
+    "Answer": "Her birthday was celebrated by us",
+    "image": ""
+  },
+  {
+    "Question": "Which one is NOT a conjunction?",
+    "Option1": "And",
+    "Option2": "Or",
+    "Option3": "But",
+    "Option4": "On",
+    "Answer": "On",
+    "image": ""
+  },
+  {
+    "Question": "Which one is NOT a benefit of the role playing?",
+    "Option1": "Builds confidence",
+    "Option2": "Develops listening skill",
+    "Option3": "Develops creative problem-solving skill",
+    "Option4": "Develops boredom",
+    "Answer": "Develops boredom",
+    "image": ""
+  },
+  {
+    "Question": "Which one is NOT a vowel?",
+    "Option1": "a",
+    "Option2": "e",
+    "Option3": "f",
+    "Option4": "i",
+    "Answer": "f",
+    "image": ""
+  },
+  {
+    "Question": "Which one of the following is a good office etiquette?",
+    "Option1": "One should dress formally",
+    "Option2": "One should not be punctual to work",
+    "Option3": "One should have fancy mobile ring tone",
+    "Option4": "One should litter one’s work place",
+    "Answer": "One should dress formally",
+    "image": ""
+  },
+  {
+    "Question": "Word that is pronounced the same as another word but differs in meaning is called__________________",
+    "Option1": "homophone",
+    "Option2": "homograph",
+    "Option3": "diphthong",
+    "Option4": "syllable",
+    "Answer": "homophone",
+    "image": ""
+  },
+  {
+    "Question": "1 Byte = ___________",
+    "Option1": "2 bits",
+    "Option2": "4 bits",
+    "Option3": "8 bits",
+    "Option4": "16 bits",
+    "Answer": "8 bits",
+    "image": ""
+  },
+  {
+    "Question": "A computer system consists of __________",
+    "Option1": "software and program",
+    "Option2": "hardware and software",
+    "Option3": "mouse and keyboard",
+    "Option4": "circuit diagram",
+    "Answer": "hardware and software",
+    "image": ""
+  },
+  {
+    "Question": "A program that infects other program by modifying them is called __________",
+    "Option1": "virus",
+    "Option2": "antivirus",
+    "Option3": "web page",
+    "Option4": "note pad",
+    "Answer": "virus",
+    "image": ""
+  },
+  {
+    "Question": "A software application used to enable computer users to locate and access web page is called ___________",
+    "Option1": "web browser",
+    "Option2": "web server",
+    "Option3": "web site",
+    "Option4": "email",
+    "Answer": "web browser",
+    "image": ""
+  },
+  {
+    "Question": "An illegal activity committed on the internet is called___________",
+    "Option1": "virus",
+    "Option2": "cyber crime",
+    "Option3": "search engine",
+    "Option4": "social networking",
+    "Answer": "cyber crime",
+    "image": ""
+  },
+  {
+    "Question": "Computer network that spans a regional, national or global area is called __________",
+    "Option1": "LAN",
+    "Option2": "MAN",
+    "Option3": "WAN",
+    "Option4": "CAN",
+    "Answer": "WAN",
+    "image": ""
+  },
+  {
+    "Question": "CPU consists of _________",
+    "Option1": "Control unit and ALU",
+    "Option2": "Storage device and ALU",
+    "Option3": "Input and output devices",
+    "Option4": "Input device and control unit",
+    "Answer": "Control unit and ALU",
+    "image": ""
+  }
+]

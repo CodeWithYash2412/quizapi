@@ -1,0 +1,227 @@
+[
+  {
+    "Question": "How many parallel paths in duplex lap winding in the armature of 4 pole D.C Motor?",
+    "Option1": 2,
+    "Option2": 4,
+    "Option3": 6,
+    "Option4": 8,
+    "Answer": 2,
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which rule determines the direction of rotation of armature in D.C motor?",
+    "Option1": "Right hand grip rule",
+    "Option2": "Right hand palm rule",
+    "Option3": "Fleming’s left hand rule",
+    "Option4": "Fleming’s right hand rule",
+    "Answer": "Fleming’s left hand rule",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the name of D.C motor?",
+    "Option1": "D.C shunt motor",
+    "Option2": "D.C series motor",
+    "Option3": "D.C differential compound motor",
+    "Option4": "D.C cumulative compound motor",
+    "Answer": "D.C shunt motor",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/Electrician%2FSEM3%2FElectrician23%2F64.PNG?alt=media&token=bf77bcb9-960a-47e7-94d0-95349cfe12cd"
+  },
+  {
+    "Question": "Which rule determines the direction of\ncurrent in D.C motor?",
+    "Option1": "Right hand grip rule",
+    "Option2": "Right hand palm rule",
+    "Option3": "Fleming’s left hand rule",
+    "Option4": "Fleming’s right hand rule",
+    "Answer": "Fleming’s right hand rule",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the formula to calculate the current\ntaken by D.C shunt motor armature?",
+    "Option1": "Ia = V / Ra",
+    "Option2": "Ia = Eb / Ra",
+    "Option3": "Ia = V-Eb / Ra",
+    "Option4": "Ia = V+Eb / Ra",
+    "Answer": "Ia = V-Eb / Ra",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which rule is applied to identify the direction\nof flux in DC motor?",
+    "Option1": "Cork’s screw rule",
+    "Option2": "Right hand grip rule",
+    "Option3": "Fleming’s left hand rule",
+    "Option4": "Fleming’s right hand rule",
+    "Answer": "Fleming’s left hand rule",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Name the type of DC motor.",
+    "Option1": "Shunt motor",
+    "Option2": "Series motor",
+    "Option3": "Long shunt compound motor",
+    "Option4": "Short shunt compound motor",
+    "Answer": "Short shunt compound motor",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/Electrician%2FSEM3%2FElectrician23%2F68.PNG?alt=media&token=f8497744-1ee7-439e-88b2-be84c41ee2e6"
+  },
+  {
+    "Question": "What is the formula to calculate back EMF in a\nDC motor?",
+    "Option1": "𝐸𝑏 = 𝑍𝑁𝑃 / 𝜑 60 𝐴",
+    "Option2": "𝐸𝑏 = 𝑁 𝑃 / 𝑍 𝜑 60 𝐴",
+    "Option3": "𝐸𝑏 = 𝜑 𝑍 𝑁 𝑃 / 60 𝐴",
+    "Option4": "𝐸𝑏 = 60 𝐴 𝜑 / 𝑍 𝑁 𝑃",
+    "Answer": "𝐸𝑏 = 𝜑 𝑍 𝑁 𝑃 / 60 𝐴",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the name of the equipment?",
+    "Option1": "Megger",
+    "Option2": "Earth resistance tester",
+    "Option3": "Internal growler",
+    "Option4": "External growler",
+    "Answer": "External growler",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/Electrician%2FSEM3%2FElectrician23%2F70.PNG?alt=media&token=1e04b7be-5327-4d57-8204-9d8c7c2a6cc6"
+  },
+  {
+    "Question": "What is the name of winding, if coil pitch is less than pole pitch?",
+    "Option1": "Full pitch winding",
+    "Option2": "Half pitch winding",
+    "Option3": "Long chorded winding",
+    "Option4": "Short chorded winding",
+    "Answer": "Short chorded winding",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the purpose of series resistor connected with holding coil in a D.C four point starter?",
+    "Option1": "Limit the current in holding coil",
+    "Option2": "Increase the current in holding coil",
+    "Option3": "Increase the voltage in holding coil",
+    "Option4": "Decrease the voltage in holding coil",
+    "Answer": "Limit the current in holding coil",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which speed control method of D.C series motor is used for electric train?",
+    "Option1": "Field diverter method",
+    "Option2": "Field tapping method",
+    "Option3": "Armature diverter method",
+    "Option4": "Supply voltage control method",
+    "Answer": "Field diverter method",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Why shunt field coil is connected in series with holding coil in D.C three point starter?",
+    "Option1": "Increase the holding coil current",
+    "Option2": "Decrease the holding coil current",
+    "Option3": "Protect the shunt field from over current",
+    "Option4": "Protect the motor in case of open in shunt field",
+    "Answer": "Protect the motor in case of open in shunt field",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Why the direction of rotation is changed only by changing the armature current direction in a D.C compound motor?",
+    "Option1": "Maintain rated speed",
+    "Option2": "Maintain motor characteristics",
+    "Option3": "Avoid armature reaction effect",
+    "Option4": "Prevent motor from over loading",
+    "Answer": "Maintain motor characteristics",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which speed control methods offers below normal speed in DC shunt motor?",
+    "Option1": "Field control method",
+    "Option2": "Voltage control method",
+    "Option3": "Armature control method",
+    "Option4": "Ward Leonard system of speed control",
+    "Answer": "Armature control method",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Why starters are required to start D.C motors in industries?",
+    "Option1": "Regulate the field voltage",
+    "Option2": "Reduce the armature current",
+    "Option3": "Control the armature reaction",
+    "Option4": "Smooth operation of motors",
+    "Answer": "Reduce the armature current",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which insulating material belongs to class ‘B’ insulation?",
+    "Option1": "Cotton",
+    "Option2": "Bamboo",
+    "Option3": "Fiber glass",
+    "Option4": "Leatheroid paper",
+    "Answer": "Fiber glass",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the temperature value of class ‘F’ insulation?",
+    "Option1": "90°C",
+    "Option2": "105°C",
+    "Option3": "120°C",
+    "Option4": "155°C",
+    "Answer": "155°C",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which type of D.C motor is used for constant speed drives?",
+    "Option1": "DC series motor",
+    "Option2": "DC shunt motor",
+    "Option3": "Differential long shunt compound motor",
+    "Option4": "Differential short shunt compound motor",
+    "Answer": "DC shunt motor",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which type of DC motor is used in elevators?",
+    "Option1": "DC series motor",
+    "Option2": "DC shunt motor",
+    "Option3": "DC differential compound motor",
+    "Option4": "DC cumulative compound motor",
+    "Answer": "DC cumulative compound motor",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which method of speed control gives below the rated speed in DC series motor?",
+    "Option1": "Field diverter method",
+    "Option2": "Tapped field method",
+    "Option3": "Voltage control method",
+    "Option4": "Armature diverter method",
+    "Answer": "Armature diverter method",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the effect, if a four point starter resistance is cutoff during running?",
+    "Option1": "Motor stopped",
+    "Option2": "Runs at slow speed",
+    "Option3": "Runs at very high speed",
+    "Option4": "Runs at reverse direction",
+    "Answer": "Runs at slow speed",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Why carbon composition brush requires in the armature circuit to operate the D.C motor?",
+    "Option1": "Increases the starting torque",
+    "Option2": "Protects from armature reaction",
+    "Option3": "Protects armature from over loading",
+    "Option4": "Reduces the spark in the commutator segment",
+    "Answer": "Reduces the spark in the commutator segment",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Why series motor produce high torque and speed initially without load?",
+    "Option1": "Absence of back emf",
+    "Option2": "Load current flows through field winding",
+    "Option3": "Armature current and field current are same",
+    "Option4": "Series field winding wound with thick wire",
+    "Answer": "Absence of back emf",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Why the series field is short circuited at the time of starting in differential compound motor?",
+    "Option1": "To reduce the starting current",
+    "Option2": "To increase the speed of motor",
+    "Option3": "To decrease the speed of motor",
+    "Option4": "To maintain proper direction of rotation",
+    "Answer": "To maintain proper direction of rotation",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  }
+]

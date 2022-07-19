@@ -1,0 +1,227 @@
+[
+  {
+    "Question": "What is called the interconnected computer systems located at different places?",
+    "Option1": "internet",
+    "Option2": "computer layout",
+    "Option3": "computer network",
+    "Option4": "connectivity of computer",
+    "Answer": "computer network",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which topology combines characteristics of linear bus and star topologies?",
+    "Option1": "Bus",
+    "Option2": "Star",
+    "Option3": "Tree",
+    "Option4": "Mesh",
+    "Answer": "Tree",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "How many pairs of wires contains in category 5 UTP cable?",
+    "Option1": 3,
+    "Option2": 4,
+    "Option3": 5,
+    "Option4": 6,
+    "Answer": 4,
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the maximum speed supported by category 5 UTP cable?",
+    "Option1": "1mbps",
+    "Option2": "10mbps",
+    "Option3": "100mbps",
+    "Option4": "1000mbps",
+    "Answer": "100mbps",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which of the following cable transmits messages in the form of light waves?",
+    "Option1": "STP cable",
+    "Option2": "UTP cable",
+    "Option3": "Co-axial cable",
+    "Option4": "Optical fibre cable",
+    "Answer": "Optical fibre cable",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which device is installed in a subscriber’s telephone line to allow both ADSl and regular voice (telephone) services to be used at the same time?",
+    "Option1": "Hub",
+    "Option2": "Switch",
+    "Option3": "MODEM",
+    "Option4": "Micro filter",
+    "Answer": "Micro filter",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which layer of OSI Model, transfer data between network entities?",
+    "Option1": "Layer 1",
+    "Option2": "Layer 2",
+    "Option3": "Layer 3",
+    "Option4": "Layer 4",
+    "Answer": "Layer 4",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which device connects multiple network segments along with the data link layer?",
+    "Option1": "Hub",
+    "Option2": "Bridge",
+    "Option3": "Router",
+    "Option4": "Switch",
+    "Answer": "Bridge",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which device is used to amplify or regenerate digital signals received while sending them from one port of a network into another?",
+    "Option1": "Hub",
+    "Option2": "Bridge",
+    "Option3": "Switch",
+    "Option4": "Repeater",
+    "Answer": "Repeater",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which device modulates analog signal to encode digital information and demodulates carrier signal to decode the transmitted information over the telephone network?",
+    "Option1": "Hub",
+    "Option2": "Bridge",
+    "Option3": "Switch",
+    "Option4": "MODEM",
+    "Answer": "MODEM",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which device is used to connect one network with another network that uses different protocols?",
+    "Option1": "Hub",
+    "Option2": "Router",
+    "Option3": "Switch",
+    "Option4": "Gateway",
+    "Answer": "Gateway",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which device forwards data packet between computer network?",
+    "Option1": "Hub",
+    "Option2": "Router",
+    "Option3": "Switch",
+    "Option4": "Gateway",
+    "Answer": "Router",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the speed of standard 10 base T cable?",
+    "Option1": "1 mbps",
+    "Option2": "10 mbps",
+    "Option3": "100 kbps",
+    "Option4": "100 mbps",
+    "Answer": "10 mbps",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which type of cable is used in 10 base-FL cable standard?",
+    "Option1": "UTP",
+    "Option2": "STP",
+    "Option3": "Co-axial",
+    "Option4": "Fibre optic",
+    "Answer": "Fibre optic",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the speed of 100BASE-TX cable?",
+    "Option1": "1 mbps",
+    "Option2": "10 mbps",
+    "Option3": "100 kbps",
+    "Option4": "100 mbps",
+    "Answer": "100 kbps",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which is the standard connector for category-5, unshielded twisted pair cabling?",
+    "Option1": "RJ11",
+    "Option2": "RJ14",
+    "Option3": "RJ25",
+    "Option4": "RJ45",
+    "Answer": "RJ45",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "How many pairs of wires are there in category 1 UTP cables?",
+    "Option1": 1,
+    "Option2": 2,
+    "Option3": 3,
+    "Option4": 4,
+    "Answer": 1,
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which is an application layer of internet standard protocol used by local e-mail clients to retrieve e-mail from a remote server over a TCP/IP connection?",
+    "Option1": "IP",
+    "Option2": "FTP",
+    "Option3": "UDP",
+    "Option4": "POP",
+    "Answer": "POP",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which layer in OSI model provides transfer the data between end users?",
+    "Option1": "Session layer",
+    "Option2": "Network layer",
+    "Option3": "Data link layer",
+    "Option4": "Transport layer",
+    "Answer": "Transport layer",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the purpose of the last three layers in OSI model?",
+    "Option1": "common application services",
+    "Option2": "data presentation within the end-user system",
+    "Option3": "passing traffic through the network to an end system",
+    "Option4": "manage the dialogue between end user application process",
+    "Answer": "passing traffic through the network to an end system",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which layers of OSI model is the router operate?",
+    "Option1": "Layer 2",
+    "Option2": "Layer 3",
+    "Option3": "Layer 6",
+    "Option4": "Layer 7",
+    "Answer": "Layer 3",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which layer of OSI network model does repeater works?",
+    "Option1": "Layer 1",
+    "Option2": "Layer 2",
+    "Option3": "Layer 3",
+    "Option4": "Layer 4",
+    "Answer": "Layer 1",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which is a standard network protocol used to transfer files from one host or to another host over a TCP based network, such as the internet?",
+    "Option1": "FTP",
+    "Option2": "TCP",
+    "Option3": "UDP",
+    "Option4": "SMTP",
+    "Answer": "FTP",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which is a network protocol used on the internet or LAN to provide a bi-directional interactive text oriented communication facility using a virtual terminal connection?",
+    "Option1": "FTP",
+    "Option2": "TCP",
+    "Option3": "UDP",
+    "Option4": "Telnet",
+    "Answer": "Telnet",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the first tag in html document?",
+    "Option1": "<html>",
+    "Option2": "<head>",
+    "Option3": "<title>",
+    "Option4": "</html>",
+    "Answer": "<html>",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  }
+]

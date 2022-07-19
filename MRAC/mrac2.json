@@ -1,0 +1,227 @@
+[
+  {
+    "Question": "Which operation is progressed on the job?",
+    "Option1": "Drilling",
+    "Option2": "Marking",
+    "Option3": "Tapping",
+    "Option4": "Reaming",
+    "Answer": "Reaming",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/MRAC%2FSEM1%2F026%20TO%20050%2F26.PNG?alt=media&token=dfb25bb2-d862-4827-975b-954be8dec319"
+  },
+  {
+    "Question": "What is smothering in fire extinguishing?",
+    "Option1": "Pouring of CTC",
+    "Option2": "Flashing with dry powder",
+    "Option3": "Use water to lower temperature",
+    "Option4": "Cutting off oxygen supply to fire",
+    "Answer": "Cutting off oxygen supply to fire",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which operation is in progress by snips?",
+    "Option1": "Straight cutting",
+    "Option2": "Steel tube cutting",
+    "Option3": "Trimming cylinder",
+    "Option4": "Copper tube cutting",
+    "Answer": "Trimming cylinder",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/MRAC%2FSEM1%2F026%20TO%20050%2F28.PNG?alt=media&token=2bbc5eae-5279-4c92-a0dd-828c7592a9a7"
+  },
+  {
+    "Question": "Which instrument is used to measure pressure on both high and low side of the system?",
+    "Option1": "Pipe manifold",
+    "Option2": "Gauge manifold",
+    "Option3": "Pressure manifold",
+    "Option4": "Instrument manifold",
+    "Answer": "Gauge manifold",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the name of the caliper having one leg with an adjustable divider point and other leg is bent?",
+    "Option1": "Jenny Caliper",
+    "Option2": "Inside Caliper",
+    "Option3": "Outside caliper",
+    "Option4": "Spring joint caliper",
+    "Answer": "Jenny Caliper",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the least count of a metric micrometer?",
+    "Option1": "0.1 mm",
+    "Option2": "0.01 mm",
+    "Option3": "0.001 mm",
+    "Option4": "000.1 mm",
+    "Answer": "0.01 mm",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which type of datum is used?",
+    "Option1": "Point datum",
+    "Option2": "Edge datum",
+    "Option3": "Line datum",
+    "Option4": "Progressive datum",
+    "Answer": "Edge datum",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/MRAC%2FSEM1%2F026%20TO%20050%2F32.PNG?alt=media&token=7eb50c20-11fb-4f6a-a7bc-ae241d4c76c0"
+  },
+  {
+    "Question": "What is starving in extinguishing the fire?",
+    "Option1": "Adding fuel",
+    "Option2": "Removal of fuel",
+    "Option3": "Clearing the hazards",
+    "Option4": "Stop the supply of oxygen",
+    "Answer": "Removal of fuel",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which part of tube cutter is used for removing the burrs from copper tubes?",
+    "Option1": "Roller",
+    "Option2": "Cutter",
+    "Option3": "Reamer",
+    "Option4": "Bender",
+    "Answer": "Reamer",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the thickness of an object measured by an outside micrometer?",
+    "Option1": "13.53 mm",
+    "Option2": "13.63 mm",
+    "Option3": "13.73 mm",
+    "Option4": "13.83 mm",
+    "Answer": "13.63 mm",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/MRAC%2FSEM1%2F026%20TO%20050%2F35.PNG?alt=media&token=493de84f-14d8-4cae-9c36-4f735159653e"
+  },
+  {
+    "Question": "Which operation is in progress?",
+    "Option1": "Cutting",
+    "Option2": "Drilling",
+    "Option3": "Marking",
+    "Option4": "Punching",
+    "Answer": "Punching",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/MRAC%2FSEM1%2F026%20TO%20050%2F36.PNG?alt=media&token=3d16ad92-5681-435d-afa6-01b5c4ab75f2"
+  },
+  {
+    "Question": "What is the name of instrument used to check high resistance?",
+    "Option1": "Megger",
+    "Option2": "Ammeter",
+    "Option3": "Voltmeter",
+    "Option4": "Wattmeter",
+    "Answer": "Megger",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/MRAC%2FSEM1%2F026%20TO%20050%2F37.PNG?alt=media&token=be44a5f6-8dce-4397-81aa-eae56a5e7b68"
+  },
+  {
+    "Question": "What is the unit of electric current?",
+    "Option1": "Ampere",
+    "Option2": "Farad",
+    "Option3": "Ohm",
+    "Option4": "Volt",
+    "Answer": "Ampere",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the unit of capacitance?",
+    "Option1": "Volt",
+    "Option2": "Ampere",
+    "Option3": "Farad",
+    "Option4": "Coulomb",
+    "Answer": "Farad",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which tool is used for skinning the insulation of cables and cleaning the wire surface?",
+    "Option1": "Hacksaw",
+    "Option2": "Firmer chisel",
+    "Option3": "Electrician s knife",
+    "Option4": "Combination pliers",
+    "Answer": "Electrician s knife",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which power supply has the fixed polarity?",
+    "Option1": "Direct current",
+    "Option2": "Signal voltage",
+    "Option3": "Signal ripples",
+    "Option4": "Alternating current",
+    "Answer": "Direct current",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the type of motor?",
+    "Option1": "Permanent capacitor",
+    "Option2": "Induction start induction run",
+    "Option3": "Resistance start induction run",
+    "Option4": "Capacitor start and capacitor run",
+    "Answer": "Capacitor start and capacitor run",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/MRAC%2FSEM1%2F026%20TO%20050%2F42.PNG?alt=media&token=b87ab92c-45d0-4cfd-9f5c-9a5c6d45eee3"
+  },
+  {
+    "Question": "What is the maximum capacity of 3 phase squirrel cage induction motor used with direct on line (DOL) starter?",
+    "Option1": "5 HP",
+    "Option2": "10 HP",
+    "Option3": "15 HP",
+    "Option4": "20 HP",
+    "Answer": "5 HP",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the unit of electrical energy?",
+    "Option1": "Volt",
+    "Option2": "Watt",
+    "Option3": "Ampere",
+    "Option4": "Kilo watt hour",
+    "Answer": "Watt",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "How electrons flow in a battery circuit?",
+    "Option1": "Phase to earth",
+    "Option2": "Phase to neutral",
+    "Option3": "Positive to negative polarity",
+    "Option4": "Negative polarity to positive polarity",
+    "Answer": "Negative polarity to positive polarity",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which material is used for making disc in energy meter?",
+    "Option1": "Aluminium",
+    "Option2": "Copper",
+    "Option3": "Brass",
+    "Option4": "Zinc",
+    "Answer": "Aluminium",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the name of the joint?",
+    "Option1": "Plain top joint",
+    "Option2": "Britannia joint",
+    "Option3": "Britannia tee joint",
+    "Option4": "Western union joint",
+    "Answer": "Britannia tee joint",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/MRAC%2FSEM1%2F026%20TO%20050%2F47.PNG?alt=media&token=8b9f0b32-835e-4dbd-8b80-f4546ada0aed"
+  },
+  {
+    "Question": "Which type of conductor is used for bus bars?",
+    "Option1": "Solid conductor",
+    "Option2": "Thermal conductor",
+    "Option3": "Stranded conductor",
+    "Option4": "Standard conductor",
+    "Answer": "Solid conductor",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which property limits the flow of electrons in an electrical circuit?",
+    "Option1": "Voltage",
+    "Option2": "Current",
+    "Option3": "Resistance",
+    "Option4": "Conductance",
+    "Answer": "Resistance",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the name of part marked as X in ohm meter?",
+    "Option1": "Probe",
+    "Option2": "Display",
+    "Option3": "Zero set knob",
+    "Option4": "Crocodile clip",
+    "Answer": "Zero set knob",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/MRAC%2FSEM1%2F026%20TO%20050%2F50.PNG?alt=media&token=d6493d34-33c4-45d2-a0dd-2954fd19d983"
+  }
+]

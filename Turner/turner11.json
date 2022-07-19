@@ -1,0 +1,227 @@
+[
+  {
+    "Question": "Identify the part named as ‘X’ in a taper turning attachment ?",
+    "Option1": "Locking screw",
+    "Option2": "Box nut",
+    "Option3": "Guide bar",
+    "Option4": "Base plate",
+    "Answer": "Guide bar",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/1to25%2FS1.PNG?alt=media&token=db0c8cb8-1c87-4066-9d32-5134019bd48c"
+  },
+  {
+    "Question": "What is the formula for taper angle used for taper turning attachment?",
+    "Option1": "(D-d)L / 2l",
+    "Option2": "Tanθ = D-d / 2l",
+    "Option3": "Tanθ = D-d / 2",
+    "Option4": "Tanθ = D-d / l",
+    "Answer": "Tanθ = D-d / 2l",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the formula used for finding the amount of offset for taper turning?",
+    "Option1": "D-d / 2l",
+    "Option2": "(D-d) x L / 2 x l",
+    "Option3": "D-d / 2 x L",
+    "Option4": "(D-d) x l / 2L",
+    "Answer": "(D-d) x L / 2 x l",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which is the formula used to find taper angle by compound slide method?",
+    "Option1": "Tanθ = TPF/2",
+    "Option2": "Tanθ = TPF/4",
+    "Option3": "Tanθ = TPF/12",
+    "Option4": "Tanθ = TPF/24",
+    "Answer": "Tanθ = TPF/24",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Identify the method of taper turning?",
+    "Option1": "Form tool",
+    "Option2": "Offset",
+    "Option3": "Compound slide",
+    "Option4": "Taper turning attachment",
+    "Answer": "Compound slide",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/1to25%2FS2.PNG?alt=media&token=e87eb936-7ffb-4e36-9295-948211b51d6c"
+  },
+  {
+    "Question": "Identify the taper turning method?",
+    "Option1": "Form tool method",
+    "Option2": "Compound slide method",
+    "Option3": "Tail stock offset method",
+    "Option4": "Taper turning attachment method",
+    "Answer": "Form tool method",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/1to25%2FS6.PNG?alt=media&token=d4afc010-1b41-4cde-b810-1eae53cfa1fb"
+  },
+  {
+    "Question": "Which instrument can measure angle upto an accuracy of 5 minutes?",
+    "Option1": "Bevel gauge",
+    "Option2": "Combination set",
+    "Option3": "Vernier bevel protractor",
+    "Option4": "Angle gauge",
+    "Answer": "Vernier bevel protractor",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which part is pivoted to the disc of vernier bevel protractor?",
+    "Option1": "Disc",
+    "Option2": "Stock",
+    "Option3": "Dial",
+    "Option4": "Blade",
+    "Answer": "Dial",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which type of measurement is taken using vernier bevel protractor?",
+    "Option1": "Checking obtuse angle",
+    "Option2": "Checking squareness",
+    "Option3": "Checking straight angle",
+    "Option4": "Checking reflex angle",
+    "Answer": "Checking obtuse angle",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/1to25%2FS9.PNG?alt=media&token=94870faf-d619-4546-ba49-3185dd9e17d6"
+  },
+  {
+    "Question": "Which is the smallest unit of angular measurement?",
+    "Option1": "Radian",
+    "Option2": "Degree",
+    "Option3": "Minutes",
+    "Option4": "Seconds",
+    "Answer": "Seconds",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Select a suitable instrument for measuring angles?",
+    "Option1": "Vernier caliper",
+    "Option2": "Calipers",
+    "Option3": "Vernier bevel protractor",
+    "Option4": "Vernier height gauge",
+    "Answer": "Vernier bevel protractor",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "How many seconds is 1°?",
+    "Option1": "60°",
+    "Option2": 360,
+    "Option3": 3600,
+    "Option4": 36000,
+    "Answer": 3600,
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which part of the combination set is shown below?",
+    "Option1": "Protractor head",
+    "Option2": "Square heads",
+    "Option3": "Rule",
+    "Option4": "Centre head",
+    "Answer": "Protractor head",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/1to25%2FS13.PNG?alt=media&token=ceaf2771-7665-44e0-bb1b-3de3382f94fd"
+  },
+  {
+    "Question": "What is the use of a sine bar?",
+    "Option1": "To determine the angle of tapered job",
+    "Option2": "To measure the length of a taper job",
+    "Option3": "To measure the gap",
+    "Option4": "To measure the diameter of the job",
+    "Answer": "To determine the angle of tapered job",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is height of slip packing to determine the taper angle?",
+    "Option1": "X",
+    "Option2": "Y",
+    "Option3": "H",
+    "Option4": "2H",
+    "Answer": "H",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/1to25%2FS15.PNG?alt=media&token=2854a466-7f01-4d9c-bba4-389ee84010b6"
+  },
+  {
+    "Question": "What is the name of part marked as ‘X’?",
+    "Option1": "Tool shank",
+    "Option2": "Carbide tool bit",
+    "Option3": "Induction coil",
+    "Option4": "Cutting edge",
+    "Answer": "Induction coil",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/1to25%2FS16.PNG?alt=media&token=489765dc-f0a9-4cd1-b7ee-205fc498549f"
+  },
+  {
+    "Question": "What is the name of part marked as ‘X’?",
+    "Option1": "Carbide trip",
+    "Option2": "Hard solder",
+    "Option3": "Cutting edge",
+    "Option4": "High carbon steel shank",
+    "Answer": "Hard solder",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/1to25%2FS17.PNG?alt=media&token=d920ed70-2ebf-4061-9f63-399c8906f6b9"
+  },
+  {
+    "Question": "How is the filler material distributed in the joint in braze welding?",
+    "Option1": "By splashing",
+    "Option2": "By fission",
+    "Option3": "By fusion",
+    "Option4": "By capillary action",
+    "Answer": "By capillary action",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the name of the cleaning tool?",
+    "Option1": "Cross peen hammer",
+    "Option2": "Chipping hammer",
+    "Option3": "Straight peen hammer",
+    "Option4": "Ball peen hammer",
+    "Answer": "Chipping hammer",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/1to25%2FS19.PNG?alt=media&token=44c87236-88a3-4e8b-b3d1-e49b7aa16684"
+  },
+  {
+    "Question": "Which is the type of gas flame?",
+    "Option1": "Neutral flame",
+    "Option2": "Oxidising flame",
+    "Option3": "Carburising flame",
+    "Option4": "Natural flame",
+    "Answer": "Neutral flame",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/1to25%2FS20.PNG?alt=media&token=4bc8c622-78f0-4580-a866-1d18bb4b22f7"
+  },
+  {
+    "Question": "Which material is used for making nozzle for gas welding?",
+    "Option1": "Mild steel",
+    "Option2": "High carbon steel",
+    "Option3": "Copper",
+    "Option4": "Bronze",
+    "Answer": "Copper",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the name of device?",
+    "Option1": "Soldering iron",
+    "Option2": "Copper hammer",
+    "Option3": "Soldering gun",
+    "Option4": "Soldering torch",
+    "Answer": "Soldering iron",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/1to25%2FS22.PNG?alt=media&token=95426d79-ce81-4f3a-8f75-035d1195d416"
+  },
+  {
+    "Question": "Which material is used for making the head of soldering iron?",
+    "Option1": "Forged copper",
+    "Option2": "Forged steel",
+    "Option3": "Forged aluminium",
+    "Option4": "Stainless steel",
+    "Answer": "Forged copper",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the name of the process?",
+    "Option1": "Gas welding",
+    "Option2": "Braze welding",
+    "Option3": "Arc welding",
+    "Option4": "Spot welding",
+    "Answer": "Arc welding",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/1to25%2FS24.PNG?alt=media&token=d8e755d0-1991-4749-bd41-1eb5eef48b02"
+  },
+  {
+    "Question": "Which one is the disadvantage of using tail stock offset method?",
+    "Option1": "Only hand feed can be given",
+    "Option2": "External threads on taper can’t produced",
+    "Option3": "Taper length is limited",
+    "Option4": "Taper turning is possible when work held between centre only",
+    "Answer": "Taper turning is possible when work held between centre only",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  }
+]

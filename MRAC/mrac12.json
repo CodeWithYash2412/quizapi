@@ -1,0 +1,227 @@
+[
+  {
+    "Question": "Which is used to connect the rotor bars in 3phase squirrel cage induction motor?",
+    "Option1": "Screw",
+    "Option2": "Welded",
+    "Option3": "End ring",
+    "Option4": "Nut and bolt",
+    "Answer": "End ring",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the use of a starting capacitor in single phase induction motor?",
+    "Option1": "Improve power factor",
+    "Option2": "Increase starting torque",
+    "Option3": "Decrease starting torque",
+    "Option4": "Dis connect starting winding",
+    "Answer": "Increase starting torque",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the advantage of a hermetically sealed compressor in refrigerator?",
+    "Option1": "Silent operation",
+    "Option2": "Easily serviceable",
+    "Option3": "Noise is more",
+    "Option4": "Cost is high",
+    "Answer": "Silent operation",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which movement of the scroll compresses the low pressure vapour in scroll compressor?",
+    "Option1": "Reciprocating",
+    "Option2": "Centrifugal",
+    "Option3": "Rotating",
+    "Option4": "Orbital",
+    "Answer": "Orbital",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which capacitor is disconnected by relay in capacitor start and induction run motor?",
+    "Option1": "Starting capacitor",
+    "Option2": "Running capacitor",
+    "Option3": "Boosting capacitor",
+    "Option4": "Power factor correction capacitor",
+    "Answer": "Starting capacitor",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the formula to find out the\nsynchronous speed of induction motor?",
+    "Option1": "Ns = 150P/f",
+    "Option2": "Ns = 120f/P",
+    "Option3": "Ns = 150f/P",
+    "Option4": "Ns = 120P/f",
+    "Answer": "Ns = 120f/P",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "How to change the direction of rotation in\n3Ø induction motor?",
+    "Option1": "Change neutral",
+    "Option2": "Change all phase",
+    "Option3": "Change any two phase",
+    "Option4": "Change the winding only",
+    "Answer": "Change any two phase",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "How the difference between the\nsynchronous speed and the actual rotor speed is\nspecified?",
+    "Option1": "Lead",
+    "Option2": "Lag",
+    "Option3": "Slip",
+    "Option4": "Trip",
+    "Answer": "Slip",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which operation is in progress with\ncompressor valve plate?",
+    "Option1": "Filing",
+    "Option2": "Cutting",
+    "Option3": "Drilling",
+    "Option4": "Lapping",
+    "Answer": "Lapping",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/MRAC%2FSEM2%2F026%20to%20050%2F34.PNG?alt=media&token=e9dfaa27-50a8-4917-9e57-bde12431a231"
+  },
+  {
+    "Question": "What is the use of capacitor in PSC\noperated induction motor?",
+    "Option1": "Decrease the starting torque",
+    "Option2": "Cancel the starting torque",
+    "Option3": "Improve the power factor",
+    "Option4": "Decrease the power factor",
+    "Answer": "Improve the power factor",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which testing is carried out on hermetic\ncompressor?",
+    "Option1": "Open circuit",
+    "Option2": "Starting compressor",
+    "Option3": "Identification of terminal",
+    "Option4": "Grounded compressor motor",
+    "Answer": "Grounded compressor motor",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/MRAC%2FSEM2%2F026%20to%20050%2F36.PNG?alt=media&token=d13fa68f-4326-4b36-86ca-d18a972205e3"
+  },
+  {
+    "Question": "Where the refrigerant vapour is compressed in scroll compressor?",
+    "Option1": "Fixed and reciprocating scroll",
+    "Option2": "Between fixed and orbiting scrolls",
+    "Option3": "Crank and connecting rod",
+    "Option4": "Eccentric and cylinder",
+    "Answer": "Between fixed and orbiting scrolls",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the use of suction baffle in a scroll compressor?",
+    "Option1": "Reduce noise of compressor",
+    "Option2": "Increase noise of compressor",
+    "Option3": "Reduce capacity of compressor",
+    "Option4": "Allow liquid to enter into compressor",
+    "Answer": "Reduce noise of compressor",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which is disconnected by centrifugal switch is RSIR motor?",
+    "Option1": "Running winding",
+    "Option2": "Common winding",
+    "Option3": "Starting winding",
+    "Option4": "Running capacitor",
+    "Answer": "Starting winding",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the reason for poor compression?",
+    "Option1": "Less clearance volume",
+    "Option2": "Scratches on the piston surface",
+    "Option3": "Lapped valve plate and reed seat",
+    "Option4": "Good lubrication on the moving parts",
+    "Answer": "Scratches on the piston surface",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the reason for swash plate compressor failure in car AC?",
+    "Option1": "Oil level is low",
+    "Option2": "Oil level is medium",
+    "Option3": "Thermostat not working",
+    "Option4": "Refrigerant charge normal",
+    "Answer": "Oil level is low",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Why the top of dome is hot in a scroll compressor?",
+    "Option1": "Discharge plenum is at top",
+    "Option2": "Suction super heat is less",
+    "Option3": "Suction gas not cooled",
+    "Option4": "Undercharged system",
+    "Answer": "Discharge plenum is at top",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the effect of moist air present inside the hermetic system?",
+    "Option1": "Capacity of compressor will increase",
+    "Option2": "Less wear and tear in compressor",
+    "Option3": "Harmful to the compressor and motor",
+    "Option4": "Increase the life of compressor",
+    "Answer": "Harmful to the compressor and motor",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the cause for frequent tripping of circuit breaker while starting a single phase motor?",
+    "Option1": "Winding open",
+    "Option2": "Winding short",
+    "Option3": "Motor belt removed",
+    "Option4": "No load on the motor",
+    "Answer": "Winding short",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the type of condenser used in direct cool refrigerator?",
+    "Option1": "Fin and tube",
+    "Option2": "Shell and tube",
+    "Option3": "Wire mesh",
+    "Option4": "Tube in tube",
+    "Answer": "Wire mesh",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which type of condenser is directly placed on water spray and air?",
+    "Option1": "Shell and tube condenser",
+    "Option2": "Water cooled condenser",
+    "Option3": "Evaporative condenser",
+    "Option4": "Air cooled condenser",
+    "Answer": "Evaporative condenser",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which type of condenser is used in window Air conditioner?",
+    "Option1": "Natural convection",
+    "Option2": "Forced convection",
+    "Option3": "Water cooled",
+    "Option4": "Evaporative",
+    "Answer": "Forced convection",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which type of expansion device is used in frost free refrigerator?",
+    "Option1": "Float valve",
+    "Option2": "Capillary tube",
+    "Option3": "Automatic expansion valve",
+    "Option4": "Thermostatic expansion valve",
+    "Answer": "Capillary tube",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which is the constant reference for the working of AEV?",
+    "Option1": "Oil temperature",
+    "Option2": "Suction pressure",
+    "Option3": "Volume expansion",
+    "Option4": "Discharge pressure",
+    "Answer": "Suction pressure",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which type of evaporator is used in house hold refrigerator?",
+    "Option1": "Plate evaporator",
+    "Option2": "Tube in tube evaporator",
+    "Option3": "Shell and coil evaporator",
+    "Option4": "Shell and tube evaporator",
+    "Answer": "Plate evaporator",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  }
+]

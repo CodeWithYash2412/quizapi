@@ -1,0 +1,227 @@
+[
+  {
+    "Question": "What is the purpose of turret head on CNC lathe machine?",
+    "Option1": "It holds the work pieces",
+    "Option2": "It holds the cutting tools",
+    "Option3": "It supports for lengthy work pieces",
+    "Option4": "It guides to the work piece while thread cutting",
+    "Answer": "It holds the cutting tools",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which one of the following code is suitable for grooving operation?",
+    "Option1": "G 17",
+    "Option2": "G 18",
+    "Option3": "G 21",
+    "Option4": "G 75",
+    "Answer": "G 75",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "In the part program G01 commond stands for?",
+    "Option1": "Rapid traverse",
+    "Option2": "Return to reference point",
+    "Option3": "Circular interpolation clockwise direction",
+    "Option4": "Linear interpolation",
+    "Answer": "Linear interpolation",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What do you mean by M03S600 in the part program?",
+    "Option1": "The spindle has to rotate is clockwise direction with 600 rpm",
+    "Option2": "The spindle has to stop rotation for 600 seconds of time",
+    "Option3": "The spindle has to rotate is counter clock wise direction",
+    "Option4": "The spindle has to run for the period of 600 seconds of time",
+    "Answer": "The spindle has to rotate is clockwise direction with 600 rpm",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What will be displayed on the screen which simulation?",
+    "Option1": "Entire part program",
+    "Option2": "Graph of the component",
+    "Option3": "Work off setting details",
+    "Option4": "All tool geometrical values",
+    "Answer": "Graph of the component",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the purpose of G17 in axis selection?",
+    "Option1": "Input values are in mm",
+    "Option2": "Input values are in inches",
+    "Option3": "Rapid traverse",
+    "Option4": "The cutting tool has to travel in 'x' axis and 'y' axis",
+    "Answer": "The cutting tool has to travel in 'x' axis and 'y' axis",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the purpose of the code R in grooving cycle G75?",
+    "Option1": "Relieving the tool",
+    "Option2": "Groove diameter",
+    "Option3": "Incremental depth of cut",
+    "Option4": "Width of the groove",
+    "Answer": "Relieving the tool",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is 'x' in the syntax of G75 grooving command G75X-Z-P-Q-F-;?",
+    "Option1": "Incremental depth of cut in 'z' axis",
+    "Option2": "Groove diameter",
+    "Option3": "Width of the groove",
+    "Option4": "Tool return value amount",
+    "Answer": "Groove diameter",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What do you mean by in the grooving operation cycle G75X - Z-P-Q-F-;",
+    "Option1": "The value of tool return amount",
+    "Option2": "Groove diameter",
+    "Option3": "Groove length (mm",
+    "Option4": "Incremental depth of cut in 'x' axis",
+    "Answer": "Groove length (mm",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What indicates by P in the part program of grooving operation in G75X - Z-P-Q-F-;?",
+    "Option1": "Groove diameter",
+    "Option2": "Tool return value",
+    "Option3": "Incremental depth of cut in 'z' axis",
+    "Option4": "Incremental depth of cut in 'x' axis",
+    "Answer": "Incremental depth of cut in 'x' axis",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What purpose the code of Q is used for the grooving cycle in G75X - Z-P-Q-F-;?",
+    "Option1": "For incremental depth of cut an 'z' axis",
+    "Option2": "For width of the groove",
+    "Option3": "For groove diameter",
+    "Option4": "For feed value",
+    "Answer": "For incremental depth of cut an 'z' axis",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What command activated by the code of F in the grooving cycle in G75X - Z-P-Q-F-;?",
+    "Option1": "Value of groove diameter",
+    "Option2": "The value of tool return allowance",
+    "Option3": "The value for groove width",
+    "Option4": "Feed for groove cutting",
+    "Answer": "Feed for groove cutting",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which code is suitable for drilling operation from the following?",
+    "Option1": "G74",
+    "Option2": "G76",
+    "Option3": "G71",
+    "Option4": "G70",
+    "Answer": "G74",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What do you mean by the code of R in drilling operation in the format G74R-;?",
+    "Option1": "Feed value for drill",
+    "Option2": "Retract value",
+    "Option3": "Incremental drill depth",
+    "Option4": "Total depth of drill hole",
+    "Answer": "Retract value",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which command, the code of z used in drilling operation in the format G74Z-Q-F-;?",
+    "Option1": "Drill relief depth / Return amount",
+    "Option2": "Feed value for incremental depth of drill",
+    "Option3": "Incremental drill depth",
+    "Option4": "Depth of hole",
+    "Answer": "Depth of hole",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What command indicates by the code of Q on the part program of drilling cycle format G74Z-QF-;?",
+    "Option1": "Depth of cut per rays in microns",
+    "Option2": "Total drill depth of hole",
+    "Option3": "Relief depth",
+    "Option4": "Total feed value",
+    "Answer": "Depth of cut per rays in microns",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is F in the drilling cycle format G74Z-Q-F-;?",
+    "Option1": "Total depth of drill hole",
+    "Option2": "Incremental depth of drill",
+    "Option3": "Feed rate",
+    "Option4": "Drill relief depth",
+    "Answer": "Feed rate",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which one of the following code is used for thread cutting on CNC lathe?",
+    "Option1": "G76",
+    "Option2": "G70",
+    "Option3": "G90",
+    "Option4": "G75",
+    "Answer": "G76",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What do you mean by 'x' in the part program of thread cutting command block G76X-Z-P-Q-F-;?",
+    "Option1": "Thread angle",
+    "Option2": "Minor diameter of the thread",
+    "Option3": "Length of the thread",
+    "Option4": "Thread crest radius value",
+    "Answer": "Minor diameter of the thread",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What do you understand, if the code of P in the part program of thread cutting block G76X-Z-P-QF-;?",
+    "Option1": "Root diameter",
+    "Option2": "Height of the thread",
+    "Option3": "Length of the thread on the component",
+    "Option4": "Depth to be taken for 1st cut",
+    "Answer": "Height of the thread",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is 'z' in the part program of thread cutting block G76X-Z-P-Q-F-;?",
+    "Option1": "Diameter of the thread",
+    "Option2": "Number of finishing cuts to be taken",
+    "Option3": "Thread length",
+    "Option4": "Total lead value",
+    "Answer": "Thread length",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the purpose of this code Q in the part program of thread cutting block G76X-Z-P-Q-F-;?",
+    "Option1": "Minor diameter value",
+    "Option2": "Thread length",
+    "Option3": "Height of the thread",
+    "Option4": "Minimum depth of cut",
+    "Answer": "Minimum depth of cut",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is 'F' code in the part program block of thread cutting G76X-Z-P-Q-F-;?",
+    "Option1": "Feed pitch of the thread",
+    "Option2": "Length of the thread on the component",
+    "Option3": "Minor diameter of the thread",
+    "Option4": "Single depth of cut, at the time of thread cutting",
+    "Answer": "Feed pitch of the thread",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the full form of TPM?",
+    "Option1": "Total Production Management",
+    "Option2": "Total Productive Maintenance",
+    "Option3": "Tolerance Permissable Method",
+    "Option4": "Tolerance Permitted Management",
+    "Answer": "Total Productive Maintenance",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the full form of ABF on CNC machine?",
+    "Option1": "Automatic Bar Feeding",
+    "Option2": "Available Basic Feeding Mechanism",
+    "Option3": "Advanced Bilateral Feed",
+    "Option4": "Authorised Bar Feed Control",
+    "Answer": "Automatic Bar Feeding",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  }
+]

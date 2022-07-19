@@ -1,0 +1,227 @@
+[
+  {
+    "Question": "What is the form factor (Kf) for sinusoidal AC?",
+    "Option1": 1,
+    "Option2": 1.11,
+    "Option3": 2.22,
+    "Option4": 4.44,
+    "Answer": 1.11,
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the reciprocal of inductance in AC parallel circuit?",
+    "Option1": "Reactance",
+    "Option2": "Admittance",
+    "Option3": "Conductance",
+    "Option4": "Susceptance",
+    "Answer": "Susceptance",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What relationship is illustrated in between the current and voltage?",
+    "Option1": "Current and voltage are “in phase”",
+    "Option2": "Current and voltage are in out of phase",
+    "Option3": "Current lags behind the voltage",
+    "Option4": "Current leads ahead of the voltage",
+    "Answer": "Current and voltage are “in phase”",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/Electrician%2FSEM1%2FM6%2FM6-36.PNG?alt=media&token=162a99a3-734c-44fd-b4f3-7b218490745a"
+  },
+  {
+    "Question": "Calculate the total power by two wattmeter (W1 & W2) method, if one of the wattmeter (W2) reading is taken after reversing.",
+    "Option1": "W1 x 2",
+    "Option2": "W1 only",
+    "Option3": "W1 - W2",
+    "Option4": "W1 + W2",
+    "Answer": "W1 - W2",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "In which 3 phase system, the artificial neutral is required to measure the phase voltage?",
+    "Option1": "3 wire star connected system",
+    "Option2": "4 wire star connected system",
+    "Option3": "3 wire delta connected system",
+    "Option4": "4 wire delta connected system",
+    "Answer": "3 wire delta connected system",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the line voltage in 3 phase system if the phase voltage is 240V?",
+    "Option1": "380 Volt",
+    "Option2": "400 Volt",
+    "Option3": "415 Volt",
+    "Option4": "440 Volt",
+    "Answer": "415 Volt",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which formula is used to calculate Form factor (Kf)?",
+    "Option1": "Kf = 𝐸𝑓𝑓𝑒𝑐𝑡𝑖𝑣𝑒 𝑣𝑎𝑙𝑢𝑒 / 𝐴𝑣𝑒𝑟𝑎𝑔𝑒 𝑣𝑎𝑙𝑢𝑒",
+    "Option2": "Kf = 𝐴𝑣𝑒𝑟𝑎𝑔𝑒 𝑣𝑎𝑙𝑢𝑒 / 𝐸𝑓𝑓𝑒𝑐𝑡𝑖𝑣𝑒 𝑣𝑎𝑙𝑢𝑒",
+    "Option3": "Kf = 𝐸𝑓𝑓𝑒𝑐𝑡𝑖𝑣𝑒 𝑣𝑎𝑙𝑢𝑒 / 𝑀𝑎𝑥𝑖𝑚𝑢𝑚 𝑣𝑎𝑙𝑢𝑒",
+    "Option4": "Kf = 𝐴𝑣𝑒𝑟𝑎𝑔𝑒 𝑣𝑎𝑙𝑢𝑒 / 𝑀𝑎𝑥𝑖𝑚𝑢𝑚 𝑣𝑎𝑙𝑢𝑒",
+    "Answer": "Kf = 𝐸𝑓𝑓𝑒𝑐𝑡𝑖𝑣𝑒 𝑣𝑎𝑙𝑢𝑒 / 𝐴𝑣𝑒𝑟𝑎𝑔𝑒 𝑣𝑎𝑙𝑢𝑒",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which formula is used to calculate the impedance (z) of a RLC series circuit?",
+    "Option1": "𝑍=𝑅2+(𝑥𝐿~ xc)2",
+    "Option2": "𝑍=√𝑅2+(𝑥𝐿~ xc)",
+    "Option3": "𝑍=√𝑅+(𝑥𝐿~ xc)",
+    "Option4": "𝑍=√𝑅2+(𝑥𝐿~ xc)2",
+    "Answer": "𝑍=√𝑅2+(𝑥𝐿~ xc)2",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the power factor if one of the wattmeter gives negative reading in two wattmeter method of 3 phase power measurement?",
+    "Option1": 0,
+    "Option2": 0.5,
+    "Option3": "Unity",
+    "Option4": "Less than 0.5",
+    "Answer": "Less than 0.5",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the phase displacement between phases in a 3-phase circuit?",
+    "Option1": "90°",
+    "Option2": "120°",
+    "Option3": "180°",
+    "Option4": "360°",
+    "Answer": "120°",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which condition is called as resonance RLC circuit?",
+    "Option1": "XL > XC",
+    "Option2": "XC > XL",
+    "Option3": "XL = XC",
+    "Option4": "R < XL",
+    "Answer": "XL = XC",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which quantity is rotating at a constant angular velocity?",
+    "Option1": "Scalar quantity",
+    "Option2": "Vector quantity",
+    "Option3": "Phasor quantity",
+    "Option4": "Algebraic quantity",
+    "Answer": "Phasor quantity",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which device converts sunlight into electrical energy?",
+    "Option1": "Photo voltaic cell",
+    "Option2": "Liquid crystal diode",
+    "Option3": "Light emitting diode",
+    "Option4": "Light dependent resistor",
+    "Answer": "Photo voltaic cell",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which law secondary cell works?",
+    "Option1": "Lenz’s law",
+    "Option2": "Joule’s law",
+    "Option3": "Faradays laws of electrolysis",
+    "Option4": "Faradays laws of electromagnetic induction",
+    "Answer": "Faradays laws of electrolysis",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the formula to calculate the Mass deposited during electrolysis?",
+    "Option1": "M = it gm",
+    "Option2": "M = zit gm",
+    "Option3": "M = it/z gm",
+    "Option4": "M = z/it gm",
+    "Answer": "M = zit gm",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "How the capacity of batteries is specified?",
+    "Option1": "Volt",
+    "Option2": "Watt",
+    "Option3": "Volt Ampere",
+    "Option4": "Ampere hour",
+    "Answer": "Ampere hour",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the name of defect that bending of plates in secondary cells?",
+    "Option1": "Buckling",
+    "Option2": "Local action",
+    "Option3": "Partial short",
+    "Option4": "Hard sulphation",
+    "Answer": "Buckling",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the unit of electric charge?",
+    "Option1": "Volt",
+    "Option2": "Watt",
+    "Option3": "Ampere",
+    "Option4": "Coulomb",
+    "Answer": "Coulomb",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the output voltage of lithium cell?",
+    "Option1": "1.2 V",
+    "Option2": "1.5 V",
+    "Option3": "1.8 V",
+    "Option4": "2.5 V",
+    "Answer": "2.5 V",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the method of charging if the battery is to be charged for short duration at higher rate?",
+    "Option1": "Initial charge",
+    "Option2": "Boost charge",
+    "Option3": "Trickle charge",
+    "Option4": "Freshening charge",
+    "Answer": "Boost charge",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which electrolyte used in carbon zinc dry cells?",
+    "Option1": "Dilute sulphuric acid",
+    "Option2": "Ammonium chloride",
+    "Option3": "Potassium hydroxide",
+    "Option4": "Concentrated hydrochloric acid",
+    "Answer": "Ammonium chloride",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which effect causes by passing electric current in liquids?",
+    "Option1": "Heating",
+    "Option2": "Lighting",
+    "Option3": "Magnetic",
+    "Option4": "Chemical",
+    "Answer": "Chemical",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which material is used to make negative plates in lead acid battery?",
+    "Option1": "Lead dioxide",
+    "Option2": "Sponge lead",
+    "Option3": "Lead peroxide",
+    "Option4": "Lead sulphate",
+    "Answer": "Sponge lead",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which technique is used to control the corrosion of a metal surface?",
+    "Option1": "Anodic protection",
+    "Option2": "Cathodic protection",
+    "Option3": "Electrolytic protection",
+    "Option4": "Electrostatic protection",
+    "Answer": "Cathodic protection",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which cell is most often used in digital watches?",
+    "Option1": "Voltaic",
+    "Option2": "Lithium",
+    "Option3": "Mercury",
+    "Option4": "Silver oxide",
+    "Answer": "Mercury",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  }
+]

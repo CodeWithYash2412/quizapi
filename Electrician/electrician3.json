@@ -1,0 +1,227 @@
+[
+  {
+    "Question": "Which defect in timber is caused due to improper seasoning?",
+    "Option1": "Knot",
+    "Option2": "Twisting",
+    "Option3": "Cracking",
+    "Option4": "Cupping",
+    "Answer": "Cupping",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which type of notch is used for bending the edge of the sheet?",
+    "Option1": "‘V’ notch",
+    "Option2": "Slant notch",
+    "Option3": "Square notch",
+    "Option4": "Straight notch",
+    "Answer": "Straight notch",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the purpose of cross cut cold chisel?",
+    "Option1": "Cutting keyways",
+    "Option2": "Cutting curved grooves",
+    "Option3": "Squaring materials at corners",
+    "Option4": "Removing metal from large flat surface",
+    "Answer": "Cutting keyways",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which type of notch is used to make a job with 90° bend?",
+    "Option1": "‘V’ notch",
+    "Option2": "Slant notch",
+    "Option3": "Square notch",
+    "Option4": "Straight notch",
+    "Answer": "‘V’ notch",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which type of curve cutting hand saw is used for internal cutting in wood?",
+    "Option1": "Compass saw",
+    "Option2": "Key hole saw",
+    "Option3": "Coping saw",
+    "Option4": "Fret saw",
+    "Answer": "Key hole saw",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the name of the stake used for sheet metal work?",
+    "Option1": "Square stake",
+    "Option2": "Hatchet stake",
+    "Option3": "Blow-horn stake",
+    "Option4": "Bevel-edge square stake",
+    "Answer": "Blow-horn stake",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the name of tool?",
+    "Option1": "Claw hammer",
+    "Option2": "Tack hammer",
+    "Option3": "Cross pein hammer",
+    "Option4": "Straight pein hammer",
+    "Answer": "Tack hammer",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/Electrician%2FSEM1%2FM2%2FM2-30.PNG?alt=media&token=ea4b131f-4c7a-49ec-9421-54695a37b4e5"
+  },
+  {
+    "Question": "Which type of chisel is used for separating metals after chain drilling?",
+    "Option1": "Flat chisel",
+    "Option2": "Web chisel",
+    "Option3": "Cross cut chisel",
+    "Option4": "Diamond point chisel",
+    "Answer": "Web chisel",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/Electrician%2FSEM1%2FM2%2FM2-31.PNG?alt=media&token=af345cf0-4d7b-4680-917e-8e7b234d82a9"
+  },
+  {
+    "Question": "Which type of stake is used for riveting or seaming tapered cone shaped articles?",
+    "Option1": "Square stake",
+    "Option2": "Hatchet stake",
+    "Option3": "Blow horn stake",
+    "Option4": "Bevel edged square stake",
+    "Answer": "Blow horn stake",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which causes knot defect in timbers?",
+    "Option1": "Defective storage",
+    "Option2": "Uneven shrinkage",
+    "Option3": "Growth of branches",
+    "Option4": "Improper seasoning",
+    "Answer": "Growth of branches",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the current carrying capacity of 32 amp. rated cable, if it is protected by the rewireable fuse?",
+    "Option1": "13 Amp",
+    "Option2": "16 Amp",
+    "Option3": "26 Amp",
+    "Option4": "39 Amp",
+    "Answer": "26 Amp",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the possible range to measure the size of the wire in a Standard Wire Gauge (SWG)?",
+    "Option1": "0-44",
+    "Option2": "0-42",
+    "Option3": "0-38",
+    "Option4": "0-36",
+    "Answer": "0-36",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the name of the wire joint?",
+    "Option1": "Aerial tap joint",
+    "Option2": "Knotted tap joint",
+    "Option3": "Duplex cross tap joint",
+    "Option4": "Double cross tap joint",
+    "Answer": "Knotted tap joint",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/Electrician%2FSEM1%2FM3%2FM3-3.PNG?alt=media&token=b7d56b3f-0f7c-4d46-9920-b6690955f330"
+  },
+  {
+    "Question": "Which type of soldering flux is used for soldering galvanised iron?",
+    "Option1": "Rosin",
+    "Option2": "Zinc chloride",
+    "Option3": "Sal ammonia",
+    "Option4": "Hydrochloric acid",
+    "Answer": "Hydrochloric acid",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which method of soldering is used for quantity production and for tinning work?",
+    "Option1": "Dip soldering",
+    "Option2": "Soldering with a flame",
+    "Option3": "Soldering with soldering iron",
+    "Option4": "Soldering with soldering gun",
+    "Answer": "Dip soldering",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the name of the part marked as X in the under ground (UG) cable?",
+    "Option1": "Bedding",
+    "Option2": "Armouring",
+    "Option3": "Lead sheath",
+    "Option4": "Paper insulation",
+    "Answer": "Bedding",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the full form of XLPE Cable?",
+    "Option1": "Cross Line Poly Ethylene",
+    "Option2": "X’ess Line Phase Earthing",
+    "Option3": "Cross Linked Poly Ethylene",
+    "Option4": "Excess Length Paper and Ebonite",
+    "Answer": "Cross Linked Poly Ethylene",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the purpose of ‘serving’ layer in underground cable?",
+    "Option1": "Protect the cable from moisture",
+    "Option2": "Protect the cable from mechanical injury",
+    "Option3": "Protect metallic sheath against corrosion",
+    "Option4": "Protect armouring from atmospheric condition",
+    "Answer": "Protect armouring from atmospheric condition",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/Electrician%2FSEM1%2FM3%2FM3-8.PNG?alt=media&token=8de32b82-4cc4-4638-9063-e766a3aa4d5f"
+  },
+  {
+    "Question": "Which type of fault of U.G Cable can be located by this loop test?",
+    "Option1": "Ground fault",
+    "Option2": "Short circuit fault",
+    "Option3": "Open circuit fault",
+    "Option4": "Weak insulation fault",
+    "Answer": "Short circuit fault",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/Electrician%2FSEM1%2FM3%2FM3-9.PNG?alt=media&token=fbc0b590-ede6-4b56-bfcd-888f937cc394"
+  },
+  {
+    "Question": "Which cable laying method is used in generating station?",
+    "Option1": "In ducts",
+    "Option2": "Racks in air",
+    "Option3": "Along buildings",
+    "Option4": "Direct in ground",
+    "Answer": "Racks in air",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "How many electrons are there in the valence shell of a copper atom?",
+    "Option1": 1,
+    "Option2": 2,
+    "Option3": 8,
+    "Option4": 18,
+    "Answer": 1,
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the effect of electric current on neon lamp?",
+    "Option1": "Heating effect",
+    "Option2": "Magnetic effect",
+    "Option3": "Chemical effect",
+    "Option4": "Gas ionization effect",
+    "Answer": "Gas ionization effect",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the unit of insulation resistance?",
+    "Option1": "Ohm",
+    "Option2": "Kilo ohm",
+    "Option3": "Milli ohm",
+    "Option4": "Mega ohm",
+    "Answer": "Mega ohm",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which electrical device is the coarse excess current protection?",
+    "Option1": "Cartridge fuses",
+    "Option2": "Rewirable fuses",
+    "Option3": "Miniature Circuit Breaker (MCB)",
+    "Option4": "High Rupturing Capacity (HRC) Fuses",
+    "Answer": "Rewirable fuses",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which type of soldering flux is used for soldering aluminium conductors?",
+    "Option1": "Tallow",
+    "Option2": "Ker-al-lite",
+    "Option3": "Zinc chloride",
+    "Option4": "Sal ammonia rosin",
+    "Answer": "Zinc chloride",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  }
+]

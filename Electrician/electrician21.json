@@ -1,0 +1,227 @@
+[
+  {
+    "Question": "How many parallel paths in duplex lap winding of a 4 pole DC generator?",
+    "Option1": 4,
+    "Option2": 6,
+    "Option3": 8,
+    "Option4": 12,
+    "Answer": 8,
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Name the part of DC generator?",
+    "Option1": "Side end plates",
+    "Option2": "Pole shoe lamination",
+    "Option3": "Commutator segment",
+    "Option4": "Armature core lamination",
+    "Answer": "Armature core lamination",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/Electrician%2FSEM3%2FElectrician21%2F15.PNG?alt=media&token=2d538c0d-7f22-435b-8fc5-cefdcd1471f8"
+  },
+  {
+    "Question": "How interpoles are connected in a DC generator?",
+    "Option1": "In series with armature",
+    "Option2": "In parallel with armature",
+    "Option3": "In series with shunt field",
+    "Option4": "In parallel with shunt field",
+    "Answer": "In series with armature",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the necessity of residual magnetism in a self excited DC generator?",
+    "Option1": "Build up the voltage",
+    "Option2": "Reduce the field current",
+    "Option3": "Reduce armature current",
+    "Option4": "Maintain constant output voltage",
+    "Answer": "Build up the voltage",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which are the two points that the brush contact resistance measured in D.C machines?",
+    "Option1": "Resistance between the opposite brushes",
+    "Option2": "Resistance between brush and commutator raiser",
+    "Option3": "Resistance between brush and commutator",
+    "Option4": "Resistance between brush and armature conductors",
+    "Answer": "Resistance between brush and commutator",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which voltage drop is indicated in the portion marked as X?",
+    "Option1": "Full load voltage drop",
+    "Option2": "Armature voltage drop",
+    "Option3": "Armature reaction drop",
+    "Option4": "Shunt field voltage drop",
+    "Answer": "Armature reaction drop",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/Electrician%2FSEM3%2FElectrician21%2F19.PNG?alt=media&token=1209bbec-e3f8-4f50-af8e-b5c36b00b0f0"
+  },
+  {
+    "Question": "What is the name of the compound generator, if the shunt field is connected in parallel with armature?",
+    "Option1": "Long shunt compound",
+    "Option2": "Cumulative compound",
+    "Option3": "Differential compound",
+    "Option4": "Short shunt compound",
+    "Answer": "Short shunt compound",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Why the armature core of a DC generator is laminated?",
+    "Option1": "Reduce the copper loss",
+    "Option2": "Reduce the friction loss",
+    "Option3": "Reduce the hysteresis loss",
+    "Option4": "Reduce the eddy current loss",
+    "Answer": "Reduce the eddy current loss",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Why armature resistance of a D.C generator is very low?",
+    "Option1": "Reduce armature current",
+    "Option2": "Reduce armature voltage drop",
+    "Option3": "Run armature with less weight",
+    "Option4": "Reduce the temperature of armature",
+    "Answer": "Reduce armature voltage drop",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Why the D.C generator should run in clockwise direction only?",
+    "Option1": "Protect brushes from damage",
+    "Option2": "Protect the residual magnetism",
+    "Option3": "Avoid short circuit in armature",
+    "Option4": "Avoid over loading of generator",
+    "Answer": "Protect the residual magnetism",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Why compensating winding is provided in large DC generators?",
+    "Option1": "Connect more loads",
+    "Option2": "Reduce commutation effect",
+    "Option3": "Neutralize armature reaction effect",
+    "Option4": "Increase the efficiency of generator",
+    "Answer": "Neutralize armature reaction effect",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the reason for DC generator fails to build up voltage?",
+    "Option1": "Loose brush contact",
+    "Option2": "Armature resistance is more",
+    "Option3": "Field resistance is above critical resistance",
+    "Option4": "Prime mover is running at above rated speed",
+    "Answer": "Field resistance is above critical resistance",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the name of generator, if its field is connected in parallel with armature?",
+    "Option1": "Shunt generator",
+    "Option2": "Series generator",
+    "Option3": "Compound generator",
+    "Option4": "Self excited generator",
+    "Answer": "Shunt generator",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the purpose of pole shoe in DC generator?",
+    "Option1": "Reduce the air gap",
+    "Option2": "Increase the field strength",
+    "Option3": "Minimize the magnetic losses",
+    "Option4": "Spread out flux uniformly in the air gap",
+    "Answer": "Spread out flux uniformly in the air gap",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the function of split rings in DC generator?",
+    "Option1": "Maintain constant voltage",
+    "Option2": "Collects the current unidirectionally",
+    "Option3": "Reduces the voltage drop at brushes",
+    "Option4": "Increases the terminal voltage than rated",
+    "Answer": "Collects the current unidirectionally",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which material is used to make brush in generator?",
+    "Option1": "Steel and graphite",
+    "Option2": "Carbon and graphite",
+    "Option3": "Cast iron and graphite",
+    "Option4": "Aluminium and graphite",
+    "Answer": "Carbon and graphite",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Why DC generators are loosing their residual magnetism?",
+    "Option1": "Heavy short circuit in load",
+    "Option2": "Running without load continuously",
+    "Option3": "Continuous running without break",
+    "Option4": "Change of direction of rotation very often",
+    "Answer": "Change of direction of rotation very often",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "How does the magnetic circuit complete through the yoke and poles in a generator?",
+    "Option1": "Field coils",
+    "Option2": "Armature core",
+    "Option3": "Laminated pole core",
+    "Option4": "Winding conductors in armature",
+    "Answer": "Armature core",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Why the terminal voltage decreases if load increases in DC shunt generator?",
+    "Option1": "Because of armature reaction effect",
+    "Option2": "Due to increased in armature resistance",
+    "Option3": "Because of brush voltage drop decreases",
+    "Option4": "Due to increased in shunt field inductance",
+    "Answer": "Because of armature reaction effect",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which type of DC generator is used for long distance distribution lines?",
+    "Option1": "Shunt generator",
+    "Option2": "Series generator",
+    "Option3": "Differential compound generator",
+    "Option4": "Cumulative compound generator",
+    "Answer": "Cumulative compound generator",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which method is used to improve the insulation resistance in DC generator?",
+    "Option1": "Replacing the brushes frequently",
+    "Option2": "Heating the machine by running periodically",
+    "Option3": "Cleaning the commutator segments regularly",
+    "Option4": "Blowing hot air in to the machine during maintenance",
+    "Answer": "Blowing hot air in to the machine during maintenance",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which type of D.C Generator works in absence of residual magnetism?",
+    "Option1": "Shunt generator",
+    "Option2": "Series generator",
+    "Option3": "Compound generator",
+    "Option4": "Separately excited generator",
+    "Answer": "Separately excited generator",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which type of D.C generator is used for arc welding?",
+    "Option1": "Shunt generator",
+    "Option2": "Series generator",
+    "Option3": "Differential compound generator",
+    "Option4": "Cumulative compound generator",
+    "Answer": "Differential compound generator",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the property of wave winding in D.C generator?",
+    "Option1": "Low current low voltage",
+    "Option2": "High current low voltage",
+    "Option3": "Low current high voltage",
+    "Option4": "High current high voltage",
+    "Answer": "Low current high voltage",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the purpose of resistance wire used in the commutator connection in D.C generator?",
+    "Option1": "Maintain constant voltage",
+    "Option2": "Nullifying statically induced emf",
+    "Option3": "Increasing statically induced emf",
+    "Option4": "Smooth reversal of current direction",
+    "Answer": "Smooth reversal of current direction",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/Electrician%2FSEM3%2FElectrician21%2F38.PNG?alt=media&token=d6e9a281-79c9-4a9e-a819-a8252872a9be"
+  }
+]

@@ -1,0 +1,227 @@
+[
+  {
+    "Question": "What is the accuracy of measurement by a try square?",
+    "Option1": "0.002 mm / 10mm length",
+    "Option2": "0.02 mm / 100mm length",
+    "Option3": "0.2 mm / 1000 mm length",
+    "Option4": "2 mm / 1 mm length",
+    "Answer": "0.002 mm / 10mm length",
+    "image": "https://firebasestorage.googleapis.com/v0/b/yash-c4f9c.appspot.com/o/no%20image.png?alt=media&token=f067c001-3ea1-4dc9-bb97-b57ff15d0432"
+  },
+  {
+    "Question": "What is the name of part marked as ‘X’?",
+    "Option1": "Face",
+    "Option2": "Pein",
+    "Option3": "Cheek",
+    "Option4": "Eyehole",
+    "Answer": "Cheek",
+    "image": "https://firebasestorage.googleapis.com/v0/b/yash-c4f9c.appspot.com/o/Q27.PNG?alt=media&token=57d596c6-bf33-49f1-8124-2f8a355988e8"
+  },
+  {
+    "Question": "Which portion of a hammer head is not hardened or left soft?",
+    "Option1": "Face",
+    "Option2": "Pein",
+    "Option3": "Cheek",
+    "Option4": "Cross pein",
+    "Answer": "Cheek",
+    "image": "https://firebasestorage.googleapis.com/v0/b/yash-c4f9c.appspot.com/o/no%20image.png?alt=media&token=f067c001-3ea1-4dc9-bb97-b57ff15d0432"
+  },
+  {
+    "Question": "What is the name of part marked as ‘X’?",
+    "Option1": "Rivet",
+    "Option2": "Screw",
+    "Option3": "Loop spring",
+    "Option4": "Adjusting nut",
+    "Answer": "Loop spring",
+    "image": "https://firebasestorage.googleapis.com/v0/b/yash-c4f9c.appspot.com/o/Q29.PNG?alt=media&token=2af0d460-834b-47a4-b526-96c249871530"
+  },
+  {
+    "Question": "What is the name of part marked as ‘X’?",
+    "Option1": "Base",
+    "Option2": "Snug",
+    "Option3": "Spindle",
+    "Option4": "Rocker arm",
+    "Answer": "Rocker arm",
+    "image": "https://firebasestorage.googleapis.com/v0/b/yash-c4f9c.appspot.com/o/Q30.PNG?alt=media&token=e58cec48-3a9c-408e-96f0-0edd89df7826"
+  },
+  {
+    "Question": "Which type of vice has a trigger for operning the movable jaw?",
+    "Option1": "Pin vice",
+    "Option2": "Pipe vice",
+    "Option3": "Bench vice",
+    "Option4": "Quick releasing vice",
+    "Answer": "Quick releasing vice",
+    "image": "https://firebasestorage.googleapis.com/v0/b/yash-c4f9c.appspot.com/o/no%20image.png?alt=media&token=f067c001-3ea1-4dc9-bb97-b57ff15d0432"
+  },
+  {
+    "Question": "Which type of vice is used for marking of small jobs on the surface plate?",
+    "Option1": "Pipe vice",
+    "Option2": "Bench vice",
+    "Option3": "Tool Makers vice",
+    "Option4": "Qiuck relaesing vice",
+    "Answer": "Tool Makers vice",
+    "image": "https://firebasestorage.googleapis.com/v0/b/yash-c4f9c.appspot.com/o/no%20image.png?alt=media&token=f067c001-3ea1-4dc9-bb97-b57ff15d0432"
+  },
+  {
+    "Question": "Which tool is used for cutting internal thread?",
+    "Option1": "Die",
+    "Option2": "Tap",
+    "Option3": "Drill",
+    "Option4": "Reamer",
+    "Answer": "Tap",
+    "image": "https://firebasestorage.googleapis.com/v0/b/yash-c4f9c.appspot.com/o/no%20image.png?alt=media&token=f067c001-3ea1-4dc9-bb97-b57ff15d0432"
+  },
+  {
+    "Question": "What type of tap wrench is used in restricted places?",
+    "Option1": "Bar type tap wrench",
+    "Option2": "‘T’ handle tap wrench",
+    "Option3": "Solid type tap wrench",
+    "Option4": "Double under tap wrench",
+    "Answer": "‘T’ handle tap wrench",
+    "image": "https://firebasestorage.googleapis.com/v0/b/yash-c4f9c.appspot.com/o/no%20image.png?alt=media&token=f067c001-3ea1-4dc9-bb97-b57ff15d0432"
+  },
+  {
+    "Question": "Which type of tap wrench is used to minimise the damage of taps?",
+    "Option1": "Bar type tap wrench",
+    "Option2": "Solid type tap wrench",
+    "Option3": "Double ended tap wrench",
+    "Option4": "T handle type tap wrench",
+    "Answer": "Solid type tap wrench",
+    "image": "https://firebasestorage.googleapis.com/v0/b/yash-c4f9c.appspot.com/o/no%20image.png?alt=media&token=f067c001-3ea1-4dc9-bb97-b57ff15d0432"
+  },
+  {
+    "Question": "What is the cut of file used for deburring the job on lathe?",
+    "Option1": "Rasp cut file",
+    "Option2": "Double cut file",
+    "Option3": "Curved cut file",
+    "Option4": "Single cut file",
+    "Answer": "Single cut file",
+    "image": "https://firebasestorage.googleapis.com/v0/b/yash-c4f9c.appspot.com/o/no%20image.png?alt=media&token=f067c001-3ea1-4dc9-bb97-b57ff15d0432"
+  },
+  {
+    "Question": "Which file is used for filing surfaces at right angle on already finished surface?",
+    "Option1": "Flat file",
+    "Option2": "Needle file",
+    "Option3": "Safe edge file",
+    "Option4": "Curved cut file",
+    "Answer": "Safe edge file",
+    "image": "https://firebasestorage.googleapis.com/v0/b/yash-c4f9c.appspot.com/o/no%20image.png?alt=media&token=f067c001-3ea1-4dc9-bb97-b57ff15d0432"
+  },
+  {
+    "Question": "Which grade of file is used for heavy reduction of material?",
+    "Option1": "Smooth file",
+    "Option2": "Bastard file",
+    "Option3": "Second cut file",
+    "Option4": "Dead smooth file",
+    "Answer": "Bastard file",
+    "image": "https://firebasestorage.googleapis.com/v0/b/yash-c4f9c.appspot.com/o/no%20image.png?alt=media&token=f067c001-3ea1-4dc9-bb97-b57ff15d0432"
+  },
+  {
+    "Question": "Which is used to mark the center of a round rod?",
+    "Option1": "Divider",
+    "Option2": "Jenny caliper",
+    "Option3": "Inside caliper",
+    "Option4": "Outside caliper",
+    "Answer": "Jenny caliper",
+    "image": "https://firebasestorage.googleapis.com/v0/b/yash-c4f9c.appspot.com/o/no%20image.png?alt=media&token=f067c001-3ea1-4dc9-bb97-b57ff15d0432"
+  },
+  {
+    "Question": "What is the part marked as ‘X’?",
+    "Option1": "Peg",
+    "Option2": "Leg",
+    "Option3": "Fulcrum",
+    "Option4": "Knurled nut",
+    "Answer": "Peg",
+    "image": "https://firebasestorage.googleapis.com/v0/b/yash-c4f9c.appspot.com/o/1.PNG?alt=media&token=ad18380b-ff4f-4fe2-8d50-c5f55bd7a4e0"
+  },
+  {
+    "Question": "Which punch is used for locating center of the hole?",
+    "Option1": "Dot punch",
+    "Option2": "Prick punch",
+    "Option3": "Center punch",
+    "Option4": "Hollow Punch",
+    "Answer": "Center punch",
+    "image": "https://firebasestorage.googleapis.com/v0/b/yash-c4f9c.appspot.com/o/no%20image.png?alt=media&token=f067c001-3ea1-4dc9-bb97-b57ff15d0432"
+  },
+  {
+    "Question": "Which part of the universal surface gauge is used for fine adjustment?",
+    "Option1": "Scriber",
+    "Option2": "Spindle",
+    "Option3": "Guide pin",
+    "Option4": "Rocker arm",
+    "Answer": "Rocker arm",
+    "image": "https://firebasestorage.googleapis.com/v0/b/yash-c4f9c.appspot.com/o/no%20image.png?alt=media&token=f067c001-3ea1-4dc9-bb97-b57ff15d0432"
+  },
+  {
+    "Question": "Which part of the universal surface gauge is used to draw parallel line from the datum edge?",
+    "Option1": "Spindle",
+    "Option2": "Rocker arm",
+    "Option3": "Snug",
+    "Option4": "Guide pin",
+    "Answer": "Guide pin",
+    "image": "https://firebasestorage.googleapis.com/v0/b/yash-c4f9c.appspot.com/o/2.PNG?alt=media&token=055bb51c-8d31-4e51-a9bc-9532c47911d7"
+  },
+  {
+    "Question": "Which type of chisel is used to cut key ways?",
+    "Option1": "Flat chisel",
+    "Option2": "Cross cut chisel",
+    "Option3": "Diamon point chisel",
+    "Option4": "Half round nose chisel",
+    "Answer": "Cross cut chisel",
+    "image": "https://firebasestorage.googleapis.com/v0/b/yash-c4f9c.appspot.com/o/no%20image.png?alt=media&token=f067c001-3ea1-4dc9-bb97-b57ff15d0432"
+  },
+  {
+    "Question": "What is the point angle of cold chisel to cut aluminium?",
+    "Option1": "30°",
+    "Option2": "45°",
+    "Option3": "55°",
+    "Option4": "60°",
+    "Answer": "30°",
+    "image": "https://firebasestorage.googleapis.com/v0/b/yash-c4f9c.appspot.com/o/no%20image.png?alt=media&token=f067c001-3ea1-4dc9-bb97-b57ff15d0432"
+  },
+  {
+    "Question": "Which type of chisel is used for squaring materials at the corners and joints?",
+    "Option1": "Web chisel",
+    "Option2": "Flat chisel",
+    "Option3": "Cross cut chisel",
+    "Option4": "Diamond point chisel",
+    "Answer": "Diamond point chisel",
+    "image": "https://firebasestorage.googleapis.com/v0/b/yash-c4f9c.appspot.com/o/no%20image.png?alt=media&token=f067c001-3ea1-4dc9-bb97-b57ff15d0432"
+  },
+  {
+    "Question": "Which is the blank size M10 x1.5mm of external thread?",
+    "Option1": "10.85mm",
+    "Option2": "9.85mm",
+    "Option3": "9.75mm",
+    "Option4": "9.65mm",
+    "Answer": "9.85mm",
+    "image": "https://firebasestorage.googleapis.com/v0/b/yash-c4f9c.appspot.com/o/no%20image.png?alt=media&token=f067c001-3ea1-4dc9-bb97-b57ff15d0432"
+  },
+  {
+    "Question": "Which mechanism is also called as reversing gear unit?",
+    "Option1": "Tumbler gear",
+    "Option2": "Change gear unit",
+    "Option3": "Quick change box",
+    "Option4": "Apron mechanism",
+    "Answer": "Tumbler gear",
+    "image": "https://firebasestorage.googleapis.com/v0/b/yash-c4f9c.appspot.com/o/no%20image.png?alt=media&token=f067c001-3ea1-4dc9-bb97-b57ff15d0432"
+  },
+  {
+    "Question": "What is the name of the part ‘X’?",
+    "Option1": "Driver gear",
+    "Option2": "Main spindle",
+    "Option3": "Spindle gear",
+    "Option4": "Tumbler gear",
+    "Answer": "Tumbler gear",
+    "image": "https://firebasestorage.googleapis.com/v0/b/yash-c4f9c.appspot.com/o/Q32.PNG?alt=media&token=5a6ffd78-4951-4115-ac65-67c8a4f81edc"
+  },
+  {
+    "Question": "What is the name of the centre?",
+    "Option1": "Tipped centre",
+    "Option2": "Friction centre",
+    "Option3": "Ordinary centre",
+    "Option4": "Inserted type centre",
+    "Answer": "Inserted type centre",
+    "image": "https://firebasestorage.googleapis.com/v0/b/yash-c4f9c.appspot.com/o/Q33.PNG?alt=media&token=6df7217c-cfd3-4ba9-8a3c-e5e8e68d6e51"
+  }
+]

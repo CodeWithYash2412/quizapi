@@ -1,0 +1,227 @@
+[
+  {
+    "Question": "A thread is represented as M12 x 1.5. What does represent the letter 12?",
+    "Option1": "Major diameter",
+    "Option2": "Minor diameter",
+    "Option3": "Pitch",
+    "Option4": "Root diameter",
+    "Answer": "Major diameter",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which method of holding is used for lengthy work to avoid over hanging?",
+    "Option1": "In between centres",
+    "Option2": "In four jaw chuck",
+    "Option3": "In face plate",
+    "Option4": "Angle plate",
+    "Answer": "In between centres",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Calculate the change gear required to cut 4mm pitch thread in a lathe having lead screw of 4mm (lathe stud gear (driver has 50 teeth)",
+    "Option1": 25,
+    "Option2": 50,
+    "Option3": 100,
+    "Option4": 150,
+    "Answer": 50,
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Calculate the change gear (driver gear) if driven gear has 120 teeth to cut 3mm pitch on a job using lathe having 6 mm pitch lead screw?",
+    "Option1": 50,
+    "Option2": 60,
+    "Option3": 100,
+    "Option4": 150,
+    "Answer": 60,
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Calculate the change gear (driven gear) if driver is 50 teeth to cut 2.5mm pitch thread on a job by lathe having a lead screw of 5mm pitch?",
+    "Option1": 60,
+    "Option2": 100,
+    "Option3": 120,
+    "Option4": 150,
+    "Answer": 100,
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Calculate the driven gear required to cut 4mm pitch thread is a lathe having lead screw of 4mm with driven gear of 60 teeth?",
+    "Option1": 50,
+    "Option2": 60,
+    "Option3": 100,
+    "Option4": 120,
+    "Answer": 60,
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Find the change gear (driven gear) to cut 2.5mm pitch thread using a lathe having lead screw of pitch 5mm with driver gear 60 teeth?",
+    "Option1": 60,
+    "Option2": 100,
+    "Option3": 120,
+    "Option4": 150,
+    "Answer": 120,
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Calculate the driven gear to cut 1.5mm pitch thread on a job using a lathe having lead screw of 5mm pitch with driver gear of 30 teeth?",
+    "Option1": 50,
+    "Option2": 60,
+    "Option3": 100,
+    "Option4": 120,
+    "Answer": 100,
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Calculate the driven gear to cut 2mm pitch on a job using a lathe having lead screw of 4mm pitch with driven gear 50 teeth?",
+    "Option1": 50,
+    "Option2": 60,
+    "Option3": 100,
+    "Option4": 120,
+    "Answer": 100,
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Calculate the driven gear to cut 1.5mm pitch thread on a job using a lathe having lead screw of 4mm pitch with driver gear 30 teeth?",
+    "Option1": 50,
+    "Option2": 60,
+    "Option3": 80,
+    "Option4": 100,
+    "Answer": 80,
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which method of threading is used in mass production?",
+    "Option1": "Use single point cutting tool",
+    "Option2": "Thread grinding",
+    "Option3": "Using taps and dies",
+    "Option4": "Thread rolling",
+    "Answer": "Thread rolling",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which is the chip less method of thread production?",
+    "Option1": "Die head",
+    "Option2": "Thread rolling",
+    "Option3": "Thread milling",
+    "Option4": "Thread grinding",
+    "Answer": "Thread rolling",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which is the commonly used method to produce thread on nut?",
+    "Option1": "Tapping",
+    "Option2": "Thread grinding",
+    "Option3": "Thread casting",
+    "Option4": "Thread milling",
+    "Answer": "Tapping",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which is the method to produce accurate internal thread?",
+    "Option1": "Thread chasers",
+    "Option2": "Thread rolling",
+    "Option3": "Thread milling",
+    "Option4": "Using dies",
+    "Answer": "Thread milling",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which is the method to produce threads on non metals?",
+    "Option1": "Thread rolling",
+    "Option2": "Thread milling",
+    "Option3": "Thread grinding",
+    "Option4": "Thread casting",
+    "Answer": "Thread casting",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the only thread form cut using diche is turret lathe?",
+    "Option1": "Square",
+    "Option2": "ACME",
+    "Option3": "V-Thread",
+    "Option4": "Saw - Tooth",
+    "Answer": "V-Thread",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the thread form cut by using chasers?",
+    "Option1": "Trapezoidal thread",
+    "Option2": "External and internal V - Thread",
+    "Option3": "External square thread",
+    "Option4": "Internal square thread",
+    "Answer": "External and internal V - Thread",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the depth of buttress thread if the pitch is 1.8 mm of 45° angle?",
+    "Option1": "0.42 mm",
+    "Option2": "0.910 mm",
+    "Option3": "1.23 mm",
+    "Option4": "1.35 mm",
+    "Answer": "0.910 mm",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the core diameter of BSW thread of 1” outer dia and 8 TPI?",
+    "Option1": "0.80”",
+    "Option2": "0.81”",
+    "Option3": "0.83”",
+    "Option4": "0.84”",
+    "Answer": "0.84”",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the depth of ACME thread of 1” major diameter 6TPI?",
+    "Option1": 0.08,
+    "Option2": 0.082,
+    "Option3": 0.084,
+    "Option4": 0.09,
+    "Answer": 0.084,
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is measured on internal thread?",
+    "Option1": "Measuring major diameter",
+    "Option2": "Measuring minor diameter",
+    "Option3": "Measuring effective diameter",
+    "Option4": "Measuring effective diameter",
+    "Answer": "Measuring minor diameter",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/126to150%2FS147.PNG?alt=media&token=03289752-f538-47c4-8846-66fedee6ef9c"
+  },
+  {
+    "Question": "What is measured on internal thread?",
+    "Option1": "Measuring minor diameter",
+    "Option2": "Measuring effective diameter",
+    "Option3": "Measuring major diameter",
+    "Option4": "Measuring pitch diameter thread",
+    "Answer": "Measuring minor diameter",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/126to150%2FS148.PNG?alt=media&token=924339ce-ebfe-48a1-9c95-868341f435da"
+  },
+  {
+    "Question": "What is the formula to find out core diameter of external thread by using prisms and micrometer?",
+    "Option1": "Core dia = Measurement over prisms – Height of prisms – Single depth of thread",
+    "Option2": "Core dia = Measurement over prisms – Height of prisms + Two depth",
+    "Option3": "Core dia = Measurement over prisms + Height of prisms – Single depth",
+    "Option4": "Core dia = Measurement over prisms – Height of prisms + Single depth",
+    "Answer": "Core dia = Measurement over prisms – Height of prisms – Single depth of thread",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Find the gears for simple gear train, if pitch of lead screw is 6 mm and pitch of thread to be cut is 2 mm?",
+    "Option1": "30/120",
+    "Option2": "50/120",
+    "Option3": "40/120",
+    "Option4": "40/150",
+    "Answer": "40/120",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "How much times the spindle rotate the lead screw to cut 3 mm pitch thread in a 12 mm pitch lead screw?",
+    "Option1": "4 times",
+    "Option2": "5 times",
+    "Option3": "6 times",
+    "Option4": "3 times",
+    "Answer": "4 times",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  }
+]

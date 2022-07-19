@@ -1,0 +1,191 @@
+[
+  {
+    "Question": "What is the purpose of cross-arm in O.H lines?",
+    "Option1": "Provide more support to the O.H pole",
+    "Option2": "Protect from short between conductors",
+    "Option3": "Reduce the sag of the lines between poles",
+    "Option4": "Holding the insulators where the conductors are fastened",
+    "Answer": "Holding the insulators where the conductors are fastened",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the advantage of overhead lines compared to underground cable?",
+    "Option1": "Public safety is more",
+    "Option2": "Faults can be located easily",
+    "Option3": "No interference with the communication lines",
+    "Option4": "Not liable to the hazards from lightning discharges",
+    "Answer": "Faults can be located easily",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which substation the transmission line voltage is stepped down to consumer supply voltage?",
+    "Option1": "Mobile substation",
+    "Option2": "Mining substation",
+    "Option3": "Secondary substation",
+    "Option4": "Distribution substation",
+    "Answer": "Distribution substation",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What will happen to the string arrangement of disc insulators, if one of the disc insulator gets damaged?",
+    "Option1": "Whole string become useless",
+    "Option2": "No effect operates normally",
+    "Option3": "Only the damaged disc will not function",
+    "Option4": "Damaged insulator and the adjacent insulator will not function",
+    "Answer": "Only the damaged disc will not function",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "How the sparking on the aluminium cored conductors binding joints can be prevented?",
+    "Option1": "Keeping binding turns very close",
+    "Option2": "Making binding turns very tight",
+    "Option3": "Providing guard wires below the conductors",
+    "Option4": "Providing more than one binding",
+    "Answer": "Making binding turns very tight",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What will happen to the skin effect on the O.H conductors, if the conductor diameter is small (<1cm)?",
+    "Option1": "Becomes negligible",
+    "Option2": "Increases to maximum",
+    "Option3": "No effect, remain same",
+    "Option4": "Decreases half of the value",
+    "Answer": "Becomes negligible",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which circuit breaker is installed along with wiring circuit against leakage current protection?",
+    "Option1": "OCB",
+    "Option2": "MCB",
+    "Option3": "ELCB",
+    "Option4": "MCCB",
+    "Answer": "ELCB",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which relay hold their contacts in position after power is cutoff?",
+    "Option1": "Read relay",
+    "Option2": "Current relay",
+    "Option3": "Voltage relay",
+    "Option4": "Latching relay",
+    "Answer": "Latching relay",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the name of circuit breaker?",
+    "Option1": "Oil circuit breaker",
+    "Option2": "Air blast circuit breaker",
+    "Option3": "Vacuum circuit breaker",
+    "Option4": "Air break circuit breaker",
+    "Answer": "Air blast circuit breaker",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/Electrician%2FSEM4%2FElectrician41%2F234.PNG?alt=media&token=f93304b8-fcac-4b8f-93d4-e589c13ff7d1"
+  },
+  {
+    "Question": "How the rupturing capacity of circuit breaker is rated?",
+    "Option1": "KV",
+    "Option2": "KW",
+    "Option3": "MVA",
+    "Option4": "KVAR",
+    "Answer": "MVA",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the pick-up voltage in a over voltage relay indicated?",
+    "Option1": "Working voltage of relay",
+    "Option2": "Maximum voltage rating of relay",
+    "Option3": "Minimum voltage rating of relay",
+    "Option4": "Minimum voltage to start the relay",
+    "Answer": "Minimum voltage to start the relay",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the function of Buchholz relay in power transformer?",
+    "Option1": "Over load and short circuit protection",
+    "Option2": "Over voltage and earth fault protection",
+    "Option3": "Open circuit and earth fault protection",
+    "Option4": "Open circuit and over voltage protection",
+    "Answer": "Over load and short circuit protection",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which type of load is protected by G’ series MCB?",
+    "Option1": "Ovens",
+    "Option2": "Geysers",
+    "Option3": "Air conditioners",
+    "Option4": "General lighting systems",
+    "Answer": "Air conditioners",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which type of relay is used in both A.C and D.C supply?",
+    "Option1": "Reed relay",
+    "Option2": "Impulse relay",
+    "Option3": "Thermal relay",
+    "Option4": "Clapper-type armature relay",
+    "Answer": "Impulse relay",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which circuit breaker is used as a switch and protective device in the domestic wiring circuit?",
+    "Option1": "Air circuit breaker",
+    "Option2": "Miniature circuit breaker",
+    "Option3": "Moulded case circuit breaker",
+    "Option4": "Earth Leakage circuit breaker",
+    "Answer": "Miniature circuit breaker",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the purpose of trip coil used in circuit breakers?",
+    "Option1": "Easy operation",
+    "Option2": "Remote operation",
+    "Option3": "Accurate operation",
+    "Option4": "Emergency operation",
+    "Answer": "Remote operation",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the function of relay to the breaking operation of circuit breaker in control circuit?",
+    "Option1": "Sensing the fault quantities",
+    "Option2": "Analysing the condition of breaker",
+    "Option3": "Controlling the Speed in case of fault",
+    "Option4": "Interpreting the fault situation to operate breaker",
+    "Answer": "Interpreting the fault situation to operate breaker",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the effect, if the test button marked as X’ is closed permanently in ELCB?",
+    "Option1": "Circuit trips intermittently",
+    "Option2": "Circuit functions normally",
+    "Option3": "Circuit switch off completely",
+    "Option4": "Circuit will not trip on leakage",
+    "Answer": "Circuit switch off completely",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/Electrician%2FSEM4%2FElectrician41%2F243.PNG?alt=media&token=171fa4ec-3dbd-40de-84b5-9547d99bec3d"
+  },
+  {
+    "Question": "What is the defect in an air circuit breaker, if trips intermittendely on loading?",
+    "Option1": "Incorrect setting of relay",
+    "Option2": "Excessive heat",
+    "Option3": "Insufficient air pressure",
+    "Option4": "Line voltage is too high",
+    "Answer": "Incorrect setting of relay",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the defect in a oil circuit breaker if the oil heats up excessively?",
+    "Option1": "Line voltage is too high",
+    "Option2": "Excessive load",
+    "Option3": "Poor dielectric strength",
+    "Option4": "Defective tripping mechanism",
+    "Answer": "Poor dielectric strength",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the cause for the defect if phase to ground fault on the transmission line?",
+    "Option1": "Components failure",
+    "Option2": "Insulation failure",
+    "Option3": "Human error",
+    "Option4": "Fuse failure",
+    "Answer": "Insulation failure",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  }
+]

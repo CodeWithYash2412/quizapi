@@ -1,0 +1,227 @@
+[
+  {
+    "Question": "What is the type of screw?",
+    "Option1": "Hexagon head screw",
+    "Option2": "Grub screws",
+    "Option3": "Round head screw",
+    "Option4": "Square head screw",
+    "Answer": "Grub screws",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/FITTER%2FFITTER%20SEM3%2F101%20TO%20125%2F102.PNG?alt=media&token=f230334c-7b23-4d6f-8c7e-acdcec3f6996"
+  },
+  {
+    "Question": "What is the name of the nut?",
+    "Option1": "Castle nut",
+    "Option2": "Slotted nut",
+    "Option3": "T - Nut",
+    "Option4": "Cap nut",
+    "Answer": "Castle nut",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/FITTER%2FFITTER%20SEM3%2F101%20TO%20125%2F103.PNG?alt=media&token=8b8cbd1b-bc84-46ad-a8e0-6e88c3014c89"
+  },
+  {
+    "Question": "What is the name of nut?",
+    "Option1": "Castle nut",
+    "Option2": "Hexagon weld nut",
+    "Option3": "Hexagon nut with collar",
+    "Option4": "Self locking nut",
+    "Answer": "Hexagon weld nut",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/FITTER%2FFITTER%20SEM3%2F101%20TO%20125%2F104.PNG?alt=media&token=f7d6d192-10ae-4a13-b9d4-8d470cfe74b6"
+  },
+  {
+    "Question": "What is the name of tool?",
+    "Option1": "Face wrench",
+    "Option2": "Hook spanner",
+    "Option3": "Face pin wrench",
+    "Option4": "Pin wrench",
+    "Answer": "Hook spanner",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/FITTER%2FFITTER%20SEM3%2F101%20TO%20125%2F105.PNG?alt=media&token=8a1fb121-5881-4dbb-9730-d2cf1792833c"
+  },
+  {
+    "Question": "What is the type of screw?",
+    "Option1": "Hexagon socket head cap screws",
+    "Option2": "Hexagon head screws",
+    "Option3": "Counter sink head screws",
+    "Option4": "Raised cheese hand screws",
+    "Answer": "Hexagon socket head cap screws",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/FITTER%2FFITTER%20SEM3%2F101%20TO%20125%2F106.PNG?alt=media&token=65ae06c2-9626-4b3d-8654-f5257ea1921a"
+  },
+  {
+    "Question": "What is the file that is rectangular in section and parallel in width with one safe edge?",
+    "Option1": "Dreadnaught file",
+    "Option2": "Pillar file",
+    "Option3": "Warding file",
+    "Option4": "Swiss pattern file",
+    "Answer": "Pillar file",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which file has double cut on faces and single cut at edges?",
+    "Option1": "Pillar file",
+    "Option2": "Single cut file",
+    "Option3": "Rasp cut file",
+    "Option4": "Warding file",
+    "Answer": "Warding file",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the name of file?",
+    "Option1": "Pillar file",
+    "Option2": "Warding file",
+    "Option3": "Swiss pattern file",
+    "Option4": "Dreadnaught file",
+    "Answer": "Swiss pattern file",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/FITTER%2FFITTER%20SEM3%2F101%20TO%20125%2F109.PNG?alt=media&token=55108f94-2adb-4705-8e78-78a75064d0df"
+  },
+  {
+    "Question": "What is the name of gauge?",
+    "Option1": "Thread plug gauge",
+    "Option2": "Thread ring gauge",
+    "Option3": "Caliper gauge",
+    "Option4": "Ring gauge",
+    "Answer": "Thread ring gauge",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/FITTER%2FFITTER%20SEM3%2F101%20TO%20125%2F110.PNG?alt=media&token=69b320bf-1c81-43ec-8e76-7a74a6e43115"
+  },
+  {
+    "Question": "What is the name of gauge?",
+    "Option1": "Taper gauge",
+    "Option2": "Snap gauge",
+    "Option3": "Progressive plug gauge",
+    "Option4": "Double end plug gauge",
+    "Answer": "Snap gauge",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/FITTER%2FFITTER%20SEM3%2F101%20TO%20125%2F111.PNG?alt=media&token=99b369e5-08c4-4d37-84e5-48984c9c2f63"
+  },
+  {
+    "Question": "What is the use of drill gauge?",
+    "Option1": "Check the diameter of the drill",
+    "Option2": "Check the length of the drill",
+    "Option3": "Check the cutting angle of the drill",
+    "Option4": "Check the lip length",
+    "Answer": "Check the diameter of the drill",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is marked as ‘X’?",
+    "Option1": "Length",
+    "Option2": "Depth surface",
+    "Option3": "Contact rollers",
+    "Option4": "Width",
+    "Answer": "Length",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/FITTER%2FFITTER%20SEM3%2F101%20TO%20125%2F113.PNG?alt=media&token=c9656e72-8f5f-4e92-923a-c240b9ff68b7"
+  },
+  {
+    "Question": "What is marked as ‘X’?",
+    "Option1": "Height of slip gauge",
+    "Option2": "Length of sine bar",
+    "Option3": "Datum surface",
+    "Option4": "Adjacent side",
+    "Answer": "Height of slip gauge",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/FITTER%2FFITTER%20SEM3%2F101%20TO%20125%2F114.PNG?alt=media&token=7aa96c73-256c-49ed-805a-d154e0ee8b61"
+  },
+  {
+    "Question": "What is the name of gauge?",
+    "Option1": "Screw pitch gauge",
+    "Option2": "Angle gauge",
+    "Option3": "Slip gauge",
+    "Option4": "Centre gauge",
+    "Answer": "Centre gauge",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/FITTER%2FFITTER%20SEM3%2F101%20TO%20125%2F115.PNG?alt=media&token=f175fad6-d161-4aa0-b6a2-5c63c165daf4"
+  },
+  {
+    "Question": "What is the name of gauge?",
+    "Option1": "Centre gauge",
+    "Option2": "Screw pitch gauge",
+    "Option3": "Radius gauge",
+    "Option4": "Snap gauge",
+    "Answer": "Screw pitch gauge",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/FITTER%2FFITTER%20SEM3%2F101%20TO%20125%2F116.PNG?alt=media&token=786eda41-ed38-4f27-ba7e-c24c378b4aa2"
+  },
+  {
+    "Question": "What is the type of gauge?",
+    "Option1": "Thread ring gauge",
+    "Option2": "Roller type thread caliper gauge",
+    "Option3": "Thread plug gauge",
+    "Option4": "Anvil type thread snap gauge",
+    "Answer": "Anvil type thread snap gauge",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/FITTER%2FFITTER%20SEM3%2F101%20TO%20125%2F117.PNG?alt=media&token=bc317ca3-5fda-4c90-90e6-cb584708874c"
+  },
+  {
+    "Question": "What is the type of gauge?",
+    "Option1": "Double ended plug gauge",
+    "Option2": "Progressive plug gauge",
+    "Option3": "Taper plug gauge",
+    "Option4": "Taper ring gauge",
+    "Answer": "Double ended plug gauge",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/FITTER%2FFITTER%20SEM3%2F101%20TO%20125%2F118.PNG?alt=media&token=29c1ab2e-c836-45f4-83d3-055e39b6cc99"
+  },
+  {
+    "Question": "What is marked as ‘X ‘?",
+    "Option1": "Double ended plug gauge - No Go",
+    "Option2": "Progressive plug gauge - Go",
+    "Option3": "Taper plug gauge - Go",
+    "Option4": "Progressive plug gauge - No Go",
+    "Answer": "Progressive plug gauge - Go",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/FITTER%2FFITTER%20SEM3%2F101%20TO%20125%2F119.PNG?alt=media&token=89be6bf5-1767-4f3a-933d-20821425a082"
+  },
+  {
+    "Question": "What is the gauge?",
+    "Option1": "Snap gauge",
+    "Option2": "Progressive plug gauge",
+    "Option3": "Taper ring gauge",
+    "Option4": "Taper plug gauge",
+    "Answer": "Taper plug gauge",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/FITTER%2FFITTER%20SEM3%2F101%20TO%20125%2F120.PNG?alt=media&token=b2914992-eb95-4c70-94b3-8220463e1c2a"
+  },
+  {
+    "Question": "What is marked as ‘X’?",
+    "Option1": "Thread ring gauge - Go",
+    "Option2": "Thread ring gauge - No Go",
+    "Option3": "Ring gauge",
+    "Option4": "Thread pitch gauge",
+    "Answer": "Thread ring gauge - No Go",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/FITTER%2FFITTER%20SEM3%2F101%20TO%20125%2F121.PNG?alt=media&token=8652aad6-82a7-4dbe-b890-f0ce3bdb7872"
+  },
+  {
+    "Question": "What is the name of gauge?",
+    "Option1": "Thread ring gauge",
+    "Option2": "Thread plug gauge",
+    "Option3": "Thread pitch gauge",
+    "Option4": "Taper plug gauge",
+    "Answer": "Thread plug gauge",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/FITTER%2FFITTER%20SEM3%2F101%20TO%20125%2F122.PNG?alt=media&token=871c5043-bef4-4858-88be-244a37484c7b"
+  },
+  {
+    "Question": "What is the quenching media used in heat treatment to obtain faster rate of cooling?",
+    "Option1": "Brine solution",
+    "Option2": "Air",
+    "Option3": "Oil",
+    "Option4": "Water",
+    "Answer": "Brine solution",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the angle of elbows and bends that provide diversions?",
+    "Option1": "90° & 45°",
+    "Option2": "30° & 60°",
+    "Option3": "20° & 40°",
+    "Option4": "70° & 120°",
+    "Answer": "90° & 45°",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What type of screws are used in the places were frequent removal and assembling?",
+    "Option1": "Square head screws",
+    "Option2": "Hexagon socket head cap screws",
+    "Option3": "Round head screws",
+    "Option4": "Cheese head screws",
+    "Answer": "Square head screws",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What type of nuts are used in coach building work?",
+    "Option1": "Square nut",
+    "Option2": "T-nuts",
+    "Option3": "Wing nuts",
+    "Option4": "Cap nuts",
+    "Answer": "Square nut",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  }
+]

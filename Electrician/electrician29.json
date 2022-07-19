@@ -1,0 +1,227 @@
+[
+  {
+    "Question": "Which type of A.C single phase motor is classified under commutator motor type?",
+    "Option1": "Stepper motor",
+    "Option2": "Repulsion motor",
+    "Option3": "Shaded pole motor",
+    "Option4": "Permanent capacitor motor",
+    "Answer": "Repulsion motor",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which method is adopted to start the single phase induction motor?",
+    "Option1": "Split phase method",
+    "Option2": "Varying supply voltage method",
+    "Option3": "Reversal of input supply terminals",
+    "Option4": "Reversal of running coil connection",
+    "Answer": "Split phase method",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the type of A.C single phase motor?",
+    "Option1": "Permanent capacitor motor",
+    "Option2": "Capacitor start capacitor run motor",
+    "Option3": "Induction start induction run motor",
+    "Option4": "Capacitor start induction run motor",
+    "Answer": "Capacitor start induction run motor",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/Electrician%2FSEM3%2FElectrician29%2F218.PNG?alt=media&token=1bd1a2b6-040d-4255-8542-fbca6007f972"
+  },
+  {
+    "Question": "What is the purpose of the capacitor (C) in centrifugal switch speed control method of universal motor?",
+    "Option1": "Maintain constant speed",
+    "Option2": "Improve the power factor",
+    "Option3": "Protect from the over loading",
+    "Option4": "Reduce the sparks on the contacts",
+    "Answer": "Reduce the sparks on the contacts",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/Electrician%2FSEM3%2FElectrician29%2F219.PNG?alt=media&token=f010ced0-2dff-4727-ab14-54d374b99190"
+  },
+  {
+    "Question": "Which type of winding wire is used for rewinding submersible pumps?",
+    "Option1": "PVC covered copper wire",
+    "Option2": "Super enamelled copper wire",
+    "Option3": "Single cotton covered copper wire",
+    "Option4": "Double cotton covered copper wire",
+    "Answer": "PVC covered copper wire",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which type of AC single phase motor having low starting torque?",
+    "Option1": "Induction start induction run motor",
+    "Option2": "Capacitor start induction run motor",
+    "Option3": "Capacitor start capacitor run motor",
+    "Option4": "Resistance start induction run motor",
+    "Answer": "Resistance start induction run motor",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the function of centrifugal switch in single phase motors?",
+    "Option1": "Maintain constant speed",
+    "Option2": "Break the starting winding",
+    "Option3": "Break the running winding",
+    "Option4": "Protect the motor from over loading",
+    "Answer": "Break the starting winding",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which is the application of universal motor?",
+    "Option1": "Jet pump",
+    "Option2": "Food mixer",
+    "Option3": "Teleprinter",
+    "Option4": "Compressor",
+    "Answer": "Food mixer",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which single phase motor is fitted with wound rotor?",
+    "Option1": "Repulsion motor",
+    "Option2": "Shaded pole motor",
+    "Option3": "Permanent capacitor motor",
+    "Option4": "Capacitor start capacitor run motor",
+    "Answer": "Repulsion motor",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the relation between running winding and starting winding of a single phase induction motor with respect to resistance?",
+    "Option1": "Both resistances will be equal",
+    "Option2": "Running winding is less, starting winding more",
+    "Option3": "Running winding is more, starting winding less",
+    "Option4": "Running winding is less, starting winding infinity",
+    "Answer": "Running winding is less, starting winding more",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the function of the part marked as x in shaded pole motor?",
+    "Option1": "Increase the efficiency",
+    "Option2": "Maintain constant speed",
+    "Option3": "Initiate the rotor movement",
+    "Option4": "Strengthen the magnetic field",
+    "Answer": "Initiate the rotor movement",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/Electrician%2FSEM3%2FElectrician29%2F226.PNG?alt=media&token=1f57049c-b9f8-4221-9f79-3195b066bb06"
+  },
+  {
+    "Question": "How the direction of rotation of a capacitor start induction run motor is reversed?",
+    "Option1": "By changing the supply terminals",
+    "Option2": "By changing the capacitor connections",
+    "Option3": "By interchanging main winding terminals",
+    "Option4": "By interchanging both main and auxiliary winding terminals",
+    "Answer": "By interchanging main winding terminals",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which single phase motor tapped field speed control method is employed?",
+    "Option1": "Universal motor",
+    "Option2": "Shaded pole motor",
+    "Option3": "Capacitor start induction run motor",
+    "Option4": "Capacitor start capacitor run motor",
+    "Answer": "Universal motor",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which type of single phase induction motor is used in food mixer?",
+    "Option1": "Universal motor",
+    "Option2": "Repulsion motor",
+    "Option3": "Shaded pole motor",
+    "Option4": "Permanent capacitor motor",
+    "Answer": "Universal motor",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the angular displacement between starting and running winding of a single phase induction motor?",
+    "Option1": "45 electrical degree",
+    "Option2": "60 electrical degree",
+    "Option3": "90 electrical degree",
+    "Option4": "120 electrical degree",
+    "Answer": "90 electrical degree",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Why the hysteresis motor is suitable for sound recording instruments?",
+    "Option1": "Small in size",
+    "Option2": "High efficiency",
+    "Option3": "Noiseless operation",
+    "Option4": "Less error operation",
+    "Answer": "Noiseless operation",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which motor is preferred for domestic water pumps?",
+    "Option1": "Universal Motor",
+    "Option2": "Repulsion motor",
+    "Option3": "Shaded pole motor",
+    "Option4": "Capacitor start motor",
+    "Answer": "Capacitor start motor",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which type of motor has relatively small starting torque?",
+    "Option1": "Universal motor",
+    "Option2": "Capacitor start capacitor run motor",
+    "Option3": "Capacitor start induction run motor",
+    "Option4": "Resistance start induction run motor",
+    "Answer": "Resistance start induction run motor",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the function of centrifugal switch in split phase motor?",
+    "Option1": "Protects from over current",
+    "Option2": "Maintains constant speed",
+    "Option3": "Protect the motor from over loading",
+    "Option4": "Make and break the starting winding from supply",
+    "Answer": "Make and break the starting winding from supply",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "How to produce starting torque in a shaded pole fan motor?",
+    "Option1": "Using rings on poles",
+    "Option2": "Using capacitor on winding circuits",
+    "Option3": "Interchanging cage rotor windings by switch",
+    "Option4": "Interchanging the field coil windings by switch",
+    "Answer": "Using rings on poles",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the reason to use a permanent capacitor in fan motor circuit?",
+    "Option1": "Speed regulation",
+    "Option2": "Lower power consumption",
+    "Option3": "Splitting of phase for torque",
+    "Option4": "Controlling electrical interference",
+    "Answer": "Splitting of phase for torque",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which motor is having half coil winding?",
+    "Option1": "Mixer",
+    "Option2": "Grinder",
+    "Option3": "Ceiling fan",
+    "Option4": "Washing machine",
+    "Answer": "Ceiling fan",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Why running winding is placed in the bottom of the core?",
+    "Option1": "To get low resistance",
+    "Option2": "To get low inductance",
+    "Option3": "To get high resistance",
+    "Option4": "To get high inductance",
+    "Answer": "To get high inductance",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Calculate the slot distance for a ceiling fan having 28 slots, 14 poles, 14 coils in half coil connection?",
+    "Option1": "90°",
+    "Option2": "120°",
+    "Option3": "180°",
+    "Option4": "240°",
+    "Answer": "90°",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the application of shaded pole motor?",
+    "Option1": "Hair dryer",
+    "Option2": "Ceiling fan",
+    "Option3": "Wet grinder",
+    "Option4": "Washing machine",
+    "Answer": "Hair dryer",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  }
+]

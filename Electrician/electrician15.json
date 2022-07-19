@@ -1,0 +1,236 @@
+[
+  {
+    "Question": "What is the formula to find voltage drop of a A.C single phase wiring circuit?",
+    "Option1": "Voltage drop = IR volt",
+    "Option2": "Voltage drop = I2R volt",
+    "Option3": "Voltage drop = I/R volt",
+    "Option4": "Voltage drop=IR/2 volt",
+    "Answer": "Voltage drop = IR volt",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the maximum permissible load for a power sub circuit as per I.E rules?",
+    "Option1": "800 Watt",
+    "Option2": "1500 Watt",
+    "Option3": "2000 Watt",
+    "Option4": "3000 Watt",
+    "Answer": "3000 Watt",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which location the service connection supply leads to be connected at consumer main board?",
+    "Option1": "IC cut out",
+    "Option2": "Main switch",
+    "Option3": "Energy meter",
+    "Option4": "Distribution board",
+    "Answer": "Energy meter",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the type of test in domestic wiring installation?",
+    "Option1": "Polarity test",
+    "Option2": "Continuity (or) open circuit test",
+    "Option3": "Insulation resistance test between conductors",
+    "Option4": "Insulation resistance test between conductors and earth",
+    "Answer": "Polarity test",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/Electrician%2FSEM2%2FElectrician15%2F117.PNG?alt=media&token=cc1293b3-ff91-4c8c-9ebd-52f67fbf1af5"
+  },
+  {
+    "Question": "What is the permissible leakage current in\ndomestic wiring installation?",
+    "Option1": "1/5 x Full load current",
+    "Option2": "1/50 x Full load current",
+    "Option3": "1/500 x Full load current",
+    "Option4": "1/5000 x Full load current",
+    "Answer": "1/5000 x Full load current",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which formula is used to calculate the\ndiversity factor?",
+    "Option1": "Diversity factor = Maximum load / Installed load",
+    "Option2": "Diversity Factor = Installed Load / Maximum Load",
+    "Option3": "Diversity Factor = Minimum actual load / Installed load",
+    "Option4": "Diversity Factor = Installed load / Minimum actual load",
+    "Answer": "Diversity Factor = Minimum actual load / Installed load",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which instrument is used to test new\ndomestic wiring installation?",
+    "Option1": "Multimeter",
+    "Option2": "Megger",
+    "Option3": "Shunt type ohmmeter",
+    "Option4": "Series type ohmmeter",
+    "Answer": "Megger",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the type of test in the wiring\ninstallation?",
+    "Option1": "Polarity test",
+    "Option2": "Open circuit test",
+    "Option3": "Insulation resistance test between conductors",
+    "Option4": "Insulation resistance test between conductors\nand earth",
+    "Answer": "Insulation resistance test between conductors\nand earth",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/Electrician%2FSEM2%2FElectrician15%2F121.PNG?alt=media&token=dd4557bc-7ade-430a-b1a6-d3108d99ec18"
+  },
+  {
+    "Question": "Where system earthing is done?",
+    "Option1": "Generating station",
+    "Option2": "Electroplating installation",
+    "Option3": "Small industrial installation",
+    "Option4": "Domestic wiring installation",
+    "Answer": "Generating station",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the test to be carried out by using\nmegger?",
+    "Option1": "Polarity test",
+    "Option2": "Insulation resistance test",
+    "Option3": "Earth electrode resistance test",
+    "Option4": "Earth conductor continuity test",
+    "Answer": "Insulation resistance test",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the reason of lamp glowing dim and\nmotor running slow in a domestic wiring circuit?",
+    "Option1": "Open circuit in the neutral line",
+    "Option2": "Short circuit between conductors",
+    "Option3": "High value series resistance fault",
+    "Option4": "Open circuit in the earth conductor",
+    "Answer": "High value series resistance fault",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which wiring installation the System earthing is to be done?",
+    "Option1": "Substations",
+    "Option2": "Godown wiring",
+    "Option3": "Domestic wiring",
+    "Option4": "Commercial wiring",
+    "Answer": "Substations",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which method of earth resistance measurement is illustrated?",
+    "Option1": "Fall of current",
+    "Option2": "Fall of potential",
+    "Option3": "Current dividing",
+    "Option4": "Potential dividing",
+    "Answer": "Fall of potential",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/Electrician%2FSEM2%2FElectrician15%2F126.PNG?alt=media&token=618db44a-a28b-48a6-854c-32168eb6b1e6"
+  },
+  {
+    "Question": "How to control harmonic distortions in neutral connections as per IE rule?",
+    "Option1": "Earthing through impedance",
+    "Option2": "Providing by plate earthing",
+    "Option3": "Increasing conductor size",
+    "Option4": "Providing parallel earthing",
+    "Answer": "Earthing through impedance",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the function of current reverser in earth resistance tester?",
+    "Option1": "Converts A.C. into D.C",
+    "Option2": "Reverses the polarity of D.C",
+    "Option3": "Changes D.C. supply into A.C supply",
+    "Option4": "Reverses the direction of rotation of the generator",
+    "Answer": "Changes D.C. supply into A.C supply",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the advantage of stranded conductor over solid conductor?",
+    "Option1": "Cost is less",
+    "Option2": "More flexible",
+    "Option3": "Less voltage drop",
+    "Option4": "More insulation resistance",
+    "Answer": "More flexible",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "How the earth resistance can be reduced?",
+    "Option1": "Providing double earthing",
+    "Option2": "Reducing the pit depth for earthing",
+    "Option3": "Increasing the length of the electrodes",
+    "Option4": "Decreasing the length of the electrodes",
+    "Answer": "Providing double earthing",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the reason for supplying AC to the electrodes for measuring earth resistance?",
+    "Option1": "Provide electrostatic shield",
+    "Option2": "Protect the coils in the meter",
+    "Option3": "Reduce the value of current in the meter",
+    "Option4": "Avoid the effect of electrolytic emf interference",
+    "Answer": "Avoid the effect of electrolytic emf interference",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Why the pointer is not stable at zero on the scale as the megger is not in use?",
+    "Option1": "It is not having controlling Torque",
+    "Option2": "Provided with air friction damping",
+    "Option3": "The deflecting torque is directly proportional to the current",
+    "Option4": "The deflecting torque is directly proportional to the square of the current",
+    "Answer": "It is not having controlling Torque",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which is proportional for the deflection of ohmmeter needle in earth resistance tester?",
+    "Option1": "Current in current coil",
+    "Option2": "Current in potential coil",
+    "Option3": "Speed of the handle rotation",
+    "Option4": "Ratio of the current in two coils",
+    "Answer": "Ratio of the current in two coils",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which principle the earth resistance tester works?",
+    "Option1": "Self induction",
+    "Option2": "Mutual induction",
+    "Option3": "Fall of potential method",
+    "Option4": "Fleming’s left hand rule",
+    "Answer": "Fall of potential method",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Why system earthing is different in utilization than equipment earthing?",
+    "Option1": "It protects human only",
+    "Option2": "It protects from all circuit faults",
+    "Option3": "It is associated with current carrying conductors",
+    "Option4": "It is connected to the non current carrying metal work",
+    "Answer": "It is associated with current carrying conductors",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the effect if a person receives a shock current of 20 mA? |",
+    "Option1": "No sensation",
+    "Option2": "Painful shock",
+    "Option3": "Heart convulsions",
+    "Option4": "Become unconscious",
+    "Answer": "Painful shock",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which electrical equipment L series type MCB’s are used?",
+    "Option1": "Geysers",
+    "Option2": "Locomotives",
+    "Option3": "Halogen lamps",
+    "Option4": "Air conditioners",
+    "Answer": "Geysers",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the megger reading in a dead short wiring installation?",
+    "Option1": "0 MW",
+    "Option2": "1 MW",
+    "Option3": "500 MW",
+    "Option4": "Infinity",
+    "Answer": "0 MW",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the advantage of crimping?",
+    "Option1": "Gives neat apperance",
+    "Option2": "Reduce load current",
+    "Option3": "Avoid loose connections",
+    "Option4": "Easy to replace",
+    "Answer": "Avoid loose connections",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  }
+]

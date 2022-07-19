@@ -1,0 +1,227 @@
+[
+  {
+    "Question": "Productivity is defined as the ratio of ………",
+    "Option1": "output /input",
+    "Option2": "input / output",
+    "Option3": "output / skill of the workmanship",
+    "Option4": "input / skill of the workmanship",
+    "Answer": "output /input",
+    "image": ""
+  },
+  {
+    "Question": "The expansion of ATM is .................",
+    "Option1": "Automated Tune Machine",
+    "Option2": "Automated Teller Machine",
+    "Option3": "Asynchronous Teller Machine",
+    "Option4": "Asynchronous Time Machine",
+    "Answer": "Automated Teller Machine",
+    "image": ""
+  },
+  {
+    "Question": "the process used by a business to verify the identity of their client is……",
+    "Option1": "GDP",
+    "Option2": "KYC",
+    "Option3": "ATM",
+    "Option4": "TFP",
+    "Answer": "KYC",
+    "image": ""
+  },
+  {
+    "Question": "What is the advantage of automation?",
+    "Option1": "Reduced operation time",
+    "Option2": "High initial cost",
+    "Option3": "Unpredictable development cost",
+    "Option4": "Security threats",
+    "Answer": "Reduced operation time",
+    "image": ""
+  },
+  {
+    "Question": "What is the unemployment rate if there are 125 million people in the labor force, 100 million people employed and 25 million are not?",
+    "Option1": "25%",
+    "Option2": "20%",
+    "Option3": "17%",
+    "Option4": "15%",
+    "Answer": "20%",
+    "image": ""
+  },
+  {
+    "Question": "Which market determines the real wages and employment?",
+    "Option1": "Capital market",
+    "Option2": "Labour market",
+    "Option3": "Money market",
+    "Option4": "Goods market",
+    "Answer": "Labour market",
+    "image": ""
+  },
+  {
+    "Question": "Which one is used to measure the economic performance of a whole country or region?",
+    "Option1": "KYC",
+    "Option2": "GDP",
+    "Option3": "TFP",
+    "Option4": "ATM",
+    "Answer": "GDP",
+    "image": ""
+  },
+  {
+    "Question": "Which one of the following is NOT a category of pure risk?",
+    "Option1": "Property risk",
+    "Option2": "Technology risk",
+    "Option3": "Liability risk",
+    "Option4": "Personnel risk",
+    "Answer": "Technology risk",
+    "image": ""
+  },
+  {
+    "Question": "Which one of the following is NOT an objective of incentive?",
+    "Option1": "Improved quality",
+    "Option2": "High cost of production",
+    "Option3": "High output",
+    "Option4": "Reduced waste",
+    "Answer": "High cost of production",
+    "image": ""
+  },
+  {
+    "Question": "Which one of these documents is NOT acceptable for fulfilment of KYC norms?",
+    "Option1": "Voter ID card",
+    "Option2": "Ration card",
+    "Option3": "Residential certificate",
+    "Option4": "Income certificate",
+    "Answer": "Income certificate",
+    "image": ""
+  },
+  {
+    "Question": "Which stage is a period of rapid revenue growth?",
+    "Option1": "Growth stage",
+    "Option2": "Maturity stage",
+    "Option3": "Decline stage",
+    "Option4": "Introduction stage",
+    "Answer": "Growth stage",
+    "image": ""
+  },
+  {
+    "Question": "ABC of first aid stands for ____________",
+    "Option1": "Airway, Bleeding and Circulation",
+    "Option2": "Airway, Breathing and Circulation",
+    "Option3": "Airway, Bleeding and Compression",
+    "Option4": "Airway, Breathing and Compression",
+    "Answer": "Airway, Breathing and Circulation",
+    "image": ""
+  },
+  {
+    "Question": "At what decibels, sound becomes hazardous noise pollution?",
+    "Option1": "Above 30",
+    "Option2": "Above 80",
+    "Option3": "Above 100",
+    "Option4": "Above 120",
+    "Answer": "Above 80",
+    "image": ""
+  },
+  {
+    "Question": "Earthquake is measured with an instrument called ____________",
+    "Option1": "telegraph",
+    "Option2": "seismograph",
+    "Option3": "oscillograph",
+    "Option4": "bar graph",
+    "Answer": "seismograph",
+    "image": ""
+  },
+  {
+    "Question": "Head protection is done through ___________",
+    "Option1": "helmet",
+    "Option2": "goggles",
+    "Option3": "gloves",
+    "Option4": "mask",
+    "Answer": "helmet",
+    "image": ""
+  },
+  {
+    "Question": "In firefighting method ‘Starvation’ is _________",
+    "Option1": "limitation of oxygen",
+    "Option2": "pouring water",
+    "Option3": "elimination of fuel",
+    "Option4": "reduction of temperature",
+    "Answer": "elimination of fuel",
+    "image": ""
+  },
+  {
+    "Question": "On the job injuries and illness, cost money time & effort. What is the most practical way to manage these losses?",
+    "Option1": "Make sure safety is part of labor contracts",
+    "Option2": "Aggressive claims handling",
+    "Option3": "Good insurance coverage",
+    "Option4": "Effective safety and loss control program",
+    "Answer": "Effective safety and loss control program",
+    "image": ""
+  },
+  {
+    "Question": "Ozone layer is made up of ___________",
+    "Option1": "one oxygen atom",
+    "Option2": "two oxygen atoms",
+    "Option3": "three oxygen atoms",
+    "Option4": "four oxygen atoms",
+    "Answer": "three oxygen atoms",
+    "image": ""
+  },
+  {
+    "Question": "The reprocessing of discarded materials into new useful products is called _________",
+    "Option1": "reuse of waste material",
+    "Option2": "recycling of material",
+    "Option3": "management of solid waste",
+    "Option4": "reduction in use of raw material",
+    "Answer": "recycling of material",
+    "image": ""
+  },
+  {
+    "Question": "The study of living things in relation to their environment is called ……………",
+    "Option1": "ecosystem",
+    "Option2": "economics",
+    "Option3": "ecology",
+    "Option4": "eclogue",
+    "Answer": "ecology",
+    "image": ""
+  },
+  {
+    "Question": "The three R’s to save environment are ………………",
+    "Option1": "Reserve, Reduce, Recycle",
+    "Option2": "Reuse, Reserve, Reduce",
+    "Option3": "Reserve, Reuse, Reduce",
+    "Option4": "Reduce, Recycle, Reuse",
+    "Answer": "Reduce, Recycle, Reuse",
+    "image": ""
+  },
+  {
+    "Question": "Vibration and radiation comes under _______",
+    "Option1": "chemical hazards",
+    "Option2": "physical hazards",
+    "Option3": "electrical hazards",
+    "Option4": "psychological hazards",
+    "Answer": "physical hazards",
+    "image": ""
+  },
+  {
+    "Question": "Which one is a man induced hazards?",
+    "Option1": "Landslide",
+    "Option2": "Cyclone",
+    "Option3": "Volcano",
+    "Option4": "Earth quake",
+    "Answer": "Landslide",
+    "image": ""
+  },
+  {
+    "Question": "Which one is a non-renewable energy resource?",
+    "Option1": "Solar",
+    "Option2": "Coal",
+    "Option3": "Methane",
+    "Option4": "Hydroelectric",
+    "Answer": "Coal",
+    "image": ""
+  },
+  {
+    "Question": "which one is an unsafe condition for work?",
+    "Option1": "Oily floor",
+    "Option2": "Good light",
+    "Option3": "Proper tools",
+    "Option4": "Adequate ventilation",
+    "Answer": "Oily floor",
+    "image": ""
+  }
+]

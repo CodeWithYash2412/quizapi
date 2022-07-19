@@ -1,0 +1,227 @@
+[
+  {
+    "Question": "The amount of refrigerant passed by the valve is___________the amount of refrigerant vapourized by the\nevaporator.",
+    "Option1": "equal to",
+    "Option2": "half",
+    "Option3": "one-fourth",
+    "Option4": "double",
+    "Answer": "equal to",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "____________ is used as an expansion valve in a flooded evaporator.",
+    "Option1": "Float valve",
+    "Option2": "Thermostatic valve",
+    "Option3": "Capillary tube",
+    "Option4": "Orifice control valve",
+    "Answer": "Float valve",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Brine chiller is similar to__________of a vapour compression refrigeration system.",
+    "Option1": "evaporator",
+    "Option2": "Condenser",
+    "Option3": "compressor",
+    "Option4": "Capillary tube",
+    "Answer": "evaporator",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Condenser capacity is measured in________.",
+    "Option1": "kW",
+    "Option2": "kV",
+    "Option3": "kVA",
+    "Option4": "kA",
+    "Answer": "kW",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "The capacity of condenser is not a function of_______________.",
+    "Option1": "volume of refrigerant",
+    "Option2": "surface area of condenser",
+    "Option3": "overall heat transfer coefficient",
+    "Option4": "temperature difference between refrigerant and condenser medium",
+    "Answer": "volume of refrigerant",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Cooling medium in Evaporative condenser is___________.",
+    "Option1": "both air and water",
+    "Option2": "brine",
+    "Option3": "air only",
+    "Option4": "water only",
+    "Answer": "both air and water",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Wet bulb temperature is a measure of_____________.",
+    "Option1": "absolute humidity",
+    "Option2": "absolute pressure",
+    "Option3": "relative humidity",
+    "Option4": "specific heat",
+    "Answer": "absolute humidity",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "The temperature at which moisture in the air starts condensing is called___________.",
+    "Option1": "dew point temperature",
+    "Option2": "wet bulb temperature",
+    "Option3": "dry bulb temperature",
+    "Option4": "dew point depression",
+    "Answer": "dew point temperature",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "____________duct system is commonly used to obtain an efficient duct using friction method.",
+    "Option1": "Rectangular",
+    "Option2": "Square",
+    "Option3": "Circular",
+    "Option4": "Triangular",
+    "Answer": "Rectangular",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Ducting done in large offices using___________type distribution.",
+    "Option1": "Ceiling panel",
+    "Option2": "Upward",
+    "Option3": "Pan",
+    "Option4": "Wall",
+    "Answer": "Ceiling panel",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which of these is NOT a probable reason for improper working of condenser unit?",
+    "Option1": "Temperature is not set",
+    "Option2": "Condenser has become dirty",
+    "Option3": "Air does not flow",
+    "Option4": "Spray nozzle is closed",
+    "Answer": "Temperature is not set",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "The part of a duct used for joining two duct lines at right angle is called____________.",
+    "Option1": "stack elbow",
+    "Option2": "outlet port",
+    "Option3": "duct joint",
+    "Option4": "tee joint",
+    "Answer": "stack elbow",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "In a direct expansion system, which of these is found in Plant room?",
+    "Option1": "Condenser",
+    "Option2": "Air filter",
+    "Option3": "evaporator",
+    "Option4": "Return air duct",
+    "Answer": "Condenser",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "____________is a device by which cool, clean and humid air can be obtained.",
+    "Option1": "Air washer",
+    "Option2": "Fan coil",
+    "Option3": "Relief valve",
+    "Option4": "Spray Nozzle",
+    "Answer": "Air washer",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "____________is installed in the circuit for usage of electromechanical controls.",
+    "Option1": "Relay",
+    "Option2": "Meggar",
+    "Option3": "Circuit Breaker",
+    "Option4": "Fuse",
+    "Answer": "Relay",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "H stands for________in HVAC systems.",
+    "Option1": "Heating",
+    "Option2": "Healing",
+    "Option3": "Honning",
+    "Option4": "Heavy",
+    "Answer": "Heating",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "______________coil is fitted in HVAC system.",
+    "Option1": "Both heating and cooling",
+    "Option2": "Only heating",
+    "Option3": "Only cooling",
+    "Option4": "condensation",
+    "Answer": "Both heating and cooling",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "In a car A.C., condenser is fitted near____________.",
+    "Option1": "radiator",
+    "Option2": "rear wheel",
+    "Option3": "crankcase",
+    "Option4": "magnetic clutch",
+    "Answer": "radiator",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Car A.C. operates at maximum efficiency when running at _______________.",
+    "Option1": "high speed",
+    "Option2": "zero speed",
+    "Option3": "low speed",
+    "Option4": "zero load",
+    "Answer": "high speed",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "In order to____________ , dye is added to car A.C. system.",
+    "Option1": "identify the gas leak",
+    "Option2": "lubricate the engine",
+    "Option3": "increase efficiency",
+    "Option4": "increase speed",
+    "Answer": "identify the gas leak",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which of the following does not affects heat load calculation in an A.C. plant?",
+    "Option1": "Outer temperature",
+    "Option2": "Relative humidity",
+    "Option3": "Dew point",
+    "Option4": "Moisture",
+    "Answer": "Outer temperature",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "_____________in the condenser maintains the required level of water.",
+    "Option1": "Flow switch",
+    "Option2": "Overload circuit",
+    "Option3": "Cut-out switch",
+    "Option4": "Strainer",
+    "Answer": "Flow switch",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "The application of fans and blowers in central A.C. plant is_____________.",
+    "Option1": "circulation of air",
+    "Option2": "heating",
+    "Option3": "cooling",
+    "Option4": "chilling",
+    "Answer": "circulation of air",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "The nature of air in summer air conditioning is____________.",
+    "Option1": "heated and humidified",
+    "Option2": "heated and dehumidified",
+    "Option3": "cooled and humidified",
+    "Option4": "cooled and dehumidified",
+    "Answer": "cooled and dehumidified",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "If a deep freezer does not give enough cooling, then it must be due to______________.",
+    "Option1": "continuous opening of door",
+    "Option2": "no power supply",
+    "Option3": "high external pressure",
+    "Option4": "high external temperature",
+    "Answer": "continuous opening of door",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  }
+]

@@ -1,0 +1,101 @@
+[
+  {
+    "Question": "What is the full form of LDAP?",
+    "Option1": "Light Weight Directory Access Provider",
+    "Option2": "Light Weight Directory Access Protocol",
+    "Option3": "Light Weight Directory Access Program",
+    "Option4": "Light Weight Directory Access Protection",
+    "Answer": "Light Weight Directory Access Protocol",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is called the collective terms of malicious software, such as viruses, worms and trojans?",
+    "Option1": "Spam",
+    "Option2": "Phishing",
+    "Option3": "Malware",
+    "Option4": "Harm",
+    "Answer": "Malware",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is called protecting data from online attacks, deletions, malwares?",
+    "Option1": "Physical security",
+    "Option2": "Cyber security",
+    "Option3": "Cyber attack",
+    "Option4": "Virus",
+    "Answer": "Cyber security",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is called the protection of information and data from unauthorized Access?",
+    "Option1": "Physical security",
+    "Option2": "Link security",
+    "Option3": "Risk management",
+    "Option4": "Information security",
+    "Answer": "Information security",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the full form of CIA under information security?",
+    "Option1": "Confidentiality Integrity Availability",
+    "Option2": "Criminal Investigation Agency",
+    "Option3": "Cost Information Agency",
+    "Option4": "Credit Integrity Assement",
+    "Answer": "Confidentiality Integrity Availability",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is called periodic assessment of security vulnerability in computer system?",
+    "Option1": "Threat",
+    "Option2": "Attack",
+    "Option3": "Hacking",
+    "Option4": "Security audit",
+    "Answer": "Security audit",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is called a single point of access for several networking services?",
+    "Option1": "Phishing",
+    "Option2": "Web service",
+    "Option3": "Directory service",
+    "Option4": "Worms",
+    "Answer": "Directory service",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which activities endanger the sovereignty and integrity of nation?",
+    "Option1": "Cyber Terrorism",
+    "Option2": "Cyber vandalism",
+    "Option3": "Cyber squatting",
+    "Option4": "Carding",
+    "Answer": "Cyber Terrorism",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which crime involves the use of computer networks to create, distribute or access materials that sexually expoit underage persons?",
+    "Option1": "Assault by Threat",
+    "Option2": "Cyber squatting",
+    "Option3": "Cyber vandalism",
+    "Option4": "Child pornography",
+    "Answer": "Child pornography",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is called the unauthorized control/acess over the computer system and destroys the data?",
+    "Option1": "Defamation",
+    "Option2": "Carding",
+    "Option3": "Hacking",
+    "Option4": "Cyber - stalking",
+    "Answer": "Hacking",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which method go through all the files or network elements with an intention to detect something unusual?",
+    "Option1": "Probing",
+    "Option2": "Phishing",
+    "Option3": "Infecting",
+    "Option4": "Scanning",
+    "Answer": "Scanning",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  }
+]

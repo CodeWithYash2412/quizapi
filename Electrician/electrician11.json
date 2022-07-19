@@ -1,0 +1,227 @@
+[
+  {
+    "Question": "What is the effect if one cell is connected with reverse polarity in a parallel combination circuit?",
+    "Option1": "Voltage become zero",
+    "Option2": "Become open circuit",
+    "Option3": "Will get short circuited",
+    "Option4": "No effect will function normally",
+    "Answer": "Will get short circuited",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/Electrician%2FSEM2%2FElectrician11%2F32.PNG?alt=media&token=434fce73-ae00-4866-a705-b69a00069476"
+  },
+  {
+    "Question": "What is the function of fine selector switch in battery charger?",
+    "Option1": "Selection of current rating",
+    "Option2": "Selection of charging time",
+    "Option3": "Selection of voltage range",
+    "Option4": "Selection of charging method",
+    "Answer": "Selection of current rating",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/Electrician%2FSEM2%2FElectrician11%2F32.PNG?alt=media&token=434fce73-ae00-4866-a705-b69a00069476"
+  },
+  {
+    "Question": "What is the effect on output power with respect to temperature in solar cells?",
+    "Option1": "No effect on change in temperature",
+    "Option2": "Increases with increase in temperature",
+    "Option3": "Decreases with increase in temperature",
+    "Option4": "Decreases with decrease in temperature",
+    "Answer": "Decreases with decrease in temperature",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/Electrician%2FSEM2%2FElectrician11%2F32.PNG?alt=media&token=434fce73-ae00-4866-a705-b69a00069476"
+  },
+  {
+    "Question": "What purpose the hydrometer is used during charging of battery?",
+    "Option1": "Determine the AH capacity",
+    "Option2": "Assess the battery voltage level",
+    "Option3": "Assess the discharge level of battery",
+    "Option4": "Determine the specific gravity of electrolyte",
+    "Answer": "Determine the specific gravity of electrolyte",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/Electrician%2FSEM2%2FElectrician11%2F32.PNG?alt=media&token=434fce73-ae00-4866-a705-b69a00069476"
+  },
+  {
+    "Question": "What is the formula for Faraday’s first law of electrolysis?",
+    "Option1": "M = Z/it",
+    "Option2": "M = Zit",
+    "Option3": "M = it/ Z",
+    "Option4": "M = Zt/i",
+    "Answer": "M = Zit",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/Electrician%2FSEM2%2FElectrician11%2F32.PNG?alt=media&token=434fce73-ae00-4866-a705-b69a00069476"
+  },
+  {
+    "Question": "Which is used as an electrolyte in lead acid battery?",
+    "Option1": "Hydrochloric acid",
+    "Option2": "Ammonium chloride",
+    "Option3": "Potassium hydroxide",
+    "Option4": "Diluted sulphuric acid",
+    "Answer": "Diluted sulphuric acid",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/Electrician%2FSEM2%2FElectrician11%2F32.PNG?alt=media&token=434fce73-ae00-4866-a705-b69a00069476"
+  },
+  {
+    "Question": "What is the total voltage of the circuit?",
+    "Option1": "1.5 Volt",
+    "Option2": "6.0 Volt",
+    "Option3": "7.5 Volt",
+    "Option4": "9.0 Volt",
+    "Answer": "1.5 Volt",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/Electrician%2FSEM2%2FElectrician11%2F20.PNG?alt=media&token=e430b327-8d4e-4205-8a88-7301c5030aee"
+  },
+  {
+    "Question": "What is the outcome at the positive plate, after the chemical reaction in lead acid battery during charging?",
+    "Option1": "Sponge lead(Pb)",
+    "Option2": "Lead peroxide(PbO2)",
+    "Option3": "Lead sulphate(PbSO4)",
+    "Option4": "Lead sulphate + water",
+    "Answer": "Lead peroxide(PbO2)",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/Electrician%2FSEM2%2FElectrician11%2F32.PNG?alt=media&token=434fce73-ae00-4866-a705-b69a00069476"
+  },
+  {
+    "Question": "Why the vent plug is kept open during charging of a battery?",
+    "Option1": "To escape the gas freely",
+    "Option2": "To allow oxygen enter inside",
+    "Option3": "To check the level of electrolyte",
+    "Option4": "To check the colour changes in the plates",
+    "Answer": "To escape the gas freely",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/Electrician%2FSEM2%2FElectrician11%2F32.PNG?alt=media&token=434fce73-ae00-4866-a705-b69a00069476"
+  },
+  {
+    "Question": "In which method the battery is charged at low current for long period?",
+    "Option1": "Rectifier method",
+    "Option2": "Trickle charging method",
+    "Option3": "Constant current method",
+    "Option4": "Constant potential method",
+    "Answer": "Trickle charging method",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/Electrician%2FSEM2%2FElectrician11%2F32.PNG?alt=media&token=434fce73-ae00-4866-a705-b69a00069476"
+  },
+  {
+    "Question": "How the hard sulphation defect in lead acid battery can be rectified?",
+    "Option1": "Changing with new electrolyte",
+    "Option2": "Replacing with new electrodes",
+    "Option3": "Recharging the battery for a longer period at low current",
+    "Option4": "Recharging the battery for short period at high current",
+    "Answer": "Recharging the battery for a longer period at low current",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/Electrician%2FSEM2%2FElectrician11%2F32.PNG?alt=media&token=434fce73-ae00-4866-a705-b69a00069476"
+  },
+  {
+    "Question": "Which material is used as cathode (-ve) electrode in silver oxide battery?",
+    "Option1": "Zinc",
+    "Option2": "Copper",
+    "Option3": "Carbon",
+    "Option4": "Silver oxide",
+    "Answer": "Zinc",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/Electrician%2FSEM2%2FElectrician11%2F32.PNG?alt=media&token=434fce73-ae00-4866-a705-b69a00069476"
+  },
+  {
+    "Question": "What is the Electro Chemical Equivalent (ECE) of silver?",
+    "Option1": "0.001182 mg/coulomb",
+    "Option2": "0.01182 mg/coulomb",
+    "Option3": "0.1182 mg/coulomb",
+    "Option4": "1.1182 mg/coulomb",
+    "Answer": "1.1182 mg/coulomb",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/Electrician%2FSEM2%2FElectrician11%2F32.PNG?alt=media&token=434fce73-ae00-4866-a705-b69a00069476"
+  },
+  {
+    "Question": "What is the outcome of the chemical reaction that takes place in negative plate of lead acid battery during discharging?",
+    "Option1": "Sponge lead(Pb)",
+    "Option2": "Lead peroxide(PbO2)",
+    "Option3": "Lead sulphate(PbSO4)",
+    "Option4": "Lead sulphate + water",
+    "Answer": "Lead sulphate(PbSO4)",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/Electrician%2FSEM2%2FElectrician11%2F32.PNG?alt=media&token=434fce73-ae00-4866-a705-b69a00069476"
+  },
+  {
+    "Question": "What is the purpose of separator in lead acid battery?",
+    "Option1": "To provide a path for electrolyte",
+    "Option2": "To hold the positive and negative plate firmly",
+    "Option3": "To avoid short in between the positive and negative plates",
+    "Option4": "To keep positive and negative plate in a sequence array",
+    "Answer": "To avoid short in between the positive and negative plates",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/Electrician%2FSEM2%2FElectrician11%2F32.PNG?alt=media&token=434fce73-ae00-4866-a705-b69a00069476"
+  },
+  {
+    "Question": "Which instrument is used to measure the specific gravity of electrolyte in lead acid battery?",
+    "Option1": "Barometer",
+    "Option2": "Hydrometer",
+    "Option3": "Anima meter",
+    "Option4": "High rate discharge tester",
+    "Answer": "Hydrometer",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/Electrician%2FSEM2%2FElectrician11%2F32.PNG?alt=media&token=434fce73-ae00-4866-a705-b69a00069476"
+  },
+  {
+    "Question": "Which type of inverter circuit?",
+    "Option1": "Driven inverter",
+    "Option2": "SCR used inverter",
+    "Option3": "Single transistor inverter",
+    "Option4": "Two winding transformer inverter",
+    "Answer": "SCR used inverter",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/Electrician%2FSEM2%2FElectrician11%2F30.PNG?alt=media&token=ca9e0f07-4423-4056-bfa5-c1120b31169a"
+  },
+  {
+    "Question": "What is the effect of buckling defect in a lead acid battery?",
+    "Option1": "Bending of the electrodes",
+    "Option2": "Reducing the strength of electrolyte",
+    "Option3": "Making short between the electrodes",
+    "Option4": "Increasing the internal resistance",
+    "Answer": "Bending of the electrodes",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/Electrician%2FSEM2%2FElectrician11%2F32.PNG?alt=media&token=434fce73-ae00-4866-a705-b69a00069476"
+  },
+  {
+    "Question": "What is the total output voltage of the circuit?",
+    "Option1": "0 V",
+    "Option2": "1.5 V",
+    "Option3": "3.0 V",
+    "Option4": "4.5 V",
+    "Answer": "4.5 V",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/Electrician%2FSEM2%2FElectrician11%2F32.PNG?alt=media&token=434fce73-ae00-4866-a705-b69a00069476"
+  },
+  {
+    "Question": "Which is used as a positive electrode in a dry cell?",
+    "Option1": "Zinc",
+    "Option2": "Carbon",
+    "Option3": "Copper",
+    "Option4": "Lithium",
+    "Answer": "Carbon",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/Electrician%2FSEM2%2FElectrician11%2F32.PNG?alt=media&token=434fce73-ae00-4866-a705-b69a00069476"
+  },
+  {
+    "Question": "What happen to the terminal voltage of a cell if load increases?",
+    "Option1": "Increases",
+    "Option2": "Decreases",
+    "Option3": "Falls to zero",
+    "Option4": "Remains same",
+    "Answer": "Decreases",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/Electrician%2FSEM2%2FElectrician11%2F32.PNG?alt=media&token=434fce73-ae00-4866-a705-b69a00069476"
+  },
+  {
+    "Question": "How local action defect is prevented in voltaic cell?",
+    "Option1": "By connecting cells in series",
+    "Option2": "By using a depolarizing agent",
+    "Option3": "By connecting cells in parallel",
+    "Option4": "By amalgamating the zinc plate",
+    "Answer": "By amalgamating the zinc plate",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/Electrician%2FSEM2%2FElectrician11%2F32.PNG?alt=media&token=434fce73-ae00-4866-a705-b69a00069476"
+  },
+  {
+    "Question": "What does the letter Z indicate in the formula M=Z/it",
+    "Option1": "Time in seconds",
+    "Option2": "E.C.E of electrolyte",
+    "Option3": "Amount of current in Amp",
+    "Option4": "Mass deposited in grams",
+    "Answer": "E.C.E of electrolyte",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/Electrician%2FSEM2%2FElectrician11%2F32.PNG?alt=media&token=434fce73-ae00-4866-a705-b69a00069476"
+  },
+  {
+    "Question": "What is the Electro Chemical Equivalent (ECE) of copper?",
+    "Option1": "0.329 mg / coulomb",
+    "Option2": "0.329 g/ coulomb",
+    "Option3": "1.1182 mg / coulomb",
+    "Option4": "1.1182 g/ coulomb",
+    "Answer": "0.329 mg / coulomb",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/Electrician%2FSEM2%2FElectrician11%2F32.PNG?alt=media&token=434fce73-ae00-4866-a705-b69a00069476"
+  },
+  {
+    "Question": "Which is the cause for buckling defect in lead acid battery?",
+    "Option1": "Overcharging or over discharging",
+    "Option2": "Charging with low rate for short period",
+    "Option3": "Formation of sediments falling from the plate",
+    "Option4": "Battery is kept in discharged condition for long period",
+    "Answer": "Overcharging or over discharging",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/Electrician%2FSEM2%2FElectrician11%2F32.PNG?alt=media&token=434fce73-ae00-4866-a705-b69a00069476"
+  }
+]

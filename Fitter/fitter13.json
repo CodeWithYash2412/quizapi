@@ -1,0 +1,227 @@
+[
+  {
+    "Question": "Which decides the point angle of drill?",
+    "Option1": "Drill material",
+    "Option2": "Job material",
+    "Option3": "Cutting speed",
+    "Option4": "Size of the drill",
+    "Answer": "Job material",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the drill size for reaming a 10 mm hole, if under size is 0.2mm and over size is 0.05mm?",
+    "Option1": "8.5 mm",
+    "Option2": "9.75 mm",
+    "Option3": "10.00 mm",
+    "Option4": "10.25 mm",
+    "Answer": "9.75 mm",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the name of the tool?",
+    "Option1": "Stone dresser",
+    "Option2": "Diamond dresser",
+    "Option3": "Star wheels dresser",
+    "Option4": "Abrasive stick dresser",
+    "Answer": "Star wheels dresser",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/FITTER%2FFITTER%20SEM2%2F026%20TO%20050%2FFI28.PNG?alt=media&token=efe22340-7c06-4e7c-a74a-3b6a866244ac"
+  },
+  {
+    "Question": "Which indicates the strength of bond in grinding wheel?",
+    "Option1": "Grid",
+    "Option2": "Grade",
+    "Option3": "Structure",
+    "Option4": "Grain size",
+    "Answer": "Grade",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the name of the defect, if the surface of the grinding wheel develops smooth and shining appearance?",
+    "Option1": "Glazing",
+    "Option2": "Truing",
+    "Option3": "Loading",
+    "Option4": "Dressing",
+    "Answer": "Glazing",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Why agricultural equipment is made up of wrought iron?",
+    "Option1": "Low cost",
+    "Option2": "Heavy weight",
+    "Option3": "Wear resistant",
+    "Option4": "Corrosion resistant",
+    "Answer": "Corrosion resistant",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the name of the part marked x in blast furnace?",
+    "Option1": "Tuyeres",
+    "Option2": "Molten slag",
+    "Option3": "Molten iron",
+    "Option4": "Tapping hole",
+    "Answer": "Tuyeres",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/FITTER%2FFITTER%20SEM2%2F026%20TO%20050%2FFI32.PNG?alt=media&token=ab866844-b149-4c6b-853c-fb67e57ccf60"
+  },
+  {
+    "Question": "What is the range of carbon content in cast iron alloy?",
+    "Option1": "2 to 4%",
+    "Option2": "5 to 9%",
+    "Option3": "6 to 9%",
+    "Option4": "10 to 12%",
+    "Answer": "2 to 4%",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the name of the part marked x in vernier micrometer?",
+    "Option1": "Anvil",
+    "Option2": "Barrel",
+    "Option3": "Thimble",
+    "Option4": "Ratchet stop",
+    "Answer": "Thimble",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/FITTER%2FFITTER%20SEM2%2F026%20TO%20050%2FFI34.PNG?alt=media&token=c4d2bc10-7674-47c7-b975-88a19baa32f8"
+  },
+  {
+    "Question": "What is the method of removing the broken stud?",
+    "Option1": "Ezy- out method",
+    "Option2": "Prick punch method",
+    "Option3": "Making drill hole method",
+    "Option4": "Using square taper punch method",
+    "Answer": "Prick punch method",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/FITTER%2FFITTER%20SEM2%2F026%20TO%20050%2FFI35.PNG?alt=media&token=c5d94a5c-72b2-4b70-82e8-a02732dfed81"
+  },
+  {
+    "Question": "What is the operation of bevelling the end of a drilled hole ?",
+    "Option1": "Reaming",
+    "Option2": "Spot facing",
+    "Option3": "Counter boring",
+    "Option4": "Counter sinking",
+    "Answer": "Counter sinking",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the effect if clearance angle is incorrect?",
+    "Option1": "Over sized holes",
+    "Option2": "Over heated drills",
+    "Option3": "Rough holes",
+    "Option4": "Broken drill",
+    "Answer": "Over heated drills",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the name of part marked as X ?",
+    "Option1": "Heel",
+    "Option2": "Cutting edge",
+    "Option3": "Position rake angle",
+    "Option4": "Negative rake angle",
+    "Answer": "Negative rake angle",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/FITTER%2FFITTER%20SEM2%2F026%20TO%20050%2FFI38.PNG?alt=media&token=8caa28c9-ec33-4dd3-a091-e56d1e54ca4d"
+  },
+  {
+    "Question": "Which reamer is used for reaming internal Metric morse tapered holes?",
+    "Option1": "Helical fluted reamer",
+    "Option2": "Hand reamer with pilot",
+    "Option3": "Taper pin hand reamer",
+    "Option4": "Socket reamer with parallel shank",
+    "Answer": "Socket reamer with parallel shank",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Name the type of the reamer.?",
+    "Option1": "Hand reamer",
+    "Option2": "Helical reamer",
+    "Option3": "Machine reamer",
+    "Option4": "Taper pin reamer",
+    "Answer": "Hand reamer",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/FITTER%2FFITTER%20SEM2%2F026%20TO%20050%2FFI40.PNG?alt=media&token=fb8c5304-2e62-4de9-935b-d0d8b578e283"
+  },
+  {
+    "Question": "What is the name of part marked X?",
+    "Option1": "Arbor",
+    "Option2": "Drill chuck",
+    "Option3": "Drill bit",
+    "Option4": "Chuck key",
+    "Answer": "Arbor",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/FITTER%2FFITTER%20SEM2%2F026%20TO%20050%2FFI41.PNG?alt=media&token=66be9444-2d9e-45bf-848e-4e4ded34482b"
+  },
+  {
+    "Question": "Which reamer has a long taper lead?",
+    "Option1": "Socket reamer",
+    "Option2": "Hand reamer",
+    "Option3": "Machine reamer",
+    "Option4": "Helical fluted reamer",
+    "Answer": "Hand reamer",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the type of defect on drilled hole?",
+    "Option1": "Rough holes",
+    "Option2": "Over heated drill",
+    "Option3": "Oversized holes",
+    "Option4": "Unequal flow of chips",
+    "Answer": "Oversized holes",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/FITTER%2FFITTER%20SEM2%2F026%20TO%20050%2FFI43.PNG?alt=media&token=2573a255-03e5-48d9-872e-ebd7941e9151"
+  },
+  {
+    "Question": "What is the defect if pores of the grinding wheel get clogged?",
+    "Option1": "Drilling",
+    "Option2": "Glazing",
+    "Option3": "Loading",
+    "Option4": "Dressing",
+    "Answer": "Loading",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which cast iron has the ability to reduce vibration and tool chattering in machine tools?",
+    "Option1": "Grey cast iron",
+    "Option2": "White cast iron",
+    "Option3": "Nodular cast iron",
+    "Option4": "Malleable cast iron",
+    "Answer": "Grey cast iron",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which furnace is used to produce wrought iron?",
+    "Option1": "Blast furnace",
+    "Option2": "Cupola furnace",
+    "Option3": "Puddling furnace",
+    "Option4": "Electric arc furnace",
+    "Answer": "Puddling furnace",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which ore is used to extract zinc?",
+    "Option1": "Bauxite",
+    "Option2": "Galena",
+    "Option3": "Calamine",
+    "Option4": "Cassiterite",
+    "Answer": "Calamine",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which tool is used to check the internal clearance of the bearing?",
+    "Option1": "Steel rule",
+    "Option2": "Feeler gauge",
+    "Option3": "Depth gauge",
+    "Option4": "Vernier caliper",
+    "Answer": "Feeler gauge",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the name of part marked as X?",
+    "Option1": "Collar",
+    "Option2": "Square head",
+    "Option3": "Fingers",
+    "Option4": "Body",
+    "Answer": "Fingers",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/FITTER%2FFITTER%20SEM2%2F026%20TO%20050%2FFI49.PNG?alt=media&token=075daa3b-07f2-4d3f-b201-76402cc97bb8"
+  },
+  {
+    "Question": "What is the angle of ACME thread ?",
+    "Option1": "66°",
+    "Option2": "55°",
+    "Option3": "29°",
+    "Option4": "45°",
+    "Answer": "29°",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  }
+]

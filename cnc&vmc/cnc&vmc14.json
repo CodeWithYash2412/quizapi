@@ -1,0 +1,164 @@
+[
+  {
+    "Question": "What is the full form of CNC?",
+    "Option1": "Computer Number based Control system",
+    "Option2": "Centralized Number Condition",
+    "Option3": "Computer Numerical Control",
+    "Option4": "Computer Nomen Clature Condition",
+    "Answer": "Computer Numerical Control",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which year the numerical control of new era spaned automation?",
+    "Option1": 1950,
+    "Option2": 1952,
+    "Option3": 1960,
+    "Option4": 1963,
+    "Answer": 1952,
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which century, the fixed automatic mechanism introduction?",
+    "Option1": "18th Century",
+    "Option2": "19th Century",
+    "Option3": "17th Century",
+    "Option4": "In middle of 19th Century",
+    "Answer": "18th Century",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which year along with CNC systems the commercial industrial robot was manufactured?",
+    "Option1": 1972,
+    "Option2": 1870,
+    "Option3": 1930,
+    "Option4": 1961,
+    "Answer": 1961,
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "In Which country the automatically controlled factory was introduced before two centuries?",
+    "Option1": "In Japan",
+    "Option2": "In Germany",
+    "Option3": "In Europe",
+    "Option4": "In America",
+    "Answer": "In Europe",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the full form of CAM?",
+    "Option1": "Computer Aided Manufacturing",
+    "Option2": "Centralized Advanced Manufacturing",
+    "Option3": "Computerized Advance Machine Tool",
+    "Option4": "Computerized Applicable Method",
+    "Answer": "Computer Aided Manufacturing",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the full form of CAD?",
+    "Option1": "Computerized Advance Development",
+    "Option2": "Computer Aided Designing",
+    "Option3": "Centralised Advanced Data Storage",
+    "Option4": "Computer Applicable Data Storage",
+    "Answer": "Computer Aided Designing",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "In CNC control system means?",
+    "Option1": "CNC - Power control system",
+    "Option2": "CNC - Electrical drives control",
+    "Option3": "CNC - Software",
+    "Option4": "CNC - Program organiser",
+    "Answer": "CNC - Software",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "How many axes in the CNC lathe machine?",
+    "Option1": "Two axes x and z",
+    "Option2": "Three axes x,y,z",
+    "Option3": "Multi axes more than three",
+    "Option4": "Vertical and Horizontal",
+    "Answer": "Two axes x and z",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What do you mean by ATC preparation of part programming axis convention in CNC Machines?",
+    "Option1": "Alternate Tool Centre",
+    "Option2": "Automatic Tool Changer",
+    "Option3": "Automatic Tool Checking",
+    "Option4": "Axillary Tool Checking",
+    "Answer": "Automatic Tool Changer",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the use of bar feeding automation?",
+    "Option1": "To increase the efficiency of the machine",
+    "Option2": "To control the auto feed mechanism",
+    "Option3": "It increases the material handling time",
+    "Option4": "It takes much more production time",
+    "Answer": "To increase the efficiency of the machine",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the full form of DNC?",
+    "Option1": "Dual Number Counting",
+    "Option2": "Direct Numerical Control",
+    "Option3": "Dual Numerical Coordinates",
+    "Option4": "Direct Non Coordination",
+    "Answer": "Direct Numerical Control",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the value of 'x' axis which tappering?",
+    "Option1": "Value of tap size",
+    "Option2": "Zero",
+    "Option3": "Negative",
+    "Option4": "Positive",
+    "Answer": "Zero",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the code value of Q2000 if the grooving program block is like this G75X28.0 Z-45.0 P500 Q2000 F0.08; in this program block?",
+    "Option1": "The total groove depth is 2000 microns",
+    "Option2": "The incremental depth of cut in 'x' axis",
+    "Option3": "The groove final diameter",
+    "Option4": "The incremental depth of cut in 'z' axis",
+    "Answer": "The incremental depth of cut in 'z' axis",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which status the data cannot be output for inputting / outputting data?",
+    "Option1": "In jog mode",
+    "Option2": "In edit mode",
+    "Option3": "In simulation mode",
+    "Option4": "The data output can not be done in an alarm status",
+    "Answer": "The data output can not be done in an alarm status",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "How to compensate the pitch error in the part program, if pitch error is enabled?",
+    "Option1": "The pitch error compansation amount of value to be input",
+    "Option2": "All the threaded area value to be changed and input",
+    "Option3": "Thread height value to be changed",
+    "Option4": "Minor diameter value to be compensated",
+    "Answer": "The pitch error compansation amount of value to be input",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Minor diameter value to be compensated",
+    "Option1": "Computer Aided Manufacturing",
+    "Option2": "Computer Application in Maintenance",
+    "Option3": "Computer Attached Monitering system",
+    "Option4": "Computer Applicable Monitering Process",
+    "Answer": "Computer Aided Manufacturing",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the purpose of CAM software in CNC area?",
+    "Option1": "Direct manufacturing without part program",
+    "Option2": "Traning and academics on CNC axes",
+    "Option3": "While using CAM, there no need of component design",
+    "Option4": "Execution of program",
+    "Answer": "Traning and academics on CNC axes",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  }
+]

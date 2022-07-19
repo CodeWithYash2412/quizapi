@@ -1,0 +1,227 @@
+[
+  {
+    "Question": "Which type of jig do not have base plate?",
+    "Option1": "Table jig",
+    "Option2": "Plate jig",
+    "Option3": "Template jig",
+    "Option4": "Sandwich jig",
+    "Answer": "Template jig",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the name of jig?",
+    "Option1": "Leaf jig",
+    "Option2": "Solid jig",
+    "Option3": "Table jig",
+    "Option4": "Angle plate jig",
+    "Answer": "Angle plate jig",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/FITTER%2FFITTER%20SEM4%2F001%20TO%20025%2F2.PNG?alt=media&token=86fbee77-5c7d-4f7c-a6a8-497ba0f56190"
+  },
+  {
+    "Question": "What is the name of jig?",
+    "Option1": "Box jig",
+    "Option2": "Post jig",
+    "Option3": "Turn over jig",
+    "Option4": "Sandwich jig",
+    "Answer": "Turn over jig",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/FITTER%2FFITTER%20SEM4%2F001%20TO%20025%2F3.PNG?alt=media&token=4875ad5d-4e4a-4631-8297-b4f46d1a7049"
+  },
+  {
+    "Question": "What is the name of clamp?",
+    "Option1": "Strap clamp",
+    "Option2": "Cam clamp",
+    "Option3": "Latch clamp",
+    "Option4": "Screw clamp",
+    "Answer": "Cam clamp",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/FITTER%2FFITTER%20SEM4%2F001%20TO%20025%2F4.PNG?alt=media&token=2054437e-c10a-411b-b3b6-f92a26fe07fc"
+  },
+  {
+    "Question": "What is the name of fixture?",
+    "Option1": "Plate fixture",
+    "Option2": "Angel plate fixture",
+    "Option3": "Indexing plate fixture",
+    "Option4": "Modified angle plate fixture",
+    "Answer": "Modified angle plate fixture",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/FITTER%2FFITTER%20SEM4%2F001%20TO%20025%2F5.PNG?alt=media&token=a6fbeeb2-5ca8-44af-b177-0f53c33fea03"
+  },
+  {
+    "Question": "Which type of bush is used in jig to perform more than one operation in same location?",
+    "Option1": "Slip bush",
+    "Option2": "Plain bush",
+    "Option3": "Fixed bush",
+    "Option4": "Liner bush",
+    "Answer": "Slip bush",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the purpose of grooves provided in the ‘V’ blocks?",
+    "Option1": "Reduce the weight",
+    "Option2": "Support the work piece",
+    "Option3": "Accommodate the clamp",
+    "Option4": "Allow thermal expansion",
+    "Answer": "Accommodate the clamp",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Why the balancing weight is provided in the turning fixture?",
+    "Option1": "To guide tool",
+    "Option2": "To balance the tool",
+    "Option3": "To balance worktable",
+    "Option4": "To balance irregular workpiece",
+    "Answer": "To balance irregular workpiece",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which type of fixture is used for machining on evenly spaced surfaces?",
+    "Option1": "Plate fixture",
+    "Option2": "Vice jaw fixture",
+    "Option3": "Indexing fixture",
+    "Option4": "Angle plate fixture",
+    "Answer": "Indexing fixture",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the name of jig?",
+    "Option1": "Post jig",
+    "Option2": "Solid jig",
+    "Option3": "Channel jig",
+    "Option4": "Trunnion jig",
+    "Answer": "Channel jig",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/FITTER%2FFITTER%20SEM4%2F001%20TO%20025%2F10.PNG?alt=media&token=8e71aaf6-eb17-4790-8d70-d76cd55865ec"
+  },
+  {
+    "Question": "Which is the important factor to determine the construction of fixture?",
+    "Option1": "Machining method",
+    "Option2": "Location and clamping",
+    "Option3": "Tool guiding and frame",
+    "Option4": "Size of work piece and tool",
+    "Answer": "Machining method",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the purpose of setting blocks used in the fixture?",
+    "Option1": "Position the balancing weight",
+    "Option2": "Position the clamp and locators",
+    "Option3": "Position the fixture on machine table",
+    "Option4": "Position the fixture and work related to cutter",
+    "Answer": "Position the fixture and work related to cutter",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which type of jig is used for awkwardly shaped work piece to drill at different angles?",
+    "Option1": "Post jig",
+    "Option2": "Solid jig",
+    "Option3": "Indexing jig",
+    "Option4": "Trunnion jig",
+    "Answer": "Trunnion jig",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which device holds, supports, locates and also guide the cutting tool for operation?",
+    "Option1": "Jig",
+    "Option2": "Fixture",
+    "Option3": "Chuck",
+    "Option4": "Machine vice",
+    "Answer": "Jig",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the name of clamp used in jig?",
+    "Option1": "Tooth clamp",
+    "Option2": "Latch clamp",
+    "Option3": "Toggle clamp",
+    "Option4": "Wedge clamp",
+    "Answer": "Toggle clamp",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/FITTER%2FFITTER%20SEM4%2F001%20TO%20025%2F15.PNG?alt=media&token=ddaf56e5-b9ea-476f-9a31-55fd6cfb41f9"
+  },
+  {
+    "Question": "Why two or four hold down slots are provided in the base plate of milling fixture?",
+    "Option1": "For rigid clamping",
+    "Option2": "For guiding the tool",
+    "Option3": "For locating workpiece",
+    "Option4": "For adjusting the job setting",
+    "Answer": "For rigid clamping",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the advantages of mass production?",
+    "Option1": "Initial expenditure is low",
+    "Option2": "Jigs and fixture are not needed",
+    "Option3": "Cost and time reduced for manufacturing",
+    "Option4": "Special purpose machines are not necessary",
+    "Answer": "Cost and time reduced for manufacturing",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the name of jig?",
+    "Option1": "Box jig",
+    "Option2": "Drill jig",
+    "Option3": "Post jig",
+    "Option4": "Leaf jig",
+    "Answer": "Box jig",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/FITTER%2FFITTER%20SEM4%2F001%20TO%20025%2F18.PNG?alt=media&token=96901c14-092a-4218-a6cb-74614f4736c3"
+  },
+  {
+    "Question": "What is the method of lubrication?",
+    "Option1": "Force feed",
+    "Option2": "Gravity feed",
+    "Option3": "Splash feed",
+    "Option4": "Line feed",
+    "Answer": "Force feed",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/FITTER%2FFITTER%20SEM4%2F001%20TO%20025%2F19.PNG?alt=media&token=9373f937-0dc2-49f9-8edb-f7aaebca7618"
+  },
+  {
+    "Question": "Which bush is used to provide a hardened hole for renewable bushes?",
+    "Option1": "Slip bush",
+    "Option2": "Plain bush",
+    "Option3": "Fixed bush",
+    "Option4": "Liner bush",
+    "Answer": "Liner bush",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the name of clamp?",
+    "Option1": "Cam clamp",
+    "Option2": "Screw clamp",
+    "Option3": "Wedge clamp",
+    "Option4": "Toggle clamp",
+    "Answer": "Screw clamp",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/FITTER%2FFITTER%20SEM4%2F001%20TO%20025%2F21.PNG?alt=media&token=a4a08c8d-84ca-4f1e-8e24-9a79d12b4152"
+  },
+  {
+    "Question": "Which device is used to hold, locate and not guide the cutting tool during machining operation?",
+    "Option1": "Jig",
+    "Option2": "Fixture",
+    "Option3": "C clamp",
+    "Option4": "Machine vice",
+    "Answer": "Jig",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which type of fixture provides an easy method of holding parts for machining?",
+    "Option1": "Turning fixture",
+    "Option2": "Vice fixture",
+    "Option3": "Milling fixture",
+    "Option4": "Grinding fixture",
+    "Answer": "Vice fixture",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which part restrict incorrect loading of component in jig?",
+    "Option1": "Clamp",
+    "Option2": "Guide plate",
+    "Option3": "Locating pin",
+    "Option4": "Press fit bush",
+    "Answer": "Locating pin",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the type of jig?",
+    "Option1": "Post jig",
+    "Option2": "Plate jig",
+    "Option3": "Indexing jig",
+    "Option4": "Angle plate jig",
+    "Answer": "Indexing jig",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/FITTER%2FFITTER%20SEM4%2F001%20TO%20025%2F25.PNG?alt=media&token=db6fc1e4-f8da-40b1-aac9-13dffdd3d91a"
+  }
+]

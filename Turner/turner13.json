@@ -1,0 +1,227 @@
+[
+  {
+    "Question": "Calculate the amount of off-set if total length of job = 80 mm and Tanθ = 5°45’?",
+    "Option1": "10 mm",
+    "Option2": "7 mm",
+    "Option3": "8 mm",
+    "Option4": "12 mm",
+    "Answer": "8 mm",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Read the angle?",
+    "Option1": "55° - 40’",
+    "Option2": "50° 20’",
+    "Option3": "45° - 23’",
+    "Option4": "49° 20’",
+    "Answer": "50° 20’",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/51to75%2FS52.PNG?alt=media&token=5eea6be3-a9eb-40a4-9219-866dcc303a87"
+  },
+  {
+    "Question": "Read the angle?",
+    "Option1": "50° - 45’",
+    "Option2": "45° 50’",
+    "Option3": "52° 45’",
+    "Option4": "53° 48’",
+    "Answer": "52° 45’",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/51to75%2FS53.PNG?alt=media&token=45f640e2-96f6-486e-ac59-10df58a8e4af"
+  },
+  {
+    "Question": "What does the letter Y stands in the equation d = Y – 2 (s+r) in taper measurement?",
+    "Option1": "Diameter over the rollers at small end",
+    "Option2": "Diameter over on rollers at big end",
+    "Option3": "Radius of the roller",
+    "Option4": "Distance from the centre of the raller to the end of the component",
+    "Answer": "Diameter over the rollers at small end",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/51to75%2FS54.PNG?alt=media&token=61e6fa58-7254-4c3c-9649-bc3ae2b74b3e"
+  },
+  {
+    "Question": "What should be the heights of gauge block to be built to check the work angle of 30° using 150 mm sine bar?",
+    "Option1": 291.26,
+    "Option2": 145.63,
+    "Option3": 77.25,
+    "Option4": 38.62,
+    "Answer": 77.25,
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the least count of vernier height gauge?",
+    "Option1": "0.001 mm",
+    "Option2": "0.002 mm",
+    "Option3": "0.005 mm",
+    "Option4": "0.020 mm",
+    "Answer": "0.020 mm",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the name of the part marked as ‘x’ in the height gauge shown?",
+    "Option1": "Main scale",
+    "Option2": "Main slide",
+    "Option3": "Jaw clamp",
+    "Option4": "Vernier scale",
+    "Answer": "Main slide",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/51to75%2FS57.PNG?alt=media&token=e82d7001-1db4-42a8-9393-a4262970956d"
+  },
+  {
+    "Question": "What is the part shown as ‘x’ in the figure?",
+    "Option1": "Main scale",
+    "Option2": "Vernier scale",
+    "Option3": "Beam",
+    "Option4": "Main slide",
+    "Answer": "Main scale",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/51to75%2FS58.PNG?alt=media&token=d918f9aa-8931-4107-a9b1-86a8e2538796"
+  },
+  {
+    "Question": "Which thread is used for general purpose fastening?",
+    "Option1": "BSW",
+    "Option2": "BSF",
+    "Option3": "BA",
+    "Option4": "Unified",
+    "Answer": "BSW",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the angle of metric ACME thread",
+    "Option1": "29°",
+    "Option2": "30°",
+    "Option3": "45°",
+    "Option4": "47 ½°",
+    "Answer": "30°",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which thread is recommended for pipe and pipe fittings?",
+    "Option1": "BSW thread",
+    "Option2": "BSF thread",
+    "Option3": "BSP thread",
+    "Option4": "BA thread",
+    "Answer": "BSP thread",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the angle of a BIS metric thread?",
+    "Option1": "271/2",
+    "Option2": 45,
+    "Option3": "55°",
+    "Option4": "60°",
+    "Answer": "60°",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the formula for finding the depth of a BIS metric thread?",
+    "Option1": "0.6403 x pitch",
+    "Option2": "0.6134 x pitch",
+    "Option3": "0.6431 x pitch",
+    "Option4": "0.6043 x pitch",
+    "Answer": "0.6134 x pitch",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the type of carrier?",
+    "Option1": "Bent tail",
+    "Option2": "Clamp Type",
+    "Option3": "Straight tail",
+    "Option4": "Safety clamp type",
+    "Answer": "Safety clamp type",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/51to75%2FS64.PNG?alt=media&token=cd84cbec-7253-45c1-9f86-7de9a72e9d85"
+  },
+  {
+    "Question": "What is the type of carrier?",
+    "Option1": "Bent tail",
+    "Option2": "Clamp Type",
+    "Option3": "Straight tail",
+    "Option4": "Safety clamp type",
+    "Answer": "Clamp Type",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/51to75%2FS65.PNG?alt=media&token=0889916d-f23a-446d-9120-041deb4b4906"
+  },
+  {
+    "Question": "How many carriers are available in a set?",
+    "Option1": "4 numbers",
+    "Option2": "6 numbers",
+    "Option3": "8 numbers",
+    "Option4": "10 numbers",
+    "Answer": "10 numbers",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the name of the part marked as ‘X’?",
+    "Option1": "Live centre",
+    "Option2": "Catch plate",
+    "Option3": "Lathe carrier",
+    "Option4": "Driving plate",
+    "Answer": "Lathe carrier",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/51to75%2FS67.PNG?alt=media&token=643235e4-cdf4-44e4-8902-2b6957ee39a6"
+  },
+  {
+    "Question": "What is the name of gear marked as ‘x’?",
+    "Option1": "Spindle gear",
+    "Option2": "Tumbler gear",
+    "Option3": "Stud gear",
+    "Option4": "Lead screw gear",
+    "Answer": "Tumbler gear",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/51to75%2FS68.PNG?alt=media&token=195d476e-bdf1-41dd-ae78-93005301a3cd"
+  },
+  {
+    "Question": "What is the gear marked as ‘x’?",
+    "Option1": "Spindle gear",
+    "Option2": "Tumbler gear",
+    "Option3": "Stud gear",
+    "Option4": "Lead screw gear",
+    "Answer": "Spindle gear",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/51to75%2FS69.PNG?alt=media&token=eabca053-a116-4334-ae11-8b8d01404651"
+  },
+  {
+    "Question": "What is the gear marked as ‘x’?",
+    "Option1": "Spindle gear",
+    "Option2": "Tumbler gear",
+    "Option3": "Stud gear",
+    "Option4": "Lead screw gear",
+    "Answer": "Stud gear",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/51to75%2FS70.PNG?alt=media&token=07f10dad-ae72-459f-96f4-b9e8fd7a8735"
+  },
+  {
+    "Question": "What is thread element that determine the direction of rotation on screw thread?",
+    "Option1": "Pitch of thread",
+    "Option2": "Pitch of thread",
+    "Option3": "Depth of thread",
+    "Option4": "Hand of thread",
+    "Answer": "Hand of thread",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is marked as ‘x’?",
+    "Option1": "Chuck",
+    "Option2": "Tail stock",
+    "Option3": "Lead screw",
+    "Option4": "Lead of thread",
+    "Answer": "Lead screw",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/51to75%2FS72.PNG?alt=media&token=724eeb70-ae30-406e-914b-197c0ac56af7"
+  },
+  {
+    "Question": "What is marked as ‘x’?",
+    "Option1": "Chuck",
+    "Option2": "Lead of thread",
+    "Option3": "Carriage",
+    "Option4": "Lead screw",
+    "Answer": "Lead of thread",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/51to75%2FS73.PNG?alt=media&token=598c383e-c8e7-4822-a655-1bc1bc66acca"
+  },
+  {
+    "Question": "How is the vernier height gauge generally specified?",
+    "Option1": "Width of beam",
+    "Option2": "Height of beam",
+    "Option3": "Thickness of beam",
+    "Option4": "Size of base",
+    "Answer": "Height of beam",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which device is used as datum while marking with vernier height gauge?",
+    "Option1": "Face plate",
+    "Option2": "Surface plate",
+    "Option3": "Angle plate",
+    "Option4": "Driving plate",
+    "Answer": "Surface plate",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  }
+]

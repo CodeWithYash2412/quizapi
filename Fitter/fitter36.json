@@ -1,0 +1,227 @@
+[
+  {
+    "Question": "What is the type of solenoid valve?",
+    "Option1": "5/2 way double solenoid valve",
+    "Option2": "5/2 way single solenoid valve",
+    "Option3": "3/2 way single solenoid valve",
+    "Option4": "Double solenoid valve",
+    "Answer": "3/2 way single solenoid valve",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/FITTER%2FFITTER%20SEM4%2F151%20TO%20175%2F151.PNG?alt=media&token=37eec8cc-0f3e-47c2-b2c7-e0103685a173"
+  },
+  {
+    "Question": "What is the type of filter?",
+    "Option1": "Absorbent filter",
+    "Option2": "Mechanical filter",
+    "Option3": "Magnetic filter",
+    "Option4": "Return line filter",
+    "Answer": "Mechanical filter",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/FITTER%2FFITTER%20SEM4%2F151%20TO%20175%2F152.PNG?alt=media&token=e8b1aeec-f79b-4566-8b05-544172af3b5b"
+  },
+  {
+    "Question": "Which system gets compressed air as energy inputs?",
+    "Option1": "Hydraulic System",
+    "Option2": "Pneumatic System",
+    "Option3": "Electrical System",
+    "Option4": "Mechanical System",
+    "Answer": "Pneumatic System",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the science that you study the properties and application of air?",
+    "Option1": "Hydraulic System",
+    "Option2": "Pneumatic System",
+    "Option3": "Electrical System",
+    "Option4": "Mechanical System",
+    "Answer": "Pneumatic System",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which pressure value is measured with respect to perfect vacuum?",
+    "Option1": "Atmospheric Pressure",
+    "Option2": "Absolute Pressure",
+    "Option3": "Gauge Pressure",
+    "Option4": "Vacuum Pressure",
+    "Answer": "Absolute Pressure",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which system is used to move load with less efforts",
+    "Option1": "Pneumatics",
+    "Option2": "Hydraulics",
+    "Option3": "Pressure",
+    "Option4": "Flow of Air",
+    "Answer": "Pneumatics",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which actuation is under the applications of pneumatics?",
+    "Option1": "Drag",
+    "Option2": "Push",
+    "Option3": "Close",
+    "Option4": "Open",
+    "Answer": "Push",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which system uses liquid as transmitting fluid?",
+    "Option1": "Pneumatic system",
+    "Option2": "Hydraulic",
+    "Option3": "Electrical",
+    "Option4": "Mechanical",
+    "Answer": "Hydraulic",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the working system?",
+    "Option1": "Work done in mechanical and Pneumatic system",
+    "Option2": "Work done in mechanical and Hydraulic system",
+    "Option3": "Work done in mechanical and Electrical system",
+    "Option4": "Work done in mechanical and Electronic system",
+    "Answer": "Work done in mechanical and Hydraulic system",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/FITTER%2FFITTER%20SEM4%2F151%20TO%20175%2F159.PNG?alt=media&token=38c7cfc0-4ff7-4f1e-af38-7e4fd37f2eff"
+  },
+  {
+    "Question": "What is the name of the Hydraulic Circuit?",
+    "Option1": "5/2 way circuit",
+    "Option2": "4/2 way circuit",
+    "Option3": "3/2 way circuit",
+    "Option4": "By - Pass circuit",
+    "Answer": "By - Pass circuit",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/FITTER%2FFITTER%20SEM4%2F151%20TO%20175%2F160.PNG?alt=media&token=cfea2356-79e3-476c-9835-c893c4926fee"
+  },
+  {
+    "Question": "Which valve is used to control the direction of the flow of fluid?",
+    "Option1": "Flow control valve",
+    "Option2": "Non - return valve",
+    "Option3": "Pressure control valve",
+    "Option4": "Directional control valve",
+    "Answer": "Directional control valve",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which part of the single acting cylinder is attached with the load?",
+    "Option1": "Spring",
+    "Option2": "Seal",
+    "Option3": "Piston",
+    "Option4": "Piston Rod",
+    "Answer": "Piston Rod",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which device in pneumatics is used for converting pressure energy of compressed air in to mechanical energy?",
+    "Option1": "Pneumatic actuators",
+    "Option2": "Filter",
+    "Option3": "Regulator",
+    "Option4": "Cylinder",
+    "Answer": "Pneumatic actuators",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the purpose of direction control valve in hydraulic system?",
+    "Option1": "Open or close",
+    "Option2": "Increase the pressure",
+    "Option3": "Decrease the pressure",
+    "Option4": "Control the valve",
+    "Answer": "Open or close",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Where ram is used in hydraulic linear actuator?",
+    "Option1": "Elevator Jack",
+    "Option2": "Oil Pumps",
+    "Option3": "Rotating motor",
+    "Option4": "Hydro motor",
+    "Answer": "Elevator Jack",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which energy is converted by hydro static pressure of the oil?",
+    "Option1": "Electrical energy",
+    "Option2": "Mechanical energy",
+    "Option3": "Penumatic energy",
+    "Option4": "Hydraulic energy",
+    "Answer": "Mechanical energy",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which valve block flow in one direction and allow free flow in the other direction?",
+    "Option1": "Non- return valve",
+    "Option2": "4/2 way Valve",
+    "Option3": "Gate valve",
+    "Option4": "Globle valve",
+    "Answer": "Non- return valve",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Where hydraulic by-pass circuit is used in common?",
+    "Option1": "Milling machine",
+    "Option2": "Turning machine",
+    "Option3": "Grinding machine",
+    "Option4": "Shearing machine",
+    "Answer": "Shearing machine",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is hydraulic function?",
+    "Option1": "Hydrostatic Pressure",
+    "Option2": "Transmission of fluid pressure",
+    "Option3": "Inequal piston areas",
+    "Option4": "Turbulent flow",
+    "Answer": "Transmission of fluid pressure",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/FITTER%2FFITTER%20SEM4%2F151%20TO%20175%2F169.PNG?alt=media&token=20fb915a-93ad-444d-92be-360aaa0f7f30"
+  },
+  {
+    "Question": "Which energy is present in oil by virtue of its motion?",
+    "Option1": "Potential energy",
+    "Option2": "Kinetic energy",
+    "Option3": "Static energy",
+    "Option4": "Heat energy",
+    "Answer": "Kinetic energy",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which property of oil that controls the flow in hydraulic system?",
+    "Option1": "Viscosity",
+    "Option2": "Oilness",
+    "Option3": "Pour point",
+    "Option4": "Flash point",
+    "Answer": "Viscosity",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the name of the device used to remove dust, chips and other foreign particles from the fluid?",
+    "Option1": "Pressure regulating valve",
+    "Option2": "Filter",
+    "Option3": "Accumulator",
+    "Option4": "Regulator",
+    "Answer": "Filter",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which valve is used as interface between the electrical and pneumatic system?",
+    "Option1": "Roller valve",
+    "Option2": "Flow control valve",
+    "Option3": "Solenoid valve",
+    "Option4": "Pressure relief valve",
+    "Answer": "Solenoid valve",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which valve is used for mechanical position to sense in machine automation system?",
+    "Option1": "Pressure relief valve",
+    "Option2": "Roller valve",
+    "Option3": "Flow control valve",
+    "Option4": "Directional valve",
+    "Answer": "Roller valve",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which valve is used to remove the excess amount of oil in the hydraulic system?",
+    "Option1": "Pressure relief valve",
+    "Option2": "Pressure reducing valve",
+    "Option3": "Pressure regulator valve",
+    "Option4": "Roller valve",
+    "Answer": "Pressure relief valve",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  }
+]

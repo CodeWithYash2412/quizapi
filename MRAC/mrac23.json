@@ -1,0 +1,227 @@
+[
+  {
+    "Question": "The unit of Impedance is_______________.",
+    "Option1": "Ohm",
+    "Option2": "Ohm-metre",
+    "Option3": "Henry",
+    "Option4": "Farad",
+    "Answer": "Ohm",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Universal A.C. motor provides_________torque and operates at __________speed.",
+    "Option1": "high, high",
+    "Option2": "high, low",
+    "Option3": "low, high",
+    "Option4": "low, low",
+    "Answer": "high, high",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "At which of the following places, slip ring motors are used? 1. planer 2. crane 3. lathe 4. grinder slotter\nSelect the correct answer from the codes given below.",
+    "Option1": "1,2",
+    "Option2": "2,3",
+    "Option3": "1,2,3",
+    "Option4": "2,4",
+    "Answer": "1,2",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "_____________is primarily used in compressor.",
+    "Option1": "Capacitor start capacitor run motor",
+    "Option2": "Hysteresis motor",
+    "Option3": "Shaded pole induction motor",
+    "Option4": "Repulsion motor",
+    "Answer": "Capacitor start capacitor run motor",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "P-type semiconductor cannot be made by adding ___________ with Germanium.",
+    "Option1": "Arsenic",
+    "Option2": "Indium",
+    "Option3": "Gallium",
+    "Option4": "Boron",
+    "Answer": "Arsenic",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Laser diode finds its application in_____________.",
+    "Option1": "fibre amplifier",
+    "Option2": "television receiver",
+    "Option3": "remote controls",
+    "Option4": "photo conductors",
+    "Answer": "fibre amplifier",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "The symbol given below depicts:",
+    "Option1": "Photo Transistor",
+    "Option2": "Amplifier",
+    "Option3": "Multivibrator",
+    "Option4": "Integrated Circuit",
+    "Answer": "Photo Transistor",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/MRAC%2FSEM3%2F57.PNG?alt=media&token=88b6039a-c7f1-4e19-8641-83ca86e16363"
+  },
+  {
+    "Question": "Which of these is used as a charger in the machine used for refrigeration?",
+    "Option1": "Refrigerant adapter",
+    "Option2": "Charging meter",
+    "Option3": "Vaccum pump",
+    "Option4": "Compressor oil charging pump",
+    "Answer": "Refrigerant adapter",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "In Vapour Absorption refrigeration, ______________is used for refrigeration.",
+    "Option1": "Heat energy",
+    "Option2": "Mechanical energy",
+    "Option3": "Potential energy",
+    "Option4": "Chemical energy",
+    "Answer": "Heat energy",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "The following picture depicts a_____________.",
+    "Option1": "Vapour compression refrigeration system",
+    "Option2": "Vapour absorption refrigeration system",
+    "Option3": "Gas Throttling expansion refrigeration system",
+    "Option4": "Evaporative refrigeration system",
+    "Answer": "Vapour compression refrigeration system",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/MRAC%2FSEM3%2F60.PNG?alt=media&token=b98b820d-95ed-4c75-89f7-8a1ba602e182"
+  },
+  {
+    "Question": "Compressors cannot be classified a____________according to the method of compression.",
+    "Option1": "Multi stage compressor",
+    "Option2": "Reciprocating compressor",
+    "Option3": "Rotating compressor",
+    "Option4": "Centrifugal compressor",
+    "Answer": "Multi stage compressor",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "The efficiency of centrifugal compressors as compared to that of reciprocating compressors is\n________________.",
+    "Option1": "high",
+    "Option2": "low",
+    "Option3": "equal",
+    "Option4": "low or equal",
+    "Answer": "high",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which of the following compressors are primarily considered as the most appropriate for refrigerant fluid?",
+    "Option1": "Scroll compressor",
+    "Option2": "Hermetically sealed compressor",
+    "Option3": "Swash plate compressor",
+    "Option4": "Wobble plate compressor",
+    "Answer": "Scroll compressor",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Wet compression___________the compressor efficiency.",
+    "Option1": "increases",
+    "Option2": "decreases",
+    "Option3": "halves",
+    "Option4": "has no effect on",
+    "Answer": "decreases",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Water cooled condensers have ___________heat transfer rate as compared to air cooled condensers.",
+    "Option1": "high",
+    "Option2": "low",
+    "Option3": "equal",
+    "Option4": "low or equal",
+    "Answer": "high",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which of these is a tank shaped device used for storing liquid refrigerant in refrigeration?",
+    "Option1": "Liquid receiver",
+    "Option2": "Condenser",
+    "Option3": "Compressor oil charging pump",
+    "Option4": "Evaporator",
+    "Answer": "Liquid receiver",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "The compressor compresses the refrigerant to high pressure to____________",
+    "Option1": "increase the temperature",
+    "Option2": "heat the refrigerant",
+    "Option3": "decrease the temperature",
+    "Option4": "condense the refrigerant",
+    "Answer": "increase the temperature",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Both air and water are used as cooling medium in ________________ condenser",
+    "Option1": "evaporative",
+    "Option2": "shell and tube",
+    "Option3": "shell and coil",
+    "Option4": "air cooled",
+    "Answer": "evaporative",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Plate surface evaporators are not used in___________.",
+    "Option1": "food processing industry",
+    "Option2": "ice-cream cabinet",
+    "Option3": "domestic refrigerator",
+    "Option4": "freezer",
+    "Answer": "food processing industry",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "In order to prevent the quantity of liquid refrigerant present in the refrigerant obtained from evaporator\nfrom entering into the condenser, ___________is connected between evaporator and compressor",
+    "Option1": "accumulator",
+    "Option2": "superheater",
+    "Option3": "bottle cooler",
+    "Option4": "water cooler",
+    "Answer": "accumulator",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "In reverse cycle defrosting, evaporator works like a____________.",
+    "Option1": "Condenser",
+    "Option2": "evaporator itself",
+    "Option3": "expansion valve",
+    "Option4": "accumulator",
+    "Answer": "Condenser",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Where do the automatic expansion valves find their application?",
+    "Option1": "In domestic refrigerator",
+    "Option2": "In food processing units",
+    "Option3": "In air conditioners",
+    "Option4": "In ice-cream plants",
+    "Answer": "In domestic refrigerator",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Change of pressure of capillary tube is __________ the diameter of capillary tube.",
+    "Option1": "directly proportional to",
+    "Option2": "inversely proportional to",
+    "Option3": "directly proportional to the square of",
+    "Option4": "inversely proportional to the square of",
+    "Answer": "inversely proportional to",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which of the following removes moisture from refrigerant in an air-conditioning system?",
+    "Option1": "Drier",
+    "Option2": "expansion valve",
+    "Option3": "Condenser",
+    "Option4": "capillary tube",
+    "Answer": "Drier",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which of these is a secondary refrigerant?",
+    "Option1": "Brine",
+    "Option2": "Ammonia",
+    "Option3": "Freon",
+    "Option4": "Methyl chloride",
+    "Answer": "Brine",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  }
+]

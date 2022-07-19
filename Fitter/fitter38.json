@@ -1,0 +1,227 @@
+[
+  {
+    "Question": "What is the property of the lubricant that the vapour is given off from the oil?",
+    "Option1": "Viscosity",
+    "Option2": "Fire point",
+    "Option3": "Pour point",
+    "Option4": "Flash point",
+    "Answer": "Flash point",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the frequency of maintenance symbol?",
+    "Option1": "Daily",
+    "Option2": "Weekly",
+    "Option3": "Monthly",
+    "Option4": "Frequently",
+    "Answer": "Weekly",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/FITTER%2FFITTER%20SEM4%2F201%20TO%20225%2F202.PNG?alt=media&token=a1c99667-7f46-4fdd-8634-801e036b5644"
+  },
+  {
+    "Question": "What is the name of tooth type lock washer?",
+    "Option1": "Internal type",
+    "Option2": "External type",
+    "Option3": "Counter sink type",
+    "Option4": "Internal and external type",
+    "Answer": "External type",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/FITTER%2FFITTER%20SEM4%2F201%20TO%20225%2F203.PNG?alt=media&token=56f619d3-a783-4757-8fb3-62bda2594abe"
+  },
+  {
+    "Question": "Which system the wick feed lubrication is catagorized?",
+    "Option1": "Hand feed",
+    "Option2": "Force feed",
+    "Option3": "Splash feed",
+    "Option4": "Gravity feed",
+    "Answer": "Gravity feed",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the frequency of maintenance symbol?",
+    "Option1": "Daily",
+    "Option2": "Weekly",
+    "Option3": "Monthly",
+    "Option4": "Once in six month",
+    "Answer": "Daily",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/FITTER%2FFITTER%20SEM4%2F201%20TO%20225%2F205.PNG?alt=media&token=c1f9d7d8-f426-4084-b923-2391ab2e98f3"
+  },
+  {
+    "Question": "Which property states that the temperature of the lubricant is able to flow freely while poured?",
+    "Option1": "Oiliness",
+    "Option2": "Fire point",
+    "Option3": "Pour point",
+    "Option4": "Flash point",
+    "Answer": "Pour point",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the name of clutch?",
+    "Option1": "Air clutch",
+    "Option2": "Cone clutch",
+    "Option3": "Centrifugal clutch",
+    "Option4": "Over riding clutch",
+    "Answer": "Centrifugal clutch",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/FITTER%2FFITTER%20SEM4%2F201%20TO%20225%2F207.PNG?alt=media&token=2a33eaa0-d0f5-443a-9edd-1071bfe755fa"
+  },
+  {
+    "Question": "What is the use of lubricant?",
+    "Option1": "Increases friction",
+    "Option2": "Improved machine efficiency",
+    "Option3": "Increases the loading capacity",
+    "Option4": "Increases the speed moving elements",
+    "Answer": "Improved machine efficiency",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the name of symbol marked as X?",
+    "Option1": "Daily",
+    "Option2": "Weekly",
+    "Option3": "Monthly",
+    "Option4": "Scheduled for frequency other than above",
+    "Answer": "Scheduled for frequency other than above",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/FITTER%2FFITTER%20SEM4%2F201%20TO%20225%2F209.PNG?alt=media&token=acf1f077-30d1-4177-b971-db26dc381f4e"
+  },
+  {
+    "Question": "What is the name of the clutch?",
+    "Option1": "Dog clutch",
+    "Option2": "Cone clutch",
+    "Option3": "Air clutch",
+    "Option4": "Centrifugal clutch",
+    "Answer": "Cone clutch",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/FITTER%2FFITTER%20SEM4%2F201%20TO%20225%2F210.PNG?alt=media&token=4847586b-48f0-4ed4-b4ed-65849ba57ed9"
+  },
+  {
+    "Question": "What is the name of sprocket marked as ‘X’?",
+    "Option1": "Chain",
+    "Option2": "Driven",
+    "Option3": "Jockey",
+    "Option4": "Driver",
+    "Answer": "Jockey",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/FITTER%2FFITTER%20SEM4%2F201%20TO%20225%2F211.PNG?alt=media&token=679bb7aa-d1fe-42b3-b87b-3313b4678d77"
+  },
+  {
+    "Question": "What is the name of the part marked as ‘X’?",
+    "Option1": "Inner piece",
+    "Option2": "Outer piece",
+    "Option3": "Rubbing surface",
+    "Option4": "Centrifugal weight",
+    "Answer": "Centrifugal weight",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/FITTER%2FFITTER%20SEM4%2F201%20TO%20225%2F212.PNG?alt=media&token=12bc86a8-ece6-4a0f-adc9-a395af1f709d"
+  },
+  {
+    "Question": "What is the method of lubrication?",
+    "Option1": "Oil pump method",
+    "Option2": "Gravity method",
+    "Option3": "Splash method",
+    "Option4": "Oil can method",
+    "Answer": "Oil can method",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/FITTER%2FFITTER%20SEM4%2F201%20TO%20225%2F213.PNG?alt=media&token=624f43ce-b581-487d-ad2a-8da422b7979b"
+  },
+  {
+    "Question": "Which coolant oil is emulsified with water?",
+    "Option1": "Soluble oil",
+    "Option2": "Kerosene",
+    "Option3": "Mineral oil",
+    "Option4": "Lard oil",
+    "Answer": "Soluble oil",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the colour of soluble oil mixed with water?",
+    "Option1": "White",
+    "Option2": "Blue",
+    "Option3": "Yellow",
+    "Option4": "Violet",
+    "Answer": "White",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which cutting fluid is used for threading in general purpose steel?",
+    "Option1": "Soluble oil",
+    "Option2": "Lard oil",
+    "Option3": "Kerosene",
+    "Option4": "Dry",
+    "Answer": "Lard oil",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which cutting fluid is used for heavy duty machine with less cutting speed?",
+    "Option1": "Synthetic fluid",
+    "Option2": "Straight mineral oil",
+    "Option3": "Fatty oil",
+    "Option4": "Soluble oil",
+    "Answer": "Fatty oil",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which type of lock washer used with flat or oval type head screw?",
+    "Option1": "External type",
+    "Option2": "Internal type",
+    "Option3": "Counter sunk type",
+    "Option4": "Internal and external type",
+    "Answer": "Counter sunk type",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which is the property of the oil catches fire and continues to be in flame?",
+    "Option1": "Flash point",
+    "Option2": "Fire point",
+    "Option3": "Pour point",
+    "Option4": "Oiliness",
+    "Answer": "Fire point",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which cutting fluid is used for turning copper?",
+    "Option1": "Kerosene",
+    "Option2": "Mineral oil",
+    "Option3": "Soluble oil",
+    "Option4": "Lard oil",
+    "Answer": "Soluble oil",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which type of clutch is used for machine tools to connect transmission gear box in driving motor?",
+    "Option1": "Cone clutch",
+    "Option2": "Multiplate clutch",
+    "Option3": "Air clutch",
+    "Option4": "Centrifugal clutch",
+    "Answer": "Multiplate clutch",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which cutting oil is used in automatic lathes?",
+    "Option1": "Soluble oil",
+    "Option2": "Fatty oil",
+    "Option3": "Compounded (or) blended oil",
+    "Option4": "Straight mineral oil",
+    "Answer": "Compounded (or) blended oil",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the purpose of hydraulic floor cranes?",
+    "Option1": "To lift the loads",
+    "Option2": "To shift the loads",
+    "Option3": "Used on lever to lift or lead heavy loads",
+    "Option4": "To raise and lower the load",
+    "Answer": "Used on lever to lift or lead heavy loads",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which is a system of two or more pulleys with a rope threaded between them?",
+    "Option1": "Differential hoist",
+    "Option2": "Pulley block",
+    "Option3": "Spur geared hoist",
+    "Option4": "Come along chain hoist",
+    "Answer": "Pulley block",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the name of the crane?",
+    "Option1": "Pillar jib crane",
+    "Option2": "Gantry crane",
+    "Option3": "Travelling crane",
+    "Option4": "Bracket jib crane",
+    "Answer": "Pillar jib crane",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/FITTER%2FFITTER%20SEM4%2F201%20TO%20225%2F225.PNG?alt=media&token=ac90fa04-fcd1-4364-a38d-24b208a7c6ee"
+  }
+]

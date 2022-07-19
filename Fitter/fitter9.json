@@ -1,0 +1,227 @@
+[
+  {
+    "Question": "What is the name of supporting tool in\nsheet metal work?",
+    "Option1": "Funnel stake",
+    "Option2": "Hatchet stake",
+    "Option3": "Half moon stake",
+    "Option4": "Round bottom stake",
+    "Answer": "Half moon stake",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/FITTER%2FFITTER%20SEM1%2F201TO225%2Ff201.PNG?alt=media&token=ea4c9db0-a5c9-402e-aefe-bcfc3db14594"
+  },
+  {
+    "Question": "Which riveting tool is used to form the final shape of rivet?",
+    "Option1": "Drift",
+    "Option2": "Dolly",
+    "Option3": "Rivet set",
+    "Option4": "Rivet snap",
+    "Answer": "Rivet snap",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the name of riveting defect?",
+    "Option1": "Too little allowance on shank",
+    "Option2": "Too much allowance on shank",
+    "Option3": "Rivet head not centered with shank",
+    "Option4": "Head of rivet not perpendicular to shank",
+    "Answer": "Too much allowance on shank",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/FITTER%2FFITTER%20SEM1%2F201TO225%2Ff203.PNG?alt=media&token=b9848fde-47ed-46f8-9446-4e63360eded5"
+  },
+  {
+    "Question": "Name the tool used to make fluid tight joint in riveting?",
+    "Option1": "Drift",
+    "Option2": "Rivet snap",
+    "Option3": "Fullering tool",
+    "Option4": "Caulking tool",
+    "Answer": "Fullering tool",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the name of tool used to cut thicker sheets?",
+    "Option1": "Bend snips",
+    "Option2": "Lever shears",
+    "Option3": "Straight snips",
+    "Option4": "Circle cutting machine",
+    "Answer": "Lever shears",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which stake is used for making sharp bends?",
+    "Option1": "Funnel stake",
+    "Option2": "Hatchet stake",
+    "Option3": "Half moon stake",
+    "Option4": "Beak or bick iron",
+    "Answer": "Hatchet stake",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the name of stake?",
+    "Option1": "Horse",
+    "Option2": "Bick iron",
+    "Option3": "Funnel stake",
+    "Option4": "Creasing iron",
+    "Answer": "Funnel stake",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/FITTER%2FFITTER%20SEM1%2F201TO225%2Ff207.PNG?alt=media&token=c45533fb-5e11-4e30-9a56-bd48d3c3e64c"
+  },
+  {
+    "Question": "Which flux is used for soldering tin sheets?",
+    "Option1": "Resin",
+    "Option2": "Paste",
+    "Option3": "Zinc chloride",
+    "Option4": "Ammonium chloride",
+    "Answer": "Zinc chloride",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the seam used in sheet metal joint for roofing and panelling?",
+    "Option1": "Lap seam",
+    "Option2": "Double seam",
+    "Option3": "Grooved seam",
+    "Option4": "Double grooved seam",
+    "Answer": "Double grooved seam",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is rivet interference?",
+    "Option1": "Thickness of sheet",
+    "Option2": "Diameter of the rivet",
+    "Option3": "Length to form the head",
+    "Option4": "Total rivet length required for riveting",
+    "Answer": "Length to form the head",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the purpose of hole marked as x ?",
+    "Option1": "Arrest the crack",
+    "Option2": "Facilitate easy bending",
+    "Option3": "Make good appearance",
+    "Option4": "Allow clearance between the ends",
+    "Answer": "Arrest the crack",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/FITTER%2FFITTER%20SEM1%2F201TO225%2Ff211.PNG?alt=media&token=50c90801-1ba3-4241-a335-ca79bdbb4880"
+  },
+  {
+    "Question": "What is the reason for faulty rivetting?",
+    "Option1": "Burrs between plates",
+    "Option2": "Too little allowance given",
+    "Option3": "Improper joining of plates",
+    "Option4": "Too much allowance given",
+    "Answer": "Improper joining of plates",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/FITTER%2FFITTER%20SEM1%2F201TO225%2Ff212.PNG?alt=media&token=ec0fdfda-a539-4f0b-bd9d-582c77f4c6d9"
+  },
+  {
+    "Question": "How the distance of first rivet is determined from the side edge?",
+    "Option1": "3 x dia of rivet",
+    "Option2": "2 x dia of rivet",
+    "Option3": "2.5 x dia of rivet",
+    "Option4": "3.5 x dia of rivet",
+    "Answer": "2 x dia of rivet",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the part marked as x in the hand shearing machine?",
+    "Option1": "Clamp",
+    "Option2": "Lever arm",
+    "Option3": "Lower blade",
+    "Option4": "Upper blade",
+    "Answer": "Upper blade",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/FITTER%2FFITTER%20SEM1%2F201TO225%2Ff214.PNG?alt=media&token=cf654f01-c1e2-4231-a0b3-3d7317c947d3"
+  },
+  {
+    "Question": "What is the advantage of stakes in sheet metal work?",
+    "Option1": "Sharpening",
+    "Option2": "Supporting",
+    "Option3": "Rest of workpiece",
+    "Option4": "Protect the tool from damage",
+    "Answer": "Supporting",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the tool marked as x in riveting?",
+    "Option1": "Dolly",
+    "Option2": "Rivet set",
+    "Option3": "Fullering tool",
+    "Option4": "Caulking tool",
+    "Answer": "Caulking tool",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/FITTER%2FFITTER%20SEM1%2F201TO225%2Ff216.PNG?alt=media&token=2ce0f82d-4f38-4b71-9a74-85eb5bc27c12"
+  },
+  {
+    "Question": "What is the fault in riveting?",
+    "Option1": "Too little allowance",
+    "Option2": "Burrs between the plates",
+    "Option3": "Holes on the plate not in line",
+    "Option4": "Rivet body not perpendicular",
+    "Answer": "Too little allowance",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/FITTER%2FFITTER%20SEM1%2F201TO225%2Ff217.PNG?alt=media&token=634acf4e-ae09-4aa7-8d27-0e8782af090a"
+  },
+  {
+    "Question": "Which tool is used to make fluid-tight joint by pressing the riveted edge plate?",
+    "Option1": "Dolly",
+    "Option2": "Drift",
+    "Option3": "Caulking tool",
+    "Option4": "Fullering tool",
+    "Answer": "Fullering tool",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Why allowance is required while making various types of hems and seams?",
+    "Option1": "To make good appearance",
+    "Option2": "To prevent damage to the edges",
+    "Option3": "To prevent over lapping at the seam",
+    "Option4": "Maintain correct size and improve the strength",
+    "Answer": "Maintain correct size and improve the strength",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which sheet metal is easiest to joint and solder?",
+    "Option1": "Tinned plate",
+    "Option2": "Lead",
+    "Option3": "Galvanised iron",
+    "Option4": "Stainless sheet",
+    "Answer": "Tinned plate",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which metal is very soft and heavy in sheet metal work?",
+    "Option1": "Lead",
+    "Option2": "Black iron",
+    "Option3": "Aluminium",
+    "Option4": "Copper sheet",
+    "Answer": "Lead",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which sheet metal withstand contact with water and exposure to weather?",
+    "Option1": "Black iron",
+    "Option2": "Copper sheet",
+    "Option3": "Stainless sheet",
+    "Option4": "Galvanised iron",
+    "Answer": "Galvanised iron",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the purpose of drift in riveting operation?",
+    "Option1": "Position the rivet",
+    "Option2": "Make metal to metal joint",
+    "Option3": "Align the holes to be riveted",
+    "Option4": "Prevent damage to rivet head",
+    "Answer": "Align the holes to be riveted",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Name the tool marked as X in riveting.",
+    "Option1": "Drift",
+    "Option2": "Rivet snap",
+    "Option3": "Caulking tool",
+    "Option4": "Fullering tool",
+    "Answer": "Fullering tool",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which hammer is suitable for riveting?",
+    "Option1": "Plastic hammer",
+    "Option2": "Ball pein hammer",
+    "Option3": "Cross pein hammer",
+    "Option4": "Straight pein hammer",
+    "Answer": "Ball pein hammer",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  }
+]

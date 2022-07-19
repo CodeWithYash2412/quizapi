@@ -1,0 +1,227 @@
+[
+  {
+    "Question": "What is the cause of refrigerant contamination?",
+    "Option1": "Moisture in refrigerant",
+    "Option2": "Low oil level",
+    "Option3": "High oil level",
+    "Option4": "Short of gas",
+    "Answer": "Moisture in refrigerant",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "The function of air diffuser in air conditioning is to ............",
+    "Option1": "Clean air",
+    "Option2": "Direct air flow in desired pattern",
+    "Option3": "Reduce noise of air conditioner",
+    "Option4": "Control relative humidity of air",
+    "Answer": "Direct air flow in desired pattern",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "In flooded type of evaporator, expansion device used is .............",
+    "Option1": "Capillary tube",
+    "Option2": "Float valve",
+    "Option3": "Thermostatic device",
+    "Option4": "Self-actuated expansion valve",
+    "Answer": "Float valve",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which statement is NOT true about Vortex Tube (non conventional) refrigerating system?",
+    "Option1": "It uses air as refrigerant",
+    "Option2": "It is light in weight",
+    "Option3": "It requires less space",
+    "Option4": "It has a number of moving parts",
+    "Answer": "It has a number of moving parts",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which of these is an example of application of Vortex Tube refrigerating system?",
+    "Option1": "Spot cooling of electronic components",
+    "Option2": "Body cooling of workers in mines",
+    "Option3": "Both of the above",
+    "Option4": "None of the above",
+    "Answer": "Both of the above",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "The working fluid mostly chosen in Pulse - tube refrigeration is .................",
+    "Option1": "Helium",
+    "Option2": "Carbon dioxide",
+    "Option3": "Nitrogen",
+    "Option4": "Ammonia",
+    "Answer": "Helium",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "In lithium-bromide vapour absorption refrigeration system, lithium bromide is used as",
+    "Option1": "Refrigerant",
+    "Option2": "Absorbent",
+    "Option3": "Both as absorbent and refrigerant",
+    "Option4": "Neither as absorbent nor as refrigerant",
+    "Answer": "Absorbent",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which of these methods cannot be used for starting 3-phase squirrel cage induction motor?",
+    "Option1": "DOL starter",
+    "Option2": "Auto transformer starter",
+    "Option3": "Star - delta starter",
+    "Option4": "Rotor resistor starting",
+    "Answer": "Rotor resistor starting",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "In figure given below, what do A and B show?",
+    "Option1": "(A) Width modulated pulses (B) Analog signal",
+    "Option2": "(A) Analog signal (B) Width modulated pulses",
+    "Option3": "(A) Analog signal (B) Amplitude modulated pulses",
+    "Option4": "(A) Analog signal (B) Position modulated pulses",
+    "Answer": "(A) Analog signal (B) Width modulated pulses",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "In ice manufacturing, ice cans are fabricated from ................",
+    "Option1": "Aluminium",
+    "Option2": "Copper",
+    "Option3": "Brass",
+    "Option4": "Galvanized steel",
+    "Answer": "Galvanized steel",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which one of these compressors has poor partial load efficiency?",
+    "Option1": "Scroll compressor",
+    "Option2": "Reciprocating compressor",
+    "Option3": "Screw compressor",
+    "Option4": "Centrifugal compressor",
+    "Answer": "Centrifugal compressor",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "The filters that are generally used to remove vapours, harmful chemicals, odour from compressed air\nsystem are .........",
+    "Option1": "Hopkalite filters",
+    "Option2": "Sterile filters",
+    "Option3": "Coalescing filters",
+    "Option4": "Adsorption activated carbon filters",
+    "Answer": "Adsorption activated carbon filters",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Oil - free (no lubrication) compressors are ..............",
+    "Option1": "Reciprocating compressor",
+    "Option2": "Screw compressors",
+    "Option3": "Centrifugal compressor",
+    "Option4": "All of the above",
+    "Answer": "Centrifugal compressor",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What method is used to control the capacity of water-cooled condenser?",
+    "Option1": "Vary temperature of water entering the condenser",
+    "Option2": "Use variable-speed drive on the condenser water pump",
+    "Option3": "Use diverting valve andpipe to bypass the condenser",
+    "Option4": "All of the above",
+    "Answer": "All of the above",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "The change in enthalpy that occurs in the ........... is called the refrigeration effect.",
+    "Option1": "Compressor",
+    "Option2": "Condenser",
+    "Option3": "Evaporator",
+    "Option4": "Expansion device",
+    "Answer": "Evaporator",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "The heat rejection capacity of a condenser is affected by the following, except",
+    "Option1": "Maximum pressure occuring at the condenser",
+    "Option2": "Flow rate of cooling media in the condenser",
+    "Option3": "Temperature difference between refrigerant and cooling media",
+    "Option4": "Rate of flow of refrigerant in the condenser",
+    "Answer": "Maximum pressure occuring at the condenser",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "If the flow rate of refrigerant is high, which compressor will you choose?",
+    "Option1": "Reciprocating compressor",
+    "Option2": "Centrifugal compressor",
+    "Option3": "Screw compressor",
+    "Option4": "Rotary compressor",
+    "Answer": "Centrifugal compressor",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Performance of cooling tower is affected significantly by these factors, except .....",
+    "Option1": "Approach",
+    "Option2": "Wet bulb temperature",
+    "Option3": "The range",
+    "Option4": "TDS",
+    "Answer": "TDS",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Inside cooling tower, a material is added to increase contact surface and contact time betwwen air and\nwater. What is this material called?",
+    "Option1": "Insert",
+    "Option2": "Pack",
+    "Option3": "Fill",
+    "Option4": "Core",
+    "Answer": "Fill",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "The disinfectants which can be used to get rid of viruses and bacteria are",
+    "Option1": "Chlorine and water",
+    "Option2": "Chlorine and ozone",
+    "Option3": "Ultraviolet light and air",
+    "Option4": "Ultraviolet light and water",
+    "Answer": "Chlorine and ozone",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "For small evaporators where refrigerant used is other than ammonia, tubing used is made of ...........",
+    "Option1": "Steel",
+    "Option2": "Copper",
+    "Option3": "Brass",
+    "Option4": "Bronze",
+    "Answer": "Copper",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Why is it NOT recommended to clean condenser fins with a hose?",
+    "Option1": "Water will turn dirt into mud which will be hard to clean",
+    "Option2": "Water will make the fins rust very quickly",
+    "Option3": "Using hose is not bad. Recommendation need not be accepted",
+    "Option4": "Using hose hardly does any damage to fins",
+    "Answer": "Water will turn dirt into mud which will be hard to clean",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Why is it desirable for refrigerant entering the compressor to be slightly superheated?",
+    "Option1": "To prevent refrigerant oil from leaving the compressor",
+    "Option2": "To prevent vapour refrigerant from entering the compressor",
+    "Option3": "To keep compressor warm",
+    "Option4": "To prevent liquid refrigerant from entering the compressor",
+    "Answer": "To prevent liquid refrigerant from entering the compressor",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "In scroll compressor shown below, what are A and B ?",
+    "Option1": "A is inlet and B is outlet",
+    "Option2": "A is outlet and B is inlet",
+    "Option3": "A and B both are inlet",
+    "Option4": "A and B both are outlet",
+    "Answer": "A is inlet and B is outlet",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/MRAC%2FSEM3%2FL2-49.PNG?alt=media&token=4817a510-5f06-4df1-9f9f-b4e37d1e72b1"
+  },
+  {
+    "Question": "The purpose of HVAC system is to control ...................",
+    "Option1": "Temperature and humidity only",
+    "Option2": "Supply of outside air",
+    "Option3": "Air filtration and its movement in occupied spaces",
+    "Option4": "All of the above",
+    "Answer": "All of the above",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  }
+]

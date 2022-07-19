@@ -1,0 +1,227 @@
+[
+  {
+    "Question": "Which is the correct html tag for creating password field?",
+    "Option1": "<text type = “password”>",
+    "Option2": "<input type = “pwd”>",
+    "Option3": "<input type = “password”>",
+    "Option4": "<input type = “passcode”>",
+    "Answer": "<input type = “password”>",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the correct html code for inserting a background image?",
+    "Option1": "<Body background = “image jpg”>",
+    "Option2": "<body = “image.jpg”>",
+    "Option3": "<background = “image.jpg”>",
+    "Option4": "<body background = image.jpg>",
+    "Answer": "<Body background = “image jpg”>",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which option will match, while making bulleted list?",
+    "Option1": "Square, disc, polygon",
+    "Option2": "triangle, disc, circle",
+    "Option3": "triangle, square, circle",
+    "Option4": "disc, circle, square",
+    "Answer": "disc, circle, square",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the meaning of increase the cell padding?",
+    "Option1": "Increase the thickness of table border",
+    "Option2": "Increase the space between cells",
+    "Option3": "Increase the distance between cell and content",
+    "Option4": "Increase the no of cells",
+    "Answer": "Increase the distance between cell and content",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which property of cells will how many rows a cell should span?",
+    "Option1": "Colspan = 5",
+    "Option2": "Rowspan = 5",
+    "Option3": "Cellspan = 5",
+    "Option4": "Span = 5",
+    "Answer": "Rowspan = 5",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which web language give more control over the HTML elements and allows them to change at any time without returning to the Web server?",
+    "Option1": "BML",
+    "Option2": "XML",
+    "Option3": "HTML",
+    "Option4": "DHTML",
+    "Answer": "DHTML",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What will be the output of the following HTML code?",
+    "Option1": "bold( NIMI ) CHENNAI",
+    "Option2": "bold( NIMI )<br>CHENNAI",
+    "Option3": "CHENNAI<br>NIMI",
+    "Option4": "CHENNAI NIMI",
+    "Answer": "bold( NIMI )<br>CHENNAI",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/COPA%2FL3-1.PNG?alt=media&token=f126d98e-5a70-49b1-93ed-92591bdbb391"
+  },
+  {
+    "Question": "What is the output of the following html?",
+    "Option1": "NIMI chennai",
+    "Option2": "NIMI CHENNAI",
+    "Option3": "NIMI chennaiformatting",
+    "Option4": "NIMICHENNAIformatting",
+    "Answer": "NIMI chennaiformatting",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/COPA%2FL3-2.PNG?alt=media&token=6ffb33e6-6e55-4f5c-b4f1-b369417f8d26"
+  },
+  {
+    "Question": "What is the output of the following html code?",
+    "Option1": "NIMI ^chennai",
+    "Option2": "NIMI chennai",
+    "Option3": "NIMI chennai",
+    "Option4": "NIMI - CHENNAI",
+    "Answer": "NIMI ^chennai",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/COPA%2FL3-3.PNG?alt=media&token=e4cf534b-7187-405f-b070-e2a87c6155f8"
+  },
+  {
+    "Question": "How will the following html code appear in the browser?",
+    "Option1": "bold( My first heading )<br>My first paragraph",
+    "Option2": "My first heading<br>My first bold( paragraph )",
+    "Option3": "My first heading<br>My first paragraph",
+    "Option4": "My first bold( heading )<br>My first bold( paragraph )",
+    "Answer": "bold( My first heading )<br>My first paragraph",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/COPA%2FL3-4.PNG?alt=media&token=7a894502-d93e-47e2-ab11-64d7b7c699cf"
+  },
+  {
+    "Question": "Which of the following code is used to add a plain color background to the web page?",
+    "Option1": "<body bgcolor = “36, 2437”>",
+    "Option2": "<body color = “#FF000”>",
+    "Option3": "<body bgcolor = “#FF000”>",
+    "Option4": "<bgcolor = “blue”>",
+    "Answer": "<body bgcolor = “#FF000”>",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the process of writing instruction to be get executed by the computer?",
+    "Option1": "Debugging",
+    "Option2": "Executing",
+    "Option3": "Presenting",
+    "Option4": "Programming",
+    "Answer": "Programming",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which is a statement terminator in javascript?",
+    "Option1": ",",
+    "Option2": ";",
+    "Option3": ":",
+    "Option4": ". .",
+    "Answer": ";",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Who developed javascript?",
+    "Option1": "Brendan Eich",
+    "Option2": "Brendan Rich",
+    "Option3": "John Eckerl",
+    "Option4": "John Mauchy",
+    "Answer": "Brendan Eich",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which programming language’s syntax influences javascript syntex?",
+    "Option1": "C",
+    "Option2": "COBOL",
+    "Option3": "Java",
+    "Option4": "JDK",
+    "Answer": "C",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which web server provides good custeomer support if it had any issues?",
+    "Option1": "Apache",
+    "Option2": "IIS",
+    "Option3": "Lite speed",
+    "Option4": "Nginx",
+    "Answer": "IIS",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which web server has high performance stability simple configuration and low resosurce usge?",
+    "Option1": "Apache",
+    "Option2": "IIS",
+    "Option3": "Lite speed",
+    "Option4": "Nginx",
+    "Answer": "Nginx",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which key is used to declare a variable in javascript?",
+    "Option1": "const",
+    "Option2": "dec",
+    "Option3": "dim",
+    "Option4": "var",
+    "Answer": "var",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which is a variable seperator if more than one variable declared in one statement?",
+    "Option1": ",",
+    "Option2": ":",
+    "Option3": "-",
+    "Option4": "/",
+    "Answer": ",",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which brackets is used to write array in java script?",
+    "Option1": "Curve bracket",
+    "Option2": "Square bracket",
+    "Option3": "Curly bracket",
+    "Option4": "Corner bracket",
+    "Answer": "Square bracket",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which bracket is used to write object in javascript?",
+    "Option1": "Curve bracket",
+    "Option2": "Square bracket",
+    "Option3": "Curly bracket",
+    "Option4": "Corner bracket",
+    "Answer": "Curly bracket",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "How many types of operation are there in javascript?",
+    "Option1": 3,
+    "Option2": 4,
+    "Option3": 6,
+    "Option4": 8,
+    "Answer": 8,
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the purpose module (%) operator in javascript?",
+    "Option1": "Percentage value",
+    "Option2": "Product value",
+    "Option3": "Remainder value",
+    "Option4": "Quotient value",
+    "Answer": "Remainder value",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "How many part are there in ‘For’ loop?",
+    "Option1": 2,
+    "Option2": 3,
+    "Option3": 4,
+    "Option4": 5,
+    "Answer": 3,
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which part in loop evaluates the conditions?",
+    "Option1": "Condition part",
+    "Option2": "Increment /Decrement part",
+    "Option3": "Initialisation part",
+    "Option4": "Looping part",
+    "Answer": "Condition part",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  }
+]

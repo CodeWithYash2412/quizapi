@@ -1,0 +1,227 @@
+[
+  {
+    "Question": "Why solid pole shoes are used in D.C generator?",
+    "Option1": "To reduce the copper loss",
+    "Option2": "To increase the residual magnetism",
+    "Option3": "To decrease the residual magnetism",
+    "Option4": "To reduce the reluctance of magnetic path",
+    "Answer": "To reduce the reluctance of magnetic path",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which metal is used to make large capacity DC generator yoke?",
+    "Option1": "Cast iron",
+    "Option2": "Soft iron",
+    "Option3": "Aluminium",
+    "Option4": "Rolled Steel",
+    "Answer": "Rolled Steel",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the function of split rings in a D.C generator?",
+    "Option1": "Supplies output continuously",
+    "Option2": "Makes output in the uni direction",
+    "Option3": "Makes output in the opposite direction",
+    "Option4": "Collects the output from alternate conductors",
+    "Answer": "Makes output in the uni direction",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which type of voltage is induced dynamically in a D.C generator?",
+    "Option1": "Pulsating voltage",
+    "Option2": "Oscillating voltage",
+    "Option3": "Alternating voltage",
+    "Option4": "Direct current voltage",
+    "Answer": "Alternating voltage",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the purpose of slot marked as ‘X’?",
+    "Option1": "To fix the key way",
+    "Option2": "To make air circulation",
+    "Option3": "For lubrication purpose",
+    "Option4": "For easy removal from shaft",
+    "Answer": "To fix the key way",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/Electrician%2FSEM3%2FElectrician22%2F43.PNG?alt=media&token=52aa2258-ceed-408e-b693-9203977b750e"
+  },
+  {
+    "Question": "What is the purpose of field coils in D.C generator?",
+    "Option1": "To increase the flux in air gap",
+    "Option2": "To decrease the magnetizing current",
+    "Option3": "To magnetize the poles to produce coil flux",
+    "Option4": "To increase the reluctance of magnetic path",
+    "Answer": "To magnetize the poles to produce coil flux",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which metal is used to make pole core of large DC generator machines?",
+    "Option1": "Soft iron",
+    "Option2": "Cast iron",
+    "Option3": "Cast steel",
+    "Option4": "Stainless steel",
+    "Answer": "Cast steel",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Why the pole core stampings are laminated in DC generator?",
+    "Option1": "Reduce the friction loss",
+    "Option2": "Reduce the windage loss",
+    "Option3": "Reduce the hysteresis loss",
+    "Option4": "Reduce the eddy current loss",
+    "Answer": "Reduce the eddy current loss",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which type of DC generator is used for electroplating process?",
+    "Option1": "Shunt generator",
+    "Option2": "Series generator",
+    "Option3": "Differential compound generator",
+    "Option4": "Cumulative compound generator",
+    "Answer": "Shunt generator",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the purpose of compensating winding in DC generator?",
+    "Option1": "Minimizes rough commutation",
+    "Option2": "Maintain constant output voltage",
+    "Option3": "Neutralizes the demagnetizing effect",
+    "Option4": "Decreases the excitation current of field coils",
+    "Answer": "Neutralizes the demagnetizing effect",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the effect if the shunt field resistance is above critical resistance value in a D.C generator?",
+    "Option1": "Output voltage is pulsating",
+    "Option2": "Output voltage is above normal",
+    "Option3": "Generator fails to build up voltage",
+    "Option4": "Generator builds up voltage normally",
+    "Answer": "Generator fails to build up voltage",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the effect of armature reaction in DC generator?",
+    "Option1": "Output voltage increases",
+    "Option2": "Output voltage decreases",
+    "Option3": "Output voltage is pulsating",
+    "Option4": "Output voltage will become zero",
+    "Answer": "Output voltage decreases",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Calculate the emf genarated in a 4 pole DC generator with simplex wave wound armature has 1020 conductors and driven at a speed of 1500 rpm, the flux / pole is 0.007 webers?",
+    "Option1": "178 V",
+    "Option2": "243 V",
+    "Option3": "357 V",
+    "Option4": "428 V",
+    "Answer": "357 V",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "How the effect of armature reaction can be neutralized in large DC generators?",
+    "Option1": "Using compensating winding",
+    "Option2": "Providing additional inter poles",
+    "Option3": "Increasing brush contact resistance",
+    "Option4": "Adding resistance wires with winding",
+    "Answer": "Using compensating winding",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the effect in D.C generator, if it is kept ideal for long time?",
+    "Option1": "Field coil resistance increases",
+    "Option2": "Armature resistance increases",
+    "Option3": "Increase the armature reaction",
+    "Option4": "Looses its residual magnetism",
+    "Answer": "Looses its residual magnetism",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Calculate the induced emf of 4 pole dynamo having 1000 rpm lap wound and total number of conductors is 600, the flux / pole is 0.064 wb?",
+    "Option1": "160V",
+    "Option2": "320V",
+    "Option3": "480V",
+    "Option4": "640V",
+    "Answer": "640V",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the effect on induced emf if the main field flux get distorted in DC generator?",
+    "Option1": "Induced emf increases",
+    "Option2": "Induced emf decreases",
+    "Option3": "No change in induced emf",
+    "Option4": "Induced emf becomes zero",
+    "Answer": "Induced emf decreases",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the cause for heavy sparking in brushes of DC generator?",
+    "Option1": "Short circuit in field winding",
+    "Option2": "Short circuit in armature winding",
+    "Option3": "MNA and GNA position changed",
+    "Option4": "Too much spring tension at brush",
+    "Answer": "MNA and GNA position changed",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which instrument is used to measure armature winding resistance?",
+    "Option1": "Megger",
+    "Option2": "Mustimeter",
+    "Option3": "Series type Ohm meter",
+    "Option4": "Kelvin bridge",
+    "Answer": "Kelvin bridge",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which instrument is used to test armature winding for short and open circuit?",
+    "Option1": "Tong Tester",
+    "Option2": "Internal Growler",
+    "Option3": "External Growler",
+    "Option4": "Digital multimeter",
+    "Answer": "External Growler",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the name of the speed control method of DC motor?",
+    "Option1": "Field diverter method",
+    "Option2": "Field tapping method",
+    "Option3": "Voltage control method",
+    "Option4": "Armature diverter method",
+    "Answer": "Armature diverter method",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/Electrician%2FSEM3%2FElectrician22%2F59.PNG?alt=media&token=b9436bfb-801e-45d5-baa9-3b111e48aa8e"
+  },
+  {
+    "Question": "Which winding wire is used for DC field coil?",
+    "Option1": "Super enamelled copper wire",
+    "Option2": "Single silk covered copper wire",
+    "Option3": "Double silk covered copper wire",
+    "Option4": "PVC covered copper winding wire",
+    "Answer": "Super enamelled copper wire",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which formula is used to calculate the speed of DC motor?",
+    "Option1": "N= Eb / 𝜑",
+    "Option2": "N= 𝜑 / Eb",
+    "Option3": "N= EbX𝜑 / 120",
+    "Option4": "N= EbX𝜑 / 60",
+    "Answer": "N= Eb / 𝜑",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "How many parallel paths in duplex lap winding in the armature of 4 pole D.C Motor?",
+    "Option1": 2,
+    "Option2": 4,
+    "Option3": 6,
+    "Option4": 8,
+    "Answer": 2,
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which rule determines the direction of rotation of armature in D.C motor?",
+    "Option1": "Right hand grip rule",
+    "Option2": "Right hand palm rule",
+    "Option3": "Fleming’s left hand rule",
+    "Option4": "Fleming’s right hand rule",
+    "Answer": "Fleming’s left hand rule",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  }
+]

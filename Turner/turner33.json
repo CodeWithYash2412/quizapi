@@ -1,0 +1,227 @@
+[
+  {
+    "Question": "Which of the following is not advantage of CNC machine?",
+    "Option1": "Higher flexibility",
+    "Option2": "Improved quality",
+    "Option3": "Reduced scrap rate",
+    "Option4": "Improved strength of the components",
+    "Answer": "Improved strength of the components",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the use of CNC code of M05 to develop the command?",
+    "Option1": "The spindle rotation has to stop",
+    "Option2": "The cutting tool has to be changed",
+    "Option3": "Tool returns from reference point to work place",
+    "Option4": "Rewind the program once again",
+    "Answer": "The spindle rotation has to stop",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which M code is used to activate coolant pump in CNC machine?",
+    "Option1": "M01",
+    "Option2": "M06",
+    "Option3": "M08",
+    "Option4": "M09",
+    "Answer": "M08",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which one of the following code used to switch off the coolant pump?",
+    "Option1": "M07",
+    "Option2": "M08",
+    "Option3": "M09",
+    "Option4": "M30",
+    "Answer": "M09",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the use of Goo activates the command?",
+    "Option1": "Linear interpolation",
+    "Option2": "Rapid traverse",
+    "Option3": "Tool returns from reference point",
+    "Option4": "Return to reference point",
+    "Answer": "Rapid traverse",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the activity of code M06 based on FANUC CNC control system?",
+    "Option1": "End of the program with rewind",
+    "Option2": "Spindle rotation in counter clockwise direction",
+    "Option3": "The cutting tool has to be changed",
+    "Option4": "Switch of the coolant pump",
+    "Answer": "The cutting tool has to be changed",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the purpose of G28 code based on FANUC CNC control system?",
+    "Option1": "Tool has return to reference point",
+    "Option2": "Tool has to return from reference point",
+    "Option3": "Circular interpolation clockwise",
+    "Option4": "Circular interpolation counter clockwise",
+    "Answer": "Tool has return to reference point",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which mode, the cutting tool returns back to its home position?",
+    "Option1": "Automatic mode",
+    "Option2": "MDI mode",
+    "Option3": "Jog mode",
+    "Option4": "Reference mode",
+    "Answer": "Reference mode",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the purpose of MDI mode?",
+    "Option1": "For program execution",
+    "Option2": "Move the axes by manually",
+    "Option3": "Cross checking of the program graphically",
+    "Option4": "Editing of programmable Data",
+    "Answer": "Move the axes by manually",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the full form of MDI?",
+    "Option1": "Mechanical Data Implantation",
+    "Option2": "Manually Data Input",
+    "Option3": "Moderated Data input",
+    "Option4": "Mounting of Diagonal Impact",
+    "Answer": "Manually Data Input",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which command activates in automatic mode?",
+    "Option1": "Work offset settings are taken",
+    "Option2": "Tool changes automatically",
+    "Option3": "Program executed",
+    "Option4": "Program simulation",
+    "Answer": "Program executed",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which one of the following is possible in edit mode?",
+    "Option1": "Can read only the program",
+    "Option2": "Simulation of the program",
+    "Option3": "Execute the program",
+    "Option4": "Preparation of new programmable Data and correction / Alteration of an earlier program",
+    "Answer": "Preparation of new programmable Data and correction / Alteration of an earlier program",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which mode is used while loading / unloading the work piece in CNC machine?",
+    "Option1": "Simulation mode",
+    "Option2": "Automatic mode",
+    "Option3": "Jog mode",
+    "Option4": "Edit mode",
+    "Answer": "Jog mode",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which mode execute thet program continuosly one block after another block?",
+    "Option1": "Jog mode",
+    "Option2": "Edit mode",
+    "Option3": "MPG mode",
+    "Option4": "Auto mode",
+    "Answer": "Auto mode",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which mode is used for five positioning (Micron level) of the axis movement?",
+    "Option1": "Auto mode",
+    "Option2": "Incremental Jog mode",
+    "Option3": "MDI mode",
+    "Option4": "Edit mode",
+    "Answer": "Incremental Jog mode",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "How the complex cutting motion involving X,Y and Z moments is carried out by CNC machining?",
+    "Option1": "Use of jigs, cams, templates and tracers",
+    "Option2": "Skill of machine operator",
+    "Option3": "Combinations of co-ordinates obtained from drives along the axis",
+    "Option4": "Based on electrical power supply of the machine",
+    "Answer": "Combinations of co-ordinates obtained from drives along the axis",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "How the part programming mistakes can be avoided?",
+    "Option1": "NC (Numerical control) machine only",
+    "Option2": "CNC (Computer numerical control) machine only",
+    "Option3": "Both NC and CNC machine",
+    "Option4": "Cannot be avoided in CNC machine",
+    "Answer": "CNC (Computer numerical control) machine only",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "A CNC machine tool has a continuous part control both linear and circular along x,y,z and control of table rotation about x axis and z axis, so the machine should be called?",
+    "Option1": "2C, L",
+    "Option2": "3L,2C",
+    "Option3": "5C",
+    "Option4": "2L, 2C",
+    "Answer": "3L,2C",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which one of the following code is suitable for rapid traverse?",
+    "Option1": "G00",
+    "Option2": "G02",
+    "Option3": "G03",
+    "Option4": "G04",
+    "Answer": "G00",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which one of the following code is used for tool nose compansation at left side?",
+    "Option1": "G40",
+    "Option2": "G41",
+    "Option3": "G42",
+    "Option4": "G32",
+    "Answer": "G41",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which one of the following M-code is suitable for spindle rotation stop?",
+    "Option1": "M05",
+    "Option2": "M03",
+    "Option3": "M06",
+    "Option4": "M04",
+    "Answer": "M05",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the indication of 'M'?",
+    "Option1": "Machine zero point",
+    "Option2": "Work piece zero point",
+    "Option3": "Tool zero point",
+    "Option4": "Machine reference point",
+    "Answer": "Machine zero point",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/sem4%2051to75%2F82.PNG?alt=media&token=febcbb56-fea6-45dc-9dab-32ae02d094e0"
+  },
+  {
+    "Question": "What is the indication of 'M'?",
+    "Option1": "Machine zero point",
+    "Option2": "Work piece zero point",
+    "Option3": "Tool zero point",
+    "Option4": "Machine reference point",
+    "Answer": "Work piece zero point",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/sem4%2051to75%2F83.PNG?alt=media&token=30f06930-49a2-48ea-a6c1-10aab88ac88c"
+  },
+  {
+    "Question": "Which point in any CNC machine the position measuring systems has a starting point to each axis?",
+    "Option1": "Work zero",
+    "Option2": "Tool geometrical value",
+    "Option3": "Machine zero",
+    "Option4": "Reference mode",
+    "Answer": "Machine zero",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the formula for calculating metal removal rate (V)?",
+    "Option1": "(πDN/1000) m/min",
+    "Option2": "V.S.A cm3/mm",
+    "Option3": "(V.1000/πD) rev/min",
+    "Option4": "V.S cm3/min",
+    "Answer": "V.S.A cm3/mm",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  }
+]

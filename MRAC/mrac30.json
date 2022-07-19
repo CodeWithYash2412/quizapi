@@ -1,0 +1,227 @@
+[
+  {
+    "Question": "Which parameter of air is measured by the thermometer bulb that is wetted in sling psychrometer?",
+    "Option1": "Dew point temperature",
+    "Option2": "Dry bulb temperature",
+    "Option3": "Wet bull temperature",
+    "Option4": "Evaporating temperature",
+    "Answer": "Wet bull temperature",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which temperature is measured first in sling psychrometer after whirling?",
+    "Option1": "Dry bulb temperature of air",
+    "Option2": "Wet bulb temperature of air",
+    "Option3": "Absolute temperature of air",
+    "Option4": "Accurate temperature of air",
+    "Answer": "Wet bulb temperature of air",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which compressor capacity is suitable for 2 TR air conditioner?",
+    "Option1": "3000 Kcal/h",
+    "Option2": "4000 Kcal/h",
+    "Option3": "5000 Kcal/h",
+    "Option4": "6000 Kcal/h",
+    "Answer": "6000 Kcal/h",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "How many parameters are needed to locate all properties of moist air in psychrometric chart?",
+    "Option1": "One",
+    "Option2": "Two",
+    "Option3": "Four",
+    "Option4": "Three",
+    "Answer": "Two",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which temperatures are marked on 100% RH curve?",
+    "Option1": "Air and water",
+    "Option2": "Wet-bulb and dew point",
+    "Option3": "Critical and condensing",
+    "Option4": "Evaporating and condensing",
+    "Answer": "Wet-bulb and dew point",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is measured by Anemometer?",
+    "Option1": "Velocity of air",
+    "Option2": "Direction of air-flow",
+    "Option3": "Total pressure of air",
+    "Option4": "Static pressure of air",
+    "Answer": "Velocity of air",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which psychrometer uses battery operated small fan?",
+    "Option1": "Sling psychrometer",
+    "Option2": "Aspirating psychrometer",
+    "Option3": "Laboratory psychrometer",
+    "Option4": "Exhausting psychrometer",
+    "Answer": "Aspirating psychrometer",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which psychrometric processes are represented between initial (t1) and final (t2) conditions of air in the chart?",
+    "Option1": "Cooling and humidification",
+    "Option2": "Heating and humidification",
+    "Option3": "Sensible cooling and heating",
+    "Option4": "Cooling and dehumidification",
+    "Answer": "Cooling and dehumidification",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/MRAC%2FSEM4%2F026%20TO%20050%2F33.PNG?alt=media&token=efbdb2f4-d5da-4dc6-9987-99ae6ff20687"
+  },
+  {
+    "Question": "What is the velocity pressure of air in a duct if the total pressure and static pressure are known?",
+    "Option1": "Sum of static and total pressures",
+    "Option2": "Sum of dynamic and total pressures",
+    "Option3": "Difference in static and total pressures",
+    "Option4": "Difference in dynamic and total pressures",
+    "Answer": "Difference in static and total pressures",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is measured by the manometer in duct air?",
+    "Option1": "Total pressure",
+    "Option2": "Static pressure",
+    "Option3": "Velocity pressure",
+    "Option4": "Absolute pressure",
+    "Answer": "Static pressure",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/MRAC%2FSEM4%2F026%20TO%20050%2F35.PNG?alt=media&token=3422d255-04bf-4346-9271-1c5fa6f65db5"
+  },
+  {
+    "Question": "What is the volume of air passed at the outlet of a rectangular duct whose area of cross section is 1m2 and the air velocity by an anemometer is 10m/min?",
+    "Option1": "5 m3",
+    "Option2": "10 m3",
+    "Option3": "15 m3",
+    "Option4": "20 m3",
+    "Answer": "10 m3",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "How the power consumed by the motor varies with its speed in VFD?",
+    "Option1": "Cube of its speed",
+    "Option2": "Square of its speed",
+    "Option3": "No change with speed",
+    "Option4": "Inversely proportional to its speed",
+    "Answer": "Cube of its speed",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which parameter of power supply determines the speed of induction motor?",
+    "Option1": "Volt",
+    "Option2": "Current",
+    "Option3": "Volume",
+    "Option4": "Frequency",
+    "Answer": "Frequency",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which type of load consumes more energy in an AC plant system?",
+    "Option1": "Air ventilation",
+    "Option2": "Air distribution",
+    "Option3": "Water circulation",
+    "Option4": "Heating and cooling",
+    "Answer": "Heating and cooling",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the purpose of part marked as X in thermostat?",
+    "Option1": "Maintains temperature",
+    "Option2": "Warms up movable contact",
+    "Option3": "Switching snaps ON",
+    "Option4": "Controls the expansion of bellows",
+    "Answer": "Switching snaps ON",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/MRAC%2FSEM4%2F026%20TO%20050%2F40.PNG?alt=media&token=081f39cf-76fa-4a56-9954-b35729475020"
+  },
+  {
+    "Question": "Which part of electronic filter removes tobacco smoke and odours?",
+    "Option1": "Pre filter",
+    "Option2": "Electrodes",
+    "Option3": "Charcoal filter",
+    "Option4": "Static electric field",
+    "Answer": "Charcoal filter",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the purpose of air filter?",
+    "Option1": "Cool air",
+    "Option2": "Circulate air",
+    "Option3": "Ensure clean air",
+    "Option4": "Improve performance",
+    "Answer": "Ensure clean air",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "How the space between the false ceiling and the building main ceiling is used in handling of air in central AC plant?",
+    "Option1": "Exhaust duct",
+    "Option2": "Fresh air duct",
+    "Option3": "Return air duct",
+    "Option4": "Supply air duct",
+    "Answer": "Return air duct",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which system maintains indoor air quality by adding fresh air and conditioned air to offset heating or cooling loads?",
+    "Option1": "Refrigeration system",
+    "Option2": "Air distribution system",
+    "Option3": "Electrical control system",
+    "Option4": "Refrigerant control system",
+    "Answer": "Air distribution system",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which fan is used to handle the direction of air flow 90° away from the inlet?",
+    "Option1": "Axial propeller fan",
+    "Option2": "Centrifugal blower fan",
+    "Option3": "Tube axial propeller fan",
+    "Option4": "Vane axial propeller fan",
+    "Answer": "Centrifugal blower fan",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Why the capacitor is tested inside a box or case?",
+    "Option1": "Explodes safely",
+    "Option2": "Erodes the test kit",
+    "Option3": "Corrodes the test kit",
+    "Option4": "Releases poisonous gas",
+    "Answer": "Explodes safely",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Why the AHU outlet is connected to supply duct with canvas material?",
+    "Option1": "Quick replacement",
+    "Option2": "Low installation cost",
+    "Option3": "Low maintenance cost",
+    "Option4": "Avoid vibration of air transmission",
+    "Answer": "Avoid vibration of air transmission",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Why the crankcase heater is energised for compressor during the shut down period of AC plant?",
+    "Option1": "Increase viscosity of crankcase oil",
+    "Option2": "Decrease viscosity of crankcase oil",
+    "Option3": "Increase miscibility of oil with refrigerant",
+    "Option4": "Prevent oil foaming on restarting compressor",
+    "Answer": "Prevent oil foaming on restarting compressor",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the equivalent of 1 mm of Hg in\nterms of microns?",
+    "Option1": 500,
+    "Option2": 1000,
+    "Option3": 1500,
+    "Option4": 2000,
+    "Answer": 1000,
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which tool is used for service valve\noperations in package AC?",
+    "Option1": "Cutting pliers",
+    "Option2": "Screw spanner",
+    "Option3": "Ratchet key/wrench",
+    "Option4": "Double end spanner",
+    "Answer": "Ratchet key/wrench",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  }
+]

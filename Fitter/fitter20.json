@@ -1,0 +1,227 @@
+[
+  {
+    "Question": "Which special file is used for narrow work?",
+    "Option1": "Pillar file",
+    "Option2": "Square file",
+    "Option3": "Dread naught file",
+    "Option4": "Swiss pattern file",
+    "Answer": "Pillar file",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Why slots are provided in the slotted castle nuts?",
+    "Option1": "To fix split pins",
+    "Option2": "For good appearance",
+    "Option3": "Reduce the weight of nut",
+    "Option4": "For easy removal and fitment",
+    "Answer": "To fix split pins",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the name of limit gauge?",
+    "Option1": "Plain ring gauge",
+    "Option2": "Taper plug gauge",
+    "Option3": "Progressive plug gauge",
+    "Option4": "Double ended plug gauge",
+    "Answer": "Progressive plug gauge",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/FITTER%2FFITTER%20SEM3%2F001%20TO%20025%2F3.PNG?alt=media&token=b95f096e-8c1f-4ca6-872e-469c28d9edfd"
+  },
+  {
+    "Question": "What is the name of gauge?",
+    "Option1": "Ring gauge",
+    "Option2": "Plug gauge",
+    "Option3": "Taper ring gauge",
+    "Option4": "Taper plug gauge",
+    "Answer": "Ring gauge",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/FITTER%2FFITTER%20SEM3%2F001%20TO%20025%2F4.PNG?alt=media&token=bbe7e87b-5854-4b99-8890-63d648a1fe20"
+  },
+  {
+    "Question": "Which gauge is used to check the gap between the mating parts?",
+    "Option1": "Slip gauge",
+    "Option2": "Plug gauge",
+    "Option3": "Feeler gauge",
+    "Option4": "Radius gauge",
+    "Answer": "Feeler gauge",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which material is used to clean the slip gauge?",
+    "Option1": "Wax",
+    "Option2": "Kerosene",
+    "Option3": "Soluble oil",
+    "Option4": "Carbon tetra chloride",
+    "Answer": "Carbon tetra chloride",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which material is to wash off the lapping plate after charging?",
+    "Option1": "Oil",
+    "Option2": "Kerosene",
+    "Option3": "Coolant oil",
+    "Option4": "Petroleum jelly",
+    "Answer": "Kerosene",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which material is used to protect slip gauge from rust?",
+    "Option1": "Oil",
+    "Option2": "Wax",
+    "Option3": "Kerosene",
+    "Option4": "Petroleum jelly",
+    "Answer": "Petroleum jelly",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the procedure to built up the slip gauge for particular dimension?",
+    "Option1": "Start wringing with the largest slip gauges",
+    "Option2": "Maximum number of block",
+    "Option3": "Built with grade 0 accuracy",
+    "Option4": "Start wringing with the small slip gauge",
+    "Answer": "Start wringing with the largest slip gauges",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the name of the gauge?",
+    "Option1": "Plain snap gauge",
+    "Option2": "Thread snap gauge",
+    "Option3": "Thread pitch gauge",
+    "Option4": "Adjustable snap gauge",
+    "Answer": "Adjustable snap gauge",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/FITTER%2FFITTER%20SEM3%2F001%20TO%20025%2F10.PNG?alt=media&token=0289c9f0-b120-4b0f-840f-44f6233f224f"
+  },
+  {
+    "Question": "Which finishing process have a high degree of dimensional accuracy?",
+    "Option1": "Filing",
+    "Option2": "Turning",
+    "Option3": "Grinding",
+    "Option4": "Lapping",
+    "Answer": "Lapping",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which is the abrasive used for lapping soft steel and non-ferrous metals?",
+    "Option1": "Silicon carbide",
+    "Option2": "Diamond",
+    "Option3": "Boron carbide",
+    "Option4": "Fused alumina",
+    "Answer": "Fused alumina",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Why grooves are provided on the surface of the lapping plate?",
+    "Option1": "To allow expansion",
+    "Option2": "To provide clearance",
+    "Option3": "To retain the abrasive",
+    "Option4": "To permit minor adjustment",
+    "Answer": "To retain the abrasive",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the method of surface hardening?’",
+    "Option1": "Nitriding",
+    "Option2": "Pack - carburising",
+    "Option3": "Flame hardening",
+    "Option4": "Induction hardening",
+    "Answer": "Pack - carburising",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/FITTER%2FFITTER%20SEM3%2F001%20TO%20025%2F14.PNG?alt=media&token=e27bdd59-15bc-4186-925e-74366558fa67"
+  },
+  {
+    "Question": "What is the method of surface hardening?",
+    "Option1": "Nitriding",
+    "Option2": "Case hardening",
+    "Option3": "Flame hardening",
+    "Option4": "Induction hardening",
+    "Answer": "Flame hardening",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/FITTER%2FFITTER%20SEM3%2F001%20TO%20025%2F15.PNG?alt=media&token=02e7114c-f18c-47f9-bf62-ec55612fea43"
+  },
+  {
+    "Question": "What is the name of the heat treatment process for reheating the hardened steel to a temperature below 400°C followed by cooling?",
+    "Option1": "Annealing",
+    "Option2": "Hardening",
+    "Option3": "Tempering",
+    "Option4": "Normalising",
+    "Answer": "Tempering",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Why the tempering process carried out in steel?",
+    "Option1": "To add cutting ability",
+    "Option2": "To relive strain and stress",
+    "Option3": "To refine the grain structure",
+    "Option4": "To regulate the hardness and toughness",
+    "Answer": "To regulate the hardness and toughness",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the purpose of annealing in steel?",
+    "Option1": "To add cutting ability",
+    "Option2": "To increase wear resistance",
+    "Option3": "To relieve the internal stress",
+    "Option4": "To refine the grain structure of the steel",
+    "Answer": "To relieve the internal stress",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the name of the key?",
+    "Option1": "Sunk key",
+    "Option2": "Feather key",
+    "Option3": "Flat saddle key",
+    "Option4": "Hollow saddle key",
+    "Answer": "Feather key",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/FITTER%2FFITTER%20SEM3%2F001%20TO%20025%2F19.PNG?alt=media&token=9e2e0a74-c041-454f-bf39-70de4199049a"
+  },
+  {
+    "Question": "What is the purpose of key?",
+    "Option1": "To transmit torque",
+    "Option2": "Assembly purpose",
+    "Option3": "Lock the assembly part",
+    "Option4": "Permit clearance between mating part",
+    "Answer": "To transmit torque",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the ratio of key way taper?",
+    "Option1": "01:19:00",
+    "Option2": "01:20:00",
+    "Option3": "01:50:00",
+    "Option4": "1:100",
+    "Answer": "1:100",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the name of key?",
+    "Option1": "Taper sunk key",
+    "Option2": "Flat saddle key",
+    "Option3": "Parallel sunk key",
+    "Option4": "Hallow saddle key",
+    "Answer": "Taper sunk key",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/FITTER%2FFITTER%20SEM3%2F001%20TO%20025%2F22.PNG?alt=media&token=8f95423b-2cd3-4383-9f01-d7153d1459f4"
+  },
+  {
+    "Question": "Which type of metal screws useful for self tapping on hard or brittle materials?",
+    "Option1": "Self piercing",
+    "Option2": "Thread cutting",
+    "Option3": "Thread forming",
+    "Option4": "Hammer driven screw",
+    "Answer": "Thread cutting",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the advantage of wing nut?",
+    "Option1": "In coach building work",
+    "Option2": "Heavy duty assembly work",
+    "Option3": "Loosen and tighten without wrench",
+    "Option4": "Provide decorative appearance",
+    "Answer": "Loosen and tighten without wrench",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the name of gauge?",
+    "Option1": "Pitch gauge",
+    "Option2": "Angle gauge",
+    "Option3": "Feeler gauge",
+    "Option4": "Radius gauge",
+    "Answer": "Radius gauge",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/FITTER%2FFITTER%20SEM3%2F001%20TO%20025%2F25.PNG?alt=media&token=155c6e4e-397c-45ec-b903-97c33fe6a5d1"
+  }
+]

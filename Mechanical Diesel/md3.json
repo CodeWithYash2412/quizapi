@@ -1,0 +1,227 @@
+[
+  {
+    "Question": "What is the name of the gauge?",
+    "Option1": "Feeler gauge",
+    "Option2": "Snap gauge",
+    "Option3": "Telescopic gauge",
+    "Option4": "Plug gauge",
+    "Answer": "Feeler gauge",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/mechanical%20diesel%2FMD3%2F51.PNG?alt=media&token=36bec68d-3224-4ea3-8e51-f2e966f060a1"
+  },
+  {
+    "Question": "Which can be measured by feeler gauge?",
+    "Option1": "Radius",
+    "Option2": "Screw pitch",
+    "Option3": "Surface roughness",
+    "Option4": "Gap between mating parts",
+    "Answer": "Gap between mating parts",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which marking media is used on the rough surfaces?",
+    "Option1": "White wash",
+    "Option2": "Prussian blue",
+    "Option3": "Copper Sulphate",
+    "Option4": "Cellulose lacquer",
+    "Answer": "White wash",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which marking media used to mark in the finished surfaces?",
+    "Option1": "White wash",
+    "Option2": "Prussian blue",
+    "Option3": "Copper Sulphate",
+    "Option4": "Cellulose lacquer",
+    "Answer": "Prussian blue",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which marking media is poisonous?",
+    "Option1": "White wash",
+    "Option2": "Prussian blue",
+    "Option3": "Copper sulphate",
+    "Option4": "Cellulose lacquer",
+    "Answer": "Copper sulphate",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the name of equipment?",
+    "Option1": "Surface plate",
+    "Option2": "Angle plate",
+    "Option3": "‘V’ Block",
+    "Option4": "Parallel Block",
+    "Answer": "Surface plate",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/mechanical%20diesel%2FMD3%2F56.PNG?alt=media&token=29b40ecf-1707-4462-ba71-dd42ae6bfd5b"
+  },
+  {
+    "Question": "What is the basic unit of length as per SI unit?",
+    "Option1": "Mm",
+    "Option2": "Cm",
+    "Option3": "Meter",
+    "Option4": "Km",
+    "Answer": "Meter",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the least count of engineer steel rule?",
+    "Option1": "1 mm",
+    "Option2": "0.5 mm",
+    "Option3": "2mm",
+    "Option4": "3mm",
+    "Answer": "0.5 mm",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/mechanical%20diesel%2FMD3%2F58.PNG?alt=media&token=7c3f9f84-3c98-42cf-8f73-afc27e555108"
+  },
+  {
+    "Question": "Which marking device used to scribe circle?",
+    "Option1": "Jenny caliper",
+    "Option2": "Inside caliper",
+    "Option3": "Spring divider",
+    "Option4": "Out side caliper",
+    "Answer": "Spring divider",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which instrument is used to check the right angle?",
+    "Option1": "Steel rule",
+    "Option2": "Try square",
+    "Option3": "Firm joint caliper",
+    "Option4": "Spring Joint caliper",
+    "Answer": "Try square",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the use of outside calliper?",
+    "Option1": "Check the flatness",
+    "Option2": "Check the angle",
+    "Option3": "Check the internal dia of the job",
+    "Option4": "Check the external dia of the job",
+    "Answer": "Check the external dia of the job",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/mechanical%20diesel%2FMD3%2F61.PNG?alt=media&token=4b57b92f-0ddc-45ce-aa5c-d7c6aac106f3"
+  },
+  {
+    "Question": "What is the name of the calliper?",
+    "Option1": "Inside caliper",
+    "Option2": "Outside caliper",
+    "Option3": "Firm joint caliper",
+    "Option4": "Spring joint outside calipe",
+    "Answer": "Spring joint outside calipe",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/mechanical%20diesel%2FMD3%2F62.PNG?alt=media&token=e571a6b2-0201-4ac0-a081-74f122c29cf1"
+  },
+  {
+    "Question": "What is the name of calliper?",
+    "Option1": "Firm joint caliper",
+    "Option2": "Spring joint caliper",
+    "Option3": "Inside caliper",
+    "Option4": "Jenny caliper",
+    "Answer": "Jenny caliper",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/mechanical%20diesel%2FMD3%2F63.PNG?alt=media&token=cf4a7c15-687e-4fb7-89e5-b2b2eec88a78"
+  },
+  {
+    "Question": "Name the part marked as X",
+    "Option1": "Snug",
+    "Option2": "Spindle",
+    "Option3": "Guide pin",
+    "Option4": "Rocker arm",
+    "Answer": "Guide pin",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/mechanical%20diesel%2FMD3%2F64.PNG?alt=media&token=393791e1-5484-482a-ab11-9254c59fc917"
+  },
+  {
+    "Question": "Name the part marked X in universal surface gauge?",
+    "Option1": "Snug",
+    "Option2": "Scribe",
+    "Option3": "Rocker arm",
+    "Option4": "Vee groove",
+    "Answer": "Rocker arm",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/mechanical%20diesel%2FMD3%2F65.PNG?alt=media&token=8db7460d-f6b9-4e32-becd-62b2fe835da2"
+  },
+  {
+    "Question": "What is the point angle of centre punch?",
+    "Option1": "30°",
+    "Option2": "45°",
+    "Option3": "60°",
+    "Option4": "90°",
+    "Answer": "90°",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the angle of prick punch?",
+    "Option1": "60°",
+    "Option2": "90°",
+    "Option3": "120°",
+    "Option4": "180°",
+    "Answer": "60°",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the name of the chisel?",
+    "Option1": "Flat chisel",
+    "Option2": "Cross cut chisel",
+    "Option3": "Half round nose chisel",
+    "Option4": "Diamond point chisel",
+    "Answer": "Cross cut chisel",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/mechanical%20diesel%2FMD3%2F68.PNG?alt=media&token=a2773346-6582-46a3-bbdd-e1bfacafbaa9"
+  },
+  {
+    "Question": "What is the name of the chisel?",
+    "Option1": "Flat chisel",
+    "Option2": "Cross cut chisel",
+    "Option3": "Half round nose chisel",
+    "Option4": "Diamond point chisel",
+    "Answer": "Half round nose chisel",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/mechanical%20diesel%2FMD3%2F69.PNG?alt=media&token=367a6c99-c930-4513-bd4d-3633d95953e2"
+  },
+  {
+    "Question": "What is the name of the chisel?",
+    "Option1": "Flat chisel",
+    "Option2": "Cross cut chisel",
+    "Option3": "Half round nose chisel",
+    "Option4": "Diamond point chisel",
+    "Answer": "Diamond point chisel",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/mechanical%20diesel%2FMD3%2F70.PNG?alt=media&token=b31296ad-c011-4e71-9e81-19fc739757ea"
+  },
+  {
+    "Question": "What is the name of part marked as X?",
+    "Option1": "Face",
+    "Option2": "Pein",
+    "Option3": "Cheek",
+    "Option4": "Eye hole",
+    "Answer": "Pein",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/mechanical%20diesel%2FMD3%2F71.PNG?alt=media&token=2510f19a-6d47-47f6-9d46-f0b6b78d7667"
+  },
+  {
+    "Question": "What is the name of the hammer part marked as X?",
+    "Option1": "Cheek",
+    "Option2": "Wedge",
+    "Option3": "Face",
+    "Option4": "Eye hole",
+    "Answer": "Cheek",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/mechanical%20diesel%2FMD3%2F72.PNG?alt=media&token=0225e71e-c7e6-4f43-a8ba-fa92e61f10d5"
+  },
+  {
+    "Question": "What is the name of the device?",
+    "Option1": "Pipe vice",
+    "Option2": "Hand vice",
+    "Option3": "Pin vice",
+    "Option4": "Bench vice",
+    "Answer": "Bench vice",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/mechanical%20diesel%2FMD3%2F73.PNG?alt=media&token=77e74589-a510-4406-a22b-7149a227e3e8"
+  },
+  {
+    "Question": "What is the name of the vice?",
+    "Option1": "Pipe vice",
+    "Option2": "Hand vice",
+    "Option3": "Tool maker vice",
+    "Option4": "Bench vice",
+    "Answer": "Pipe vice",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/mechanical%20diesel%2FMD3%2F74.PNG?alt=media&token=5665a417-d1b2-47b3-b894-ff15da2aae0c"
+  },
+  {
+    "Question": "What is the name of the plier?",
+    "Option1": "Slip-joint plier",
+    "Option2": "End cutting plier",
+    "Option3": "Flat nose plier",
+    "Option4": "Side cutting plier",
+    "Answer": "End cutting plier",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/mechanical%20diesel%2FMD3%2F75.PNG?alt=media&token=14f78395-d751-44d8-81c9-c4c2b94ead78"
+  }
+]

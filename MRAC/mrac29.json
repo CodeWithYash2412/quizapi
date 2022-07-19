@@ -1,0 +1,227 @@
+[
+  {
+    "Question": "What is the composition of oxygen in atmospheric air?",
+    "Option1": "11%",
+    "Option2": "21%",
+    "Option3": "31%",
+    "Option4": "41%",
+    "Answer": "21%",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the expansion of ADP?",
+    "Option1": "Apparatus Dew Point",
+    "Option2": "Advanced Detection Process",
+    "Option3": "Advanced Distributor Process",
+    "Option4": "Appliance Durability Promotion",
+    "Answer": "Apparatus Dew Point",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which design data is used for indoor air in summer air conditioning?",
+    "Option1": "20°C ± 1°C and 30% RH",
+    "Option2": "22°C ± 1°C and 40% RH",
+    "Option3": "24°C ± 1°C and 50% RH",
+    "Option4": "24°C ± 1°C and 60% RH",
+    "Answer": "24°C ± 1°C and 50% RH",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which atmospheric standard air is used in calculating air velocity?",
+    "Option1": "23°C and 760 mm",
+    "Option2": "22°C and 760 mm",
+    "Option3": "21°C and 760 mm",
+    "Option4": "20°C and 760 mm",
+    "Answer": "21°C and 760 mm",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which types of heat are considered for occupants heat gain in AC space?",
+    "Option1": "Radiant and latent heat",
+    "Option2": "Sensible and latent heat",
+    "Option3": "Sensible and radiant heat",
+    "Option4": "Specific and sensible heat",
+    "Answer": "Sensible and latent heat",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the minimum quantity of fresh air needed per person in comfort AC?",
+    "Option1": "3 to 4.5 cfm",
+    "Option2": "4 to 5.5 cfm",
+    "Option3": "5 to 7.5 cfm",
+    "Option4": "2 to 3.5 cfm",
+    "Answer": "5 to 7.5 cfm",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "How the reciprocal of air density is mentioned in psychrometric chart?",
+    "Option1": "Specific gravity",
+    "Option2": "Specific heat ratio",
+    "Option3": "Sensible heat ratio",
+    "Option4": "Specific volume per unit mass",
+    "Answer": "Specific volume per unit mass",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which is expressed in the scale marked along X ?",
+    "Option1": "Entropy",
+    "Option2": "Enthalpy",
+    "Option3": "Latent heat",
+    "Option4": "Sensible heat",
+    "Answer": "Enthalpy",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/MRAC%2FSEM4%2F001%20TO%20025%2F8.PNG?alt=media&token=22532f95-e207-41e0-9c6b-3a4e4806c710"
+  },
+  {
+    "Question": "Which instrument is used to measure the velocity pressure of air in ducting system?",
+    "Option1": "Nanometer",
+    "Option2": "Pitot tube",
+    "Option3": "Barometer",
+    "Option4": "Bourdeon tube",
+    "Answer": "Pitot tube",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which instrument measures the humidity of air?",
+    "Option1": "Barometer",
+    "Option2": "Manometer",
+    "Option3": "Hygrometer",
+    "Option4": "Hydrometer",
+    "Answer": "Hygrometer",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which psychometric process takes place if the air is passed through hygroscopic chemicals?",
+    "Option1": "Sensible heating of air",
+    "Option2": "Heating and humidification",
+    "Option3": "Heating and cleaning of air",
+    "Option4": "Heating and dehumidification",
+    "Answer": "Heating and dehumidification",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which process increases the specific humidity of air at constant dry bulb temperature?",
+    "Option1": "Humidification of air",
+    "Option2": "Sensible cooling of air",
+    "Option3": "Sensible heating of air",
+    "Option4": "Dehumidification of air",
+    "Answer": "Humidification of air",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which process decreases the dry bulb temperature of air at constant specific humidity?",
+    "Option1": "Humidification of air",
+    "Option2": "Sensible cooling of air",
+    "Option3": "Sensible heating of air",
+    "Option4": "Dehumidification of air",
+    "Answer": "Sensible cooling of air",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the name of part marked as x in a Fan Coil Unit?",
+    "Option1": "Fan scroll",
+    "Option2": "Filter Pad",
+    "Option3": "Main Drain Pan",
+    "Option4": "Colis Fan Motor",
+    "Answer": "Fan scroll",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/MRAC%2FSEM4%2F001%20TO%20025%2F14.PNG?alt=media&token=cc09c2ab-7b23-4ac8-900d-f40aea384136"
+  },
+  {
+    "Question": "What is the direction of airflow delivered in a centrifugal blower?",
+    "Option1": "Parallel to the shaft",
+    "Option2": "Perpendicular to the shaft",
+    "Option3": "Inclined throw of air vertically",
+    "Option4": "Inclined throw of air horizontally",
+    "Answer": "Perpendicular to the shaft",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the name of part marked as x in a fan motor?",
+    "Option1": "Stator",
+    "Option2": "Rotor",
+    "Option3": "Oil cup",
+    "Option4": "Bearings",
+    "Answer": "Oil cup",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/MRAC%2FSEM4%2F001%20TO%20025%2F16.PNG?alt=media&token=ea15aa78-97bd-4c55-b8d2-f02b9ca7cc99"
+  },
+  {
+    "Question": "What is the name of part marked as x in the\ncentrifugal switch?",
+    "Option1": "Spring",
+    "Option2": "Shaft lever",
+    "Option3": "Contact points",
+    "Option4": "Centrifugal weight",
+    "Answer": "Contact points",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/MRAC%2FSEM4%2F001%20TO%20025%2F17.PNG?alt=media&token=f24562eb-550b-4760-8551-9609cacf20dd"
+  },
+  {
+    "Question": "Which property is considered for a\ntemperature range in selecting a lubricant oil?",
+    "Option1": "Natural",
+    "Option2": "Artificial",
+    "Option3": "Viscosity",
+    "Option4": "Cost effective",
+    "Answer": "Viscosity",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the name of part marked as x in\nbelt driven type fan?",
+    "Option1": "Scroll",
+    "Option2": "Wheel",
+    "Option3": "Bearings",
+    "Option4": "Belt guard",
+    "Answer": "Bearings",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/MRAC%2FSEM4%2F001%20TO%20025%2F19.PNG?alt=media&token=47faffff-9f0d-4854-85e5-4c918f5f8d57"
+  },
+  {
+    "Question": "What is the name of part marked as x in\nAHU?",
+    "Option1": "Fan",
+    "Option2": "Filter",
+    "Option3": "Mixing box",
+    "Option4": "Cooling coil",
+    "Answer": "Cooling coil",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/MRAC%2FSEM4%2F001%20TO%20025%2F20.PNG?alt=media&token=48301e1d-9d58-4673-af41-bd23d1fa7212"
+  },
+  {
+    "Question": "Which device controls the air flow in\nducting system?",
+    "Option1": "Grille",
+    "Option2": "Damper",
+    "Option3": "Register",
+    "Option4": "Diffuser",
+    "Answer": "Damper",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is phenotherm?",
+    "Option1": "A ducting clamp",
+    "Option2": "An insulation material",
+    "Option3": "A chemical substance",
+    "Option4": "Temperature measuring device",
+    "Answer": "An insulation material",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the type of bearing?",
+    "Option1": "Ball bearing",
+    "Option2": "Spherical roller bearing",
+    "Option3": "Tapered roller bearing",
+    "Option4": "Cylindrical roller bearing",
+    "Answer": "Spherical roller bearing",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/MRAC%2FSEM4%2F001%20TO%20025%2F23.PNG?alt=media&token=1c833d11-0af8-461e-b043-9a7adf7d03ae"
+  },
+  {
+    "Question": "What is the wet bulb temperature of air if dry bulb temperature is 35°C and wet bulb depression is 4°C?",
+    "Option1": "30°C",
+    "Option2": "31°C",
+    "Option3": "32°C",
+    "Option4": "33°C",
+    "Answer": "31°C",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the dew point depression of air if dry bulb and dew point temperatures are 36°C and 32°C respectively?",
+    "Option1": "2°C",
+    "Option2": "4°C",
+    "Option3": "6°C",
+    "Option4": "8°C",
+    "Answer": "4°C",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  }
+]

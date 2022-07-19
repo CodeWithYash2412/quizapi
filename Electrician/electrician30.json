@@ -1,0 +1,227 @@
+[
+  {
+    "Question": "Which type of single phase motor is used for hard disk drives?",
+    "Option1": "Stepper motor",
+    "Option2": "Repulsion motor",
+    "Option3": "Hysteresis motor",
+    "Option4": "Reluctance motor",
+    "Answer": "Stepper motor",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the function of centrifugal switch used in capacitor start, capacitor run induction motor?",
+    "Option1": "Disconnect the running winding after reached 75% to 80% speed",
+    "Option2": "Disconnect the starting winding after reached 75% to 80% speed",
+    "Option3": "Disconnect the starting capacitor after reached 75% to 80% speed",
+    "Option4": "Disconnect the starting and running winding after reached 75% to 80% speed",
+    "Answer": "Disconnect the starting capacitor after reached 75% to 80% speed",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which type of single phase motor is having very high starting torque than any other type of single phase motor?",
+    "Option1": "Universal motor",
+    "Option2": "Reluctance motor",
+    "Option3": "Repulsion start induction run motor",
+    "Option4": "Capacitor start induction run motor",
+    "Answer": "Universal motor",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Where the capacitor is connected in a single phase permanent capacitor motor?",
+    "Option1": "In series with starting winding",
+    "Option2": "In series with running winding",
+    "Option3": "In parallel with starting winding",
+    "Option4": "In parallel with running winding",
+    "Answer": "In series with starting winding",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which motor is used in table fan?",
+    "Option1": "Universal motor",
+    "Option2": "Shaded pole motor",
+    "Option3": "Eddy current motor",
+    "Option4": "Permanent capacitor motor",
+    "Answer": "Permanent capacitor motor",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the effect, if coil group connection is wrongly connected in a single phase motor rewinding?",
+    "Option1": "Motor runs slowly",
+    "Option2": "Motor will not run",
+    "Option3": "Motor runs in very high speed",
+    "Option4": "Motor runs and takes more current at no load",
+    "Answer": "Motor will not run",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the effect in a repulsion motor, if the magnetic axis shifted to another side?",
+    "Option1": "Direction of rotation will change",
+    "Option2": "Direction of rotation remains same",
+    "Option3": "Motor speed increases from rated speed",
+    "Option4": "Motor speed will reduce from rated speed",
+    "Answer": "Direction of rotation will change",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/Electrician%2FSEM3%2FElectrician30%2F247.PNG?alt=media&token=82c294f5-7c5c-4c2f-be8c-678a23a4bfac"
+  },
+  {
+    "Question": "What is the effect if the centrifugal switch is not disconnected after the motor starts?",
+    "Option1": "Motor will run normally",
+    "Option2": "Motor will stop immediately",
+    "Option3": "Starting winding will burn out",
+    "Option4": "Motor will run very slow speed",
+    "Answer": "Starting winding will burn out",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "How the direction of rotation of repulsion motors is to be reversed?",
+    "Option1": "By shifting the brush-axis",
+    "Option2": "By interchanging the supply terminals",
+    "Option3": "By changing the main winding terminals",
+    "Option4": "By changing the compensating winding terminals",
+    "Answer": "By shifting the brush-axis",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Why a capacitor is connected across centrifugal switch in the centrifugal switch speed control method?",
+    "Option1": "To maintain constant speed",
+    "Option2": "To protect from over loading",
+    "Option3": "To improve the power factor",
+    "Option4": "To reduce the sparks in contacts",
+    "Answer": "To reduce the sparks in contacts",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the effect, if some slots in a split phase motor left out without winding after completion of concentric winding?",
+    "Option1": "Works normally",
+    "Option2": "Reduction in speed",
+    "Option3": "Reduction in torque",
+    "Option4": "Runs with very high speed",
+    "Answer": "Works normally",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "How the radio interference can be suppressed in centrifugal switch method of speed control of universal motor?",
+    "Option1": "By connecting capacitor across centrifugal switch",
+    "Option2": "By connecting capacitor in series with centrifugal switch",
+    "Option3": "By adding compensating winding with armature",
+    "Option4": "By connecting an inductor in series with centrifugal switch",
+    "Answer": "By connecting capacitor across centrifugal switch",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which formula is used to calculate EMF/phase in a ideal alternator?",
+    "Option1": "𝐸 = 𝜑𝐹𝑇 / 2.22",
+    "Option2": "𝐸 = 𝜑𝐹𝑇 / 4.44",
+    "Option3": "E = 2.22 ᵩ FT",
+    "Option4": "E = 4.44 ᵩ FT",
+    "Answer": "E = 4.44 ᵩ FT",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which rule is used to find the direction of induced emf in an alternator?",
+    "Option1": "Cork screw rule",
+    "Option2": "Right hand palm rule",
+    "Option3": "Fleming’s left hand rule",
+    "Option4": "Fleming’s right hand rule",
+    "Answer": "Fleming’s right hand rule",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the name of the part of alternator?",
+    "Option1": "Stator",
+    "Option2": "Exciter",
+    "Option3": "Salient pole rotor",
+    "Option4": "Smooth cylindrical rotor",
+    "Answer": "Salient pole rotor",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/Electrician%2FSEM3%2FElectrician30%2F255.PNG?alt=media&token=4dc48be1-c201-4997-b27a-698d537c35bc"
+  },
+  {
+    "Question": "What is the formula to calculate emf equation of an alternator?",
+    "Option1": "E = 4.44 Kd Kc T ɸm",
+    "Option2": "E = 2.22 Kd Kc Fɸm",
+    "Option3": "E = 4.44 Kd Kc FT ɸm",
+    "Option4": "E = 1.11 Kd Kc F ɸm",
+    "Answer": "E = 4.44 Kd Kc FT ɸm",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "How alternators are rated?",
+    "Option1": "KVA",
+    "Option2": "KW",
+    "Option3": "MW",
+    "Option4": "KV",
+    "Answer": "KVA",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which formula is used to calculate the percentage voltage regulation in alternator?",
+    "Option1": "𝑉𝐹𝐿−𝑉𝑁𝐿 / 𝑉𝐹𝐿 𝑥 100",
+    "Option2": "𝑉𝑁𝐿−𝑉𝐹𝐿 / 𝑉𝐹𝐿 𝑥 100",
+    "Option3": "𝑉𝑁𝐿−𝑉𝐹𝐿 / 𝑉𝑁𝐿 𝑥 100",
+    "Option4": "𝑉𝐹𝐿−𝑉𝑁𝐿 / 𝑉𝑁𝐿 𝑥 100",
+    "Answer": "𝑉𝑁𝐿−𝑉𝐹𝐿 / 𝑉𝐹𝐿 𝑥 100",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the supply frequency of an alternator having 6 poles runs at 1000 rpm?",
+    "Option1": "25 Hz",
+    "Option2": "40 Hz",
+    "Option3": "50 Hz",
+    "Option4": "60 Hz",
+    "Answer": "50 Hz",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Calculate the speed of an alternator having 2 poles at a frequency of 50 Hz?",
+    "Option1": "1500 rpm",
+    "Option2": "2500 rpm",
+    "Option3": "3000 rpm",
+    "Option4": "6000 rpm",
+    "Answer": "3000 rpm",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What condition the lamps become dark in dark lamp method of parallel operation of two alternators?",
+    "Option1": "Terminal voltages are equal",
+    "Option2": "Voltage and frequency are equal",
+    "Option3": "Voltage and power rating are equal",
+    "Option4": "Frequency are same in both alternator",
+    "Answer": "Voltage and frequency are equal",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "How to compensate de-magnetizing effect due to armature reaction in an alternator?",
+    "Option1": "Reducing the speed of alternator",
+    "Option2": "Reducing field excitation current",
+    "Option3": "Increasing field excitation current",
+    "Option4": "Increasing the speed of alternator",
+    "Answer": "Increasing field excitation current",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the use of synchroscope?",
+    "Option1": "Adjust the output voltage",
+    "Option2": "Adjust the phase sequence",
+    "Option3": "Adjust the supply frequency",
+    "Option4": "Indicate the correct instant for paralleling",
+    "Answer": "Indicate the correct instant for paralleling",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the name of the equipment that provides D.C to the rotor of alternator?",
+    "Option1": "Exciter",
+    "Option2": "Inverter",
+    "Option3": "Converter",
+    "Option4": "Synchroniser",
+    "Answer": "Exciter",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the purpose of damper winding in alternator?",
+    "Option1": "Reduces the copper loss",
+    "Option2": "Reduces windage losses",
+    "Option3": "Reduces the hunting effect",
+    "Option4": "Improves the voltage regulation",
+    "Answer": "Reduces the hunting effect",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  }
+]

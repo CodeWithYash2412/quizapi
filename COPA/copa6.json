@@ -1,0 +1,227 @@
+[
+  {
+    "Question": "Which function in Excel is used to find the biggest value in a range?",
+    "Option1": "Ceiling",
+    "Option2": "DMAX",
+    "Option3": "LEN",
+    "Option4": "MAX",
+    "Answer": "MAX",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which one of the following is a text function in MS Excel?",
+    "Option1": "MID()",
+    "Option2": "NOW()",
+    "Option3": "COUNT()",
+    "Option4": "SIGN",
+    "Answer": "MID()",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which one of the following is a ‘Date & Time’ function in Excel?",
+    "Option1": "FIND()",
+    "Option2": "MOD()",
+    "Option3": "NOW()",
+    "Option4": "MID()",
+    "Answer": "NOW()",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which function is used to find the middle number in a range?",
+    "Option1": "MEDIAN()",
+    "Option2": "MID()",
+    "Option3": "TRIM()",
+    "Option4": "MODE()",
+    "Answer": "MEDIAN()",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the purpose ‘Tab’ key in MS Excel?",
+    "Option1": "Moves cell pointer to previous column",
+    "Option2": "Moves cell pointer to next column",
+    "Option3": "Moves cell pointer previous row",
+    "Option4": "Moves cell pointer next row",
+    "Answer": "Moves cell pointer to next column",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the purpose of ‘Enter Key’ in MS Excel?",
+    "Option1": "Moves cell pointer to previous column",
+    "Option2": "Moves cell pointer to next column",
+    "Option3": "Moves cell pointer to previous row",
+    "Option4": "Moves cell pointer to next row",
+    "Answer": "Moves cell pointer to next row",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which function key is used to open goto dialogue box in MS Excel?",
+    "Option1": "F2",
+    "Option2": "F5",
+    "Option3": "F7",
+    "Option4": "F11",
+    "Answer": "F5",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which option in MS Excel is used to display the rows that meet certain conditions?",
+    "Option1": "Find",
+    "Option2": "Filter",
+    "Option3": "Format",
+    "Option4": "Sort",
+    "Answer": "Filter",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which option in Excel is used to rearrange the rows base on the content of a particular column?",
+    "Option1": "Find",
+    "Option2": "Filter",
+    "Option3": "Sort",
+    "Option4": "Format",
+    "Answer": "Sort",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which type of addressing is used to keep rows constant and column changes and vice versa while copying a formula from one area of the worksheet to another in Excel?",
+    "Option1": "Mixed",
+    "Option2": "General",
+    "Option3": "Relative",
+    "Option4": "Absolute",
+    "Answer": "Mixed",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which one of the following is ‘no argument’ function?",
+    "Option1": "Now()",
+    "Option2": "Lower()",
+    "Option3": "Max()",
+    "Option4": "IF()",
+    "Answer": "Now()",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which key is used to move the insertion point to the beginning of the current sheet?",
+    "Option1": "Pageup",
+    "Option2": "Home",
+    "Option3": "Ctrl + pageup",
+    "Option4": "Ctrl + Home",
+    "Answer": "Ctrl + Home",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which sequence of operation is used to insert the hidden formula bar in Excel worksheet?",
+    "Option1": "View→Show/hide→Formula bar",
+    "Option2": "Insert→show/hide→Formula bar",
+    "Option3": "Data→show/hide→Formula bar",
+    "Option4": "Home→show/hide→formula bar",
+    "Answer": "View→Show/hide→Formula bar",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which option is used to change the direction where the cursor moves when you press the enter key in Excel?",
+    "Option1": "Excel options→ Advance→Enable auto complete for cell values →",
+    "Option2": "Excel options→Advance→Extend data range formats",
+    "Option3": "Excel options→Advance→ choose direction by clicking down arrow next to check box",
+    "Option4": "Excel options→Advance→Enable fill handle and cell drag and drop",
+    "Answer": "Excel options→Advance→ choose direction by clicking down arrow next to check box",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which key is used to make multiple line in a single cell?",
+    "Option1": "Alt+ ↵",
+    "Option2": "Tab+↵",
+    "Option3": "Ctrl+ ↵",
+    "Option4": "Shift+ ↵",
+    "Answer": "Alt+ ↵",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which item, contains text graphics, charts, sound, video, etc., in power point",
+    "Option1": "Slides",
+    "Option2": "Folder",
+    "Option3": "Handouts",
+    "Option4": "Desktop screen",
+    "Answer": "Slides",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which contains miniature representation of slides?",
+    "Option1": "Slides",
+    "Option2": "Handout",
+    "Option3": "Template",
+    "Option4": "Slide master",
+    "Answer": "Handout",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which button is used to add instant animation to the presentation and helps interactive presentation?",
+    "Option1": "Add button",
+    "Option2": "Start button",
+    "Option3": "Insert button",
+    "Option4": "Action button",
+    "Answer": "Action button",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What type of software program is power point?",
+    "Option1": "Word Processor",
+    "Option2": "Spread Sheet",
+    "Option3": "Presentation Graphics",
+    "Option4": "Database Management",
+    "Answer": "Presentation Graphics",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which tool allows user to select different layout for slide?",
+    "Option1": "Apply design",
+    "Option2": "Bullets",
+    "Option3": "New slide",
+    "Option4": "Slide Layout",
+    "Answer": "Apply design",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which key is used to stop a power point presentation?",
+    "Option1": "ESC",
+    "Option2": "Tab",
+    "Option3": "Ctrl",
+    "Option4": "Enter",
+    "Answer": "ESC",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which shortcut key is used to create new presentation in powerpoint?",
+    "Option1": "Ctrl + P",
+    "Option2": "Ctrl + N",
+    "Option3": "Ctrl + M",
+    "Option4": "Ctrl + X",
+    "Answer": "Ctrl + N",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "How many panes are these in backstage view in power point 2010?",
+    "Option1": 3,
+    "Option2": 5,
+    "Option3": 7,
+    "Option4": 9,
+    "Answer": 3,
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which menu is used to apply various effects to the text in a slide?",
+    "Option1": "Animation",
+    "Option2": "Design",
+    "Option3": "Transitions",
+    "Option4": "Slide show",
+    "Answer": "Animation",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which menu is used to apply various visual effects to the slide in power point?",
+    "Option1": "Animation",
+    "Option2": "Design",
+    "Option3": "Slide show",
+    "Option4": "Transitions",
+    "Answer": "Transitions",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  }
+]

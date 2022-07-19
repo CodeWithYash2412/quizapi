@@ -1,0 +1,227 @@
+[
+  {
+    "Question": "Which is general safety in CNC turning?",
+    "Option1": "Do not use non standard tools / holders",
+    "Option2": "Check the voltage and current",
+    "Option3": "Check the chuck function",
+    "Option4": "Check the programme control levels",
+    "Answer": "Do not use non standard tools / holders",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the safety check on the CNC\nmachine after start?",
+    "Option1": "Check the chuck function",
+    "Option2": "Check the voltage and current",
+    "Option3": "Check the hydraulic tank oil level",
+    "Option4": "Check the clamping stock",
+    "Answer": "Check the chuck function",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the name of machine system?",
+    "Option1": "Convention",
+    "Option2": "Auto tool changers",
+    "Option3": "Numerical control",
+    "Option4": "Computer numerical control",
+    "Answer": "Auto tool changers",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/VMC%2F1.PNG?alt=media&token=d0f98aba-a313-4d61-a197-cea593e2a1fc"
+  },
+  {
+    "Question": "What is the first step to stop CNC machine\nof an accident happen while working?",
+    "Option1": "Switch off regulator",
+    "Option2": "Press emergency switch",
+    "Option3": "Reset machine",
+    "Option4": "Reset regulator",
+    "Answer": "Press emergency switch",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which motor control the axes of CNC\nmachine?",
+    "Option1": "Air motor",
+    "Option2": "DC series motor",
+    "Option3": "Servo motor",
+    "Option4": "Hydraulic motor",
+    "Answer": "Servo motor",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which mechanism reduces the back lash\nof CNC lathe?",
+    "Option1": "Stopper",
+    "Option2": "Clutch",
+    "Option3": "Recirculating ball screw with nut",
+    "Option4": "Break",
+    "Answer": "Recirculating ball screw with nut",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is G04?",
+    "Option1": "Linear interpolation",
+    "Option2": "CW circular interpolation",
+    "Option3": "CCW Circular Interpolation",
+    "Option4": "Dwell time",
+    "Answer": "Dwell time",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which type of chuck is used in a CNC\nlathe?",
+    "Option1": "Two jaw chuck",
+    "Option2": "Three jaw chuck",
+    "Option3": "Hydraulic chuck",
+    "Option4": "Four Jaw chuck",
+    "Answer": "Hydraulic chuck",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the maximum machining length in\na CNC lathe?",
+    "Option1": "320 mm",
+    "Option2": "245 mm",
+    "Option3": "200 mm",
+    "Option4": "340 mm",
+    "Answer": "245 mm",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the spindle speed range in CNC\nmachine?",
+    "Option1": "40-500 RAM",
+    "Option2": "40-4000 RAM",
+    "Option3": "10-600 RAM",
+    "Option4": "30-1000 RAM",
+    "Answer": "40-4000 RAM",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the name part marked as ‘X’ in\nblock diagram of CNC machine tool?",
+    "Option1": "X- axis position transducer",
+    "Option2": "Y- axis position transducer",
+    "Option3": "X- axis servomotor",
+    "Option4": "Y- axis servomotor",
+    "Answer": "Y- axis servomotor",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/VMC%2F2.PNG?alt=media&token=1f9664ad-faf0-41bc-8bb4-83b74634afcd"
+  },
+  {
+    "Question": "What types of taper is in the CNC machine\nspindle?",
+    "Option1": "ISO 40",
+    "Option2": "Morse taper",
+    "Option3": "Jarno taper",
+    "Option4": "Pin taper",
+    "Answer": "ISO 40",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What R denotes as per ISO designation of\nboring bar S32USKKR12 of CNC lathe?",
+    "Option1": "Shank type",
+    "Option2": "Clearence angle",
+    "Option3": "Tool length",
+    "Option4": "Cutting direction",
+    "Answer": "Cutting direction",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which describing machine tool movement\nin CNC?",
+    "Option1": "G-code",
+    "Option2": "M-code",
+    "Option3": "T-word",
+    "Option4": "S-word",
+    "Answer": "G-code",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What ‘N’ of ISO insert tool specifies?",
+    "Option1": "Shape",
+    "Option2": "Grade",
+    "Option3": "Material",
+    "Option4": "Relief angle",
+    "Answer": "Relief angle",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is M8 represent in programs off CPU\ntapping?",
+    "Option1": "Coolant off",
+    "Option2": "Coolant on",
+    "Option3": "Specific direction",
+    "Option4": "Tapping RH threads",
+    "Answer": "Coolant on",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which code represents in more flexible\nand suitable for threading longitudinal transverse\nand tapered thread?",
+    "Option1": "G 76",
+    "Option2": "G 92",
+    "Option3": "G 32",
+    "Option4": "G 34",
+    "Answer": "G 34",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which preparatory code should be\nselected for taper threading cycle?",
+    "Option1": "G 32",
+    "Option2": "G 92",
+    "Option3": "G 76",
+    "Option4": "G 33",
+    "Answer": "G 76",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which G-code is used for tapping left hand\nthread with thread M4 in CNC program?",
+    "Option1": "G 74",
+    "Option2": "G 84",
+    "Option3": "G 28",
+    "Option4": "G 9",
+    "Answer": "G 84",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the composition of stellite tool\nmaterial?",
+    "Option1": "Cobalt, Chromium and Tungsten",
+    "Option2": "Cobalt, Nikel and Tungsten",
+    "Option3": "Cobalt, Chromium and Nikel",
+    "Option4": "Cobalt, Carbon and Tungsten",
+    "Answer": "Cobalt, Chromium and Tungsten",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which is the tool selection word is\nspecified?",
+    "Option1": "G-Allowed by 5 digit numbers",
+    "Option2": "F-Allowed by 5 digit numbers",
+    "Option3": "S-Allowed by 5 digit numbers",
+    "Option4": "T-Allowed by 5 digit numbers",
+    "Answer": "T-Allowed by 5 digit numbers",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the expansion of CAD?",
+    "Option1": "Computer Aided Development",
+    "Option2": "Computer Aided Design",
+    "Option3": "Computer Automatic Development",
+    "Option4": "Computer Automatic Design",
+    "Answer": "Computer Aided Design",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which is the disadvantage of NC system?",
+    "Option1": "Accuracy cannot be a change",
+    "Option2": "Increase compound rejection",
+    "Option3": "Skilled operator involves",
+    "Option4": "If tape is spoiled, entire program is affected",
+    "Answer": "If tape is spoiled, entire program is affected",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which guide way separate the surface\ncontact between the sliding parts by a thin layer of\nfluid?",
+    "Option1": ": Flat guide way",
+    "Option2": "Vee guide way",
+    "Option3": "Hydrostatic guide way",
+    "Option4": "Dovetail guide way",
+    "Answer": "Hydrostatic guide way",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "When the machine moves 25.49 mm for\nthe commond X = 25.50 mm, what must be the\npositional accuracy?",
+    "Option1": "0.001 mm",
+    "Option2": "0.01 mm",
+    "Option3": "0.1 mm",
+    "Option4": "1 mm",
+    "Answer": "0.01 mm",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  }
+]

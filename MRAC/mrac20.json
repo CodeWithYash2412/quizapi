@@ -1,0 +1,227 @@
+[
+  {
+    "Question": "Which insulating material is used in duct work?",
+    "Option1": "Wood",
+    "Option2": "Plastic",
+    "Option3": "Rubber",
+    "Option4": "Glass wool",
+    "Answer": "Glass wool",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which device switches ON/OFF the car AC compressor?",
+    "Option1": "Crank shaft",
+    "Option2": "Blower unit",
+    "Option3": "Rotor winding",
+    "Option4": "Magnetic clutch",
+    "Answer": "Magnetic clutch",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which control switch is connected in series with magnetic clutch in Car AC wiring?",
+    "Option1": "Piston pin",
+    "Option2": "Thermostat control",
+    "Option3": "Automatic expansion valve",
+    "Option4": "Thermostatic expansion valve",
+    "Answer": "Thermostat control",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which safety control is electrically connected in series with magnetic clutch of compressor in car AC?",
+    "Option1": "TEV",
+    "Option2": "AEV",
+    "Option3": "HPC",
+    "Option4": "EEV",
+    "Answer": "HPC",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is ensured before starting a vacuum pump?",
+    "Option1": "What is ensured before starting a vacuum pump?",
+    "Option2": "Capacity of the pump",
+    "Option3": "Weight of vacuum pump",
+    "Option4": "Available ac power supply",
+    "Answer": "What is ensured before starting a vacuum pump?",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the advantage of multi split air conditioners?",
+    "Option1": "One outdoor unit for one indoor unit",
+    "Option2": "two outdoor units for one indoor unit",
+    "Option3": "Several outdoor units for one indoor unit",
+    "Option4": "One outdoor unit for several indoor units",
+    "Answer": "One outdoor unit for several indoor units",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which part of car AC compressor actuates the piston directly?",
+    "Option1": "Crank shaft and connecting rod",
+    "Option2": "Rotor and stator",
+    "Option3": "Swash plate",
+    "Option4": "Blower unit",
+    "Answer": "Swash plate",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which part of the compressor converts rotary into reciprocating motion of piston in car AC?",
+    "Option1": "Connecting rod",
+    "Option2": "Magnetic clutch",
+    "Option3": "Swash plate",
+    "Option4": "Crank shaft",
+    "Answer": "Swash plate",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the use of magnetic clutch in Car AC?",
+    "Option1": "Indicate liquid level in the compressor",
+    "Option2": "Indicate oil level in the compressor",
+    "Option3": "Control ON/OFF for compressor",
+    "Option4": "Add oil in the system",
+    "Answer": "Control ON/OFF for compressor",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the differential of control switch if it cuts in at 29 kg/cm2 and cuts out at 34 kg/cm2?",
+    "Option1": "5 kg / cm2",
+    "Option2": "10 kg / cm2",
+    "Option3": "15 kg / cm2",
+    "Option4": "20 kg / cm2",
+    "Answer": "5 kg / cm2",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which is sensed by TEV in response to heat load variation?",
+    "Option1": "Sub cool in liquid line",
+    "Option2": "Discharge temperature",
+    "Option3": "Super heat in suction line",
+    "Option4": "Evaporating temperature",
+    "Answer": "Super heat in suction line",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the cause for noise in indoor unit of a multi split air conditioner?",
+    "Option1": "Refrigerant leak",
+    "Option2": "Blower is loosened",
+    "Option3": "Running current is high",
+    "Option4": "Compressor not working",
+    "Answer": "Blower is loosened",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is indicated by the bubbles in car AC’s sight glass?",
+    "Option1": "Pressure of air",
+    "Option2": "Poor compression",
+    "Option3": "Excess of refrigerant",
+    "Option4": "Shortage of refrigerant",
+    "Answer": "Shortage of refrigerant",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Why the idler pulley is used in belt driven car AC?",
+    "Option1": "Decrease the belt vibration",
+    "Option2": "Increase the belt tension",
+    "Option3": "Increase the feathering",
+    "Option4": "Decrease the belt tension",
+    "Answer": "Decrease the belt vibration",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the effect of increased out door temperature in car AC?",
+    "Option1": "Compressor runs more time",
+    "Option2": "Compressor runs less time",
+    "Option3": "Performance remains the same",
+    "Option4": "Performance increases",
+    "Answer": "Compressor runs more time",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which causes the clogged orifice in TEV of car AC system?",
+    "Option1": "Nitrogen",
+    "Option2": "Oxygen",
+    "Option3": "Moisture",
+    "Option4": "Non condensable gases",
+    "Answer": "Moisture",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the effect of longer suction and liquid piping in AC?",
+    "Option1": "No pressure rise",
+    "Option2": "More pressure drop",
+    "Option3": "Less pressure drop",
+    "Option4": "Medium pressure rise",
+    "Answer": "More pressure drop",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the effect of operating the compressor under 5 of Hg vacuum during pump down process?",
+    "Option1": "Pumps oil to condenser",
+    "Option2": "Prevent motor damage in dome",
+    "Option3": "Prevent leakage in service valve",
+    "Option4": "Prevent piston damage",
+    "Answer": "Pumps oil to condenser",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is ensured before mounting condenser in car AC?",
+    "Option1": "Accessibility for future service",
+    "Option2": "Condenser top line to TEV inlet",
+    "Option3": "Condenser in line with car radiator",
+    "Option4": "Condenser bottom line to discharge line",
+    "Answer": "Accessibility for future service",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Why CFC 12 system is replaced by HFC 134a system in car AC?",
+    "Option1": "Increase ODP",
+    "Option2": "Increase GWP",
+    "Option3": "GWP becomes zero",
+    "Option4": "ODP becomes zero",
+    "Answer": "ODP becomes zero",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the cause of water leakage in indoor unit of multi split AC?",
+    "Option1": "Efficient water pump",
+    "Option2": "Drain line not properly installed",
+    "Option3": "Condenser water pump defective",
+    "Option4": "Over flow of water from cooling tower sump",
+    "Answer": "Drain line not properly installed",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the reason for no cooling effect in car AC?",
+    "Option1": "Air in the system",
+    "Option2": "Excess of refrigerant",
+    "Option3": "Refrigerant leaked",
+    "Option4": "Moisture in the system",
+    "Answer": "Refrigerant leaked",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the reason for sweating of water on drier filter?",
+    "Option1": "Air filter blocked",
+    "Option2": "Partially chocked drier filter",
+    "Option3": "More air flows through the",
+    "Option4": "Dust accumulated on condenser surface",
+    "Answer": "Partially chocked drier filter",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the cause of reduction in fan’s air flow?",
+    "Option1": "Leak in the system",
+    "Option2": "Fan capacitor is weak",
+    "Option3": "Refrigerant under charge",
+    "Option4": "Supply voltage is normal",
+    "Answer": "Fan capacitor is weak",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the reason for poor cooling effect in multi split air conditioner?",
+    "Option1": "Efficient compressor",
+    "Option2": "Proper condensation",
+    "Option3": "Good insulation",
+    "Option4": "Dirty air filter",
+    "Answer": "Dirty air filter",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  }
+]

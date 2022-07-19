@@ -1,0 +1,227 @@
+[
+  {
+    "Question": "What is the name of the centre?",
+    "Option1": "Female centre",
+    "Option2": "Ordinary centre",
+    "Option3": "Revolving centre",
+    "Option4": "Self-driving live centre",
+    "Answer": "Self-driving live centre",
+    "image": "https://firebasestorage.googleapis.com/v0/b/yash-c4f9c.appspot.com/o/Q34.PNG?alt=media&token=05e93a89-913a-42b4-96c5-597ee53a7973"
+  },
+  {
+    "Question": "What is the name of the centre?",
+    "Option1": "Pipe centre",
+    "Option2": "Swivel v centre",
+    "Option3": "Revolving centre",
+    "Option4": "Insert type centre",
+    "Answer": "Swivel v centre",
+    "image": "https://firebasestorage.googleapis.com/v0/b/yash-c4f9c.appspot.com/o/Q35.PNG?alt=media&token=d6832c5b-ee85-4ddb-89b4-e533e4b9b001"
+  },
+  {
+    "Question": "What is the name of the centre with a carbide tip is brazed into an ordinary steel shank?",
+    "Option1": "Ball centre",
+    "Option2": "Half centre",
+    "Option3": "Tipped centre",
+    "Option4": "Insert type centre",
+    "Answer": "Tipped centre",
+    "image": "https://firebasestorage.googleapis.com/v0/b/yash-c4f9c.appspot.com/o/no%20image.png?alt=media&token=f067c001-3ea1-4dc9-bb97-b57ff15d0432"
+  },
+  {
+    "Question": "What type of taper provited on the shank of lathe center?",
+    "Option1": "Jarno",
+    "Option2": "Morse",
+    "Option3": "Metric",
+    "Option4": "Brown&sharp",
+    "Answer": "Morse",
+    "image": "https://firebasestorage.googleapis.com/v0/b/yash-c4f9c.appspot.com/o/no%20image.png?alt=media&token=f067c001-3ea1-4dc9-bb97-b57ff15d0432"
+  },
+  {
+    "Question": "What is the name of the center?",
+    "Option1": "Insert type",
+    "Option2": "Self drivering",
+    "Option3": "Tipped centre",
+    "Option4": "Micro set adjustable",
+    "Answer": "Micro set adjustable",
+    "image": "https://firebasestorage.googleapis.com/v0/b/yash-c4f9c.appspot.com/o/Q38.PNG?alt=media&token=8cb0c000-be73-4e3b-9a4f-f3844245d700"
+  },
+  {
+    "Question": "What is the name of the centre accommodates in the main spindle sleeve?",
+    "Option1": "Dead centre",
+    "Option2": "Half centre",
+    "Option3": "Pipe centre",
+    "Option4": "Live centre",
+    "Answer": "Live centre",
+    "image": "https://firebasestorage.googleapis.com/v0/b/yash-c4f9c.appspot.com/o/no%20image.png?alt=media&token=f067c001-3ea1-4dc9-bb97-b57ff15d0432"
+  },
+  {
+    "Question": "Where is the dead centre fixed on lathe?",
+    "Option1": "Carriage",
+    "Option2": "Tail stock",
+    "Option3": "Head stock",
+    "Option4": "Cross-Stock",
+    "Answer": "Tail stock",
+    "image": "https://firebasestorage.googleapis.com/v0/b/yash-c4f9c.appspot.com/o/no%20image.png?alt=media&token=f067c001-3ea1-4dc9-bb97-b57ff15d0432"
+  },
+  {
+    "Question": "What is the inclined angle of dead centre conical point?",
+    "Option1": "90°",
+    "Option2": "60°",
+    "Option3": "50°",
+    "Option4": "30°",
+    "Answer": "60°",
+    "image": "https://firebasestorage.googleapis.com/v0/b/yash-c4f9c.appspot.com/o/no%20image.png?alt=media&token=f067c001-3ea1-4dc9-bb97-b57ff15d0432"
+  },
+  {
+    "Question": "What is the name of the accessory?",
+    "Option1": "Face plate",
+    "Option2": "Angle plate",
+    "Option3": "Catch plate",
+    "Option4": "Driving plate",
+    "Answer": "Driving plate",
+    "image": "https://firebasestorage.googleapis.com/v0/b/yash-c4f9c.appspot.com/o/Q42.PNG?alt=media&token=1f844521-5f30-4f65-a877-f8375250143a"
+  },
+  {
+    "Question": "What is the name of the part ‘X’?",
+    "Option1": "Face plate",
+    "Option2": "Catch plate",
+    "Option3": "Driving plate",
+    "Option4": "Safety driving plate",
+    "Answer": "Safety driving plate",
+    "image": "https://firebasestorage.googleapis.com/v0/b/yash-c4f9c.appspot.com/o/Q43.PNG?alt=media&token=f722722b-66c3-4acd-8e27-1450957e4127"
+  },
+  {
+    "Question": "What is the accessory marked ‘X’?",
+    "Option1": "Face plate",
+    "Option2": "Angle plate",
+    "Option3": "Catch plate",
+    "Option4": "Driving plate",
+    "Answer": "Catch plate",
+    "image": "https://firebasestorage.googleapis.com/v0/b/yash-c4f9c.appspot.com/o/Q44.PNG?alt=media&token=d70ef89a-c8ab-4a61-bb29-505a34a9eb40"
+  },
+  {
+    "Question": "What is the name of the accessory?",
+    "Option1": "Face plate",
+    "Option2": "Angle plate",
+    "Option3": "Catch plate",
+    "Option4": "Driving plate",
+    "Answer": "Face plate",
+    "image": "https://firebasestorage.googleapis.com/v0/b/yash-c4f9c.appspot.com/o/Q45.PNG?alt=media&token=c5f94f65-e9a2-4f6a-b4ec-c62410a76020"
+  },
+  {
+    "Question": "What is the name of the part ‘X’?",
+    "Option1": "Counter weight",
+    "Option2": "Clamping bolt",
+    "Option3": "Angle plate",
+    "Option4": "Parallel",
+    "Answer": "Counter weight",
+    "image": "https://firebasestorage.googleapis.com/v0/b/yash-c4f9c.appspot.com/o/Q46.PNG?alt=media&token=219f411f-618e-41fd-9284-970b52e0886a"
+  },
+  {
+    "Question": "What is the name of the part marked ‘X’?",
+    "Option1": "Live centre",
+    "Option2": "Catch plate",
+    "Option3": "Lathe carrier",
+    "Option4": "Driving plate",
+    "Answer": "Lathe carrier",
+    "image": "https://firebasestorage.googleapis.com/v0/b/yash-c4f9c.appspot.com/o/Q47.PNG?alt=media&token=b2f992c4-a4b7-4cf2-9673-8c0a7d608809"
+  },
+  {
+    "Question": "which part is assembled in compound rest other than compound slide?",
+    "Option1": "Swivel base",
+    "Option2": "Cross slide",
+    "Option3": "Saddle",
+    "Option4": "Apron",
+    "Answer": "Swivel base",
+    "image": "https://firebasestorage.googleapis.com/v0/b/yash-c4f9c.appspot.com/o/no%20image.png?alt=media&token=f067c001-3ea1-4dc9-bb97-b57ff15d0432"
+  },
+  {
+    "Question": "what is the specification of centre lathe marked ‘X’?",
+    "Option1": "Swing over bed",
+    "Option2": "Diameter of work",
+    "Option3": "Swing over carriage",
+    "Option4": "Size of spindle bore",
+    "Answer": "Swing over bed",
+    "image": "https://firebasestorage.googleapis.com/v0/b/yash-c4f9c.appspot.com/o/Q49.PNG?alt=media&token=8e5110ee-d53e-4bc1-9e4a-04165956415b"
+  },
+  {
+    "Question": "What is the specification of centre lathe wheel as ‘X’?",
+    "Option1": "Sine of spindle bore",
+    "Option2": "The swing over bed",
+    "Option3": "Length of the bed",
+    "Option4": "Length between centres",
+    "Answer": "Length between centres",
+    "image": "https://firebasestorage.googleapis.com/v0/b/yash-c4f9c.appspot.com/o/Q50.PNG?alt=media&token=61f49693-a24e-43b8-8c49-f5e65c17462a"
+  },
+  {
+    "Question": "What is the specification of centre lathe marked as ‘X’?",
+    "Option1": "Length of the bed",
+    "Option2": "The swing over bed",
+    "Option3": "Size of spindle bore",
+    "Option4": "Length between centres",
+    "Answer": "Length of the bed",
+    "image": "https://firebasestorage.googleapis.com/v0/b/yash-c4f9c.appspot.com/o/Q51.PNG?alt=media&token=57df1352-c4a4-4f62-88d0-ded6d1c0d853"
+  },
+  {
+    "Question": "What is the name of part marked as ‘X’?",
+    "Option1": "Tail stock",
+    "Option2": "Tool stock",
+    "Option3": "Head stock",
+    "Option4": "Compound rest",
+    "Answer": "Tail stock",
+    "image": "https://firebasestorage.googleapis.com/v0/b/yash-c4f9c.appspot.com/o/Q52.PNG?alt=media&token=7318cf9b-841b-4d0d-a5c1-4a4dbbe94d1e"
+  },
+  {
+    "Question": "What is the name of part marked as ‘x’ in centre lathe?",
+    "Option1": "Compound rest",
+    "Option2": "Cross-Slide",
+    "Option3": "Tool post",
+    "Option4": "Carriage",
+    "Answer": "Compound rest",
+    "image": "https://firebasestorage.googleapis.com/v0/b/yash-c4f9c.appspot.com/o/Q53.PNG?alt=media&token=f969cb0e-dbe4-452f-a96f-9fe37694c481"
+  },
+  {
+    "Question": "What is the name of part marked as ‘x’ in centre laths?",
+    "Option1": "Bed",
+    "Option2": "Carriage",
+    "Option3": "Feed shaft",
+    "Option4": "Lead screw",
+    "Answer": "Lead screw",
+    "image": "https://firebasestorage.googleapis.com/v0/b/yash-c4f9c.appspot.com/o/Q54.PNG?alt=media&token=74a918e0-5fec-4fd0-bf50-804c73d15b9f"
+  },
+  {
+    "Question": "What is the name of part marked as ‘x’ in centre laths?",
+    "Option1": "Bed",
+    "Option2": "Carriage",
+    "Option3": "Feed shaft",
+    "Option4": "Lead screw",
+    "Answer": "Feed shaft",
+    "image": "https://firebasestorage.googleapis.com/v0/b/yash-c4f9c.appspot.com/o/Q55.PNG?alt=media&token=8c0b4fea-933e-4b96-872c-1fe943f3bb91"
+  },
+  {
+    "Question": "What is the name of part marked as ‘x’ in centre laths?",
+    "Option1": "Bed",
+    "Option2": "Carriage",
+    "Option3": "Compound rest",
+    "Option4": "Quick change gear box",
+    "Answer": "Carriage",
+    "image": "https://firebasestorage.googleapis.com/v0/b/yash-c4f9c.appspot.com/o/Q56.PNG?alt=media&token=ae237db7-3ed7-4934-bc9c-5b61afeafda6"
+  },
+  {
+    "Question": "What is the name the part marked ‘x’ on headstock of lathe?",
+    "Option1": "Tail stock",
+    "Option2": "Lathe chuck",
+    "Option3": "Lathe spindle",
+    "Option4": "Speed change lever",
+    "Answer": "Lathe spindle",
+    "image": "https://firebasestorage.googleapis.com/v0/b/yash-c4f9c.appspot.com/o/Q57.PNG?alt=media&token=a48ce61a-9b5f-4194-b0a9-5a1f6290d4f9"
+  },
+  {
+    "Question": "What is the name of part marked ‘X’ in cone pulley head stock of lathe?",
+    "Option1": "Chuck",
+    "Option2": "Pinion",
+    "Option3": "Back gear shaft",
+    "Option4": "Stepped cone pulley",
+    "Answer": "Back gear shaft",
+    "image": "https://firebasestorage.googleapis.com/v0/b/yash-c4f9c.appspot.com/o/Q58.PNG?alt=media&token=25d019ab-b3e4-4cd5-a6a4-a419b3656b9e"
+  }
+]

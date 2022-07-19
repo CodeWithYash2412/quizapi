@@ -1,0 +1,227 @@
+[
+  {
+    "Question": "Which type of stress?",
+    "Option1": "Tensile stress",
+    "Option2": "Compressive stress",
+    "Option3": "Shear stress",
+    "Option4": "Torsional stress",
+    "Answer": "Compressive stress",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/M%26S%2F426%20TO%20450%2F176.PNG?alt=media&token=bcf0fe94-ebbc-4b0e-9659-4acf119c7a48"
+  },
+  {
+    "Question": "What are the various types of heat treatment processes?",
+    "Option1": "Annealing, Normalising, Hardening and Tempering",
+    "Option2": "Normalising, Heating, Cooling and Painting",
+    "Option3": "Hardening, Soaking, Painting and Packing",
+    "Option4": "Tempering, Cooling, Packing and Solling",
+    "Answer": "Annealing, Normalising, Hardening and Tempering",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the process of heat treatment?",
+    "Option1": "The process of heating and cooling to change the structure and properties",
+    "Option2": "The process of heating to change the dimensions",
+    "Option3": "The process of cooling to measure the dimensions",
+    "Option4": "The process of heating and bending as per our requirement",
+    "Answer": "The process of heating and cooling to change the structure and properties",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What are the various stages of heat treatment?",
+    "Option1": "Heating, Cooling and Quenching",
+    "Option2": "Quenching, Cooling and Heating",
+    "Option3": "Heating, Soaking and Quenching",
+    "Option4": "Soaking, Quenching and Cooling",
+    "Answer": "Heating, Soaking and Quenching",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the name of the structure formed, if a steel is heated for about 723°C?",
+    "Option1": "Cementide",
+    "Option2": "Austenite",
+    "Option3": "Martensite",
+    "Option4": "Ferrite",
+    "Answer": "Austenite",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which heat treatment process is done to refine the grain structure of the steel?",
+    "Option1": "Annealing",
+    "Option2": "Normalising",
+    "Option3": "Hardening",
+    "Option4": "Tempering",
+    "Answer": "Normalising",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the name of heat treatment process done to relieve strain and stress?",
+    "Option1": "Normalising",
+    "Option2": "Annealing",
+    "Option3": "Hardening",
+    "Option4": "Tempering",
+    "Answer": "Annealing",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which process produce equilibrium conditions?",
+    "Option1": "Annealing and Hardening",
+    "Option2": "Normalising and Tempering",
+    "Option3": "Annealing and Normalising",
+    "Option4": "Normalising and Tempering",
+    "Answer": "Annealing and Normalising",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which process steel is heated in a carbonaceous atmosphere for the penetration of carbon?",
+    "Option1": "Case hardening",
+    "Option2": "Nitriding",
+    "Option3": "Carburising",
+    "Option4": "Induction hardening",
+    "Answer": "Carburising",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which is the suitable nitriding process for all alloyed and unalloyed steels?",
+    "Option1": "Silver nitriding",
+    "Option2": "Nitriding in salt-bath",
+    "Option3": "Nitriding in Quenching tank",
+    "Option4": "Gas nitriding",
+    "Answer": "Nitriding in salt-bath",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the name of the heat treatment process, where the metal is heated and quenched in water or oil?",
+    "Option1": "Hardening",
+    "Option2": "Normalising and Tempering",
+    "Option3": "Annealing",
+    "Option4": "Tempering",
+    "Answer": "Hardening",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which is a kind of surface hardening process?",
+    "Option1": "Cementide",
+    "Option2": "Ferrite",
+    "Option3": "Nitriding",
+    "Option4": "Tempering",
+    "Answer": "Nitriding",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "How much time is allowed normally in soaking zone for a 10mm thick metal piece while hardening?",
+    "Option1": "5 minutes",
+    "Option2": "10 minutes",
+    "Option3": "15 minutes",
+    "Option4": "20 minutes",
+    "Answer": "5 minutes",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is colour of a metal piece when heated to 250°C while doing the tempering process?",
+    "Option1": "Blue",
+    "Option2": "Brown",
+    "Option3": "Purple",
+    "Option4": "Pale",
+    "Answer": "Brown",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the purpose of tempering a steel?",
+    "Option1": "To reduce the brittleness",
+    "Option2": "To remove the ductility",
+    "Option3": "To increase the hardness",
+    "Option4": "To increase the brittleness",
+    "Answer": "To reduce the brittleness",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is discount?",
+    "Option1": "Selling price is less than Cost price",
+    "Option2": "Selling price is greater than Cost price",
+    "Option3": "The reduction given to the selling price of a product",
+    "Option4": "Selling price + discount",
+    "Answer": "The reduction given to the selling price of a product",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is a profit?",
+    "Option1": "Selling price - Cost price",
+    "Option2": "Cost price - Selling price",
+    "Option3": "Selling price + Cost price",
+    "Option4": "Cost price + Selling price",
+    "Answer": "Selling price - Cost price",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the term, if an article is purchased?",
+    "Option1": "Selling price",
+    "Option2": "Cost price",
+    "Option3": "Margin price",
+    "Option4": "Discount price",
+    "Answer": "Cost price",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the expanded form of S.P?",
+    "Option1": "Selected Price",
+    "Option2": "Special Price",
+    "Option3": "Selling Price",
+    "Option4": "Super Price",
+    "Answer": "Selling Price",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which is the short form of profit and loss statement?",
+    "Option1": "P & L",
+    "Option2": "PR & LS",
+    "Option3": "PRO & LOS",
+    "Option4": "L & P",
+    "Answer": "P & L",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is denoted as ʹIʹ?",
+    "Option1": "Principal",
+    "Option2": "Interest",
+    "Option3": "Rate",
+    "Option4": "Year",
+    "Answer": "Interest",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "How the ʹPrincipalʹ is denoted in simple interest calculation?",
+    "Option1": "ʹPʹ",
+    "Option2": "ʹIʹ",
+    "Option3": "ʹRʹ",
+    "Option4": "ʹnʹ",
+    "Answer": "ʹPʹ",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the formula for the calculation of simple interest?",
+    "Option1": "l = Pnr/100",
+    "Option2": "l = 100/Pnr",
+    "Option3": "l = P x r/n x 100",
+    "Option4": "l = P x n/r x 100",
+    "Answer": "l = Pnr/100",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "How the years is denoted in simple interest calculations?",
+    "Option1": "P",
+    "Option2": "I",
+    "Option3": "n",
+    "Option4": "r",
+    "Answer": "n",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "How the profit / gain is expressed?",
+    "Option1": "₹",
+    "Option2": "$",
+    "Option3": "%",
+    "Option4": "*",
+    "Answer": "%",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  }
+]

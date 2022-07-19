@@ -1,0 +1,227 @@
+[
+  {
+    "Question": "What is the purpose of side clearance given on turning tool?",
+    "Option1": "To control the chip flow",
+    "Option2": "To increase the production",
+    "Option3": "To increase the strength of the tool",
+    "Option4": "To prevent the tool from rubbing with work",
+    "Answer": "To prevent the tool from rubbing with work",
+    "image": "https://firebasestorage.googleapis.com/v0/b/yash-c4f9c.appspot.com/o/no%20image.png?alt=media&token=f067c001-3ea1-4dc9-bb97-b57ff15d0432"
+  },
+  {
+    "Question": "Why the side relief angle is provided?",
+    "Option1": "Prevent the tool from getting jammed",
+    "Option2": "Increase the strength of the tool",
+    "Option3": "Increase the production",
+    "Option4": "To control the chip flow",
+    "Answer": "Prevent the tool from getting jammed",
+    "image": "https://firebasestorage.googleapis.com/v0/b/yash-c4f9c.appspot.com/o/no%20image.png?alt=media&token=f067c001-3ea1-4dc9-bb97-b57ff15d0432"
+  },
+  {
+    "Question": "What is the purpose of the angle?",
+    "Option1": "Prevent rubbing of the tool",
+    "Option2": "Control chip and geometry of chip",
+    "Option3": "To obtain orthogonal cutting edge",
+    "Option4": "Preventing the tool from getting jammed",
+    "Answer": "Control chip and geometry of chip",
+    "image": "https://firebasestorage.googleapis.com/v0/b/yash-c4f9c.appspot.com/o/1151to175images%2F4.PNG?alt=media&token=cd19f8b5-09de-4521-93a5-1f2499a2598a"
+  },
+  {
+    "Question": "What is the purpose of the anngle marked ‘X’?",
+    "Option1": "Control chip flow",
+    "Option2": "Control tool geometry",
+    "Option3": "Prevent the rubbing of tool",
+    "Option4": "Prevent the tool from jammed",
+    "Answer": "Prevent the rubbing of tool",
+    "image": "https://firebasestorage.googleapis.com/v0/b/yash-c4f9c.appspot.com/o/1151to175images%2F5.PNG?alt=media&token=b1f66685-eaae-4b53-9ecc-19918ecb0be5"
+  },
+  {
+    "Question": "What is the name of the angle?",
+    "Option1": "Side rake angle",
+    "Option2": "End relief angle",
+    "Option3": "Side clearance angle",
+    "Option4": "End cutting edge angle",
+    "Answer": "Side clearance angle",
+    "image": "https://firebasestorage.googleapis.com/v0/b/yash-c4f9c.appspot.com/o/1151to175images%2F6.PNG?alt=media&token=330d92b0-71b3-4817-bc74-16a79b1ce72d"
+  },
+  {
+    "Question": "What is the name of the angle?",
+    "Option1": "Side rake angle",
+    "Option2": "Front clearance angle",
+    "Option3": "Side clearance angle",
+    "Option4": "End side clearance angle",
+    "Answer": "End side clearance angle",
+    "image": "https://firebasestorage.googleapis.com/v0/b/yash-c4f9c.appspot.com/o/1151to175images%2F7.PNG?alt=media&token=6d95ae25-cb5c-468a-b63d-d6306b59d06a"
+  },
+  {
+    "Question": "Why the carbide can NOT be used as solid bit?",
+    "Option1": "Due to its ductility",
+    "Option2": "Due to its brittleness",
+    "Option3": "Due to its red hardness",
+    "Option4": "Due to its cold hardness",
+    "Answer": "Due to its brittleness",
+    "image": "https://firebasestorage.googleapis.com/v0/b/yash-c4f9c.appspot.com/o/no%20image.png?alt=media&token=f067c001-3ea1-4dc9-bb97-b57ff15d0432"
+  },
+  {
+    "Question": "What will happen if too much side relif in parting tool?",
+    "Option1": "Weaken the tool",
+    "Option2": "Get more tool life",
+    "Option3": "Strengthen the tool",
+    "Option4": "Helps easy chip flow",
+    "Answer": "Weaken the tool",
+    "image": "https://firebasestorage.googleapis.com/v0/b/yash-c4f9c.appspot.com/o/no%20image.png?alt=media&token=f067c001-3ea1-4dc9-bb97-b57ff15d0432"
+  },
+  {
+    "Question": "What is the cause of glazing?",
+    "Option1": "Hard material on to hard of wheel",
+    "Option2": "Hard material on soft wheel",
+    "Option3": "Soft material on hard of wheel",
+    "Option4": "Soft material on soft wheel",
+    "Answer": "Hard material on to hard of wheel",
+    "image": "https://firebasestorage.googleapis.com/v0/b/yash-c4f9c.appspot.com/o/no%20image.png?alt=media&token=f067c001-3ea1-4dc9-bb97-b57ff15d0432"
+  },
+  {
+    "Question": "Which is the smallest measurement that is possible by vernier caliper?",
+    "Option1": "Least count",
+    "Option2": "Actual reading",
+    "Option3": "Main scale division",
+    "Option4": "Vernier scale division",
+    "Answer": "Least count",
+    "image": "https://firebasestorage.googleapis.com/v0/b/yash-c4f9c.appspot.com/o/no%20image.png?alt=media&token=f067c001-3ea1-4dc9-bb97-b57ff15d0432"
+  },
+  {
+    "Question": "What is the least count of a standard metric vernier caliper?",
+    "Option1": "0.2mm",
+    "Option2": "0.1mm",
+    "Option3": "0.02mm",
+    "Option4": "0.002mm",
+    "Answer": "0.02mm",
+    "image": "https://firebasestorage.googleapis.com/v0/b/yash-c4f9c.appspot.com/o/no%20image.png?alt=media&token=f067c001-3ea1-4dc9-bb97-b57ff15d0432"
+  },
+  {
+    "Question": "What is the pitch distance of a metric micrometer spindle thread?",
+    "Option1": "0.01mm",
+    "Option2": "0.02mm",
+    "Option3": "0.05mm",
+    "Option4": "0.5mm",
+    "Answer": "0.5mm",
+    "image": "https://firebasestorage.googleapis.com/v0/b/yash-c4f9c.appspot.com/o/no%20image.png?alt=media&token=f067c001-3ea1-4dc9-bb97-b57ff15d0432"
+  },
+  {
+    "Question": "What is the length of graduation marked on the metric micrometer?",
+    "Option1": 25,
+    "Option2": 50,
+    "Option3": 75,
+    "Option4": 100,
+    "Answer": 25,
+    "image": "https://firebasestorage.googleapis.com/v0/b/yash-c4f9c.appspot.com/o/no%20image.png?alt=media&token=f067c001-3ea1-4dc9-bb97-b57ff15d0432"
+  },
+  {
+    "Question": "Which material is used in manufacture of anvil for outside micrometer?",
+    "Option1": "Cast iron",
+    "Option2": "Alloy steel",
+    "Option3": "Low carbon steel",
+    "Option4": "High carbon steel",
+    "Answer": "Alloy steel",
+    "image": "https://firebasestorage.googleapis.com/v0/b/yash-c4f9c.appspot.com/o/no%20image.png?alt=media&token=f067c001-3ea1-4dc9-bb97-b57ff15d0432"
+  },
+  {
+    "Question": "Which is the material used in manufacture of frame for an outside micrometer?",
+    "Option1": "Alloy steel",
+    "Option2": "Hardened steel",
+    "Option3": "Drop forged steel",
+    "Option4": "Chrome vanadium steel",
+    "Answer": "Drop forged steel",
+    "image": "https://firebasestorage.googleapis.com/v0/b/yash-c4f9c.appspot.com/o/no%20image.png?alt=media&token=f067c001-3ea1-4dc9-bb97-b57ff15d0432"
+  },
+  {
+    "Question": "Which precision instrument is used to measure the diameter to an accuracy of 0.01mm?",
+    "Option1": "Outside micrometer",
+    "Option2": "Inside micrometer",
+    "Option3": "Vernier Caliper",
+    "Option4": "Steel rule",
+    "Answer": "Outside micrometer",
+    "image": "https://firebasestorage.googleapis.com/v0/b/yash-c4f9c.appspot.com/o/no%20image.png?alt=media&token=f067c001-3ea1-4dc9-bb97-b57ff15d0432"
+  },
+  {
+    "Question": "What is the accuracy of an outside metric micrometer?",
+    "Option1": "0.1mm",
+    "Option2": "0.01mm",
+    "Option3": "0.001mm",
+    "Option4": "0.001inch",
+    "Answer": "0.01mm",
+    "image": "https://firebasestorage.googleapis.com/v0/b/yash-c4f9c.appspot.com/o/no%20image.png?alt=media&token=f067c001-3ea1-4dc9-bb97-b57ff15d0432"
+  },
+  {
+    "Question": "Which part of the micrometer has marked datum line?",
+    "Option1": "Anvil",
+    "Option2": "Thimble",
+    "Option3": "Ratchet stop",
+    "Option4": "Barrel/sleeve",
+    "Answer": "Barrel/sleeve",
+    "image": "https://firebasestorage.googleapis.com/v0/b/yash-c4f9c.appspot.com/o/no%20image.png?alt=media&token=f067c001-3ea1-4dc9-bb97-b57ff15d0432"
+  },
+  {
+    "Question": "What is the name of instrument?",
+    "Option1": "Digital micrometer",
+    "Option2": "Vernier micrometer",
+    "Option3": "Tube micrometer",
+    "Option4": "Depth micrometer",
+    "Answer": "Digital micrometer",
+    "image": "https://firebasestorage.googleapis.com/v0/b/yash-c4f9c.appspot.com/o/1151to175images%2FQ113.PNG?alt=media&token=0f72517d-52a8-489f-bb49-fb17da2fa12e"
+  },
+  {
+    "Question": "Which parts of vernier caliper is used for measuring the width of slot?",
+    "Option1": "Main scale",
+    "Option2": "Depth bar",
+    "Option3": "Inside measuring jaws",
+    "Option4": "Outside measuring jaws",
+    "Answer": "Inside measuring jaws",
+    "image": "https://firebasestorage.googleapis.com/v0/b/yash-c4f9c.appspot.com/o/no%20image.png?alt=media&token=f067c001-3ea1-4dc9-bb97-b57ff15d0432"
+  },
+  {
+    "Question": "Which part of micrometer ensures a uniform pressure belween the measuring faces?",
+    "Option1": "Anvil",
+    "Option2": "Barrel",
+    "Option3": "Thimble",
+    "Option4": "Ratchet Stop",
+    "Answer": "Ratchet Stop",
+    "image": "https://firebasestorage.googleapis.com/v0/b/yash-c4f9c.appspot.com/o/no%20image.png?alt=media&token=f067c001-3ea1-4dc9-bb97-b57ff15d0432"
+  },
+  {
+    "Question": "What is the working principle outside micrometer?",
+    "Option1": "Cone clutch",
+    "Option2": "Nut and screw",
+    "Option3": "Rack and pinion",
+    "Option4": "Vernier principle",
+    "Answer": "Nut and screw",
+    "image": "https://firebasestorage.googleapis.com/v0/b/yash-c4f9c.appspot.com/o/no%20image.png?alt=media&token=f067c001-3ea1-4dc9-bb97-b57ff15d0432"
+  },
+  {
+    "Question": "How much distance is moved by spindle in one rotation of thimble of outside micrometer?",
+    "Option1": "0.01mm",
+    "Option2": "0.05mm",
+    "Option3": "0.5mm",
+    "Option4": "1mm",
+    "Answer": "0.5mm",
+    "image": "https://firebasestorage.googleapis.com/v0/b/yash-c4f9c.appspot.com/o/no%20image.png?alt=media&token=f067c001-3ea1-4dc9-bb97-b57ff15d0432"
+  },
+  {
+    "Question": "What is the instrument that shows the measurement on LED display?",
+    "Option1": "Digital caliper",
+    "Option2": "Vernier micrometer",
+    "Option3": "Vernier caliper",
+    "Option4": "Outside caliper",
+    "Answer": "Digital caliper",
+    "image": "https://firebasestorage.googleapis.com/v0/b/yash-c4f9c.appspot.com/o/no%20image.png?alt=media&token=f067c001-3ea1-4dc9-bb97-b57ff15d0432"
+  },
+  {
+    "Question": "Which does not require sleeve or thimble scale reading?",
+    "Option1": "Digital micrometer",
+    "Option2": "Vernier micrometer",
+    "Option3": "Screw gauge",
+    "Option4": "Depth micrometer",
+    "Answer": "Digital micrometer",
+    "image": "https://firebasestorage.googleapis.com/v0/b/yash-c4f9c.appspot.com/o/no%20image.png?alt=media&token=f067c001-3ea1-4dc9-bb97-b57ff15d0432"
+  }
+]

@@ -1,0 +1,227 @@
+[
+  {
+    "Question": "What is the purpose of Crowning on the cutting edge of chisel?",
+    "Option1": "Prevent slipping of chisel",
+    "Option2": "Prevent digging of corners",
+    "Option3": "Allow chisel to move freely on straight line",
+    "Option4": "Allow cutting edge to penetrate into the work",
+    "Answer": "Prevent digging of corners",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "How to prevent the tool rubbing against the work surface in metal cutting process?",
+    "Option1": "Decrease lip angle",
+    "Option2": "Increased rake angle",
+    "Option3": "Increase clearance angle",
+    "Option4": "Decrease tool wedge angle",
+    "Answer": "Increase clearance angle",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Name the property of metal that withstand shock or impact?",
+    "Option1": "Tenacity",
+    "Option2": "Hardness",
+    "Option3": "Brittleness",
+    "Option4": "Toughness",
+    "Answer": "Toughness",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which part is the measuring face fitted to the frame of outside micrometer?",
+    "Option1": "Anvil",
+    "Option2": "Barrel",
+    "Option3": "Spindle",
+    "Option4": "Ratchet stop",
+    "Answer": "Anvil",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the name of micrometer?",
+    "Option1": "Depth micrometer",
+    "Option2": "Inside micrometer",
+    "Option3": "Vernier micrometer",
+    "Option4": "Outside micrometer",
+    "Answer": "Depth micrometer",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/FITTER%2FFITTER%20SEM1%2F151TO175%2Ff155.PNG?alt=media&token=bf29b9f7-450d-46fd-b30c-5e4648d25890"
+  },
+  {
+    "Question": "How the drill chucks are held on the machine spindle?",
+    "Option1": "By arbor",
+    "Option2": "By sockets",
+    "Option3": "By sleeves",
+    "Option4": "By special clamp",
+    "Answer": "By arbor",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which drilling machine, the spindle head is moved towards or away from the column?",
+    "Option1": "Pillar drilling machine",
+    "Option2": "Gang drilling machine",
+    "Option3": "Radial drilling machine",
+    "Option4": "Sensitive bench drilling machine",
+    "Answer": "Radial drilling machine",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which type of screw threads are rounded at the crest and root?",
+    "Option1": "B.A thread",
+    "Option2": "B.S.F thread",
+    "Option3": "B.S.W thread",
+    "Option4": "ACME thread",
+    "Answer": "B.S.W thread",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the name of tap wrench?",
+    "Option1": "Box type tap wrench",
+    "Option2": "Solid type tap wrench",
+    "Option3": "T Handle tap wrench",
+    "Option4": "Adjustable tap wrench",
+    "Answer": "Solid type tap wrench",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/FITTER%2FFITTER%20SEM1%2F151TO175%2Ff159.PNG?alt=media&token=4977c72d-1368-4e2f-8ebf-cbb7b5392a0c"
+  },
+  {
+    "Question": "What is the formula to calculate tap drill size?",
+    "Option1": "Tap drill size = Major dia – (2 x depth)",
+    "Option2": "Tap drill size = Major dia + (2 x depth)",
+    "Option3": "Tap drill size = Major dia – (2 + depth)",
+    "Option4": "Tap drill size = Major dia + (2 + depth)",
+    "Answer": "Tap drill size = Major dia – (2 x depth)",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which activity causes excessive wear and chattering of drill bit while drilling?",
+    "Option1": "Too fast feed rate",
+    "Option2": "Too slow feed rate",
+    "Option3": "More cutting speed",
+    "Option4": "Too slow spindle speed",
+    "Answer": "Too slow feed rate",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the reading of vernier caliper with inch graduations?",
+    "Option1": 1.068,
+    "Option2": 1.459,
+    "Option3": 1.418,
+    "Option4": 1.409,
+    "Answer": 1.459,
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/FITTER%2FFITTER%20SEM1%2F151TO175%2Ff162.PNG?alt=media&token=606dc78f-fd9e-426c-bce3-312875aa9e56"
+  },
+  {
+    "Question": "Which part of combination set is used to mark and check angle of 90° and 45°?",
+    "Option1": "Rule",
+    "Option2": "Centre head",
+    "Option3": "Square head",
+    "Option4": "Protractor head",
+    "Answer": "Square head",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Why ribs are provided in the angle plate?",
+    "Option1": "Provide flatness",
+    "Option2": "Prevent distortion",
+    "Option3": "Provide squareness",
+    "Option4": "Support the machined surface",
+    "Answer": "Prevent distortion",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Identify the type of V blocks?",
+    "Option1": "Single level single groove",
+    "Option2": "Single level double groove",
+    "Option3": "Double level single groove",
+    "Option4": "Double level double groove",
+    "Answer": "Double level single groove",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/FITTER%2FFITTER%20SEM1%2F151TO175%2Ff165.PNG?alt=media&token=02013874-a270-4f53-95a1-267be0ddc338"
+  },
+  {
+    "Question": "How much carbon content of steel is forgeable?",
+    "Option1": "Up to 1.2 %",
+    "Option2": "Up to 1.7 %",
+    "Option3": "Up to 1.9 %",
+    "Option4": "Up to 2.1 %",
+    "Answer": "Up to 1.7 %",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which cutting fluid used for drilling in cast iron?",
+    "Option1": "Dry air jet",
+    "Option2": "Soluble oil",
+    "Option3": "Mineral oil",
+    "Option4": "Vegetable oil",
+    "Answer": "Dry air jet",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Name the part marked as x in radial drilling machine.",
+    "Option1": "Base",
+    "Option2": "Spindle",
+    "Option3": "Radial arm",
+    "Option4": "Spindle head",
+    "Answer": "Spindle head",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/FITTER%2FFITTER%20SEM1%2F151TO175%2Ff168.PNG?alt=media&token=3010195e-bc60-480e-a7fd-06fc4ad58e64"
+  },
+  {
+    "Question": "Select the spindle speed (rpm) for H.S.S drill diameter 24 mm and cutting speed (V) = 30 m/min to drill mild steel.",
+    "Option1": "275 rpm",
+    "Option2": "300 rpm",
+    "Option3": "400 rpm",
+    "Option4": "450 rpm",
+    "Answer": "400 rpm",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which one is used to bring the plates closely together after inserting the rivet in the hole?",
+    "Option1": "Drift",
+    "Option2": "Dolly",
+    "Option3": "Rivet set",
+    "Option4": "Caulking tool",
+    "Answer": "Rivet set",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the use of bent snips?",
+    "Option1": "Groove cut",
+    "Option2": "Zigzag cut",
+    "Option3": "Straight cut",
+    "Option4": "Circular cut",
+    "Answer": "Circular cut",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Name the part of lever shear marked as x .",
+    "Option1": "Base plate",
+    "Option2": "Lever arm",
+    "Option3": "Lower blade",
+    "Option4": "Upper blade",
+    "Answer": "Lower blade",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/FITTER%2FFITTER%20SEM1%2F151TO175%2Ff172.PNG?alt=media&token=9d0b21f8-ed8f-4d49-b624-c93fb509ea32"
+  },
+  {
+    "Question": "Name the sheet metal operation.",
+    "Option1": "Grooving",
+    "Option2": "Notching",
+    "Option3": "Bending",
+    "Option4": "Folding",
+    "Answer": "Grooving",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/FITTER%2FFITTER%20SEM1%2F151TO175%2Ff173.PNG?alt=media&token=0e8a9d5a-57f8-4069-a9a6-9b13089f0f5b"
+  },
+  {
+    "Question": "Name the zinc coated iron?",
+    "Option1": "Black iron",
+    "Option2": "Tinned iron",
+    "Option3": "Stainless steel",
+    "Option4": "Galvanised iron",
+    "Answer": "Galvanised iron",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Calculate the weight of steel plate having\nlength of 2000 mm, width of 500 mm, thickness of 4\nmm and density of 7.85 g/cm3.",
+    "Option1": "21.4 Kg",
+    "Option2": "31.4 Kg",
+    "Option3": "41.4 Kg",
+    "Option4": "50.4 kg",
+    "Answer": "31.4 Kg",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  }
+]

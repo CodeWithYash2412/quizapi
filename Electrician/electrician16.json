@@ -1,0 +1,227 @@
+[
+  {
+    "Question": "What is the S.I unit of luminous intensity?",
+    "Option1": "Lux",
+    "Option2": "Lumen",
+    "Option3": "Candela",
+    "Option4": "Steradian",
+    "Answer": "Candela",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the working temperature of filament lamp?",
+    "Option1": "1500°C",
+    "Option2": "1800°C",
+    "Option3": "2000°C",
+    "Option4": "2300°C",
+    "Answer": "2300°C",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which material is coated in tungsten electrode of a fluorescent tube lamp?",
+    "Option1": "Silver oxide",
+    "Option2": "Phosphor powder",
+    "Option3": "Fluorescent powder",
+    "Option4": "Barium and stroatium oxide",
+    "Answer": "Barium and stroatium oxide",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which position MB type high pressure mercury vapour lamps are operated?",
+    "Option1": "Vertical",
+    "Option2": "Inclined",
+    "Option3": "Horizontal",
+    "Option4": "Any position",
+    "Answer": "Any position",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the function of leak transformer in high pressure sodium vapour lamp circuit?",
+    "Option1": "Reduce the starting current",
+    "Option2": "Reduce the working voltage",
+    "Option3": "Increase the working voltage",
+    "Option4": "Ignite the high voltage initially",
+    "Answer": "Ignite the high voltage initially",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "How stroboscopic effect in industrial twin tube light fitting is reduced?",
+    "Option1": "Connecting capacitor parallel to supply",
+    "Option2": "Connecting capacitor in series with supply",
+    "Option3": "Connecting capacitor in series with one tube light",
+    "Option4": "Connecting two capacitors in series to each tube light",
+    "Answer": "Connecting capacitor in series with one tube light",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the current carrying capacity of flasher, if the current is 100 mA in each row?",
+    "Option1": "50 mA",
+    "Option2": "100 mA",
+    "Option3": "200 mA",
+    "Option4": "300 mA",
+    "Answer": "300 mA",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/Electrician%2FSEM2%2FElectrician16%2F146.PNG?alt=media&token=a140e6c0-cf06-4978-8474-94d5ee634287"
+  },
+  {
+    "Question": "Which term refers that the flow of light into a plane surface?",
+    "Option1": "Lumen",
+    "Option2": "Illuminance",
+    "Option3": "Luminous flux",
+    "Option4": "Luminous intensity",
+    "Answer": "Illuminance",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the purpose of ignitor in high pressure sodium vapour lamp circuit?",
+    "Option1": "Decreases the starting current",
+    "Option2": "Increases the running voltage",
+    "Option3": "Decreases the running current",
+    "Option4": "Generates high voltage pulse at starting",
+    "Answer": "Generates high voltage pulse at starting",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which type of light fitting design has free from glare?",
+    "Option1": "Semi direct type",
+    "Option2": "Semi indirect type",
+    "Option3": "Direct lighting type",
+    "Option4": "Indirect lighting type",
+    "Answer": "Semi indirect type",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Why the outer tube of a high pressure metal halide lamp made of boro silicate glass?",
+    "Option1": "Increase the lighting effect",
+    "Option2": "Withstand heavy temperature",
+    "Option3": "Withstand atmospheric pressure",
+    "Option4": "Reduce the ultra violet radiation from lamp",
+    "Answer": "Reduce the ultra violet radiation from lamp",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the term refers luminous flux given by light source per unit solid angle?",
+    "Option1": "Lumen",
+    "Option2": "Candela",
+    "Option3": "Illuminance",
+    "Option4": "Luminous intensity",
+    "Answer": "Luminous intensity",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the unit of luminous flux?",
+    "Option1": "Lux",
+    "Option2": "Lumen",
+    "Option3": "Candela",
+    "Option4": "Lumen/m2",
+    "Answer": "Lumen",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the unit of luminous efficiency?",
+    "Option1": "Lux",
+    "Option2": "Lumen",
+    "Option3": "Lumen/m2",
+    "Option4": "Lumen/watt",
+    "Answer": "Lumen/watt",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "How the rate of evaporation in a vacuum bulb is reduced?",
+    "Option1": "Filling inert gas",
+    "Option2": "Producing arc in bulb",
+    "Option3": "Reducing filament resistance",
+    "Option4": "Increasing filament resistance",
+    "Answer": "Filling inert gas",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the main advantage of coiled coil lamp?",
+    "Option1": "High melting point",
+    "Option2": "Higher light output",
+    "Option3": "Low operating voltage",
+    "Option4": "Low power consumption",
+    "Answer": "Higher light output",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the name of the reflector?",
+    "Option1": "Mirror type",
+    "Option2": "Soft light type",
+    "Option3": "Parabolic type",
+    "Option4": "Dispersive type",
+    "Answer": "Parabolic type",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/Electrician%2FSEM2%2FElectrician16%2F156.PNG?alt=media&token=2b487aba-cd9b-4e05-b0c9-d91d893f127f"
+  },
+  {
+    "Question": "What is the name of light?",
+    "Option1": "Spot light",
+    "Option2": "Bulk light",
+    "Option3": "Flood light",
+    "Option4": "Flash light",
+    "Answer": "Spot light",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/Electrician%2FSEM2%2FElectrician16%2F157.PNG?alt=media&token=7be322d6-39d2-4f54-b924-bec560b3b3b7"
+  },
+  {
+    "Question": "Which device provides ignition voltage and act as choke in a HPSV lamp?",
+    "Option1": "Arc tube",
+    "Option2": "Sodium vapour",
+    "Option3": "Leak transformer",
+    "Option4": "High pressure aluminium oxide",
+    "Answer": "Leak transformer",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the name of lamp?",
+    "Option1": "MAT type MV lamp",
+    "Option2": "HP metal halide lamp",
+    "Option3": "MB type HPMV lamp",
+    "Option4": "MA type HPMV lamp",
+    "Answer": "MA type HPMV lamp",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/Electrician%2FSEM2%2FElectrician16%2F159.PNG?alt=media&token=82ca4082-64fb-4c28-b53d-4d3930add815"
+  },
+  {
+    "Question": "Which type of lighting system is used for flood and industrial lighting?",
+    "Option1": "Direct lighting",
+    "Option2": "Indirect lighting",
+    "Option3": "Semi-direct lighting",
+    "Option4": "Semi-indirect lighting",
+    "Answer": "Direct lighting",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which is the cold cathode lamp?",
+    "Option1": "Halogen lamp",
+    "Option2": "Neon sign lamp",
+    "Option3": "Fluorescent lamp",
+    "Option4": "Mercury vapour lamp",
+    "Answer": "Neon sign lamp",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which force is required to move the pointer from zero position in an indicating instrument?",
+    "Option1": "Controlling force",
+    "Option2": "Deflecting force",
+    "Option3": "Air friction damping",
+    "Option4": "Eddy current damping",
+    "Answer": "Deflecting force",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which is the position to use the instrument provided with gravity control?",
+    "Option1": "Any position",
+    "Option2": "Vertical position",
+    "Option3": "Inclined position",
+    "Option4": "Horizontal position",
+    "Answer": "Vertical position",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the name of the scale?",
+    "Option1": "Linear scale",
+    "Option2": "Coarse scale",
+    "Option3": "Extended scale",
+    "Option4": "Non-linear scale",
+    "Answer": "Non-linear scale",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/Electrician%2FSEM2%2FElectrician16%2F164.PNG?alt=media&token=5cc8a174-217c-475b-aee6-3d98be7255f1"
+  }
+]

@@ -1,0 +1,227 @@
+[
+  {
+    "Question": "Which component creates flow of refrigerant in the system?",
+    "Option1": "Compressor",
+    "Option2": "Evaporator",
+    "Option3": "Condenser",
+    "Option4": "Expansion valve",
+    "Answer": "Compressor",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "A hermetically sealed compressor does not start when switched on and its motor does not hum. This could be\ndue to ....",
+    "Option1": "Faulty starting capacitor",
+    "Option2": "Open - circuited motor windings",
+    "Option3": "Low supply voltage",
+    "Option4": "A seized up compressor",
+    "Answer": "Open - circuited motor windings",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Thermo - compressor works on .................",
+    "Option1": "Pascal s Law",
+    "Option2": "Bernoulli s Principle",
+    "Option3": "Dalton s Law",
+    "Option4": "Avogadro s Law",
+    "Answer": "Bernoulli s Principle",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Figure below shows refrigeration cycle. Which statement is correct?",
+    "Option1": "Part of the system above the line A is low pressure side",
+    "Option2": "Part of the system below the line A is high pressure side",
+    "Option3": "Both of the statements are correct",
+    "Option4": "All the above statements are wrong",
+    "Answer": "All the above statements are wrong",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/MRAC%2FSEM3%2FL2-4.PNG?alt=media&token=96909091-05d2-4f24-8a6e-6bd6535fbfa0"
+  },
+  {
+    "Question": "Which control provided in a refrigerator protects the compressor motor winding from damage?",
+    "Option1": "Starting relay",
+    "Option2": "Overload protector",
+    "Option3": "Thermostat",
+    "Option4": "All of the above",
+    "Answer": "Overload protector",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "In absorption refrigeration system, the compressor of vapour compression system is replaced by .........",
+    "Option1": "Absorber",
+    "Option2": "Generator",
+    "Option3": "Pump",
+    "Option4": "All the above",
+    "Answer": "All the above",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "One of the desirable properties of refrigerant is that it should have ......",
+    "Option1": "Low critical temperature",
+    "Option2": "Low specific heat",
+    "Option3": "Low thermal conductivity",
+    "Option4": "Low electrical insulation",
+    "Answer": "Low specific heat",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which of these refrigerants has the lowest Relative Ozone Destruction Efficiency?",
+    "Option1": "R - 11",
+    "Option2": "R - 12",
+    "Option3": "R - 22",
+    "Option4": "R - 114",
+    "Answer": "R - 22",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "A plate type evaporator is often used in a .............",
+    "Option1": "Domestic air conditioner",
+    "Option2": "Drinking water cooler",
+    "Option3": "Domestic dehumidifier",
+    "Option4": "Two-compartment refrigerator",
+    "Answer": "Two-compartment refrigerator",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "In a domestic refrigerator, the expansion valve used is ..........",
+    "Option1": "Capillary tube",
+    "Option2": "Constant pressure expansion valve",
+    "Option3": "Thermostatic expansion valve",
+    "Option4": "Float valve",
+    "Answer": "Capillary tube",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "In a flooded type chiller application, the expansion valve used is .........",
+    "Option1": "Capillary tube",
+    "Option2": "Constant pressure expansion valve",
+    "Option3": "Thermostatic expansion valve",
+    "Option4": "Float valve",
+    "Answer": "Float valve",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Ammonia is also known as ...............",
+    "Option1": "R707",
+    "Option2": "R717",
+    "Option3": "R727",
+    "Option4": "R737",
+    "Answer": "R717",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Figure below shows FET (Field Effect Transistor). Besides Gate, other two electrodes are ....",
+    "Option1": "Cathode and anode",
+    "Option2": "Base and amplifier",
+    "Option3": "Drain and source",
+    "Option4": "Source and amplifier",
+    "Answer": "Drain and source",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/MRAC%2FSEM3%2FL2-13.PNG?alt=media&token=7000f285-b193-4cb4-941e-ead3f419893a"
+  },
+  {
+    "Question": "What is true about zener diode?",
+    "Option1": "It is a rectifier",
+    "Option2": "It is light emitting diode",
+    "Option3": "It is used in voltage regulator circuits",
+    "Option4": "It is used in filter circuit",
+    "Answer": "It is used in voltage regulator circuits",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "A transformer is a device which can ................",
+    "Option1": "Step up or step down voltage",
+    "Option2": "Work through electric induction",
+    "Option3": "Work without changing power",
+    "Option4": "Do all the above",
+    "Answer": "Do all the above",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "3 - Phase induction motor will have ............... power factor during no load conditions",
+    "Option1": "Low",
+    "Option2": "Moderate",
+    "Option3": "High",
+    "Option4": "Negative",
+    "Answer": "Low",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which induction motor has better starting torque?",
+    "Option1": "Slip ring induction motor has better starting torque than squirrel cage induction motor",
+    "Option2": "Squirrel cage induction motor has better starting torque than slip ring induction motor",
+    "Option3": "Both have similar starting torque",
+    "Option4": "Any one of the two can have better starting torque than the other",
+    "Answer": "Slip ring induction motor has better starting torque than squirrel cage induction motor",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "The undercharging of refrigerant in a refrigerator will cause .........",
+    "Option1": "Increase in COP",
+    "Option2": "Decrease in COP",
+    "Option3": "Increase in capacity",
+    "Option4": "It will have no effect",
+    "Answer": "Decrease in COP",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which compressor is suitable for large capacity and high volume flow rate?",
+    "Option1": "Screw compressor",
+    "Option2": "Scroll compressor",
+    "Option3": "Centrifugal compressor",
+    "Option4": "Reciprocating compressor",
+    "Answer": "Centrifugal compressor",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "During expansion in capillary tube, the enthalpy .........",
+    "Option1": "Increases",
+    "Option2": "Decreases",
+    "Option3": "Remains the same",
+    "Option4": "May increase or decrease",
+    "Answer": "Remains the same",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "The HFC refrigerant is ..........................",
+    "Option1": "R11",
+    "Option2": "R22",
+    "Option3": "R134a",
+    "Option4": "R290",
+    "Answer": "R134a",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "The capacity of a domestic refrigerator is approximately ................",
+    "Option1": "0.1 ton",
+    "Option2": "O.5 ton",
+    "Option3": "1.0 ton",
+    "Option4": "1.5 ton",
+    "Answer": "0.1 ton",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "The material used for production of fibreglass insulation is ............",
+    "Option1": "Talc",
+    "Option2": "Pumice",
+    "Option3": "Gypsum",
+    "Option4": "Silica",
+    "Answer": "Silica",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "The insulating material which is NOT used in domestic refrigerator is .....",
+    "Option1": "Wood fibre",
+    "Option2": "Cork",
+    "Option3": "Rubber",
+    "Option4": "Glass wool",
+    "Answer": "Rubber",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Leakage in the refrigeration system using ammonia as refrigerant is detected by",
+    "Option1": "Soap and water",
+    "Option2": "Sulphur sticks",
+    "Option3": "Halide torch",
+    "Option4": "Burning candle",
+    "Answer": "Sulphur sticks",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  }
+]

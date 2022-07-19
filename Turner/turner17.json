@@ -1,0 +1,227 @@
+[
+  {
+    "Question": "What is the name of the item marked as “x”?",
+    "Option1": "Taper parallels",
+    "Option2": "Sine bar",
+    "Option3": "Slip gauge",
+    "Option4": "Drift",
+    "Answer": "Taper parallels",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/151to175%2FS152.PNG?alt=media&token=7ccf9356-69a9-42fa-b750-88661a43514a"
+  },
+  {
+    "Question": "What is the purpose of using taper parallels in thread measurement?",
+    "Option1": "To measure the minor diameter of external thread",
+    "Option2": "To measure the minor diameter of internal thread",
+    "Option3": "To measure the major diameter of external thread",
+    "Option4": "To measure the major diameter of internal thread",
+    "Answer": "To measure the minor diameter of internal thread",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "How can measure the minor diameter of a external thread?",
+    "Option1": "By vernier caliper",
+    "Option2": "By screw thread micrometer",
+    "Option3": "By three wire method",
+    "Option4": "Using slip gauge pack",
+    "Answer": "By vernier caliper",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is shown in the below figure?",
+    "Option1": "Major diameter measurement",
+    "Option2": "Minor diameter measurement",
+    "Option3": "Pitch measurement",
+    "Option4": "Effective diameter measurement",
+    "Answer": "Minor diameter measurement",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/151to175%2FS155.PNG?alt=media&token=17a3b73c-bf5b-4135-89da-b4801e4f6194"
+  },
+  {
+    "Question": "What is the purpose of using v prism method in thread measurement?",
+    "Option1": "Measure major diameter",
+    "Option2": "Measure minor diameter",
+    "Option3": "Measure effective diameter",
+    "Option4": "Measure the pitch of the thread",
+    "Answer": "Measure minor diameter",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "How can measure the minor diameter of a internal thread accurately?",
+    "Option1": "By three wire method",
+    "Option2": "By screw thread micrometer",
+    "Option3": "By plug gauge",
+    "Option4": "By using slip gauge and precision rollers",
+    "Answer": "By using slip gauge and precision rollers",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the disadvantage of chaser?",
+    "Option1": "To cut V-thread only",
+    "Option2": "To cut square thread only",
+    "Option3": "To cut knuckle thread only",
+    "Option4": "To cut trapezoid thread only",
+    "Answer": "To cut V-thread only",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the use of hand chaser?",
+    "Option1": "To cut new thread",
+    "Option2": "Correcting and finishing a thread",
+    "Option3": "For production job",
+    "Option4": "For making square thread",
+    "Answer": "Correcting and finishing a thread",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which material is suitable for button die chaser?",
+    "Option1": "Low strength material",
+    "Option2": "High strength material",
+    "Option3": "H.S.S",
+    "Option4": "H.C.S",
+    "Answer": "Low strength material",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which is the angle of inclination in the thread to the imaginary perpendicular line?",
+    "Option1": "Acute angle",
+    "Option2": "Right angle",
+    "Option3": "Helix angle",
+    "Option4": "Obtuse angle",
+    "Answer": "Helix angle",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which method is non metallic threads are produced?",
+    "Option1": "Thread milling",
+    "Option2": "Thread casting",
+    "Option3": "Thread grinding",
+    "Option4": "Thread chasing",
+    "Answer": "Thread casting",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Find the gear required to cut 3 mm pitch in a lathe having a lead screw of 6 TPI gear available from 20 to 120 teeth by 5 teeth with a special gear of 127 teeth?",
+    "Option1": "Driver 90 teeth Driven 127 teeth",
+    "Option2": "Driver 60 teeth Driven 20 teeth",
+    "Option3": "Driver 127 teeth Driven 90 teeth",
+    "Option4": "Driver 20 teeth Driven 60 teeth",
+    "Answer": "Driver 90 teeth Driven 127 teeth",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which is main criteria to increase the tool life?",
+    "Option1": "Feed",
+    "Option2": "Depth of cut",
+    "Option3": "Material",
+    "Option4": "Cutting speed",
+    "Answer": "Cutting speed",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "How the thread are formed in thread rolling?",
+    "Option1": "Grinding",
+    "Option2": "Casting",
+    "Option3": "Plastic deformation",
+    "Option4": "Milling",
+    "Answer": "Plastic deformation",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "How many number of teeth in translating gear used for cutting metric thread on british lathe?",
+    "Option1": 63,
+    "Option2": 30,
+    "Option3": 127,
+    "Option4": 100,
+    "Answer": 63,
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Calculate the change gear ratio to cut a thread of 7/16” lead on a lathe with lead screw of 4 TPI?",
+    "Option1": "4/7",
+    "Option2": "7/4",
+    "Option3": "3/4",
+    "Option4": "3/7",
+    "Answer": "7/4",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Calculate the change gears necessary to cut a thread of 7/16” lead on a lathe with a lead screw of 4TPI?",
+    "Option1": "Driver 70T, Driven 40T",
+    "Option2": "Driver 30T, Driven 40T",
+    "Option3": "Driven 70T, Driver 40T",
+    "Option4": "Driven 30T, Driver 40T",
+    "Answer": "Driver 70T, Driven 40T",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the name of thread producing method by cold forging and by plastic deformation?",
+    "Option1": "Thread rolling",
+    "Option2": "Thread milling",
+    "Option3": "Thread grinding",
+    "Option4": "Thread casting",
+    "Answer": "Thread rolling",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which one of the following factor greatly causes to reduce tool life?",
+    "Option1": "Cutting speed",
+    "Option2": "Feed",
+    "Option3": "Depth of cut",
+    "Option4": "Material",
+    "Answer": "Cutting speed",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the purpose of using thread micrometer?",
+    "Option1": "Measure effective diameter",
+    "Option2": "Measure minor diameter",
+    "Option3": "Measure major diameter",
+    "Option4": "Measure pitch of the thread",
+    "Answer": "Measure effective diameter",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "How metric chasing dial differ from british chasing dial?",
+    "Option1": "Same as British chasing dial",
+    "Option2": "One worm wheel and different dial",
+    "Option3": "One worm wheel and one dial",
+    "Option4": "More than one worm wheel and different dial",
+    "Answer": "More than one worm wheel and different dial",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "How many teeth are in translating gear for cutting metric thread on British lathe?",
+    "Option1": 122,
+    "Option2": 122,
+    "Option3": 127,
+    "Option4": 129,
+    "Answer": 127,
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the depth of cut for 10TPI BSW thread?",
+    "Option1": "0.6403 x 1/10”",
+    "Option2": "0.6134 x 1/10”",
+    "Option3": "0.6304 x 1/10”",
+    "Option4": "0.6314 x 1/10”",
+    "Answer": "0.6403 x 1/10”",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Why the thread chaser is used to form threads?",
+    "Option1": "For easy thread cutting",
+    "Option2": "To get proper, crest, flat, root radius and profile",
+    "Option3": "To time saving",
+    "Option4": "To reduce labour",
+    "Answer": "To get proper, crest, flat, root radius and profile",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Calculate the change gears to cut a worm of 0.35” lead on a lathe with a lead screw of 4TPI?",
+    "Option1": "Driver 30T, Driven 40",
+    "Option2": "Driver 40T, Driven 50",
+    "Option3": "Driver 50T, Driven 30",
+    "Option4": "Driver 70T, Driven 50",
+    "Answer": "Driver 70T, Driven 50",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  }
+]

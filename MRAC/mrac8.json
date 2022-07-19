@@ -1,0 +1,227 @@
+[
+  {
+    "Question": "Which two components do the compressor function in vapour absorption system?",
+    "Option1": "Generator and absorber",
+    "Option2": "Generator and separator",
+    "Option3": "Generator and condenser",
+    "Option4": "Generator and evaporator",
+    "Answer": "Generator and absorber",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which components are connected by metering device in vapour compression cycle?",
+    "Option1": "Condenser and evaporator",
+    "Option2": "Compressor and condenser",
+    "Option3": "Evaporator and suction line",
+    "Option4": "Compressor and evaporator",
+    "Answer": "Condenser and evaporator",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which condition is maintained for refrigerant in high side of vapour compression system?",
+    "Option1": "Above its critical temperature",
+    "Option2": "Below its critical temperature",
+    "Option3": "Above its freezing temperature",
+    "Option4": "Below its freezing temperature",
+    "Answer": "Below its critical temperature",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which factors produce work?",
+    "Option1": "Force and distance",
+    "Option2": "Time and distance",
+    "Option3": "Force and power",
+    "Option4": "Force and time",
+    "Answer": "Force and distance",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the purpose of accumulator in a refrigerator?",
+    "Option1": "Improves oil circulation",
+    "Option2": "Prevents surging of refrigerant",
+    "Option3": "Avoids hunting of refrigerant",
+    "Option4": "Prevents liquid flood back to compressor",
+    "Answer": "Prevents liquid flood back to compressor",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is effect of compression process on refrigerant vapour?",
+    "Option1": "Heat the vapour below saturation",
+    "Option2": "Cool the vapour above saturation",
+    "Option3": "Increase the pressure and temperature",
+    "Option4": "Decrease the pressure and temperature",
+    "Answer": "Increase the pressure and temperature",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which is the hydrocarbon refrigerant?",
+    "Option1": "R 12",
+    "Option2": "R123",
+    "Option3": "R 500",
+    "Option4": "R 600a",
+    "Answer": "R 600a",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which refrigerant property is desirable for V.C system?",
+    "Option1": "Low boiling point",
+    "Option2": "Corrosive to metals",
+    "Option3": "Low latent heat valve",
+    "Option4": "Low Dielectric strength",
+    "Answer": "Low boiling point",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the component used in liquid line of refrigerator?",
+    "Option1": "Compressor",
+    "Option2": "Condenser",
+    "Option3": "Evaporator",
+    "Option4": "Filter drier",
+    "Answer": "Filter drier",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/MRAC%2FSEM1%2F176%20TO%20200%2F184.PNG?alt=media&token=2168bc71-500c-4f29-9e98-ba5dc622d793"
+  },
+  {
+    "Question": "Which type of compressor is used as a vacuum pump?",
+    "Option1": "Reciprocating",
+    "Option2": "Centrifugal",
+    "Option3": "Rotary",
+    "Option4": "Scroll",
+    "Answer": "Rotary",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the full form of the relay - PTC?",
+    "Option1": "Positive temperature coefficient",
+    "Option2": "Permanent temperature control",
+    "Option3": "Polar terminal checking",
+    "Option4": "Positive terminal circuit",
+    "Answer": "Positive temperature coefficient",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which refrigerant blend is highly flammable?",
+    "Option1": "HCFC",
+    "Option2": "HFC",
+    "Option3": "CFC",
+    "Option4": "HC",
+    "Answer": "HC",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which part of the refrigerator cools the liquid refrigerant in capillary tube?",
+    "Option1": "Discharge line",
+    "Option2": "Suction line",
+    "Option3": "Condenser",
+    "Option4": "Evaporator",
+    "Answer": "Suction line",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the equipment used in RAC system service?",
+    "Option1": "Oil pump",
+    "Option2": "Condenser",
+    "Option3": "Vacuum pump",
+    "Option4": "Air compressor",
+    "Answer": "Vacuum pump",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/MRAC%2FSEM1%2F176%20TO%20200%2F189.PNG?alt=media&token=b57c3690-d1f0-4acc-bee1-9a45eef6f9d6"
+  },
+  {
+    "Question": "Which terminals are momentarily shorted to start the compressor motor without relay?",
+    "Option1": "C and S terminal",
+    "Option2": "S and R terminal",
+    "Option3": "C and R terminal",
+    "Option4": "S and compressor body",
+    "Answer": "S and R terminal",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the control marked as X in compressor motor?",
+    "Option1": "OLP",
+    "Option2": "Relay",
+    "Option3": "Compressor",
+    "Option4": "Compressor terminal",
+    "Answer": "OLP",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/MRAC%2FSEM1%2F176%20TO%20200%2F191.PNG?alt=media&token=b1802ecd-987b-4342-b66b-6c5bd7b01b8e"
+  },
+  {
+    "Question": "Which component is debrazed in refrigerator?",
+    "Option1": "Filter drier",
+    "Option2": "Compressor",
+    "Option3": "Condenser",
+    "Option4": "Relay",
+    "Answer": "Filter drier",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/MRAC%2FSEM1%2F176%20TO%20200%2F192.PNG?alt=media&token=8e9019ab-4c5f-4b8f-b678-e8ed6a11252c"
+  },
+  {
+    "Question": "What is the part marked as X in refrigerator wiring?",
+    "Option1": "Relay",
+    "Option2": "Thermostat",
+    "Option3": "Compressor motor",
+    "Option4": "Over load protector",
+    "Answer": "Compressor motor",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/MRAC%2FSEM1%2F176%20TO%20200%2F193.PNG?alt=media&token=6ba53436-705b-4b57-a1c5-0b88e2c603bd"
+  },
+  {
+    "Question": "Which type of motor drive is used in hermetic compressor in refrigerator?",
+    "Option1": "Belt drive",
+    "Option2": "Gear drive",
+    "Option3": "Direct drive",
+    "Option4": "Push drive",
+    "Answer": "Direct drive",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the minimum distance to be maintained between the wall and refrigerator condenser?",
+    "Option1": "13 cm",
+    "Option2": "15 cm",
+    "Option3": "18 cm",
+    "Option4": "22 cm",
+    "Answer": "15 cm",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which material is used to make the evaporator of refrigerator?",
+    "Option1": "Galvanised iron",
+    "Option2": "Stainless steel",
+    "Option3": "Aluminium",
+    "Option4": "Brass",
+    "Answer": "Aluminium",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which two tubes act as heat exchanger in a refrigerator?",
+    "Option1": "Suction and charging tube",
+    "Option2": "Discharge and suction tube",
+    "Option3": "Capillary and suction tube",
+    "Option4": "Discharge and capillary tube",
+    "Answer": "Capillary and suction tube",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the name of heat carrying medium in vapour compression system?",
+    "Option1": "Air",
+    "Option2": "Water",
+    "Option3": "Liquid",
+    "Option4": "Refrigerant",
+    "Answer": "Refrigerant",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which refrigerant is highly flammable?",
+    "Option1": "HC - Hydro carbon",
+    "Option2": "HFC - Hydro fluoro carbon",
+    "Option3": "CFC - Chloro fluoro carbon",
+    "Option4": "HCFC - Hydro chloro fluoro carbon",
+    "Answer": "HC - Hydro carbon",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which component rejects the maximum heat to ambinet air in refrigerator?",
+    "Option1": "Expansion valve",
+    "Option2": "Compressor",
+    "Option3": "Condenser",
+    "Option4": "Evaporator",
+    "Answer": "Condenser",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  }
+]

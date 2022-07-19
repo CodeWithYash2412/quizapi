@@ -1,0 +1,227 @@
+[
+  {
+    "Question": "Which is scheduled for yearly maintenance in package AC?",
+    "Option1": "Wash the air filter",
+    "Option2": "Tighten the blower belt",
+    "Option3": "Clean the cooling tower",
+    "Option4": "Tighten the pump gland nut",
+    "Answer": "Clean the cooling tower",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which type of processor control is used for safety in package air conditioner?",
+    "Option1": "Electric",
+    "Option2": "Mechanic",
+    "Option3": "Electronic",
+    "Option4": "Pneumatic",
+    "Answer": "Electronic",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which component absorbs heat from return air in package AC?",
+    "Option1": "Blower",
+    "Option2": "Condenser",
+    "Option3": "Evaporator",
+    "Option4": "Expansion valve",
+    "Answer": "Evaporator",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the name of part marked as x in low pressure cut out switch?",
+    "Option1": "Cover",
+    "Option2": "Diaphragm",
+    "Option3": "Sensing line",
+    "Option4": "Cut-in adjustment",
+    "Answer": "Diaphragm",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/MRAC%2FSEM4%2F076%20TO%20100%2F79.PNG?alt=media&token=e56c5736-22ff-4f52-a38a-a8be42a99043"
+  },
+  {
+    "Question": "Which schedule is followed for lubricating the cooling tower fan motor in package AC?",
+    "Option1": "Daily",
+    "Option2": "Weekly",
+    "Option3": "Biweekly",
+    "Option4": "Quarterly",
+    "Answer": "Quarterly",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Where the air temperature is measured to check the performance of package AC?",
+    "Option1": "Supply grille",
+    "Option2": "Blower inlet",
+    "Option3": "Atmosphere",
+    "Option4": "Condenser outlet",
+    "Answer": "Supply grille",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which switch is interlocked to become on if the power isolator is off in package AC?",
+    "Option1": "Thermostat",
+    "Option2": "Blower motor",
+    "Option3": "Crankcase heater",
+    "Option4": "Compressor starting",
+    "Answer": "Crankcase heater",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the purpose of installing the part marked as x in console type package air conditioner?",
+    "Option1": "Cool the air",
+    "Option2": "Force the air",
+    "Option3": "Force the gas",
+    "Option4": "Cool the water",
+    "Answer": "Cool the air",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/MRAC%2FSEM4%2F076%20TO%20100%2F83.PNG?alt=media&token=177744af-128f-48f8-b415-33e3664c21ad"
+  },
+  {
+    "Question": "Which valve is opened first after installing the package AC for test run?",
+    "Option1": "Ball valve",
+    "Option2": "Globe valve",
+    "Option3": "Service valve",
+    "Option4": "Solenoid valve",
+    "Answer": "Globe valve",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is measured by clamp tester during “Test run” of package AC?",
+    "Option1": "Idle pressure",
+    "Option2": "Running current",
+    "Option3": "Rotation per minute",
+    "Option4": "Vacuum holding strength",
+    "Answer": "Running current",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the purpose of TEV in refrigeration cycle of package AC?",
+    "Option1": "Condensing gas",
+    "Option2": "Throttling refrigerant",
+    "Option3": "Flush out dry nitrogen",
+    "Option4": "Cooling the evaporator",
+    "Answer": "Throttling refrigerant",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which safety control is actuated by excess of heat /current in package AC?",
+    "Option1": "Selector switch",
+    "Option2": "Over load relay",
+    "Option3": "Water flow switch",
+    "Option4": "High pressure cut-out",
+    "Answer": "Over load relay",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which is controlled by the component in package AC?",
+    "Option1": "Power",
+    "Option2": "Gas flow",
+    "Option3": "Temperature",
+    "Option4": "Water pressure",
+    "Answer": "Temperature",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/MRAC%2FSEM4%2F076%20TO%20100%2F88.PNG?alt=media&token=653b965b-1277-42bc-ac34-980531a8b7a5"
+  },
+  {
+    "Question": "Which control terminals are shorted before pump down operation in package AC?",
+    "Option1": "Selector switch",
+    "Option2": "H.P cut-out switch",
+    "Option3": "L.P cut-out switch",
+    "Option4": "Thermostat switch",
+    "Answer": "L.P cut-out switch",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which valve is kept closed to check the function of low pressure switch?",
+    "Option1": "Reed valve",
+    "Option2": "Suction valve",
+    "Option3": "Liquid line valve",
+    "Option4": "Discharge service valve",
+    "Answer": "Liquid line valve",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the advantage of water pressure cut out switch in package AC?",
+    "Option1": "Raise condensation",
+    "Option2": "Improve evaporation",
+    "Option3": "Protect the compressor",
+    "Option4": "Increase refrigerant flow",
+    "Answer": "Protect the compressor",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which safety control is manually reset after rectifying the faults in packages AC?",
+    "Option1": "LP",
+    "Option2": "HP",
+    "Option3": "OLP",
+    "Option4": "OILP",
+    "Answer": "HP",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which safety switch deactivates the compressor motor circuit if suction pressure falls below the safe limit in package AC?",
+    "Option1": "Selector switch",
+    "Option2": "Low pressure switch",
+    "Option3": "High pressure switch",
+    "Option4": "Dual pressure switch",
+    "Answer": "Low pressure switch",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "How to position the liquid line valve to start the pump down operation in split AC?",
+    "Option1": "Closed",
+    "Option2": "Opened",
+    "Option3": "Back seated",
+    "Option4": "Back seat crack",
+    "Answer": "Closed",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the position of knob selected in thermostat to check its working condition in package AC?",
+    "Option1": "Fan only",
+    "Option2": "Low cool",
+    "Option3": "High cool",
+    "Option4": "Medium cool",
+    "Answer": "Low cool",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which document is used for writing the AC system parameters round the clock?",
+    "Option1": "Log sheet",
+    "Option2": "Trip sheet",
+    "Option3": "Note sheet",
+    "Option4": "Plain sheet",
+    "Answer": "Log sheet",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which operation is carried out first in selector switch after installation of package AC?",
+    "Option1": "Compressor 1",
+    "Option2": "Compressor 2",
+    "Option3": "Blower - low speed",
+    "Option4": "Blower - high speed",
+    "Answer": "Blower - low speed",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the remedy for scaled up water tubes of water cooled condenser?",
+    "Option1": "Clean the surface",
+    "Option2": "Wipe the condenser fins",
+    "Option3": "Descale the condenser tubes",
+    "Option4": "Wash the condenser with soap water",
+    "Answer": "Descale the condenser tubes",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the remedy for insufficient cool supply air from package AC?",
+    "Option1": "Check for gas leak",
+    "Option2": "Repair the compressor",
+    "Option3": "Flush out the condenser",
+    "Option4": "Replace the blower belt",
+    "Answer": "Replace the blower belt",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the cause for compressor cut off by HP cut out in package AC?",
+    "Option1": "Aged wire",
+    "Option2": "Compressor grounded",
+    "Option3": "Cooling tower fan failure",
+    "Option4": "Mild gas leak in evaporator",
+    "Answer": "Cooling tower fan failure",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  }
+]

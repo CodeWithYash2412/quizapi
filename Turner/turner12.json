@@ -1,0 +1,227 @@
+[
+  {
+    "Question": "Which is the advantage of taper turning by compound slide method?",
+    "Option1": "Steep taper can be produced",
+    "Option2": "Long taper can be produced",
+    "Option3": "Thread on taper portion can be produced",
+    "Option4": "Most suitable for duplicate taper work",
+    "Answer": "Steep taper can be produced",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which one is the disadvantage of taper turning by compound slide method?",
+    "Option1": "Only external taper can be turned",
+    "Option2": "Damages the centre drilled holes of the work",
+    "Option3": "Steep taper cannot be produced",
+    "Option4": "Taper length is limited to the movement of the top slide",
+    "Answer": "Taper length is limited to the movement of the top slide",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which part of the lathe is locked while the form tool method is used for turning taper?",
+    "Option1": "Compound rest",
+    "Option2": "Carriage",
+    "Option3": "Tail stock",
+    "Option4": "Head stock",
+    "Answer": "Carriage",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the purpose of the beveled edges of the rule in a vernier bevel protractor?",
+    "Option1": "Checking squreness",
+    "Option2": "Checking flatness",
+    "Option3": "Checking 45° and 60",
+    "Option4": "Checking parallelism",
+    "Answer": "Checking 45° and 60",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which part is marked as ‘x’?",
+    "Option1": "Disc",
+    "Option2": "Dial",
+    "Option3": "Blade",
+    "Option4": "Stock",
+    "Answer": "Dial",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/26to50%2FS30.PNG?alt=media&token=0eb91969-a988-40a4-a1e8-490205478893"
+  },
+  {
+    "Question": "Calculate the least count of V.B.P if 20 div on main scale is divided into 12 equal parts",
+    "Option1": "1° - 50°",
+    "Option2": "100’",
+    "Option3": "28’",
+    "Option4": "5’",
+    "Answer": "100’",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the accuracy of the protractor head of a combination set?",
+    "Option1": "1°",
+    "Option2": "5’",
+    "Option3": "1’",
+    "Option4": "1”",
+    "Answer": "1°",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the reading of angular measurement based on vernier bevel protractor?",
+    "Option1": "52° 45°",
+    "Option2": "67° 15°",
+    "Option3": "52°",
+    "Option4": "67°",
+    "Answer": "52° 45°",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/26to50%2FS33.PNG?alt=media&token=3f3c235f-e881-4582-9870-fed24faf7f1c"
+  },
+  {
+    "Question": "Convert 8° 44’ into minutes?",
+    "Option1": 424,
+    "Option2": 428,
+    "Option3": 524,
+    "Option4": 536,
+    "Answer": 524,
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which part of the combination set is used for measuring the angles?",
+    "Option1": "Protractor head",
+    "Option2": "Square head",
+    "Option3": "Centre head",
+    "Option4": "Rule",
+    "Answer": "Protractor head",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "How is the “length of sine bar “specified?",
+    "Option1": "Distance between the centres of the rollers",
+    "Option2": "Length of datum surface",
+    "Option3": "Length of the rollers",
+    "Option4": "Total length of the sine bar",
+    "Answer": "Distance between the centres of the rollers",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "How to measure the diameter of the small end of a external taper precisely?",
+    "Option1": "Sine bar",
+    "Option2": "Precision roller with slip gauge",
+    "Option3": "Vernier calipers",
+    "Option4": "Screw gauge",
+    "Answer": "Precision roller with slip gauge",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What does the letter ‘S’ stands in the equation d=Y-2 (s+r) in taper measurement?",
+    "Option1": "Diameter over the roller at large end",
+    "Option2": "Diameter over the rollers at small end",
+    "Option3": "Radius of the rollers",
+    "Option4": "Distance from the centre to the roller of the end of the component",
+    "Answer": "Distance from the centre to the roller of the end of the component",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/26to50%2FS38.PNG?alt=media&token=7dbc9357-64ff-4701-8565-c15e23146074"
+  },
+  {
+    "Question": "What is the use of the formula tanθ = X - Y / 2H in aper measurement?",
+    "Option1": "Checking the angle of taper",
+    "Option2": "Finding small end diameter",
+    "Option3": "Finding large end diameter",
+    "Option4": "Finding the lenyon of the taper",
+    "Answer": "Checking the angle of taper",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/26to50%2FS39.PNG?alt=media&token=6df37ec0-e73a-480d-b8da-52486c8187a1"
+  },
+  {
+    "Question": "What is the method of carbide tipped tool brazing?",
+    "Option1": "Furnace brazing",
+    "Option2": "Induction brazing",
+    "Option3": "Torch brazing",
+    "Option4": "Arc brazing",
+    "Answer": "Furnace brazing",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the method of carbide tip brazing?",
+    "Option1": "Furnace brazing",
+    "Option2": "Induction brazing",
+    "Option3": "Torch brazing",
+    "Option4": "Arc brazing",
+    "Answer": "Induction brazing",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which method of brazing is commonly used to braze of carbide tip on a shank?",
+    "Option1": "Furnace brazing",
+    "Option2": "Induction brazing",
+    "Option3": "Arc brazing",
+    "Option4": "Torch brazing",
+    "Answer": "Torch brazing",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the isolating medium to prevent rapid cooling after brazing a tipped tool?",
+    "Option1": "Water",
+    "Option2": "Mica powder",
+    "Option3": "Oil",
+    "Option4": "Wet sand",
+    "Answer": "Mica powder",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which is the welding process, if base metal and filler is melted to form the joint?",
+    "Option1": "By braze welding",
+    "Option2": "By arc welding",
+    "Option3": "By gas welding",
+    "Option4": "By tig welding",
+    "Answer": "By arc welding",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which welding method is more suitable for joining dissimilar metals readily?",
+    "Option1": "Braze welding",
+    "Option2": "Arc welding",
+    "Option3": "Tig welding",
+    "Option4": "Gas welding",
+    "Answer": "Braze welding",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the main disadvantage of a braze welded joints?",
+    "Option1": "The joint not suitable for thicker sections",
+    "Option2": "Dissimilar metals can be joined",
+    "Option3": "It take more time for repairing",
+    "Option4": "Heavy distortion due to heat",
+    "Answer": "The joint not suitable for thicker sections",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the purpose of welding accessory?",
+    "Option1": "To hold the work firmly",
+    "Option2": "To connect the return lead firmly to the job or table",
+    "Option3": "To hold the electrode for welding",
+    "Option4": "To handle the hot material after welding",
+    "Answer": "To connect the return lead firmly to the job or table",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/26to50%2FS47.PNG?alt=media&token=7e07c5fc-8d36-4a32-a510-561effa49fdd"
+  },
+  {
+    "Question": "Why the ball centre is prefered in tail stock offset method?",
+    "Option1": "For good surface finish",
+    "Option2": "For accurate setting",
+    "Option3": "For provide power feed",
+    "Option4": "To avoid damage to the centre drilled hole of the job",
+    "Answer": "To avoid damage to the centre drilled hole of the job",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which method is used for turning steep taper?",
+    "Option1": "Form tool",
+    "Option2": "Offset tail stock",
+    "Option3": "Compound slide swivel",
+    "Option4": "Taper turning attachment",
+    "Answer": "Compound slide swivel",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which method is preferred for producing small length taper with least accuracy?",
+    "Option1": "Form tool method",
+    "Option2": "Compound slide method",
+    "Option3": "Tail stock offset method",
+    "Option4": "Taper turning attachment method",
+    "Answer": "Form tool method",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  }
+]

@@ -1,0 +1,227 @@
+[
+  {
+    "Question": "What is the use of bar feeding automation?",
+    "Option1": "To increase the efficiency of the machine",
+    "Option2": "To control the auto feed mechanism",
+    "Option3": "It increases the material handling time",
+    "Option4": "It takes much more production time",
+    "Answer": "To increase the efficiency of the machine",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the full form of DNC?",
+    "Option1": "Dual Number Counting",
+    "Option2": "Direct Numerical Control",
+    "Option3": "Dual Numerical Coordinates",
+    "Option4": "Direct Non Coordination",
+    "Answer": "Direct Numerical Control",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the value of 'x' axis which tappering?",
+    "Option1": "Value of tap size",
+    "Option2": "Zero",
+    "Option3": "Negative",
+    "Option4": "Positive",
+    "Answer": "Zero",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the code value of Q2000 if the grooving program block is like this G75X28.0 Z-45.0 P500 Q2000 F0.08; in this program block?",
+    "Option1": "The total groove depth is 2000 microns",
+    "Option2": "The incremental depth of cut in 'x' axis",
+    "Option3": "The groove final diameter",
+    "Option4": "The incremental depth of cut in 'z' axis",
+    "Answer": "The incremental depth of cut in 'z' axis",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which status the data cannot be output for inputting / outputting data?",
+    "Option1": "In jog mode",
+    "Option2": "In edit mode",
+    "Option3": "In simulation mode",
+    "Option4": "The data output can not be done in an alarm status",
+    "Answer": "The data output can not be done in an alarm status",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "How to compensate the pitch error in the part program, if pitch error is enabled?",
+    "Option1": "The pitch error compansation amount of value to be input",
+    "Option2": "All the threaded area value to be changed and input",
+    "Option3": "Thread height value to be changed",
+    "Option4": "Minor diameter value to be compensated",
+    "Answer": "The pitch error compansation amount of value to be input",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Minor diameter value to be compensated",
+    "Option1": "Computer Aided Manufacturing",
+    "Option2": "Computer Application in Maintenance",
+    "Option3": "Computer Attached Monitering system",
+    "Option4": "Computer Applicable Monitering Process",
+    "Answer": "Computer Aided Manufacturing",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the purpose of CAM software in CNC area?",
+    "Option1": "Direct manufacturing without part program",
+    "Option2": "Traning and academics on CNC axes",
+    "Option3": "While using CAM, there no need of component design",
+    "Option4": "Execution of program",
+    "Answer": "Traning and academics on CNC axes",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Where the taper threads are used?",
+    "Option1": "Bolt",
+    "Option2": "Wood screw",
+    "Option3": "Stud",
+    "Option4": "Nut",
+    "Answer": "Wood screw",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is 'L' in tailstock offset method?",
+    "Option1": "Length of the taper",
+    "Option2": "Length of the job",
+    "Option3": "Amount taper",
+    "Option4": "Length of offset",
+    "Answer": "Length of the job",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the purpose of normalizing steel?",
+    "Option1": "Remove induced stresses",
+    "Option2": "Improve machinability",
+    "Option3": "Soften the steel",
+    "Option4": "Increase the toughness and reduce brittleness",
+    "Answer": "Remove induced stresses",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which metal is to be case hardened?",
+    "Option1": "High carbon steel",
+    "Option2": "Cast iron (heavy parts)",
+    "Option3": "Low carbon steel parts",
+    "Option4": "Alloy steel parts",
+    "Answer": "Low carbon steel parts",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "In Which case hardening process the ammonia gas is introduced?",
+    "Option1": "Cyaniding",
+    "Option2": "Gas nitriding",
+    "Option3": "Carburizing",
+    "Option4": "Induction hardening",
+    "Answer": "Gas nitriding",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What heat treatment process the nitriding comes under?",
+    "Option1": "Hardening",
+    "Option2": "Case hardening",
+    "Option3": "Tempering",
+    "Option4": "Normalizing",
+    "Answer": "Case hardening",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which heat treatment process is used to reduce internal stresses of a hardened tool?",
+    "Option1": "Stabilizing",
+    "Option2": "Annealing",
+    "Option3": "Normalizing",
+    "Option4": "Tempering",
+    "Answer": "Tempering",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which heat process is increase the toughness and decrease the brittleness?",
+    "Option1": "Annealing",
+    "Option2": "Normalizing",
+    "Option3": "Tempering",
+    "Option4": "Case hardening",
+    "Answer": "Tempering",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Why heat treatment of metal is necessary?",
+    "Option1": "To produce certain desired properties",
+    "Option2": "To make good appearance on the component",
+    "Option3": "To increase strength of the metal",
+    "Option4": "To make the metal rust-proof",
+    "Answer": "To produce certain desired properties",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which one of the following is the solid carburizing material?",
+    "Option1": "Charcoal",
+    "Option2": "Petrol",
+    "Option3": "Ammonia",
+    "Option4": "Kerosene",
+    "Answer": "Charcoal",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the process of increasing carbon percentage on the surface of low carbon steel?",
+    "Option1": "Hardening",
+    "Option2": "Nitriding",
+    "Option3": "Carburizing",
+    "Option4": "Tempering",
+    "Answer": "Carburizing",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the preheating temperature of steel?",
+    "Option1": "Upto 400°C",
+    "Option2": "Upto 500°C",
+    "Option3": "Upto 600°C",
+    "Option4": "Upto 300°C",
+    "Answer": "Upto 600°C",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which gas is used in nitriding process?",
+    "Option1": "Ammonia",
+    "Option2": "Helium",
+    "Option3": "Carbon dioxide",
+    "Option4": "Hydrogen",
+    "Answer": "Ammonia",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the heating temperature in gas nitriding process?",
+    "Option1": "Up 200° Celsius",
+    "Option2": "Up 300° Celsius",
+    "Option3": "Up 400° Celsius",
+    "Option4": "Up 500° Celsius",
+    "Answer": "Up 500° Celsius",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "How many fundamental deviations are recommended by BIS?",
+    "Option1": 25,
+    "Option2": 24,
+    "Option3": 20,
+    "Option4": 30,
+    "Answer": 25,
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the type of fit for the expression Fit 25H7/p6?",
+    "Option1": "Interference fit",
+    "Option2": "Clearance fit",
+    "Option3": "Trasition fit",
+    "Option4": "Running fit",
+    "Answer": "Interference fit",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the hole basis system?",
+    "Option1": "Size of shaft is constant",
+    "Option2": "Size of hole is constant",
+    "Option3": "Size of the hole is varied",
+    "Option4": "Size of both hole and shaft are varied",
+    "Answer": "Size of hole is constant",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  }
+]

@@ -1,0 +1,227 @@
+[
+  {
+    "Question": "What is the name of the accessory used in control panel wiring?",
+    "Option1": "Wire ferrules",
+    "Option2": "Wire sleeves",
+    "Option3": "Nylon cable ties",
+    "Option4": "Cable binding strap",
+    "Answer": "Cable binding strap",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/Electrician%2FSEM4%2FElectrician35%2F76.PNG?alt=media&token=8b7b4350-96fa-4db1-abfa-1d4630dbf9a3"
+  },
+  {
+    "Question": "What is the name of the accessory used in control panel wiring?",
+    "Option1": "Lugs",
+    "Option2": "Thimble",
+    "Option3": "Grommet",
+    "Option4": "Terminal connector",
+    "Answer": "Grommet",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/Electrician%2FSEM4%2FElectrician35%2F77.PNG?alt=media&token=019493d7-4b0f-419b-8c7a-d7244ba757b9"
+  },
+  {
+    "Question": "Which device protects from overload and short circuit in a panel board?",
+    "Option1": "Isolating switch",
+    "Option2": "Time delay relay",
+    "Option3": "Thermal overload relay",
+    "Option4": "Miniature circuit breaker",
+    "Answer": "Miniature circuit breaker",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which switch with an actuator is operated by the motion of a machine or part of an object?",
+    "Option1": "Limit switch",
+    "Option2": "Toggle switch",
+    "Option3": "Toggle switch",
+    "Option4": "Push button switch",
+    "Answer": "Limit switch",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which switch is operated at OFF load condition?",
+    "Option1": "Limit switch",
+    "Option2": "Isolating switch",
+    "Option3": "Two way switch",
+    "Option4": "Push button switch",
+    "Answer": "Isolating switch",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the reason for providing two separate Earthing in panel board?",
+    "Option1": "Panel board is made in metal box",
+    "Option2": "Control the stray field in the panel",
+    "Option3": "Reduce the voltage drop in panel board",
+    "Option4": "Ensure one earthing in case of other failure",
+    "Answer": "Ensure one earthing in case of other failure",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which circuit, the limit switches are used?",
+    "Option1": "Lift circuits",
+    "Option2": "Street lighting",
+    "Option3": "Motor control circuits",
+    "Option4": "Domestic power circuits",
+    "Answer": "Lift circuits",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "How the control circuit voltage and power in a contactor are to be selected?",
+    "Option1": "As per rated current",
+    "Option2": "As per supply voltage",
+    "Option3": "As per no volt coil rating",
+    "Option4": "As per the type of supply",
+    "Answer": "As per no volt coil rating",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the criteria to select the contactor?",
+    "Option1": "Type of supply",
+    "Option2": "Type of load connected",
+    "Option3": "Supply voltage and load",
+    "Option4": "Place of use the contactor",
+    "Answer": "Supply voltage and load",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which accessory is used to mount MCB,OLR in the panel board without using screws?",
+    "Option1": "DIN Rail",
+    "Option2": "G. channel",
+    "Option3": "Grommets",
+    "Option4": "PVC channel",
+    "Answer": "DIN Rail",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which type of device protects motors from over heating and over loading in a panel board?",
+    "Option1": "Rectifier",
+    "Option2": "Limit switch",
+    "Option3": "Thermal relay",
+    "Option4": "Electro mechanical relay",
+    "Answer": "Thermal relay",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the use of G’ channels in control panel?",
+    "Option1": "For fixing relays",
+    "Option2": "For fixing contactors",
+    "Option3": "For fixing instruments",
+    "Option4": "For fixing terminal connectors",
+    "Answer": "For fixing terminal connectors",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the function of limit switch in control panel wiring?",
+    "Option1": "Controls machine from over heat",
+    "Option2": "Controls machine from over speed",
+    "Option3": "Controls machine from over loading",
+    "Option4": "Controls distance movement of any machine",
+    "Answer": "Controls distance movement of any machine",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which is the standard duty cycle code of the contactor for starting and stopping the AC resistive and inductive load?",
+    "Option1": "AC1",
+    "Option2": "AC2",
+    "Option3": "AC3",
+    "Option4": "AC4",
+    "Answer": "AC2",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which is the correct sequence operation of contactors for operating automatic star delta strarter?",
+    "Option1": "Main→Star→Delta→Timer",
+    "Option2": "Star→ Main→Timer→Delta",
+    "Option3": "Main→Timer→Delta→Star",
+    "Option4": "Star→Timer→Main→Delta",
+    "Answer": "Star→ Main→Timer→Delta",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Why control panels are provided with control transformer?",
+    "Option1": "To maintain rated voltage to load",
+    "Option2": "To operate the auxiliary circuits",
+    "Option3": "To maintain rated main supply voltage",
+    "Option4": "To supply reduced voltage to power circuit",
+    "Answer": "To operate the auxiliary circuits",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What happens, if time delay relay of a auto star delta starter still in closed condition after starting?",
+    "Option1": "Starts and stop",
+    "Option2": "Runs normally",
+    "Option3": "Runs in star only",
+    "Option4": "Runs in delta only",
+    "Answer": "Runs in delta only",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the use of PVC channel in a control panel wiring?",
+    "Option1": "Mounting MCB",
+    "Option2": "Mounting relays",
+    "Option3": "Path way for electrical wiring and protection",
+    "Option4": "Mounting double deck terminal contactor",
+    "Answer": "Path way for electrical wiring and protection",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the purpose of thermal over load relay in control panel?",
+    "Option1": "Switching ON/OFF the circuit",
+    "Option2": "Protect the circuit from earth fault",
+    "Option3": "Control the circuit based on time delay",
+    "Option4": "Protect the motor from over heating and loading",
+    "Answer": "Protect the motor from over heating and loading",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Why sequential control of motors is required in an industrial application?",
+    "Option1": "To share more loads",
+    "Option2": "To reduce power consumption",
+    "Option3": "To minimise the operating cost",
+    "Option4": "To increase the accuracy of operation",
+    "Answer": "To increase the accuracy of operation",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which material is used to make open frame bimetallic adjustable thermostat contacts?",
+    "Option1": "Silver",
+    "Option2": "Brass",
+    "Option3": "Copper",
+    "Option4": "Bronze",
+    "Answer": "Silver",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the purpose of DIN-rail used in control panel wiring?",
+    "Option1": "It provides a path way for electrical wiring",
+    "Option2": "Install the high powered circuit accessories",
+    "Option3": "Mounting the double deck terminal connectors",
+    "Option4": "Mounting the control accessories without screws",
+    "Answer": "Mounting the control accessories without screws",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which device controls the operations in sequential control systems?",
+    "Option1": "Timer",
+    "Option2": "Relays",
+    "Option3": "Contactor",
+    "Option4": "Control transformer",
+    "Answer": "Timer",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which DC load is represented by the DC4 standard duty cycle of contactors?",
+    "Option1": "Resistive loads except motor loads",
+    "Option2": "Starting and stopping of shunt motor",
+    "Option3": "Starting and stopping of series motor",
+    "Option4": "Starting and stopping with inching and braking",
+    "Answer": "Starting and stopping of series motor",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the purpose of control transformer used in control panel wiring?",
+    "Option1": "To maintain constant terminal voltage",
+    "Option2": "To supply the power to the auxiliary circuits",
+    "Option3": "To control the supply voltage to the contactor",
+    "Option4": "To protect the control elements from over voltage fault",
+    "Answer": "To supply the power to the auxiliary circuits",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  }
+]

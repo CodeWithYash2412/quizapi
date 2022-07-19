@@ -1,0 +1,227 @@
+[
+  {
+    "Question": "Which key word is used to declare the variable in VBA?",
+    "Option1": "Sub",
+    "Option2": "Declare",
+    "Option3": "Dim",
+    "Option4": "AS",
+    "Answer": "Dim",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which data type can hold any type of values in VBA?",
+    "Option1": "Variant",
+    "Option2": "Variable",
+    "Option3": "Constant",
+    "Option4": "Keyword",
+    "Answer": "Variant",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which entitie hold data in VBA?",
+    "Option1": "Literals",
+    "Option2": "Constants",
+    "Option3": "Keywords",
+    "Option4": "Variables",
+    "Answer": "Variables",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which worksheet method is used to copy a sheet to another location in the workbook?",
+    "Option1": "Activate",
+    "Option2": "Copy",
+    "Option3": "Save AS",
+    "Option4": "Select",
+    "Answer": "Copy",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which VBA worksheet property return or sets a string value that represents the object name?",
+    "Option1": "Name",
+    "Option2": "Index",
+    "Option3": "Range",
+    "Option4": "Cells",
+    "Answer": "Name",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which method displays the data form associated with the worksheet in VBA?",
+    "Option1": "Copy",
+    "Option2": "Printout",
+    "Option3": "Show Data Form",
+    "Option4": "Select",
+    "Answer": "Show Data Form",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which VBA property returns a range object that represents all the cells on the worksheet?",
+    "Option1": "Cells",
+    "Option2": "Rows",
+    "Option3": "Index",
+    "Option4": "Name",
+    "Answer": "Cells",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which object is member of the workbook?",
+    "Option1": "Sheets",
+    "Option2": "Workbook",
+    "Option3": "Worksheet",
+    "Option4": "Range",
+    "Answer": "Worksheet",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which type of work book method cannot be modified in VBA?",
+    "Option1": "Close",
+    "Option2": "Save",
+    "Option3": "Save AS",
+    "Option4": "Protect",
+    "Answer": "Protect",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which workbook property returns a string value that represents the name of the object in VBA?",
+    "Option1": "Full name",
+    "Option2": "Name",
+    "Option3": "Path",
+    "Option4": "Worksheets",
+    "Answer": "Name",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which workbook property returns the name of the object including its path on disk in VBA?",
+    "Option1": "Full name",
+    "Option2": "Name",
+    "Option3": "Path",
+    "Option4": "Worksheets",
+    "Answer": "Full name",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which can hold lot of data with one variable in VBA?",
+    "Option1": "Arrays",
+    "Option2": "Collections",
+    "Option3": "Groups",
+    "Option4": "Methods",
+    "Answer": "Collections",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which type of list box enables one choice of adjacent choice in VBA?",
+    "Option1": "Drop down list",
+    "Option2": "Single - selection list box",
+    "Option3": "Multiple - selection list box",
+    "Option4": "Extended - selection list box",
+    "Answer": "Multiple - selection list box",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which button has three states in VBA?",
+    "Option1": "Option button",
+    "Option2": "Spin button",
+    "Option3": "Push button",
+    "Option4": "Command button",
+    "Answer": "Option button",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which box groups related controls into one visual unit in a rectangle with an optional label?",
+    "Option1": "Label box",
+    "Option2": "Group box",
+    "Option3": "List box",
+    "Option4": "Combo box",
+    "Answer": "Group box",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which is used to create user interface forms?",
+    "Option1": "C",
+    "Option2": "VBA",
+    "Option3": "HTML",
+    "Option4": "Javascript",
+    "Answer": "VBA",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Where does Excel come in object hierarchy of VBA?",
+    "Option1": "Range object",
+    "Option2": "Workbook object",
+    "Option3": "Worksheet object",
+    "Option4": "Application object",
+    "Answer": "Application object",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which shortcut key is used to open project explorer window in VBA?",
+    "Option1": "Ctrl + R",
+    "Option2": "Ctrl + P",
+    "Option3": "Ctrl + W",
+    "Option4": "Ctrl + E",
+    "Answer": "Ctrl + R",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which shortcut key is used to open VBA Editor from the Excel worksheet?",
+    "Option1": "Ctrl + F11",
+    "Option2": "Alt + F11",
+    "Option3": "Ctrl + V",
+    "Option4": "Ctrl + F7",
+    "Answer": "Alt + F11",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the Full form of IDE?",
+    "Option1": "Integrated Development Element",
+    "Option2": "Internal Development Environment",
+    "Option3": "Integrated Development Environment",
+    "Option4": "Internal Distributed Environment",
+    "Answer": "Integrated Development Environment",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which shortcut key is used to step into line - by - line execution in VBA?",
+    "Option1": "F2",
+    "Option2": "F4",
+    "Option3": "F5",
+    "Option4": "F8",
+    "Answer": "F8",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is called the set of commands bundled together under one name?",
+    "Option1": "Properties",
+    "Option2": "Macros",
+    "Option3": "Procedures",
+    "Option4": "Events",
+    "Answer": "Macros",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is called the set of statement that are executed under one name?",
+    "Option1": "Macros",
+    "Option2": "Properties",
+    "Option3": "Procedures",
+    "Option4": "Events",
+    "Answer": "Procedures",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which one is attributes of an object in VBA?",
+    "Option1": "Procedures",
+    "Option2": "Events",
+    "Option3": "Macros",
+    "Option4": "Properties",
+    "Answer": "Properties",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is called double clicking an object in VBA?",
+    "Option1": "Events",
+    "Option2": "Macros",
+    "Option3": "Procedures",
+    "Option4": "Methods",
+    "Answer": "Events",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  }
+]

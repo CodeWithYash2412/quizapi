@@ -1,0 +1,227 @@
+[
+  {
+    "Question": "CPU stands for ________",
+    "Option1": "Central Programming Unit",
+    "Option2": "Central Processing Unit",
+    "Option3": "Central Planning Unit",
+    "Option4": "Central Progress Unit",
+    "Answer": "Central Processing Unit",
+    "image": ""
+  },
+  {
+    "Question": "For short distance, which network type should be used?",
+    "Option1": "LAN",
+    "Option2": "MAN",
+    "Option3": "WAN",
+    "Option4": "CAN",
+    "Answer": "LAN",
+    "image": ""
+  },
+  {
+    "Question": "In an email, where will you add the recipient email address whom you want to send the copy of an email?",
+    "Option1": "To",
+    "Option2": "CC",
+    "Option3": "Bcc",
+    "Option4": "Subject",
+    "Answer": "CC",
+    "image": ""
+  },
+  {
+    "Question": "In Excel, the intersection of a row and column is called a _________",
+    "Option1": "cell",
+    "Option2": "label",
+    "Option3": "square",
+    "Option4": "worksheet",
+    "Answer": "cell",
+    "image": ""
+  },
+  {
+    "Question": "In MS Excel, collection of work sheet is known as ___________",
+    "Option1": "worksheet",
+    "Option2": "workbook",
+    "Option3": "excel book",
+    "Option4": "sheet work",
+    "Answer": "workbook",
+    "image": ""
+  },
+  {
+    "Question": "In MS Excel, to insert a formula in cell, we must begin the entry with an operator ___________",
+    "Option1": "=",
+    "Option2": "$",
+    "Option3": "@",
+    "Option4": "#",
+    "Answer": "=",
+    "image": ""
+  },
+  {
+    "Question": "In MS Paint, which extension is not supported _________",
+    "Option1": ".jpeg",
+    "Option2": ".doc",
+    "Option3": ".gif",
+    "Option4": ".png",
+    "Answer": ".doc",
+    "image": ""
+  },
+  {
+    "Question": "In which orientation, the text is printed length wise?",
+    "Option1": "Landscape",
+    "Option2": "Margin",
+    "Option3": "Portrait",
+    "Option4": "Width",
+    "Answer": "Portrait",
+    "image": ""
+  },
+  {
+    "Question": "In which orientation, the text is printed width wise?",
+    "Option1": "Width",
+    "Option2": "Margin",
+    "Option3": "Portrait",
+    "Option4": "Landscape",
+    "Answer": "Landscape",
+    "image": ""
+  },
+  {
+    "Question": "program that infects other programs by modifying them is called___________",
+    "Option1": "search engine",
+    "Option2": "virus",
+    "Option3": "antivirus",
+    "Option4": "cyber crime",
+    "Answer": "virus",
+    "image": ""
+  },
+  {
+    "Question": "Spread sheets are saved with extension _________",
+    "Option1": ".xls",
+    "Option2": ".doc",
+    "Option3": ".pdf",
+    "Option4": ".mp3",
+    "Answer": ".xls",
+    "image": ""
+  },
+  {
+    "Question": "Spread sheets are saved with extension___________",
+    "Option1": ".pdf",
+    "Option2": ".doc",
+    "Option3": ".xls",
+    "Option4": ".mp3",
+    "Answer": ".xls",
+    "image": ""
+  },
+  {
+    "Question": "The expansion of LAN is ___________",
+    "Option1": "Local Area Name",
+    "Option2": "Local Area Network",
+    "Option3": "Logical Area Network",
+    "Option4": "Legal Area Network",
+    "Answer": "Local Area Network",
+    "image": ""
+  },
+  {
+    "Question": "The expansion of RAM is __________",
+    "Option1": "Read Octet Machine",
+    "Option2": "Random Access Memory",
+    "Option3": "Read Access Memory",
+    "Option4": "Random Access Machine",
+    "Answer": "Random Access Memory",
+    "image": ""
+  },
+  {
+    "Question": "The expansion of ROM is ____________",
+    "Option1": "Read Octet Machine",
+    "Option2": "Read Only Memory",
+    "Option3": "Random Only Memory",
+    "Option4": "Rewrite Octet Machine",
+    "Answer": "Read Only Memory",
+    "image": ""
+  },
+  {
+    "Question": "The expansion of WAN is ___________",
+    "Option1": "Wide Area Name",
+    "Option2": "Web Assigned Name",
+    "Option3": "Wide Area Network",
+    "Option4": "Web Aided Network",
+    "Answer": "Wide Area Network",
+    "image": ""
+  },
+  {
+    "Question": "What does ‘ASAP’ stand for, in SMS language?",
+    "Option1": "As Silent As Probable",
+    "Option2": "As Soon As Probable",
+    "Option3": "As Soon As Possible",
+    "Option4": "As Simple As Possible",
+    "Answer": "As Soon As Possible",
+    "image": ""
+  },
+  {
+    "Question": "What is a shortcut key for “Copy” command?",
+    "Option1": "Ctrl + C",
+    "Option2": "Ctrl + V",
+    "Option3": "Ctrl + A",
+    "Option4": "Ctrl + X",
+    "Answer": "Ctrl + C",
+    "image": ""
+  },
+  {
+    "Question": "What is a shortcut key for “cut’’ command?",
+    "Option1": "Ctrl +C",
+    "Option2": "Ctrl+V",
+    "Option3": "Ctrl+A",
+    "Option4": "Ctrl+X",
+    "Answer": "Ctrl+X",
+    "image": ""
+  },
+  {
+    "Question": "What is a shortcut key for “select all” command?",
+    "Option1": "Ctrl +C",
+    "Option2": "Ctrl +V",
+    "Option3": "Ctrl +A",
+    "Option4": "Ctrl +X",
+    "Answer": "Ctrl +A",
+    "image": ""
+  },
+  {
+    "Question": "What is shortcut key for “Paste” command?",
+    "Option1": "Ctrl + C",
+    "Option2": "Ctrl + V",
+    "Option3": "Ctrl + A",
+    "Option4": "Ctrl + X",
+    "Answer": "Ctrl + V",
+    "image": ""
+  },
+  {
+    "Question": "What is the cell address of 4th row and 4th column?",
+    "Option1": "4D",
+    "Option2": "E4",
+    "Option3": "D4",
+    "Option4": "B4",
+    "Answer": "D4",
+    "image": ""
+  },
+  {
+    "Question": "What is the default name of newly created folder in windows?",
+    "Option1": "Folder",
+    "Option2": "New",
+    "Option3": "New folder",
+    "Option4": "Blank",
+    "Answer": "New folder",
+    "image": ""
+  },
+  {
+    "Question": "What is the expansion of “FYI” SMS?",
+    "Option1": "For Your Information",
+    "Option2": "For Your Identification",
+    "Option3": "For Your Internet",
+    "Option4": "For Your Innocence",
+    "Answer": "For Your Information",
+    "image": ""
+  },
+  {
+    "Question": "Where all deleted files will be stored?",
+    "Option1": "CD",
+    "Option2": "Official folder",
+    "Option3": "Personal folder",
+    "Option4": "Recycle bin",
+    "Answer": "Recycle bin",
+    "image": ""
+  }
+]

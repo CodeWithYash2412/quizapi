@@ -1,0 +1,227 @@
+[
+  {
+    "Question": "What is the name of tool?",
+    "Option1": "External thread chaser",
+    "Option2": "Internal thread chaser",
+    "Option3": "Collapsible tap",
+    "Option4": "Coventry die head",
+    "Answer": "External thread chaser",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/101to125%2FS101.PNG?alt=media&token=d8936e6f-9058-4c1e-a93b-c71d26536b79"
+  },
+  {
+    "Question": "What is the name of tool?",
+    "Option1": "External thread chaser",
+    "Option2": "Internal thread chaser",
+    "Option3": "Collapsible tap",
+    "Option4": "Coventry die head",
+    "Answer": "Internal thread chaser",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/101to125%2FS102.PNG?alt=media&token=5c7f75cf-0ce7-42f3-93cf-8bbc87d747a9"
+  },
+  {
+    "Question": "What is the name of the part marked as 'x'?",
+    "Option1": "Chuck",
+    "Option2": "Carriage",
+    "Option3": "Lead screw",
+    "Option4": "Driver",
+    "Answer": "Lead screw",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/101to125%2FS103.PNG?alt=media&token=f373866c-c4aa-40c7-b272-65475ba2a64e"
+  },
+  {
+    "Question": "What is the name of the part marked as 'x' in thread chasing dial mechanism?",
+    "Option1": "Worm gear",
+    "Option2": "Lead screw",
+    "Option3": "Shaft",
+    "Option4": "Graduated dial",
+    "Answer": "Graduated dial",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/101to125%2FS104.PNG?alt=media&token=35e324b3-9358-4c89-8d1b-d512e91e6a26"
+  },
+  {
+    "Question": "What is the name of operation?",
+    "Option1": "Tapping",
+    "Option2": "Thread grinding",
+    "Option3": "Thread rolling",
+    "Option4": "Thread milling",
+    "Answer": "Thread rolling",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/101to125%2FS105.PNG?alt=media&token=c68562e7-d980-4d9d-b0a0-a82d412db5e8"
+  },
+  {
+    "Question": "Identify the part marked as ‘x’ in a British chasing dial?",
+    "Option1": "Crown gear",
+    "Option2": "Worm gear",
+    "Option3": "Helical gear",
+    "Option4": "Bevel gear",
+    "Answer": "Worm gear",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/101to125%2FS106.PNG?alt=media&token=318962f3-7c2e-462b-967a-a239eb1ebeb8"
+  },
+  {
+    "Question": "How many un-numbered divisions on the British chasing dial?",
+    "Option1": 3,
+    "Option2": 4,
+    "Option3": 12,
+    "Option4": 18,
+    "Answer": 4,
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Calculate the gear ratio to cut a ¼” lead on a lathe with lead screw of 2TPI?",
+    "Option1": "2/3",
+    "Option2": "3/4",
+    "Option3": "1/2",
+    "Option4": "1/4",
+    "Answer": "1/2",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which equation is used to calculate tool life?",
+    "Option1": "πdN/1000",
+    "Option2": "Vt^n = C",
+    "Option3": "S / l x n",
+    "Option4": "c / n x t^2",
+    "Answer": "Vt^n = C",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which terms are needed to calculate tool life index?",
+    "Option1": "Cutting speed and feed",
+    "Option2": "Depth of cut and rpm",
+    "Option3": "Cutting speed time and index",
+    "Option4": "Cutting speed and rpm of job",
+    "Answer": "Cutting speed time and index",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the value of tool life index for cutting cast iron by cemented carbide tool?",
+    "Option1": 0.1,
+    "Option2": 0.125,
+    "Option3": 0.2,
+    "Option4": 0.128,
+    "Answer": 0.1,
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the tool life index of cemented carbide tool for turning high carbon steel?",
+    "Option1": 0.15,
+    "Option2": 0.2,
+    "Option3": 0.4,
+    "Option4": 0.35,
+    "Answer": 0.15,
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which angle is provided on the metric screw thread micrometer anvil?",
+    "Option1": "60°",
+    "Option2": "47 ½°",
+    "Option3": "55°",
+    "Option4": "30°",
+    "Answer": "60°",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which instrument has this type of measuirng anvils",
+    "Option1": "Screw thread micrometer",
+    "Option2": "Ball micrometer",
+    "Option3": "Tubular micrometer",
+    "Option4": "Digital micrometer",
+    "Answer": "Screw thread micrometer",
+    "image": "Which instrument has this type of measuirng anvils"
+  },
+  {
+    "Question": "What is the shape of interchangeable anvils used in screw thread micrometer?",
+    "Option1": "Square shape",
+    "Option2": "V-shape",
+    "Option3": "Circular shape",
+    "Option4": "Radius shape",
+    "Answer": "V-shape",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which is the method of thread measurement?",
+    "Option1": "Major diameter using micro meter",
+    "Option2": "Effective diameter using screw thread micrometer",
+    "Option3": "Effective diameter using three wire method",
+    "Option4": "Minor diameter using three wire method",
+    "Answer": "Effective diameter using three wire method",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/101to125%2FS117.PNG?alt=media&token=79bf0311-e7ac-446d-922b-270f897ebd36"
+  },
+  {
+    "Question": "Which parameter of a thread is measured by three wire method?",
+    "Option1": "Pitch",
+    "Option2": "Major diameter",
+    "Option3": "Minor diameter",
+    "Option4": "Effective diameter",
+    "Answer": "Effective diameter",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Identify the parts marked as ‘x’ in a British chasing dial",
+    "Option1": "Worm gears",
+    "Option2": "Bevel gears",
+    "Option3": "Helical gears",
+    "Option4": "Hypoid gears",
+    "Answer": "Worm gears",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/101to125%2FS119.PNG?alt=media&token=b79a97a6-c185-47c4-816f-979a6bf808e5"
+  },
+  {
+    "Question": "Which is the type gear train?",
+    "Option1": "Simple gear train",
+    "Option2": "Compound gear train",
+    "Option3": "Reverted gear train",
+    "Option4": "Triple gear train",
+    "Answer": "Compound gear train",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/101to125%2FS120.PNG?alt=media&token=c0c9a099-d527-4273-aa9a-56c1dd80fb4b"
+  },
+  {
+    "Question": "How many percentage of cutting speed is reduced for tool life dubling?",
+    "Option1": "8.1 %",
+    "Option2": "8.2 %",
+    "Option3": "8.3 %",
+    "Option4": "8.4 %",
+    "Answer": "8.3 %",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What are the uses of B.S.P thread?",
+    "Option1": "General fastening",
+    "Option2": "Automobile industries",
+    "Option3": "Pipe and pipe fittings",
+    "Option4": "Load transmition",
+    "Answer": "Pipe and pipe fittings",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which one is the depth calculating formula for B.S.F thread?",
+    "Option1": "0.96P",
+    "Option2": "0.866P",
+    "Option3": "1.36P",
+    "Option4": "0.833P",
+    "Answer": "0.866P",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/101to125%2FS123.PNG?alt=media&token=364303ff-83e4-4d56-8cb6-5f88bcd7cad0"
+  },
+  {
+    "Question": "What is the use of BSW thread?",
+    "Option1": "General purpose fastening",
+    "Option2": "Load fitting",
+    "Option3": "Fast movement",
+    "Option4": "Used in electrical appliances",
+    "Answer": "General purpose fastening",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which one is the example for transmission of motion using thread",
+    "Option1": "Rack and pinion",
+    "Option2": "Worm and worm shaft",
+    "Option3": "Crank and slotted link",
+    "Option4": "Bevel gearing",
+    "Answer": "Worm and worm shaft",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which type of thread is used in screw jack spindle?",
+    "Option1": "BSW thread",
+    "Option2": "BSF thread",
+    "Option3": "Square thread",
+    "Option4": "Worm thread",
+    "Answer": "Square thread",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  }
+]

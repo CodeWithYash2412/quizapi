@@ -1,0 +1,227 @@
+[
+  {
+    "Question": "How many types of error are there in javascript programming?",
+    "Option1": 3,
+    "Option2": 4,
+    "Option3": 5,
+    "Option4": 6,
+    "Answer": 3,
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "How many different values can be returned by the error name property in javascript ?",
+    "Option1": 3,
+    "Option2": 4,
+    "Option3": 5,
+    "Option4": 6,
+    "Answer": 6,
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which object method is used to return the value rounded down to its nearest interger?",
+    "Option1": "abs()",
+    "Option2": "ceil()",
+    "Option3": "floor()",
+    "Option4": "round()",
+    "Answer": "floor()",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which special variable holds more than one value at a time?",
+    "Option1": "Array",
+    "Option2": "Element",
+    "Option3": "Function",
+    "Option4": "Object",
+    "Answer": "Array",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which is the parameter name separator in javascript?",
+    "Option1": ",",
+    "Option2": ":",
+    "Option3": "-",
+    "Option4": "/",
+    "Answer": ",",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which function in javassript converts a number to a string?",
+    "Option1": "Num()",
+    "Option2": "Str()",
+    "Option3": "String()",
+    "Option4": "to string()",
+    "Answer": "to string()",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which allows developers to bundle all functionality under a unique application -specific name?",
+    "Option1": "Class",
+    "Option2": "Name space",
+    "Option3": "Object",
+    "Option4": "Property",
+    "Answer": "Name space",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which is a valid js code to sort element of an array tracle?",
+    "Option1": "Trade.sort:",
+    "Option2": "Trade.sort();",
+    "Option3": "Sort.trade();",
+    "Option4": "Sort.(trade);",
+    "Answer": "Trade.sort();",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the full form of BOM?",
+    "Option1": "Browser Object Method",
+    "Option2": "Browser Object Model",
+    "Option3": "Browser Oriented Method",
+    "Option4": "Browser Oriented Model",
+    "Answer": "Browser Object Model",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the full form of TOC?",
+    "Option1": "Text of content",
+    "Option2": "Time of calculation",
+    "Option3": "Table of content",
+    "Option4": "Terminator of content",
+    "Answer": "Table of content",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which is the first phase of System Development Life Cycle?",
+    "Option1": "Testing",
+    "Option2": "Planning",
+    "Option3": "Developing",
+    "Option4": "Defining",
+    "Answer": "Planning",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the abbreviation of W3C in Dom?",
+    "Option1": "Word Wide Web Curriculum",
+    "Option2": "World Wide Web Consortium",
+    "Option3": "World Wide Web Centre",
+    "Option4": "World Wide Web Content",
+    "Answer": "World Wide Web Consortium",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the main purpose of JavaScript?",
+    "Option1": "Client side validation",
+    "Option2": "Create web browsers",
+    "Option3": "Read and write files",
+    "Option4": "Store data in the server",
+    "Answer": "Client side validation",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which one is responsible of running javascript code?",
+    "Option1": "Browser",
+    "Option2": "Notepad++",
+    "Option3": "Sublime Text",
+    "Option4": "Visual studio code",
+    "Answer": "Browser",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which one enables the hosting providers to mange multiple domains on a single server?",
+    "Option1": "Network server",
+    "Option2": "SQL server",
+    "Option3": "Web server",
+    "Option4": "Database server",
+    "Answer": "Network server",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which sign an ‘assignment’ operator in javascript?",
+    "Option1": "=",
+    "Option2": "#",
+    "Option3": "= =",
+    "Option4": "< >",
+    "Answer": "=",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which data type in javascript returns the value ‘True’ or ‘Flase’?",
+    "Option1": "Boolean",
+    "Option2": "Dynamic",
+    "Option3": "Object",
+    "Option4": "String",
+    "Answer": "Boolean",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which operator is used to check both value and type in javascript?",
+    "Option1": "#",
+    "Option2": "=",
+    "Option3": "==",
+    "Option4": "===",
+    "Answer": "===",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which assignment operator is equivalent to a = a * 5?",
+    "Option1": "a = 5 * 9",
+    "Option2": "a = * 5",
+    "Option3": "a * = 5",
+    "Option4": "a = 5",
+    "Answer": "a * = 5",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which single charcter escape sequence represents ‘line feed’’ javascript?",
+    "Option1": "\\ b",
+    "Option2": "\\ f",
+    "Option3": "\\ n",
+    "Option4": "\\ t",
+    "Answer": "\\ n",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the purpose of Initialisation part in’for’ loop?",
+    "Option1": "exit the loop",
+    "Option2": "evaluate the condition",
+    "Option3": "increase or decrease the initial variable",
+    "Option4": "Initiate the variable",
+    "Answer": "Initiate the variable",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which keyboard in switch case statement specifies the code to run if there is no case match?",
+    "Option1": "Break",
+    "Option2": "Case",
+    "Option3": "Default",
+    "Option4": "End",
+    "Answer": "Default",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which statement is used to test a block of code for errors?",
+    "Option1": "Catch",
+    "Option2": "Finally",
+    "Option3": "Throe",
+    "Option4": "Try",
+    "Answer": "Try",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which statement is used to handle the error?",
+    "Option1": "Try",
+    "Option2": "Catch",
+    "Option3": "Throw",
+    "Option4": "Finally",
+    "Answer": "Catch",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which statement is used create custom error in javascript?",
+    "Option1": "Catch",
+    "Option2": "Finally",
+    "Option3": "Throw",
+    "Option4": "Try",
+    "Answer": "Throw",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  }
+]

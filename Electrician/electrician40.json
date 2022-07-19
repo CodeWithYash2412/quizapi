@@ -1,0 +1,227 @@
+[
+  {
+    "Question": "What is the advantage of non-conventional energy source?",
+    "Option1": "More reliable",
+    "Option2": "Low initial cost",
+    "Option3": "Efficiency is high",
+    "Option4": "Greenhouse effect is avoided",
+    "Answer": "Greenhouse effect is avoided",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "How the potential energy from water flowing is converted as kinetic energy to generate power?",
+    "Option1": "By storing water in high quantity",
+    "Option2": "By using surge tanks at the water canal",
+    "Option3": "By using water turbine to drive alternator",
+    "Option4": "By creating high head through penstocks",
+    "Answer": "By creating high head through penstocks",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the effect of radioactive rays produced during nuclear fission?",
+    "Option1": "Damages the reactors",
+    "Option2": "Creates health hazards",
+    "Option3": "Reduces fission process",
+    "Option4": "Enormous heat is produced",
+    "Answer": "Creates health hazards",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What happens to solar cell, if the intensity of light is low?",
+    "Option1": "Output increases",
+    "Option2": "Output decreases",
+    "Option3": "Output remain same",
+    "Option4": "No output in the cell",
+    "Answer": "Output decreases",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the output voltage of a solar cell, if light intensity is high?",
+    "Option1": "No output in the cell",
+    "Option2": "Output voltage is increased",
+    "Option3": "No effect and remain same",
+    "Option4": "Output voltage is decreased",
+    "Answer": "Output voltage is increased",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which electric lines connect the substation\nto distributors in distribution system?",
+    "Option1": "Feeders",
+    "Option2": "Distributors",
+    "Option3": "Service lines",
+    "Option4": "Service mains",
+    "Answer": "Feeders",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the insulation resistance between\nany two conductors in a medium voltage domestic\ninstallation as per IE rules?",
+    "Option1": "Infinity",
+    "Option2": "More than one Mega ohm",
+    "Option3": "More than two Mega ohms",
+    "Option4": "More than three Mega ohms",
+    "Answer": "More than one Mega ohm",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is diversity factor (D.F)?",
+    "Option1": "DF = minimum actual load / Installed load",
+    "Option2": "DF = Installed load / minimum actual load",
+    "Option3": "DF = minimum installed load / actual load",
+    "Option4": "DF = actual load / minimum installed load",
+    "Answer": "DF = minimum actual load / Installed load",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the voltage ratio in A.C distribution\nline adopted for domestic consumers?",
+    "Option1": "415 V/240 V",
+    "Option2": "240 V/110 V",
+    "Option3": "415 V/110 V",
+    "Option4": "11 KV/415 V",
+    "Answer": "415 V/240 V",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the name of the insulator used in\nO.H lines?",
+    "Option1": "Pin insulator",
+    "Option2": "Post insulator",
+    "Option3": "Strain insulator",
+    "Option4": "Shackle insulator",
+    "Answer": "Shackle insulator",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/Electrician%2FSEM4%2FElectrician40%2F210.PNG?alt=media&token=66b6883d-8f79-404f-ae83-1545acdcae4b"
+  },
+  {
+    "Question": "What is the name of line insulator?",
+    "Option1": "Pin type insulator",
+    "Option2": "Disc type insulator",
+    "Option3": "Shackle type insulator",
+    "Option4": "Suspension type insulator",
+    "Answer": "Suspension type insulator",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/Electrician%2FSEM4%2FElectrician40%2F211.PNG?alt=media&token=ab59f129-2464-41a6-9a4a-46d6d934bfc1"
+  },
+  {
+    "Question": "Which is the permissble load for lighting sub\ncircuit in domestic wiring as per IE rules?",
+    "Option1": "800 W",
+    "Option2": "1200 W",
+    "Option3": "2400 W",
+    "Option4": "3000 W",
+    "Answer": "800 W",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the name of the insulator?",
+    "Option1": "Stay insulator",
+    "Option2": "Shackle insulator",
+    "Option3": "Suspension insulator",
+    "Option4": "Single shed pin insulator",
+    "Answer": "Single shed pin insulator",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/Electrician%2FSEM4%2FElectrician40%2F213.PNG?alt=media&token=054f3f8c-fc2f-49bc-a03c-30502d3f6ab4"
+  },
+  {
+    "Question": "What is the reason for the conductor cross- sectional area can fully utilised on transmission of DC as compared to AC?",
+    "Option1": "No heat loss",
+    "Option2": "No skin effect",
+    "Option3": "No power loss",
+    "Option4": "No corona loss",
+    "Answer": "No skin effect",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Why the disc pin insulators outer surface is made by glazing and bent the sides inward?",
+    "Option1": "To withstand high voltage",
+    "Option2": "Not to attract birds to sit on it",
+    "Option3": "To offer high mechanical strength",
+    "Option4": "Disables continuous water flow in rainy season",
+    "Answer": "Disables continuous water flow in rainy season",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the type of over head line joint?",
+    "Option1": "Twisted joint",
+    "Option2": "Straight sleeve joint",
+    "Option3": "Compression joint for ACSR",
+    "Option4": "Straight joint through connectors",
+    "Answer": "Compression joint for ACSR",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/Electrician%2FSEM4%2FElectrician40%2F216.PNG?alt=media&token=703a93f1-36b5-48e6-a1d9-6b56e93a34e7"
+  },
+  {
+    "Question": "Why steel is reinforced in ACSR conductors used for overhead lines?",
+    "Option1": "To minimize the line sag",
+    "Option2": "To reduce the line voltage drop",
+    "Option3": "To increase the tensile strength",
+    "Option4": "To increase the current carrying capacity",
+    "Answer": "To increase the tensile strength",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which type of A.C transmission is universallly adopted?",
+    "Option1": "Two phase four wire",
+    "Option2": "Two phase three wire",
+    "Option3": "Single phase two wire",
+    "Option4": "Three phase three wire",
+    "Answer": "Three phase three wire",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which type of line insulator is used for terminating on corner post?",
+    "Option1": "Pin insulator",
+    "Option2": "Strain insulator",
+    "Option3": "Shackle insulator",
+    "Option4": "Suspension insulator",
+    "Answer": "Shackle insulator",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the reason of keeping binding wire gap too close and very tight in pin insulator?",
+    "Option1": "Avoid sparking",
+    "Option2": "Avoid corrosion",
+    "Option3": "Avoid oxide formation",
+    "Option4": "Avoid atmospheric pressure",
+    "Answer": "Avoid sparking",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the name of conductor used on overhead lines?",
+    "Option1": "ACSR",
+    "Option2": "Aluminium",
+    "Option3": "Galvanised iron",
+    "Option4": "Hard drawn copper",
+    "Answer": "ACSR",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the main purpose of crossarm used in electric poles?",
+    "Option1": "Supporting the line conductors",
+    "Option2": "Holding the insulators on overhead line",
+    "Option3": "Avoids short circuit between conductors",
+    "Option4": "Reduces conductor sag between supports",
+    "Answer": "Holding the insulators on overhead line",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which type of line insulator is used at the dead ends of the H.T overhead lines?",
+    "Option1": "Pin insulator",
+    "Option2": "Disc insulator",
+    "Option3": "Stay insulator",
+    "Option4": "Post insulator",
+    "Answer": "Disc insulator",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the advantage of AC power transmission?",
+    "Option1": "Corona loss negligible",
+    "Option2": "Stress on transmission lines is minimum",
+    "Option3": "Low voltage drop in transmission lines",
+    "Option4": "Voltages can be stepped up and stepped down easily",
+    "Answer": "Voltages can be stepped up and stepped down easily",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is ACSR stands for?",
+    "Option1": "All Conductors Steel Reinforced",
+    "Option2": "Aluminium Core Steel Reinforced",
+    "Option3": "Aluminium Covered Steel Reinforced",
+    "Option4": "Aluminium Conductor Steel Reinforced",
+    "Answer": "Aluminium Conductor Steel Reinforced",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  }
+]

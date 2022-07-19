@@ -1,0 +1,227 @@
+[
+  {
+    "Question": "What is the use of lump hammer?",
+    "Option1": "Strike the metal",
+    "Option2": "Punch the metal",
+    "Option3": "Spread the metal",
+    "Option4": "Light demolition work",
+    "Answer": "Light demolition work",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/mechanical%20diesel%2FMD5%2F101.PNG?alt=media&token=5e5a9786-79ba-4f0e-b3d2-8fb5c58e7bbb"
+  },
+  {
+    "Question": "What is the purpose of mallets?",
+    "Option1": "Riveting operation",
+    "Option2": "Strike on soft metal",
+    "Option3": "Strike on hard metal",
+    "Option4": "Spread the metal to all sides",
+    "Answer": "Strike on soft metal",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which screw driver is used in the space limitation?",
+    "Option1": "Cross-recers screw driver",
+    "Option2": "Ratchet screw driver",
+    "Option3": "Stumpy screw driver",
+    "Option4": "Offset screw driver",
+    "Answer": "Stumpy screw driver",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which vice is used to hold a very small diameter job?",
+    "Option1": "Pipe vice",
+    "Option2": "Hand vice",
+    "Option3": "Pin vice",
+    "Option4": "Tool maker’s vice",
+    "Answer": "Pin vice",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which condition the tyre pressure not to be checked?",
+    "Option1": "Tyre is cold",
+    "Option2": "Tyre is carrying load",
+    "Option3": "Before start of journey",
+    "Option4": "Tyre is hot after long run",
+    "Answer": "Tyre is hot after long run",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the name of the screw?",
+    "Option1": "Hexagon head screw",
+    "Option2": "Hexagon socket head thumb screw",
+    "Option3": "Square head counter sunk head screws",
+    "Option4": "Thump screws",
+    "Answer": "Hexagon socket head thumb screw",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/mechanical%20diesel%2FMD5%2F106.PNG?alt=media&token=531d1e9d-1fed-4570-8e58-3ced30c3747b"
+  },
+  {
+    "Question": "What is the name of the washer?",
+    "Option1": "Plain washer",
+    "Option2": "Thumb Screw",
+    "Option3": "Spring washer",
+    "Option4": "Tothed lock washer",
+    "Answer": "Thumb Screw",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/mechanical%20diesel%2FMD5%2F107.PNG?alt=media&token=233bf612-de01-4c9f-b739-04cc70748890"
+  },
+  {
+    "Question": "What is the name of the screw?",
+    "Option1": "Grub screw",
+    "Option2": "Thump screw",
+    "Option3": "Hexagonal screw",
+    "Option4": "Counter sink head screw",
+    "Answer": "Counter sink head screw",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/mechanical%20diesel%2FMD5%2F108.PNG?alt=media&token=cca7d561-68db-4d1e-a04f-be5ee1222b35"
+  },
+  {
+    "Question": "What is the name of the screw?",
+    "Option1": "Set screw",
+    "Option2": "Thump screw",
+    "Option3": "Hexagonal screw",
+    "Option4": "Grub screws",
+    "Answer": "Thump screw",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/mechanical%20diesel%2FMD5%2F109.PNG?alt=media&token=0a01d748-1a35-4808-88a3-cdb1cd28f358"
+  },
+  {
+    "Question": "What is the name of the plier?",
+    "Option1": "Side cutting plier",
+    "Option2": "Nose plier",
+    "Option3": "Circlip plier",
+    "Option4": "end cutting plier",
+    "Answer": "Side cutting plier",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/mechanical%20diesel%2FMD5%2F110.PNG?alt=media&token=e364f94e-1a94-4749-93c5-5f7039e62338"
+  },
+  {
+    "Question": "What is the name of the counter sink screw?",
+    "Option1": "Slotted counter sink head screw",
+    "Option2": "Slotted raised counter sink head screw",
+    "Option3": "Cross-recessed counter sink head screw",
+    "Option4": "Cross recessed raised counter sink head screw",
+    "Answer": "Slotted counter sink head screw",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/mechanical%20diesel%2FMD5%2F111.PNG?alt=media&token=c7aaabca-188e-4de8-a2aa-bd317ec7cd8d"
+  },
+  {
+    "Question": "What is the name of the counter sink screw?",
+    "Option1": "Slotted counter sink",
+    "Option2": "cross-recessed counter sink head screw",
+    "Option3": "Slotted raised counter sink",
+    "Option4": "Cross recessed raised counter sink",
+    "Answer": "cross-recessed counter sink head screw",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/mechanical%20diesel%2FMD5%2F112.PNG?alt=media&token=d43ee8eb-0d3f-4c54-86f5-b9aea47e14e3"
+  },
+  {
+    "Question": "What is the name of the counter sunk screw?",
+    "Option1": "Slotted counter sink screw",
+    "Option2": "cross-recessed counter sink head screw",
+    "Option3": "Slotted raised counter sink head screw",
+    "Option4": "Cross recessed raised counter sink head",
+    "Answer": "Slotted raised counter sink head screw",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/mechanical%20diesel%2FMD5%2F113.PNG?alt=media&token=0ed2c160-ec26-4cc6-964b-3607612fd3e6"
+  },
+  {
+    "Question": "What is the type of the machine screw head?",
+    "Option1": "Pan head",
+    "Option2": "Round head",
+    "Option3": "Cheese head",
+    "Option4": "Raised cheese head",
+    "Answer": "Pan head",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/mechanical%20diesel%2FMD5%2F114.PNG?alt=media&token=a1e8e993-7d8c-4b8e-b88e-cf726ba2d1e4"
+  },
+  {
+    "Question": "What is the name of the nut?",
+    "Option1": "Square nut",
+    "Option2": "Lock nut",
+    "Option3": "Castle nut",
+    "Option4": "Self locking nut",
+    "Answer": "Castle nut",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/mechanical%20diesel%2FMD5%2F115.PNG?alt=media&token=712df200-017d-49e1-a161-2f0181c37290"
+  },
+  {
+    "Question": "What is the name of nut?",
+    "Option1": "Lock nut",
+    "Option2": "Castle nut",
+    "Option3": "Square nut",
+    "Option4": "Sloted round nut",
+    "Answer": "Lock nut",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/mechanical%20diesel%2FMD5%2F116.PNG?alt=media&token=4afc0a53-5b85-4ea5-ae5d-05bb36c5e4d0"
+  },
+  {
+    "Question": "Which nut is used for structural and machine tool construction?",
+    "Option1": "Square nut",
+    "Option2": "Hexagonal nut",
+    "Option3": "Wing nut",
+    "Option4": "Castle nut",
+    "Answer": "Hexagonal nut",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the name of the tool?",
+    "Option1": "Face wrench",
+    "Option2": "Hook wrench",
+    "Option3": "Pin wrench",
+    "Option4": "Face pin wrench",
+    "Answer": "Face wrench",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/mechanical%20diesel%2FMD5%2F118.PNG?alt=media&token=6ed2f872-376c-4bfd-a939-8bdca0b7c0af"
+  },
+  {
+    "Question": "What is the name of the tool?",
+    "Option1": "Face wrench",
+    "Option2": "Hook wrench",
+    "Option3": "Pin wrench",
+    "Option4": "Face pin wrench",
+    "Answer": "Hook wrench",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/mechanical%20diesel%2FMD5%2F119.PNG?alt=media&token=b825ca9b-3b40-4cd2-8845-99606f1beb5c"
+  },
+  {
+    "Question": "What is the name of the nut marked X?",
+    "Option1": "Chuck nut",
+    "Option2": "Thumb Nu",
+    "Option3": "Domed cap nut",
+    "Option4": "Hexagonal nut with coller",
+    "Answer": "Thumb Nu",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/mechanical%20diesel%2FMD5%2F120.PNG?alt=media&token=c13de71c-041c-4686-ae91-6e192a2c891e"
+  },
+  {
+    "Question": "What is the name of the nut?",
+    "Option1": "Lock nut",
+    "Option2": "Thumb nut",
+    "Option3": "Domed cap nut",
+    "Option4": "Hexagonal nut with collor",
+    "Answer": "Domed cap nut",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/mechanical%20diesel%2FMD5%2F121.PNG?alt=media&token=c94c5ff6-4fcc-4d46-9799-db649d399879"
+  },
+  {
+    "Question": "What is the name of the nut?",
+    "Option1": "Thumb nut",
+    "Option2": "Domed cap nu",
+    "Option3": "Hexagonal nut with collor",
+    "Option4": "Chuck nut",
+    "Answer": "Hexagonal nut with collor",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/mechanical%20diesel%2FMD5%2F122.PNG?alt=media&token=90078413-c5ef-4734-89e0-35cc17c3cf6e"
+  },
+  {
+    "Question": "Which type of nut required to align the axle shaft hole and slot of the nut for locking?",
+    "Option1": "Castle nut",
+    "Option2": "Chuck nut",
+    "Option3": "Thumb nut",
+    "Option4": "Self lock nut",
+    "Answer": "Castle nut",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the name of the key?",
+    "Option1": "Hollow saddle key",
+    "Option2": "Flat saddle key",
+    "Option3": "Circular taper key",
+    "Option4": "Parallel sunk key",
+    "Answer": "Hollow saddle key",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/mechanical%20diesel%2FMD5%2F124.PNG?alt=media&token=a2a26f9c-8d26-4edd-9877-eb6a38f4dd30"
+  },
+  {
+    "Question": "What is the name of the key?",
+    "Option1": "Hollow saddle key",
+    "Option2": "Flat saddle key",
+    "Option3": "Circular taper key",
+    "Option4": "Parallel sunk key",
+    "Answer": "Flat saddle key",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/mechanical%20diesel%2FMD5%2F125.PNG?alt=media&token=a720ece7-6f87-4023-b3b6-a58c7ca19796"
+  }
+]

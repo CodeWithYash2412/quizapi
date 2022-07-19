@@ -1,0 +1,227 @@
+[
+  {
+    "Question": "Which loss is determined by no load test of 3 phase induction motor?",
+    "Option1": "Iron loss",
+    "Option2": "Copper loss",
+    "Option3": "Friction loss",
+    "Option4": "Windage loss",
+    "Answer": "Iron loss",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which method of speed control two variable speeds only obtained in 3 phase motor?",
+    "Option1": "By rotor rheostat control",
+    "Option2": "By changing applied frequency",
+    "Option3": "By changing the applied voltage",
+    "Option4": "By changing the number of stator poles",
+    "Answer": "By changing the number of stator poles",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Why slip ring induction motor is fitted with wound rotor?",
+    "Option1": "To reduce the slip",
+    "Option2": "To control the speed",
+    "Option3": "To reduce the losses",
+    "Option4": "To get high starting and running torque",
+    "Answer": "To get high starting and running torque",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the function of timer in automatic star delta starter?",
+    "Option1": "Trip at over load",
+    "Option2": "Switch ON at pre set time",
+    "Option3": "Change from star to delta",
+    "Option4": "Switch OFF at pre set time",
+    "Answer": "Change from star to delta",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which instrument is used to measure insulation resistance of a 3 phase induction motor?",
+    "Option1": "Megger",
+    "Option2": "Multimeter",
+    "Option3": "Shunt type ohmmeter",
+    "Option4": "Series type ohmmeter",
+    "Answer": "Megger",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which test in winding is illustrated?",
+    "Option1": "Polarity test",
+    "Option2": "Ground test",
+    "Option3": "Continuity test",
+    "Option4": "Short circuit test",
+    "Answer": "Polarity test",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/Electrician%2FSEM3%2FElectrician27%2F170.PNG?alt=media&token=ced3fed3-49a5-4ead-a4e0-386b9386ce34"
+  },
+  {
+    "Question": "What is the starting current of an A.C 3 phase induction motor?",
+    "Option1": "1 to 2 times of full load current",
+    "Option2": "2 to 3 times of full load current",
+    "Option3": "4 to 5 times of full load current",
+    "Option4": "5 to 6 times of full load current",
+    "Answer": "5 to 6 times of full load current",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which method is used to control the speed of 3 phase induction motor from stator side?",
+    "Option1": "By cascade operation",
+    "Option2": "By rotor rheostat control",
+    "Option3": "By injecting emf in rotor circuit",
+    "Option4": "By changing the applied frequency",
+    "Answer": "By changing the applied frequency",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the speed control method of 3 phase induction motor?",
+    "Option1": "Cascade operation method",
+    "Option2": "Rotor rheostat control method",
+    "Option3": "Changing applied voltage method",
+    "Option4": "Injecting emf in rotor circuit method",
+    "Answer": "Cascade operation method",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/Electrician%2FSEM3%2FElectrician27%2F173.PNG?alt=media&token=5c5bb786-d42d-4238-aa4f-454e5c62060d"
+  },
+  {
+    "Question": "What are the two functional circuits incorporated with a three phase motor starter?",
+    "Option1": "Open circuit and short circuit",
+    "Option2": "Closed circuit and open circuit",
+    "Option3": "Short circuit and closed circuit",
+    "Option4": "Control circuit and power circuit",
+    "Answer": "Control circuit and power circuit",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which is the main property of leatheroid paper insulation?",
+    "Option1": "Non moisturized material",
+    "Option2": "Highly non-hygroscopic",
+    "Option3": "Very good for class F insulation",
+    "Option4": "Better ageing and dielectric strength",
+    "Answer": "Better ageing and dielectric strength",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which type of insulating material is selected for binding the coils and over hangs?",
+    "Option1": "Cotton sleeves",
+    "Option2": "Empire sleeves",
+    "Option3": "Terylene thread",
+    "Option4": "Fibre glass tape",
+    "Answer": "Terylene thread",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which insulation is used for cuffing in AC winding?",
+    "Option1": "Fibre glass tape",
+    "Option2": "Leatheroid paper",
+    "Option3": "Empire fiber glass tape",
+    "Option4": "Fabric based adhesive tape",
+    "Answer": "Fabric based adhesive tape",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What refers coil in AC winding?",
+    "Option1": "Number of turns connected in series",
+    "Option2": "Number of turns connected in parallel",
+    "Option3": "Number of turns under two similar poles",
+    "Option4": "Number of turns under two dissimilar poles",
+    "Answer": "Number of turns connected in series",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which type of AC winding the number of coil/pole/phase is more than one at different pitches?",
+    "Option1": "Involute coil winding",
+    "Option2": "Diamond coil winding",
+    "Option3": "Flat loop over lapped winding",
+    "Option4": "Flat loop non-over lapped winding",
+    "Answer": "Flat loop non-over lapped winding",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Calculate the number of coils /phase/ pole for a 3 phase double layer distributed winding for a motor having 36 slots, 36 coils and 4 poles?",
+    "Option1": "3 coils /phase/ pole",
+    "Option2": "6 coils / phase/pole",
+    "Option3": "9 coils / phase/pole",
+    "Option4": "12 coils/ phase/ pole",
+    "Answer": "3 coils /phase/ pole",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the type of rewinding process?",
+    "Option1": "Hand winding",
+    "Option2": "Skein winding",
+    "Option3": "Former winding",
+    "Option4": "Machine winding",
+    "Answer": "Hand winding",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/Electrician%2FSEM3%2FElectrician27%2F181.PNG?alt=media&token=f19e87e9-b3b7-4437-a120-9b8ee0260c39"
+  },
+  {
+    "Question": "Which type of starter is used to start and run the 3 phase slip ring induction motor?",
+    "Option1": "Direct on-line starter",
+    "Option2": "Rotor rheostat starter",
+    "Option3": "Auto transformer starter",
+    "Option4": "Manual star-delta starter",
+    "Answer": "Rotor rheostat starter",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the function of collar?",
+    "Option1": "Provides insulation around field",
+    "Option2": "Provides insulation for coil tapping",
+    "Option3": "Helps tightening material for flange",
+    "Option4": "Provides insulation for heat transfer from coil",
+    "Answer": "Provides insulation around field",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/Electrician%2FSEM3%2FElectrician27%2F183.PNG?alt=media&token=56927df4-26d8-4755-9a83-f3a0dd53f032"
+  },
+  {
+    "Question": "Which type of winding wire is used to wind submersible pump motors?",
+    "Option1": "PVC covered type",
+    "Option2": "Terylene thread type",
+    "Option3": "Super enamelled type",
+    "Option4": "Double cotton covered type",
+    "Answer": "PVC covered type",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the reason of long chord winding is avoided in AC motors?",
+    "Option1": "Low efficiency",
+    "Option2": "Low starting torque",
+    "Option3": "More winding wire required",
+    "Option4": "Less heat dissipation",
+    "Answer": "More winding wire required",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which type of winding has more space for cooling?",
+    "Option1": "Between overhanging coils",
+    "Option2": "Between overhanging coil and rotor",
+    "Option3": "Between overhanging coils and yoke",
+    "Option4": "Between overhanging coil and wedge",
+    "Answer": "Between overhanging coils and yoke",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Where the panel boards are used?",
+    "Option1": "Industrial motor drives",
+    "Option2": "Domestic wiring circuits",
+    "Option3": "3 phase domestic wiring",
+    "Option4": "Load distribution for AC & DC supply",
+    "Answer": "3 phase domestic wiring",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Determine the torque in newton metres produced by a 7.5 HP squirrel cage motor rotating at 1440 rpm?",
+    "Option1": "21.63 Nm",
+    "Option2": "24.4 Nm",
+    "Option3": "33.05 Nm",
+    "Option4": "36.6 Nm",
+    "Answer": "36.6 Nm",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which type of handle design of rotary switch is illustrated?",
+    "Option1": "Knob",
+    "Option2": "Lever",
+    "Option3": "Coin slot",
+    "Option4": "Key operation",
+    "Answer": "Coin slot",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/Electrician%2FSEM3%2FElectrician27%2F189.PNG?alt=media&token=acd29083-3619-47ca-a115-288c48c9977f"
+  }
+]

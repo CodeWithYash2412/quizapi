@@ -1,0 +1,227 @@
+[
+  {
+    "Question": "What is the output of the following javascript code?",
+    "Option1": "um",
+    "Option2": "ma",
+    "Option3": "ar",
+    "Option4": "Ku",
+    "Answer": "ma",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/COPA%2Fsem2%2FM1-L3-4.PNG?alt=media&token=f8a7a121-b88e-4006-86b9-293362b16f1c"
+  },
+  {
+    "Question": "Which VBA built in function returns location at the second string occurs within the first string?",
+    "Option1": "Mid()",
+    "Option2": "Chr()",
+    "Option3": "ASC()",
+    "Option4": "Instr()",
+    "Answer": "Instr()",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which keyword is used to declare the variables in project scope?",
+    "Option1": "Static",
+    "Option2": "Private",
+    "Option3": "Public",
+    "Option4": "Protect",
+    "Answer": "Public",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "In VBA, How many types of access specifiers available in VBA?",
+    "Option1": 2,
+    "Option2": 3,
+    "Option3": 4,
+    "Option4": 6,
+    "Answer": 2,
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which type of variable cannot be declared within a procedure in VBA?",
+    "Option1": "Project scope",
+    "Option2": "Local scope",
+    "Option3": "Global scope",
+    "Option4": "Module scope",
+    "Answer": "Module scope",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which variable recognized only within the procedure in which it is declared?",
+    "Option1": "Local scope",
+    "Option2": "Module scope",
+    "Option3": "Global scope",
+    "Option4": "Project scope",
+    "Answer": "Local scope",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "How many levels of variable scope available in VBA?",
+    "Option1": 2,
+    "Option2": 3,
+    "Option3": 4,
+    "Option4": 7,
+    "Answer": 4,
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What will be the output of the following VBA code? - \nDebug.printformat(#1/1/2017#,”yyyy/mm/dd”)",
+    "Option1": "1/1/2017",
+    "Option2": "Sun, Jan01, 2017",
+    "Option3": "2017/01/01",
+    "Option4": "Sunday, January 01, 2017",
+    "Answer": "2017/01/01",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which function returns true if the expression is a valid date, otherwise it returns false in VBA?",
+    "Option1": "CDate()",
+    "Option2": "IsDate()",
+    "Option3": "Day()",
+    "Option4": "Dateadd()",
+    "Answer": "IsDate()",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the full form of UDF in VBA?",
+    "Option1": "User Data Functions",
+    "Option2": "User Defined Functions",
+    "Option3": "Undefined Functions",
+    "Option4": "Used Data Functions",
+    "Answer": "User Defined Functions",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which function returns the day of the month (number from 1 to 31) given date value in VBA?",
+    "Option1": "Day()",
+    "Option2": "Date()",
+    "Option3": "Month()",
+    "Option4": "Date part()",
+    "Answer": "Day()",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which function returns the current system date and time in VBA?",
+    "Option1": "Date()",
+    "Option2": "Day()",
+    "Option3": "Hour()",
+    "Option4": "Now()",
+    "Answer": "Now()",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which function extracts the first 5 characters from a string in VBA?",
+    "Option1": "Right(str,5)",
+    "Option2": "Left(str,5)",
+    "Option3": "Mid(str,5)",
+    "Option4": "Substr(str,5)",
+    "Answer": "Left(str,5)",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which color of dot indicate the breakpoint in VBA?",
+    "Option1": "Grey",
+    "Option2": "Yellow",
+    "Option3": "Maroon",
+    "Option4": "Red",
+    "Answer": "Red",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which shortcut key is used to set the properties of form while designing?",
+    "Option1": "F4",
+    "Option2": "Ctrl + F4",
+    "Option3": "Alt + F4",
+    "Option4": "Shift + F4",
+    "Answer": "F4",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which shortcut key is used to open code window in VBA?",
+    "Option1": "F7",
+    "Option2": "Alt + F7",
+    "Option3": "Ctrl + F7",
+    "Option4": "Shift + F7",
+    "Answer": "F7",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which code is used to display a user form in VBA?",
+    "Option1": "Load user Form1",
+    "Option2": "User Form1.Show",
+    "Option3": "User Form1.Show False",
+    "Option4": "User Form1.Load",
+    "Answer": "User Form1.Show",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which mathematical function returns square root of a specified number in VBA?",
+    "Option1": "Sqt()",
+    "Option2": "Squr()",
+    "Option3": "Sqrt()",
+    "Option4": "Sqr()",
+    "Answer": "Sqr()",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which VBA function is used to convert the string from uppercase to lowercase?",
+    "Option1": "Lcase()",
+    "Option2": "Lower()",
+    "Option3": "Ucase()",
+    "Option4": "Upper()",
+    "Answer": "Lcase()",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which of the following is logical operator in VBA?",
+    "Option1": "+",
+    "Option2": "-",
+    "Option3": "*",
+    "Option4": "And",
+    "Answer": "And",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which character is to be suffixed for long data type in VBA?",
+    "Option1": "&",
+    "Option2": "!",
+    "Option3": "#",
+    "Option4": "@",
+    "Answer": "&",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the storage size of decimal data type in VBA?",
+    "Option1": "2 bytes",
+    "Option2": "4 bytes",
+    "Option3": "8 bytes",
+    "Option4": "12 bytes",
+    "Answer": "12 bytes",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the storage size of currency data type in VBA?",
+    "Option1": "2 bytes",
+    "Option2": "4 bytes",
+    "Option3": "8 bytes",
+    "Option4": "12 bytes",
+    "Answer": "8 bytes",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "How many numeric data types available in Excel VBA?",
+    "Option1": 4,
+    "Option2": 5,
+    "Option3": 7,
+    "Option4": 8,
+    "Answer": 7,
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the another name for keywords in VBA?",
+    "Option1": "Literals",
+    "Option2": "Variables",
+    "Option3": "User defined words",
+    "Option4": "Reserved words",
+    "Answer": "Reserved words",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  }
+]

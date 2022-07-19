@@ -1,0 +1,227 @@
+[
+  {
+    "Question": "What is the advantage of centre screw in die stock?",
+    "Option1": "To tighten the die",
+    "Option2": "To adjust the depth of cut",
+    "Option3": "To adjust the dia of internal thread",
+    "Option4": "To adjust the dia of external thread",
+    "Answer": "To adjust the depth of cut",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the name of elements of screw marked as X?",
+    "Option1": "Root",
+    "Option2": "Pitch",
+    "Option3": "Crest",
+    "Option4": "Thread angle",
+    "Answer": "Thread angle",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/FITTER%2FFITTER%20SEM2%2F051%20TO%20075%2FFI52.PNG?alt=media&token=622d193f-8f65-4143-b1a8-54bd7358fff1"
+  },
+  {
+    "Question": "Which term describes the axial movement of screw in one complete turn?",
+    "Option1": "Lead",
+    "Option2": "Flank",
+    "Option3": "Pitch",
+    "Option4": "Depth",
+    "Answer": "Lead",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "How the size of drill bit is measured?",
+    "Option1": "Between flutes",
+    "Option2": "Between the lands",
+    "Option3": "Between web",
+    "Option4": "Neck diameter",
+    "Answer": "Between the lands",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the helix angle of general purpose drill?",
+    "Option1": "59°",
+    "Option2": "118°",
+    "Option3": "27.5°",
+    "Option4": "8° to 12°",
+    "Answer": "27.5°",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the name of the tool?",
+    "Option1": "Pilot drill",
+    "Option2": "Counter sink",
+    "Option3": "Drill with pilot",
+    "Option4": "Countersink with pilot",
+    "Answer": "Countersink with pilot",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/FITTER%2FFITTER%20SEM2%2F051%20TO%20075%2FFI56.PNG?alt=media&token=59e0577c-bc8f-4c18-8263-21d013039ec3"
+  },
+  {
+    "Question": "Which part of a reamer is designed for the removal of chips?",
+    "Option1": "Face",
+    "Option2": "Flute",
+    "Option3": "Heel",
+    "Option4": "Cutting edge",
+    "Answer": "Flute",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the purpose of type S twist drill?",
+    "Option1": "Used for hard material",
+    "Option2": "Used for high carbon steel",
+    "Option3": "Used for soft and tough material",
+    "Option4": "Used for normal low carbon steel",
+    "Answer": "Used for soft and tough material",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the reason for rough holes in drilling?",
+    "Option1": "Unequal point thinning",
+    "Option2": "Drill point not in centre",
+    "Option3": "Clearance angle is incorrect",
+    "Option4": "Drill cutting edges are not sharp",
+    "Answer": "Drill cutting edges are not sharp",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Determine the drill size for finishing ø19 mm reaming hole (as per table under size 0.2 & over size 0.05 mm)?",
+    "Option1": "18.75 mm",
+    "Option2": "19.00 mm",
+    "Option3": "19.25 mm",
+    "Option4": "19.05 mm",
+    "Answer": "18.75 mm",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the name of operation?",
+    "Option1": "Drilling",
+    "Option2": "Spot facing",
+    "Option3": "Counter sinking",
+    "Option4": "Counter boring",
+    "Answer": "Counter boring",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/FITTER%2FFITTER%20SEM2%2F051%20TO%20075%2FFI61.PNG?alt=media&token=3acd7532-b8f3-4b4b-90de-ffc1b1e84927"
+  },
+  {
+    "Question": "What is the reason if the drilled hole is larger than the drill size?",
+    "Option1": "Drill is not sharp",
+    "Option2": "Feed rate is too high",
+    "Option3": "Cutting speed is too high",
+    "Option4": "Unequal angle of cutting edge",
+    "Answer": "Unequal angle of cutting edge",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the term, the top surface joining the two sides of a thread?",
+    "Option1": "Root",
+    "Option2": "Crest",
+    "Option3": "Flank",
+    "Option4": "Pitch",
+    "Answer": "Crest",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What V denotes in grinding wheel specification 32A46H8V?",
+    "Option1": "Bond",
+    "Option2": "Grade",
+    "Option3": "Abrasive",
+    "Option4": "Grain size",
+    "Answer": "Bond",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What type of abrasive wheel is used for grinding die steel?",
+    "Option1": "Silicon carbide",
+    "Option2": "Green silicon carbide",
+    "Option3": "White aluminium oxide",
+    "Option4": "Brown aluminium oxide",
+    "Answer": "White aluminium oxide",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which term indicates the amount of bond present between the individual abrasive grains?",
+    "Option1": "Grain",
+    "Option2": "Grade",
+    "Option3": "Abrasive",
+    "Option4": "Structure",
+    "Answer": "Structure",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the name of the part marked as X in vernier micrometer?",
+    "Option1": "Barrel",
+    "Option2": "Thimble",
+    "Option3": "Datum line",
+    "Option4": "Vernier division",
+    "Answer": "Vernier division",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/FITTER%2FFITTER%20SEM2%2F051%20TO%20075%2FFI67.PNG?alt=media&token=449618c1-7d96-45aa-822e-0f18d2792be1"
+  },
+  {
+    "Question": "What is the name of the part marked as X of telescopic gauge?",
+    "Option1": "Spring",
+    "Option2": "Handle",
+    "Option3": "Fixed leg",
+    "Option4": "Telescoping leg",
+    "Answer": "Telescoping leg",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/FITTER%2FFITTER%20SEM2%2F051%20TO%20075%2FFI68.PNG?alt=media&token=343a10f8-fa1c-43c3-95ee-e68c4184ac3a"
+  },
+  {
+    "Question": "What is the name of the tool?",
+    "Option1": "Reamer",
+    "Option2": "Spot facing tool",
+    "Option3": "Countersink tool",
+    "Option4": "Counter boring tool",
+    "Answer": "Countersink tool",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/FITTER%2FFITTER%20SEM2%2F051%20TO%20075%2FFI69.PNG?alt=media&token=f469484e-9c70-4a02-a2b7-0bd3d2a45b7c"
+  },
+  {
+    "Question": "What is the name of the angle marked as X in drill bit?",
+    "Option1": "Helix angle",
+    "Option2": "Lead angle",
+    "Option3": "Point angle",
+    "Option4": "Chisel edge angle",
+    "Answer": "Point angle",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/FITTER%2FFITTER%20SEM2%2F051%20TO%20075%2FFI70.PNG?alt=media&token=7f84e113-87a1-4dfe-9f1b-bee788c420b1"
+  },
+  {
+    "Question": "What is the name of element marked X in reamer?",
+    "Option1": "Face",
+    "Option2": "Heel",
+    "Option3": "Flute",
+    "Option4": "Cutting edge",
+    "Answer": "Face",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/FITTER%2FFITTER%20SEM2%2F051%20TO%20075%2FFI71.PNG?alt=media&token=df96eb93-bfaf-4377-aa8c-094a130916ed"
+  },
+  {
+    "Question": "Which angle determines the rake angle of drills?",
+    "Option1": "Helix angle",
+    "Option2": "Core angle",
+    "Option3": "Point angle",
+    "Option4": "Chisel edge angle",
+    "Answer": "Helix angle",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the drill size for ø15 mm reaming hole?",
+    "Option1": "14.75 mm",
+    "Option2": "14.50 mm",
+    "Option3": "15.25 mm",
+    "Option4": "14.65 mm",
+    "Answer": "14.75 mm",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Why drilled holes are over sized in drilling operation?",
+    "Option1": "Drill is not sharp",
+    "Option2": "Unequal lip length",
+    "Option3": "Feed rate is too high",
+    "Option4": "Cooling is insufficient",
+    "Answer": "Unequal lip length",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the name of the operation producing flat seat on drilled hole?",
+    "Option1": "Drilling",
+    "Option2": "Spot facing",
+    "Option3": "Countersinking",
+    "Option4": "Counterboring",
+    "Answer": "Spot facing",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  }
+]

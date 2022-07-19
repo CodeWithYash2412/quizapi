@@ -1,0 +1,227 @@
+[
+  {
+    "Question": "What is the main use of using tool maker’s button for face boring?",
+    "Option1": "Easy to use",
+    "Option2": "Unskilled labour can do",
+    "Option3": "Truing is not necessary",
+    "Option4": "Easy to set square to the axis of rotation",
+    "Answer": "Easy to set square to the axis of rotation",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which one of the following CNC control systems are used on CNC machines?",
+    "Option1": "Siemens and FANUC",
+    "Option2": "Adobe reader and Microsoft",
+    "Option3": "Excel and MS power point",
+    "Option4": "MS office only",
+    "Answer": "Siemens and FANUC",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which one of the program block may suitable to move the cutting tool 'x' axis 42.0 'z' axis 0.0 with the feed of 0.1 mm?",
+    "Option1": "G00 x 42.0 z 0.0 F 0.1;",
+    "Option2": "G02 x 42.0 z 0.0 F 0.1;",
+    "Option3": "G01 x 42.0 z 0.0 F 0.1;",
+    "Option4": "G03 x 42.0 z 0.0 F 0.1;",
+    "Answer": "G01 x 42.0 z 0.0 F 0.1;",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the indication of 'x' axis in CNC lathe machine?",
+    "Option1": "The radius of the component",
+    "Option2": "The length of the component",
+    "Option3": "The diameter of the component",
+    "Option4": "Centre axis of the component",
+    "Answer": "The diameter of the component",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the indication of 'z' axis in CNC lathe machine?",
+    "Option1": "The length of the component",
+    "Option2": "The centre axis of the component",
+    "Option3": "The radius of the component",
+    "Option4": "The diameter of the component",
+    "Answer": "The length of the component",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which property of cutting tool has ability to withstand various cutting forces during machining?",
+    "Option1": "Toughness",
+    "Option2": "Hardness",
+    "Option3": "Brittleness",
+    "Option4": "Softness",
+    "Answer": "Toughness",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is 'G' in ISO standard for specifying tool insert CNMG120408?",
+    "Option1": "Geometrical features",
+    "Option2": "Relief angle",
+    "Option3": "Shape of the insert",
+    "Option4": "Tolerance",
+    "Answer": "Geometrical features",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the property has the ability to retain hardness under severe working conditions?",
+    "Option1": "Toughness",
+    "Option2": "Hardness",
+    "Option3": "Softness",
+    "Option4": "Brittleness",
+    "Answer": "Hardness",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which type of tool material is non metal?",
+    "Option1": "High speed steel",
+    "Option2": "Carbon steel",
+    "Option3": "Stellites",
+    "Option4": "Ceramics",
+    "Answer": "Stellites",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the name of a non-ferrous alloy compared of cobalt chromium and tungston used in cutting tool?",
+    "Option1": "Stellities",
+    "Option2": "Ceramics",
+    "Option3": "Carbides",
+    "Option4": "High speed steel",
+    "Answer": "Stellities",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is 'T' in ISO standard for specifying tool insert TNMG12048?",
+    "Option1": "Diamond shaped",
+    "Option2": "Triangular shaped",
+    "Option3": "Square shaped",
+    "Option4": "Rectangular shaped",
+    "Answer": "Triangular shaped",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the clearance angle for boring bar tool used in CNC machine?",
+    "Option1": "Around 5°",
+    "Option2": "Around 7°",
+    "Option3": "Around 8°",
+    "Option4": "Around 9°",
+    "Answer": "Around 7°",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the formula used to estimate CNC tool life?",
+    "Option1": "V (t) n = C",
+    "Option2": "V/(T)n = C",
+    "Option3": "V x t = C",
+    "Option4": "t (V)n = C",
+    "Answer": "V (t) n = C",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is 'C' in the ISO designation of lathe tool holder?",
+    "Option1": "Insert clamping method",
+    "Option2": "Insert cutting edge length",
+    "Option3": "Insert shape",
+    "Option4": "None of them",
+    "Answer": "Insert shape",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the 'M' in the ISO designation for lathe tool holders?",
+    "Option1": "Holder length",
+    "Option2": "Shank length",
+    "Option3": "Holder style",
+    "Option4": "None of them",
+    "Answer": "Holder length",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is 'P' in the ISO designation for lathe tool holders?",
+    "Option1": "Insert shape",
+    "Option2": "Insert clamping method",
+    "Option3": "Holder style",
+    "Option4": "Insert cutting edge length",
+    "Answer": "Insert clamping method",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is 'C' in the ISO designation for lathe tool holders?",
+    "Option1": "Holder length",
+    "Option2": "Shank length",
+    "Option3": "Hand of holder",
+    "Option4": "Holder style",
+    "Answer": "Holder style",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the angle marked as 'x'?",
+    "Option1": "Cutting angle",
+    "Option2": "Approach angle",
+    "Option3": "Trailing angle",
+    "Option4": "Side rake",
+    "Answer": "Approach angle",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/sem4%2076to100%2F102.PNG?alt=media&token=bac459d2-32e0-4c2e-9572-5beb7cfda022"
+  },
+  {
+    "Question": "What is the name of part marked as 'x'?",
+    "Option1": "Flange",
+    "Option2": "Adaptor",
+    "Option3": "Shank",
+    "Option4": "Reetion knor",
+    "Answer": "Adaptor",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/sem4%2076to100%2F103.PNG?alt=media&token=77a048c7-c189-4b4b-9e6e-5601edca176d"
+  },
+  {
+    "Question": "Which offset has to be taken to make the tool to move with reference to the job in CNC machine?",
+    "Option1": "Work offset",
+    "Option2": "Geometrical offset",
+    "Option3": "Wear offset",
+    "Option4": "Tool offset",
+    "Answer": "Work offset",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is 'S' in the ISO designation of CNC lathe boring bar S32USKKCR12?",
+    "Option1": "Steel shank",
+    "Option2": "Steel shank with coolant hole",
+    "Option3": "Steel shank with anti vibration system",
+    "Option4": "Steel shank with coolant hole and antivibration system",
+    "Answer": "Steel shank",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is 'C' in the IsoO designation of CNC lathe boring bar S32USKKCR12?",
+    "Option1": "Shank diameter - 350 mm",
+    "Option2": "Tool length - 350 mm",
+    "Option3": "Tool length - 250 mm",
+    "Option4": "Shank diameter - 250 mm",
+    "Answer": "Tool length - 350 mm",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is 'C' in ISO standard for specifying tool insert - CNMG120408?",
+    "Option1": "Relief angle",
+    "Option2": "Shape of the insert",
+    "Option3": "Tolerance",
+    "Option4": "Geometrical features",
+    "Answer": "Shape of the insert",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the 'M' in the ISO standard for specifying tool insert for example CNMG12048?",
+    "Option1": "Relief angle",
+    "Option2": "Shape of the insert",
+    "Option3": "Tolerance",
+    "Option4": "Geometrical features",
+    "Answer": "Tolerance",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is 'N' in ISO standard for specifying tool insert for example CNMG120408?",
+    "Option1": "Relief angle",
+    "Option2": "Shape of the insert",
+    "Option3": "Tolerance",
+    "Option4": "Geometrical features",
+    "Answer": "Relief angle",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  }
+]

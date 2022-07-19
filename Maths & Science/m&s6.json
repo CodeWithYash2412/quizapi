@@ -1,0 +1,227 @@
+[
+  {
+    "Question": "Which instrument is used to measure temperatures of red hot metals up to 3000°C?",
+    "Option1": "Radiation pyrometer",
+    "Option2": "Thermoelectric pyrometer",
+    "Option3": "Bimetal thermometer",
+    "Option4": "Alcohol thermometer",
+    "Answer": "Radiation pyrometer",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which type of heat transmission takes place through physical contact?",
+    "Option1": "Conduction",
+    "Option2": "Convection",
+    "Option3": "Radiation",
+    "Option4": "Reflection",
+    "Answer": "Conduction",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which kind of heat transmission takes places by up-ward flow?",
+    "Option1": "Conduction",
+    "Option2": "Convection",
+    "Option3": "Radiation",
+    "Option4": "Reflection",
+    "Answer": "Convection",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which one is the radiation method of heat transmission?",
+    "Option1": "An iron rod is heated with one of its end and heat transmitted to other end",
+    "Option2": "Cold water goes to the bottom from top while on heating the water",
+    "Option3": "On heating gases, heat transmitted to surroundings",
+    "Option4": "The heat from sun travels through the space",
+    "Answer": "The heat from sun travels through the space",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is called if the length of the solid expands when heated?",
+    "Option1": "Linear expansion",
+    "Option2": "Superficial expansion",
+    "Option3": "Cubical expansion",
+    "Option4": "Area expansion",
+    "Answer": "Linear expansion",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the change in length per unit original length per degree rise in temperature is called?",
+    "Option1": "Co-efficient of friction",
+    "Option2": "Co-efficient of linear expansion",
+    "Option3": "Co-efficient of superficial expansion",
+    "Option4": "Co-efficient of cubical expansion",
+    "Answer": "Co-efficient of linear expansion",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the unit of co-efficient of linear expansion?",
+    "Option1": "Number /°C",
+    "Option2": "Number /°C / meter length",
+    "Option3": "Number /°C / mm length",
+    "Option4": "Number /°C / cm length",
+    "Answer": "Number /°C",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is term used for 2 x linear expansion?",
+    "Option1": "Co-efficient of friction",
+    "Option2": "Co-efficient of linear expansion",
+    "Option3": "Co-efficient of superficial expansion",
+    "Option4": "Co-efficient of cubical expansion",
+    "Answer": "Co-efficient of superficial expansion",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is term called for 3 x linear expansion?",
+    "Option1": "Co-efficient of friction",
+    "Option2": "Co-efficient of linear expansion",
+    "Option3": "Co-efficient of superficial expansion",
+    "Option4": "Co-efficient of cubical expansion",
+    "Answer": "Co-efficient of cubical expansion",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the co-efficient of linear expansion of a rod if it is found to be 100 m long at 20°C and 100.14 m long at 100°C?",
+    "Option1": "1.75 x 10-4 / °C",
+    "Option2": "1.75 x 10-5 / °C",
+    "Option3": "1.75 x 10-6 / °C",
+    "Option4": "1.75 x 10-7 / °C",
+    "Answer": "1.75 x 10-5 / °C",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is called for the amount of heat required to raise the temperature of unit mass of a substance through 1°C?",
+    "Option1": "Sensible heat",
+    "Option2": "Latent heat",
+    "Option3": "Specific heat",
+    "Option4": "Mixing of heat",
+    "Answer": "Specific heat",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "How much quantity of heat is required? m = 120 litres, t1 = 20°C, t2 = 85°C, S = 4.2, Q = _____ KJ",
+    "Option1": "32750 KJ",
+    "Option2": "32760 KJ",
+    "Option3": "32770 KJ",
+    "Option4": "32780 KJ",
+    "Answer": "32760 KJ",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Calculate the amount of heat required to raise the temperature of 85.5 gm of sand from 20°C to 35°C specific heat of sand = 0.1.",
+    "Option1": "128.25 Joules",
+    "Option2": "125.28 Joules",
+    "Option3": "128.26 Joules",
+    "Option4": "126.28 Joules",
+    "Answer": "128.25 Joules",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the specific heat of the material if we require 510 calories to raise the temperature of 170 gm of material from 50°C to 80°C?",
+    "Option1": 0.1,
+    "Option2": 0.01,
+    "Option3": 1.1,
+    "Option4": 1.11,
+    "Answer": 0.1,
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "How much quantity of heat is required to raise the temperature of 300 grams of copper (sp.heat 0.092 cal/gram) from 25°C to 75°C in Kcal?",
+    "Option1": "138 Kcal",
+    "Option2": "1.38 Kcal",
+    "Option3": "207 Kcal",
+    "Option4": "2.07 Kcal",
+    "Answer": "1.38 Kcal",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "How much heat is absorbed by a copper ingot weighing 400 Kg is heated from 40°C to 72°C for the purpose of forging? (sp.heat of copper is 0.09)",
+    "Option1": "1521 Kcal",
+    "Option2": "1251 Kcal",
+    "Option3": "1152 Kcal",
+    "Option4": "1215 Kcal",
+    "Answer": "1152 Kcal",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is called for the materials that restricts heat flow by radiation, conduction and convection?",
+    "Option1": "Conductors",
+    "Option2": "Insulators",
+    "Option3": "Ferrous",
+    "Option4": "Non-ferrous",
+    "Answer": "Insulators",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which one is heat insulator?",
+    "Option1": "Thermocole",
+    "Option2": "Copper",
+    "Option3": "Brass",
+    "Option4": "Aluminium",
+    "Answer": "Thermocole",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which one has the highest thermal conductivity?",
+    "Option1": "Solid ice",
+    "Option2": "Melting ice",
+    "Option3": "Water",
+    "Option4": "Steam",
+    "Answer": "Solid ice",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which one of the following is not a property of heat insulating material?",
+    "Option1": "Low conductivity",
+    "Option2": "Resistance to fire",
+    "Option3": "Less moisture absorption",
+    "Option4": "Ductility",
+    "Answer": "Ductility",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which insulating material is most widely used in refrigerators?",
+    "Option1": "Thermocole",
+    "Option2": "Polyurethane",
+    "Option3": "Glass wool",
+    "Option4": "Cork sheet",
+    "Answer": "Polyurethane",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which one is a poor heat insulator?",
+    "Option1": "Glass",
+    "Option2": "Cork",
+    "Option3": "Rubber",
+    "Option4": "Saw dust",
+    "Answer": "Glass",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is known for the temperature at which any solid melts into liquid?",
+    "Option1": "Boiling point",
+    "Option2": "Melting point",
+    "Option3": "Latent heat of fusion",
+    "Option4": "Latent heat of vaporisation",
+    "Answer": "Melting point",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the melting point of aluminium?",
+    "Option1": "660°C",
+    "Option2": "680°C",
+    "Option3": "670°C",
+    "Option4": "620°C",
+    "Answer": "660°C",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the boiling point of aluminium?",
+    "Option1": "1897°C",
+    "Option2": "2519°C",
+    "Option3": "2469°C",
+    "Option4": "660°C",
+    "Answer": "2519°C",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  }
+]

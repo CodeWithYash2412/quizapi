@@ -1,0 +1,227 @@
+[
+  {
+    "Question": "Which part indicates the reading of dial test indicates?",
+    "Option1": "Stem",
+    "Option2": "Anvil",
+    "Option3": "Pointer",
+    "Option4": "Plunger",
+    "Answer": "Anvil",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the name of operation?",
+    "Option1": "Filing",
+    "Option2": "Drilling",
+    "Option3": "Scraping",
+    "Option4": "Chiseling",
+    "Answer": "Scraping",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/FITTER%2FFITTER%20SEM2%2F151%20TO%20175%2FFI152.PNG?alt=media&token=ad123157-f3a9-42d0-ae0d-9ed8c6334cd3"
+  },
+  {
+    "Question": "Which scraper is used to scrape the centre portion of large flat surface?",
+    "Option1": "Flat scraper",
+    "Option2": "Hook scraper",
+    "Option3": "Triangle scraper",
+    "Option4": "Bull-nose scraper",
+    "Answer": "Triangle scraper",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the name of the instrument?",
+    "Option1": "Screw pitch gauge",
+    "Option2": "Outside micrometer",
+    "Option3": "Screw thread micrometer",
+    "Option4": "Screw thread caliper gauge",
+    "Answer": "Screw pitch gauge",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/FITTER%2FFITTER%20SEM2%2F151%20TO%20175%2FFI154.PNG?alt=media&token=597641f9-9e3f-4028-ac65-dbeaf21e109a"
+  },
+  {
+    "Question": "Which instrument is used to magnify small variation in sizes by means of pointer on a graduated dial?",
+    "Option1": "Dial test indicator",
+    "Option2": "Inside micrometer",
+    "Option3": "Dial vernier caliper",
+    "Option4": "Vernier micrometer",
+    "Answer": "Dial vernier caliper",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the number of fundamental deviation in the BIS system ?",
+    "Option1": 25,
+    "Option2": 20,
+    "Option3": 15,
+    "Option4": 26,
+    "Answer": 25,
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "How many fundamental tolerance grades are available?",
+    "Option1": "18 grade",
+    "Option2": "25 grade",
+    "Option3": "15 grade",
+    "Option4": "12 grade",
+    "Answer": "18 grade",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which precision instrument is used for comparing and determining the variation in the sizes of the component?",
+    "Option1": "Micrometer",
+    "Option2": "Comparators",
+    "Option3": "Dial test indicator",
+    "Option4": "Vernier bevel protector",
+    "Answer": "Micrometer",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What mechanism is used in the lever type dial test indicator?",
+    "Option1": "Screw and nut",
+    "Option2": "Rack and pinion",
+    "Option3": "Lever and scroll",
+    "Option4": "Worm and worm wheel",
+    "Answer": "Lever and scroll",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which comparator is used in mass production?",
+    "Option1": "Optical",
+    "Option2": "Pneumatic",
+    "Option3": "Electronics",
+    "Option4": "Mechanical",
+    "Answer": "Electronics",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which gauge used to check internal thread of components",
+    "Option1": "Thread ring gauge",
+    "Option2": "Taper ring gauge",
+    "Option3": "Thread plug gauge",
+    "Option4": "Caliper gauge",
+    "Answer": "Taper ring gauge",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the extreme permissible sizes within which the operator is expected to make the component?",
+    "Option1": "Basic size",
+    "Option2": "Actual size",
+    "Option3": "Nominal size",
+    "Option4": "Limits of size",
+    "Answer": "Nominal size",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the size of the component by actual measurement after it is manufactured?",
+    "Option1": "Limit size",
+    "Option2": "Actual size",
+    "Option3": "Maximum size",
+    "Option4": "Minimum size",
+    "Answer": "Minimum size",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "A dimension is stated as 25 ± 0.02 mm in a drawing. What is the tolerance?",
+    "Option1": "+0.02 mm",
+    "Option2": "-0.02 mm",
+    "Option3": "0.04 mm",
+    "Option4": "25.00 mm",
+    "Answer": "-0.02 mm",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "How to identify high spots while scraping?",
+    "Option1": "Prussian blue",
+    "Option2": "White chalk",
+    "Option3": "Copper sulphate",
+    "Option4": "Cellulose lacquer",
+    "Answer": "Copper sulphate",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the smaller of the two limits of size?",
+    "Option1": "Actual size",
+    "Option2": "Maximum limit of size",
+    "Option3": "Minimum limit of size",
+    "Option4": "Limit of size",
+    "Answer": "Actual size",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the name of the lathe specification of marked as x?",
+    "Option1": "Length of the bed",
+    "Option2": "Centre height of lathe",
+    "Option3": "Length between centre",
+    "Option4": "NONE OF THEM",
+    "Answer": "Length between centre",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/FITTER%2FFITTER%20SEM2%2F151%20TO%20175%2FFI167.PNG?alt=media&token=be128850-d8a3-4c61-be2f-7a76d4965cf3"
+  },
+  {
+    "Question": "What is the name of the part marked ‘X’ in the lathe carriage?",
+    "Option1": "Tool post",
+    "Option2": "Top slide",
+    "Option3": "Cross slide",
+    "Option4": "Cross slide",
+    "Answer": "Cross slide",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/FITTER%2FFITTER%20SEM2%2F151%20TO%20175%2FFI168.PNG?alt=media&token=0ac67840-fa49-4f33-89b0-b1a26e0a20fe"
+  },
+  {
+    "Question": "What is the merit of three jaw chuck in lathe machine?",
+    "Option1": "Work can be set with ease",
+    "Option2": "Run out cannot be corrected",
+    "Option3": "Only round and hexagonal components can be held",
+    "Option4": "NONE OF THEM",
+    "Answer": "Run out cannot be corrected",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the name of the part marked x?",
+    "Option1": "Body",
+    "Option2": "Back plate",
+    "Option3": "External jaw",
+    "Option4": "NONE OF THEM",
+    "Answer": "Body",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/FITTER%2FFITTER%20SEM2%2F151%20TO%20175%2FFI170.PNG?alt=media&token=c519c338-e29a-414c-9cee-a24171bedcea"
+  },
+  {
+    "Question": "What is the de-merit of four jaw chuck?",
+    "Option1": "Jaws are reversible",
+    "Option2": "Irregular shape job can be hold",
+    "Option3": "Heavy cuts can be given",
+    "Option4": "NONE OF THEM",
+    "Answer": "Heavy cuts can be given",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which type of rake angle make slope from the front towards back of the tool?",
+    "Option1": "End rake angle",
+    "Option2": "Side rake angle",
+    "Option3": "Negative rake angle",
+    "Option4": "NONE OF THEM",
+    "Answer": "Negative rake angle",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What will be the effect, if the carriage is not locked while facing?",
+    "Option1": "Correct face",
+    "Option2": "Convex face",
+    "Option3": "Concave face",
+    "Option4": "NONE OF THEM",
+    "Answer": "Concave face",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the name of the operation carried out in turning to remove burr and sharpness from the edge of component?",
+    "Option1": "Grooving",
+    "Option2": "Chamfering",
+    "Option3": "Step turning",
+    "Option4": "NONE OF THEM",
+    "Answer": "Chamfering",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Find out the spindle speed for turning dia 40 mm cast iron rod, if the cutting speed is 15 m/min?",
+    "Option1": "119.3 rpm",
+    "Option2": "100.3 rpm",
+    "Option3": "219.3 rpm",
+    "Option4": "210.3 rpm",
+    "Answer": "100.3 rpm",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  }
+]

@@ -1,0 +1,227 @@
+[
+  {
+    "Question": "The <b> tag makes the enclosed text bold, which other html tag is used to make text bold?",
+    "Option1": "<dark>",
+    "Option2": "<bold>",
+    "Option3": "<th>",
+    "Option4": "<strong>",
+    "Answer": "<strong>",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which html tag is used to display a picture in a web page?",
+    "Option1": "<src>",
+    "Option2": "<img>",
+    "Option3": "<img src>",
+    "Option4": "<image>",
+    "Answer": "<img src>",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "what is the full form of HTTP?",
+    "Option1": "Hyper text testing protocol",
+    "Option2": "Hyper text transfer protocol",
+    "Option3": "Hyper test transfer protocol",
+    "Option4": "Hyper text transfer program",
+    "Answer": "Hyper text transfer protocol",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which html tag inserts a line horizontally in a page?",
+    "Option1": "<lr>",
+    "Option2": "<l>",
+    "Option3": "<hr>",
+    "Option4": "<line>",
+    "Answer": "<hr>",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the full form of CSS?",
+    "Option1": "Computer style sheet",
+    "Option2": "Cascading style sheet",
+    "Option3": "Cascading system style",
+    "Option4": "Customized style sheet",
+    "Answer": "Cascading style sheet",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which html tag is the smallest heading?",
+    "Option1": "<h1>",
+    "Option2": "<h2>",
+    "Option3": "<h6>",
+    "Option4": "<head>",
+    "Answer": "<h6>",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the another name of web address?",
+    "Option1": "URL",
+    "Option2": "Html",
+    "Option3": "Http",
+    "Option4": "Webpage",
+    "Answer": "URL",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What are the two main parts, available in html document?",
+    "Option1": "Title and Body",
+    "Option2": "Head and title",
+    "Option3": "Head and Body",
+    "Option4": "Head and document",
+    "Answer": "Head and Body",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which character in html is used to indicate end tag?",
+    "Option1": "\\",
+    "Option2": "/",
+    "Option3": "!",
+    "Option4": "<#",
+    "Answer": "/",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which symbols starts with html comments?",
+    "Option1": "<!",
+    "Option2": "</",
+    "Option3": "<#",
+    "Option4": "<\\",
+    "Answer": "<!",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which is used to publish the webpage to a web hosting server?",
+    "Option1": "Http",
+    "Option2": "Php",
+    "Option3": "Kompozer",
+    "Option4": "Blogger",
+    "Answer": "Kompozer",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which attribute is used with <td> tag to merge two cells horizontally?",
+    "Option1": "Colspan = 2",
+    "Option2": "Rowspan = 2",
+    "Option3": "Mergerows",
+    "Option4": "mergecols",
+    "Answer": "Colspan = 2",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which tag creates a checkbox for a form in html?",
+    "Option1": "<check box>",
+    "Option2": "<input check box>",
+    "Option3": "<input = check box>",
+    "Option4": "<input type = “check box”>",
+    "Answer": "<input type = “check box”>",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which html tag is used to add a row in a table?",
+    "Option1": "<tr> and </tr>",
+    "Option2": "<cr> and </cr>",
+    "Option3": "<th> and </th>",
+    "Option4": "<td> and </td>",
+    "Answer": "<tr> and </tr>",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which html tag is used to divide a row into data cells?",
+    "Option1": "<tr> and </tr>",
+    "Option2": "<cr> and </cr>",
+    "Option3": "<th> and </th>",
+    "Option4": "<td> and </td>",
+    "Answer": "<td> and </td>",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which is the correct syntax for adding alternate text for image, if the image cannot be displayed?",
+    "Option1": "<img src = “boat.gif” alt = “big boat”/>",
+    "Option2": "<img src = “boat.gif” alt text = “big boat”/>",
+    "Option3": "<img src = “boat.gif” alternate = “big boat”/>",
+    "Option4": "<img src = “boat.gif” alternate text = “big boat”/>",
+    "Answer": "<img src = “boat.gif” alt = “big boat”/>",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which is the correct H1 tag for right alignment?",
+    "Option1": "<h1 align = “right”>.....</h1>",
+    "Option2": "<h1 tag align = “right”>.....</h1>",
+    "Option3": "<h1 align = “r”>.....</h1>",
+    "Option4": "<h1 alignment = “right”>.....</h1>",
+    "Answer": "<h1 align = “right”>.....</h1>",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the use of forms in HTML?",
+    "Option1": "To display a table",
+    "Option2": "To display a list",
+    "Option3": "To send the data to server",
+    "Option4": "To display email contents",
+    "Answer": "To send the data to server",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the correct syntax for making a hyperlink?",
+    "Option1": "<http: // nimi.gov.in”</a>",
+    "Option2": "<url = “http: // nimi.gov.in”>nimi",
+    "Option3": "<a href = “http:// nimi.gov.in”>nimi</a>",
+    "Option4": "<a ref = “http:// nimi.gov.in”>nimi</a>",
+    "Answer": "<a href = “http:// nimi.gov.in”>nimi</a>",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which is the correct tag for adding iframe in html?",
+    "Option1": "<iframe http: // nimi.gov.in> </iframe>",
+    "Option2": "<iframe =”http: // nimi.gov.in”></iframe>",
+    "Option3": "<iframe src = “http: //nimi.gov.in”></iframe>",
+    "Option4": "<iframe href = “http: //nimi.gov.in”> </iframe>",
+    "Answer": "<iframe src = “http: //nimi.gov.in”></iframe>",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "what is the correct html tag for adding a background color?",
+    "Option1": "<body color = “Yellow”>",
+    "Option2": "<body bgcolor = “Yellow”>",
+    "Option3": "<body background = “Yellow”>",
+    "Option4": "<body bg = “Yellow”>",
+    "Answer": "<body bgcolor = “Yellow”>",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "How do you add a link which will allow the visitor to send an email from the page?",
+    "Option1": "<a href = “mailto : youradderss”>",
+    "Option2": "<a href = “sendmailtoyour address”>",
+    "Option3": "<a=”mailto”>",
+    "Option4": "<href = “mailto”>",
+    "Answer": "<a href = “mailto : youradderss”>",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What will happen, If the background image is smaller than the screen, what will happen?",
+    "Option1": "It will be stretched",
+    "Option2": "It will leave a blank space at the bottom of the page",
+    "Option3": "It will leave a blank space at the top of the page",
+    "Option4": "It will be repeated",
+    "Answer": "It will be repeated",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which is the correct css syntax?",
+    "Option1": "body: color = black;",
+    "Option2": "body { color; black}",
+    "Option3": "{body: color : black;}",
+    "Option4": "{body : color = black;}",
+    "Answer": "body { color; black}",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "which is the correct html tag for making a text input field?\\",
+    "Option1": "<text type = “Text”>",
+    "Option2": "<input type = “text”>",
+    "Option3": "<input type = “textfield”>",
+    "Option4": "<input type = “textbox”>",
+    "Answer": "<input type = “text”>",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  }
+]

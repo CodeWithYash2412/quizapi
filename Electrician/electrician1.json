@@ -1,0 +1,227 @@
+[
+  {
+    "Question": "What is the name of the safety sign?",
+    "Option1": "Warning sign",
+    "Option2": "Mandatory sign",
+    "Option3": "Prohibition sign",
+    "Option4": "Information sign",
+    "Answer": "Information sign",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/Electrician%2FSEM1%2FM1-1.PNG?alt=media&token=cae15d74-fda9-491c-933e-255593088346"
+  },
+  {
+    "Question": "What is smothering in extinguishing of fire?",
+    "Option1": "Adding the fuel element to the fire",
+    "Option2": "Removing the fuel element from the fire",
+    "Option3": "Using of water to lower the temperature",
+    "Option4": "Isolating the fire from the supply of oxygen",
+    "Answer": "Isolating the fire from the supply of oxygen",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which is the physical hazard?",
+    "Option1": "Smoking",
+    "Option2": "Vibration",
+    "Option3": "Corrosive",
+    "Option4": "Radio active",
+    "Answer": "Vibration",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which is the correct sequence of operation to be performed when using the fire extinguisher?",
+    "Option1": "Pull, Aim, Squeeze, Sweep",
+    "Option2": "Pull, Aim, Sweep, Squeeze",
+    "Option3": "Push, Arrange, Squeeze, Sweep",
+    "Option4": "Push, Arrange, Sweep, Sequence",
+    "Answer": "Pull, Aim, Squeeze, Sweep",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which step of the 5s-concept refers “Standardization”?",
+    "Option1": "Step - 1",
+    "Option2": "Step - 2",
+    "Option3": "Step - 3",
+    "Option4": "Step - 4",
+    "Answer": "Step - 4",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which plier is used for making wire hooks and loops?",
+    "Option1": "Flat nose plier",
+    "Option2": "Long nose plier",
+    "Option3": "Round nose plier",
+    "Option4": "Diagonal cutting plier",
+    "Answer": "Round nose plier",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the use of pincer?",
+    "Option1": "Twisting the flexible wires",
+    "Option2": "Cutting small diameter of wires",
+    "Option3": "Extracting the pin nails from the wood",
+    "Option4": "Holding small objects, where finger cannot reach",
+    "Answer": "Extracting the pin nails from the wood",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the name of road safety sign?",
+    "Option1": "Mandatory sign",
+    "Option2": "Cautionary sign",
+    "Option3": "Informatory sign",
+    "Option4": "Prohibition sign",
+    "Answer": "Mandatory sign",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/Electrician%2FSEM1%2FM1-8.PNG?alt=media&token=157d6669-fd9d-4c06-8c8c-5b7ce731679e"
+  },
+  {
+    "Question": "What is the back-ground colour of warning signs in the basic category?",
+    "Option1": "Blue",
+    "Option2": "White",
+    "Option3": "Yellow",
+    "Option4": "Green",
+    "Answer": "Yellow",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which type of fire extinguisher is used for fire on electrical equipment?",
+    "Option1": "Halon type",
+    "Option2": "Foam type",
+    "Option3": "Gas cartridge type",
+    "Option4": "Stored pressure type",
+    "Answer": "Halon type",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which is the waste disposal method that produces heat?",
+    "Option1": "Recycling",
+    "Option2": "Composting",
+    "Option3": "Incineration",
+    "Option4": "Waste compaction",
+    "Answer": "Incineration",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which Personal Protective Equipment (PPE) is used for the protection from fumes?",
+    "Option1": "Apron",
+    "Option2": "Goggles",
+    "Option3": "Ear mask",
+    "Option4": "Nose mask",
+    "Answer": "Nose mask",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the full form of BIS?",
+    "Option1": "Board of Indian Standard",
+    "Option2": "Bureau of Indian Standard",
+    "Option3": "Board of International Standard",
+    "Option4": "Bureau of International Standard",
+    "Answer": "Bureau of Indian Standard",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which method is used to lift and move heavy loads?",
+    "Option1": "Winches",
+    "Option2": "Crane and slings",
+    "Option3": "Layers and Rollers",
+    "Option4": "Machine moving platforms",
+    "Answer": "Crane and slings",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is starving in extinguishing of fire?",
+    "Option1": "Adding fuel to the fire",
+    "Option2": "Using water to cool the fire",
+    "Option3": "Removing fuel element from the fire",
+    "Option4": "Preventing oxygen supply to the fire",
+    "Answer": "Removing fuel element from the fire",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the name of PPE?",
+    "Option1": "Nose mask",
+    "Option2": "Head shield",
+    "Option3": "Face shield",
+    "Option4": "Hand screen",
+    "Answer": "Hand screen",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/Electrician%2FSEM1%2FM1-16.PNG?alt=media&token=6c04d215-4f63-4348-b895-0f96e8e868b9"
+  },
+  {
+    "Question": "Which disposal method of waste save lot of energy?",
+    "Option1": "Land fill",
+    "Option2": "Recycling",
+    "Option3": "Incineration",
+    "Option4": "Composting",
+    "Answer": "Recycling",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which artificial respiration method is to be performed to the victim with injuries on the chest and belly?",
+    "Option1": "Schafer’s method",
+    "Option2": "Mouth to mouth method",
+    "Option3": "Mouth to nose method",
+    "Option4": "Nelson’s arm-lift back pressure method",
+    "Answer": "Nelson’s arm-lift back pressure method",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which type of occupational health hazard is cause for infection?",
+    "Option1": "Electrical hazard",
+    "Option2": "Biological hazard",
+    "Option3": "Physiological hazard",
+    "Option4": "Psychological hazard",
+    "Answer": "Biological hazard",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the use of this tool?",
+    "Option1": "Holding the hot substances",
+    "Option2": "Cutting and twisting the wires",
+    "Option3": "Extracting nails from the wood",
+    "Option4": "Loosening and tightening the bolts and nuts",
+    "Answer": "Extracting nails from the wood",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/Electrician%2FSEM1%2FM1-20.PNG?alt=media&token=f8813cb6-3509-48d5-a04a-8b51a6653178"
+  },
+  {
+    "Question": "How will you diagonise the victim is suffering under cardiac arrest?",
+    "Option1": "Gets pain in spinal guard",
+    "Option2": "Mouth will be closed tightly",
+    "Option3": "Heavy swelling on his stomach",
+    "Option4": "Appears blue colour around his lips",
+    "Answer": "Appears blue colour around his lips",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the name of the tool?",
+    "Option1": "Wire stripper",
+    "Option2": "Crimping tool",
+    "Option3": "Combination pliers",
+    "Option4": "Diagonal cutting pliers",
+    "Answer": "Diagonal cutting pliers",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the name of the safety sign?",
+    "Option1": "Warning sign",
+    "Option2": "Mandatory sign",
+    "Option3": "Prohibition sign",
+    "Option4": "Information sign",
+    "Answer": "Information sign",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/Electrician%2FSEM1%2FM1-23.PNG?alt=media&token=4a374fb3-6cf7-48b7-a070-5d9a21a81ff5"
+  },
+  {
+    "Question": "What will be first-aid to be given to stop the bleeding of the victim?",
+    "Option1": "Applying ointment",
+    "Option2": "Keep the injured portion upward",
+    "Option3": "Covering the wound portion by dressing",
+    "Option4": "Applying pressure over the injured portion",
+    "Answer": "Applying pressure over the injured portion",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What immediate action should be taken to rescue the victim, if he is still in contact with the electrical power supply?",
+    "Option1": "Pull or push him from the contact by hand",
+    "Option2": "Inform your authority about this electric shock",
+    "Option3": "Call someone for helping to remove him from contact",
+    "Option4": "Break the contact by switching OFF the power supply",
+    "Answer": "Break the contact by switching OFF the power supply",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  }
+]

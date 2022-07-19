@@ -1,0 +1,227 @@
+[
+  {
+    "Question": "What is the name of line marked as x?",
+    "Option1": "Liquid line",
+    "Option2": "Suction line",
+    "Option3": "Delivery line",
+    "Option4": "Charging line",
+    "Answer": "Charging line",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/MRAC%2FSEM4%2F051%20TO%20075%2F51.PNG?alt=media&token=0fd13443-bde7-43a5-b819-eb06542e0140"
+  },
+  {
+    "Question": "Which is the minimum vaccum level\npreferred in microns before gas charging a system?",
+    "Option1": 2000,
+    "Option2": 1750,
+    "Option3": 750,
+    "Option4": 500,
+    "Answer": 500,
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which safety device is attached to nitrogen\ncylinder?",
+    "Option1": "Fuse plug",
+    "Option2": "Compound gauge",
+    "Option3": "Two stage pressure regulator",
+    "Option4": "Automatic pressure bypass valve",
+    "Answer": "Two stage pressure regulator",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which is eliminated from the system in\nvacuumising process?",
+    "Option1": "Humidity",
+    "Option2": "Moisture",
+    "Option3": "Pressure",
+    "Option4": "Temperature",
+    "Answer": "Moisture",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the name of meter?",
+    "Option1": "Hot wire anemometer",
+    "Option2": "Rotating vane anemomete",
+    "Option3": "Deflecting vane anemometer",
+    "Option4": "Direct reading air velocity meter",
+    "Answer": "Direct reading air velocity meter",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/MRAC%2FSEM4%2F051%20TO%20075%2F55.PNG?alt=media&token=68f03195-319c-4110-aafd-3542de9b1863"
+  },
+  {
+    "Question": "Which instrument indicates the correct floor level to install package unit?",
+    "Option1": "Sprit level",
+    "Option2": "Tee square",
+    "Option3": "Screw gauge",
+    "Option4": "Vernier caliper",
+    "Answer": "Sprit level",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the name of component marked as X in self contained package unit?",
+    "Option1": "Liquid receiver",
+    "Option2": "Scroll compressor",
+    "Option3": "Water cooled condenser",
+    "Option4": "Return air chamber from room",
+    "Answer": "Water cooled condenser",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/MRAC%2FSEM4%2F051%20TO%20075%2F57.PNG?alt=media&token=77e60ae5-53b0-4718-a440-5dab57950409"
+  },
+  {
+    "Question": "Where to assemble all the controls, microprocessor display board and indicating LED in package AC?",
+    "Option1": "DOL",
+    "Option2": "Body",
+    "Option3": "Panel board",
+    "Option4": "Blower compartment",
+    "Answer": "Panel board",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the minimum temperature difference in water required between inlet and outlet of water cooled condenser?",
+    "Option1": "5°C",
+    "Option2": "15°C",
+    "Option3": "10°C",
+    "Option4": "20°C",
+    "Answer": "5°C",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the name of part zoomed in?",
+    "Option1": "Power supply",
+    "Option2": "Terminal plate",
+    "Option3": "Charging cylinder",
+    "Option4": "Disconnect switch",
+    "Answer": "Terminal plate",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/MRAC%2FSEM4%2F051%20TO%20075%2F60.PNG?alt=media&token=171250a2-58d1-4c1a-a833-b9e24fb6aede"
+  },
+  {
+    "Question": "Which colour code indicates the earth wire in power supply cord?",
+    "Option1": "Red",
+    "Option2": "Black",
+    "Option3": "Brown",
+    "Option4": "Green/yellow",
+    "Answer": "Green/yellow",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "How much cut out point is set in high pressure control in package AC using R-22?",
+    "Option1": "12 kg/cm2",
+    "Option2": "15 kg/cm2",
+    "Option3": "17 kg/cm2",
+    "Option4": "20 kg/cm2",
+    "Answer": "20 kg/cm2",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the name of part marked as x in package AC?",
+    "Option1": "TXV",
+    "Option2": "OLP",
+    "Option3": "Distributor",
+    "Option4": "Filter drier",
+    "Answer": "Filter drier",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/MRAC%2FSEM4%2F051%20TO%20075%2F63.PNG?alt=media&token=f9a95c0f-c67f-4ad0-9ac0-99617834ff6c"
+  },
+  {
+    "Question": "Which thermistor s resistance increases if the temperature is decreased?",
+    "Option1": "PTC",
+    "Option2": "NTC",
+    "Option3": "VDR",
+    "Option4": "LDR",
+    "Answer": "NTC",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the limitation for DOL starters in package AC?",
+    "Option1": "Up to 3 HP",
+    "Option2": "Up to 5 HP",
+    "Option3": "Up to 8 HP",
+    "Option4": "Up to 10 HP",
+    "Answer": "Up to 5 HP",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the name of component marked as x in motor starter?",
+    "Option1": "PTC relay",
+    "Option2": "Thermostat",
+    "Option3": "Thermal OLP",
+    "Option4": "Selector switch",
+    "Answer": "Thermal OLP",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/MRAC%2FSEM4%2F051%20TO%20075%2F66.PNG?alt=media&token=cedb2978-1bc2-4a63-8625-749167f9714c"
+  },
+  {
+    "Question": "What is the name of part marked as x in testing thermostatic expansion valve?",
+    "Option1": "Feeler bulb",
+    "Option2": "Expansion valve",
+    "Option3": "Adjustable drill bleed",
+    "Option4": "High pressure supply line",
+    "Answer": "Adjustable drill bleed",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/MRAC%2FSEM4%2F051%20TO%20075%2F67.PNG?alt=media&token=6f2447de-07d3-4d08-bba1-b9057a1dd955"
+  },
+  {
+    "Question": "What is the name of safety switch marked as x in package AC?",
+    "Option1": "Oil flow switch",
+    "Option2": "Gas flow switch",
+    "Option3": "Water flow switch",
+    "Option4": "Pressure flow switch",
+    "Answer": "Water flow switch",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/MRAC%2FSEM4%2F051%20TO%20075%2F68.PNG?alt=media&token=741d92a5-831b-49ca-a350-f00c464f84d0"
+  },
+  {
+    "Question": "What is the name of part marked as x in thermostat?",
+    "Option1": "Bellows",
+    "Option2": "Movable contact",
+    "Option3": "Stationary contact",
+    "Option4": "Differential adjustment",
+    "Answer": "Movable contact",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/MRAC%2FSEM4%2F051%20TO%20075%2F69.PNG?alt=media&token=6b18b2c2-e746-4e41-9169-aa68a626801d"
+  },
+  {
+    "Question": "What is the name of component marked as x in wiring of package AC?",
+    "Option1": "Heater",
+    "Option2": "DOL starter",
+    "Option3": "Pressure stat",
+    "Option4": "Internal thermostat",
+    "Answer": "DOL starter",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/MRAC%2FSEM4%2F051%20TO%20075%2F70.PNG?alt=media&token=f1075cc3-4dc9-4bcc-a420-ed1cc8805611"
+  },
+  {
+    "Question": "What is the name of component used in vacuumising process at ductable split AC?",
+    "Option1": "Fan motor",
+    "Option2": "Condenser",
+    "Option3": "Three way service valve",
+    "Option4": "Direct drive vacuum pump",
+    "Answer": "Three way service valve",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/MRAC%2FSEM4%2F051%20TO%20075%2F71.PNG?alt=media&token=9650f4d4-6938-4c3f-9a5f-d17ac856681f"
+  },
+  {
+    "Question": "Which AC connects the indoor evaporator unit with outdoor condenser unit through a wall hole of 7cm diameter?",
+    "Option1": "Split air-conditioner",
+    "Option2": "Window air-conditioner",
+    "Option3": "Central air-conditioner",
+    "Option4": "Industrial air-conditioner",
+    "Answer": "Split air-conditioner",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the name of part marked as x in electronic expansion valve?",
+    "Option1": "Cap",
+    "Option2": "Push rod",
+    "Option3": "Valve body",
+    "Option4": "Piston assembly",
+    "Answer": "Push rod",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/MRAC%2FSEM4%2F051%20TO%20075%2F73.PNG?alt=media&token=ea23e8e6-73f4-4ac2-ab9e-ee4330bc143b"
+  },
+  {
+    "Question": "What is the periodical checking for blower belt in package AC?",
+    "Option1": "Daily",
+    "Option2": "Yearly",
+    "Option3": "Weekly",
+    "Option4": "Monthly",
+    "Answer": "Weekly",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the preventive maintenance schedule of blower motor s speed and end play in package AC?",
+    "Option1": "Daily",
+    "Option2": "Yearly",
+    "Option3": "Weekly",
+    "Option4": "Monthly",
+    "Answer": "Monthly",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  }
+]

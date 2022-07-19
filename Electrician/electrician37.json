@@ -1,0 +1,227 @@
+[
+  {
+    "Question": "Why the A.C drives are better suited for high speed operation?",
+    "Option1": "High starting torque",
+    "Option2": "Robust in construction",
+    "Option3": "Having lighter gauge winding",
+    "Option4": "No brushes and commutation",
+    "Answer": "No brushes and commutation",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the advantage of AC drive compared to DC drive?",
+    "Option1": "Requires less space",
+    "Option2": "Installation and running cost is less",
+    "Option3": "Fast response and wide speed range of control",
+    "Option4": "Power circuit and control circuits are simple",
+    "Answer": "Installation and running cost is less",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which is the application of single quadrant loads operating in first quadrant in drives?",
+    "Option1": "Hoists",
+    "Option2": "Elevators",
+    "Option3": "Conveyors",
+    "Option4": "Centrifugal pumps",
+    "Answer": "Centrifugal pumps",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the function of Field Supply Unit (FSU) in DC drive?",
+    "Option1": "Produces required firing current to the firing circuit",
+    "Option2": "Provides variable voltage to the field winding of motor",
+    "Option3": "Provides a constant voltage to the field winding of motor",
+    "Option4": "Provides a constant voltage to the armature of the motor",
+    "Answer": "Provides a constant voltage to the field winding of motor",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the disadvantage of DC drive?",
+    "Option1": "Not suitable for high speed operation",
+    "Option2": "More complex with a single power conversion",
+    "Option3": "More expensive than AC drive for high capacity motor",
+    "Option4": "Installation of DC drives is more complicated",
+    "Answer": "Not suitable for high speed operation",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the purpose of LCD in Basic Operator Panel (BOP) in AC drive?",
+    "Option1": "Indicate the status of drive",
+    "Option2": "Monitor the parameter of AC drive",
+    "Option3": "Indicate the display error in reading",
+    "Option4": "Indicate the incorrect operation of BOP",
+    "Answer": "Monitor the parameter of AC drive",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which is the correct sequence operation of key button in BOP of AC drive to change the direction of rotation?",
+    "Option1": "Press ON → REV →ON",
+    "Option2": "Press OFF → REV → ON",
+    "Option3": "Press ON → OFF → REV →ON",
+    "Option4": "Press ON →REV → OFF →ON",
+    "Answer": "Press ON → OFF → REV →ON",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the purpose of PROG / DATA button in BOP of AC drive?",
+    "Option1": "To change the parameter setting",
+    "Option2": "To store the entered data and factory stored data",
+    "Option3": "To display the data direction of rotation forward / REV",
+    "Option4": "To display the data status of frequency and current",
+    "Answer": "To store the entered data and factory stored data",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which is proportional to the torque in D.C motor?",
+    "Option1": "Back e.m.f",
+    "Option2": "Field current",
+    "Option3": "Terminal voltage",
+    "Option4": "Armature current",
+    "Answer": "Armature current",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is IGBT in VF drive?",
+    "Option1": "Inverter switching device",
+    "Option2": "D.C bus switching device",
+    "Option3": "Rectifier switching device",
+    "Option4": "Field supply switching device",
+    "Answer": "Inverter switching device",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the function of VSI drives?",
+    "Option1": "Converts A.C to D.C",
+    "Option2": "Converts A.C to A.C",
+    "Option3": "Converts D.C to A.C",
+    "Option4": "Converts D.C to D.C",
+    "Answer": "Converts A.C to A.C",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Why the A.C drives are mostly used in process plant?",
+    "Option1": "Easy to operate",
+    "Option2": "Robust in construction",
+    "Option3": "Very high starting torque",
+    "Option4": "Maintenance free long life",
+    "Answer": "Maintenance free long life",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "How the base speed of D.C shunt motor can be increased by using D.C drive?",
+    "Option1": "By reducing the field current",
+    "Option2": "By increasing the field current",
+    "Option3": "By increasing the supply voltage",
+    "Option4": "By reducing the armature voltage",
+    "Answer": "By reducing the field current",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "How the constant torque can be obtained from armature and field-controlled drives?",
+    "Option1": "By reducing the field current",
+    "Option2": "By increasing the field current",
+    "Option3": "By reducing the armature current",
+    "Option4": "By controlling the armature voltage",
+    "Answer": "By controlling the armature voltage",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the minimum permissible single phase working voltage, if the declared voltage is 240V as per ISI?",
+    "Option1": "233 V",
+    "Option2": "228 V",
+    "Option3": "216 V",
+    "Option4": "211 V",
+    "Answer": "228 V",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which term refers that the mass of a substance liberated from an electrolyte by one coloumb of electricity?",
+    "Option1": "Electrolysis",
+    "Option2": "Electro plating",
+    "Option3": "Electro copying",
+    "Option4": "Electro chemical equivalent",
+    "Answer": "Electro chemical equivalent",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the full form of abbreviation UPS?",
+    "Option1": "Uniform Power Supply",
+    "Option2": "Universal Power Supply",
+    "Option3": "Unregulated Power Supply",
+    "Option4": "Uninterrupted Power Supply",
+    "Answer": "Uninterrupted Power Supply",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which is frequency converter?",
+    "Option1": "Rectifiers",
+    "Option2": "D.C choppers",
+    "Option3": "Cyclo converters",
+    "Option4": "D.C to A.C converters",
+    "Answer": "Cyclo converters",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the full form of PWM?",
+    "Option1": "Pulse Wide Modulation",
+    "Option2": "Pulse Width Modulation",
+    "Option3": "Phase Wide Modulation",
+    "Option4": "Phase Width Modulation",
+    "Answer": "Pulse Width Modulation",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the advantage of on-line UPS over offline UPS?",
+    "Option1": "Supplies constant power output",
+    "Option2": "It gives constant output frequency",
+    "Option3": "Works on single phase or three phase supply",
+    "Option4": "Free from change over and transition problems",
+    "Answer": "Free from change over and transition problems",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which electronic circuit is used in a automatic voltage stablizer to produce constant output voltage?",
+    "Option1": "Rectifier circuit",
+    "Option2": "Amplifier circuit",
+    "Option3": "Oscillator circuit",
+    "Option4": "Feedback circuit",
+    "Answer": "Feedback circuit",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which feedback network is used for automatic voltage stabilizer?",
+    "Option1": "Current divider network",
+    "Option2": "Voltage divider network",
+    "Option3": "Tapped transformer network",
+    "Option4": "Resistance temperature detector network",
+    "Answer": "Voltage divider network",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which electrical device is actuating the voltages in a stepped voltage stabilizer?",
+    "Option1": "Autostat",
+    "Option2": "Output transformer",
+    "Option3": "Over voltage relay",
+    "Option4": "Under voltage relay",
+    "Answer": "Autostat",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the effect in internal resistance of a discharged cell?",
+    "Option1": "Increase",
+    "Option2": "Decrease",
+    "Option3": "Becomes zero",
+    "Option4": "Remain same",
+    "Answer": "Increase",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Calculate the voltage and ampere/hour, if four cells rated as 1.5 v and 8 A.H are in parallel?",
+    "Option1": "6 V and 24 AH",
+    "Option2": "3 V and 16 AH",
+    "Option3": "4.5 V and 8 AH",
+    "Option4": "1.5 V and 32 AH",
+    "Answer": "1.5 V and 32 AH",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  }
+]

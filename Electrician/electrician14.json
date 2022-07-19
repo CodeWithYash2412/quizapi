@@ -1,0 +1,227 @@
+[
+  {
+    "Question": "Calculate the earth fault loop impedance, if the ELCB tripping current is 30 mA?",
+    "Option1": "166Ω",
+    "Option2": "1666Ω",
+    "Option3": "16.66Ω",
+    "Option4": "16666Ω",
+    "Answer": "1666Ω",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the type of wiring?",
+    "Option1": "CTS wiring",
+    "Option2": "Cleat wiring",
+    "Option3": "PVC conduit wiring",
+    "Option4": "PVC casing and capping wiring",
+    "Answer": "Cleat wiring",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/Electrician%2FSEM2%2FElectrician14%2F90.PNG?alt=media&token=0da48bbc-ed19-4f16-b135-4f847ccce82c"
+  },
+  {
+    "Question": "What is length of thread on rigid conduits as per BIS?",
+    "Option1": "9mm - 20mm",
+    "Option2": "11mm - 27mm",
+    "Option3": "13mm - 25mm",
+    "Option4": "15mm - 30mm",
+    "Answer": "11mm - 27mm",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which type of conduit used for gas tight explosive installation?",
+    "Option1": "Flexible conduits",
+    "Option2": "Rigid steel conduits",
+    "Option3": "Rigid non-metallic conduits",
+    "Option4": "Flexible non-metallic conduits",
+    "Answer": "Rigid steel conduits",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the function of circuit breaker?",
+    "Option1": "Making contact at normal condition",
+    "Option2": "Making contact at abnormal condition",
+    "Option3": "Breaking automatically at abnormal condition",
+    "Option4": "Physical breaking contact at abnormal condition",
+    "Answer": "Breaking automatically at abnormal condition",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the function of bimetallic strip in MCB ?",
+    "Option1": "Over load protection",
+    "Option2": "Short circuit protection",
+    "Option3": "Over voltage protection",
+    "Option4": "Earth leakage protection",
+    "Answer": "Over load protection",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What protection offered by residual current circuit breaker?",
+    "Option1": "Protection from shock",
+    "Option2": "Protection from over load",
+    "Option3": "Protection from short circuit",
+    "Option4": "Protection from leakage current",
+    "Answer": "Protection from shock",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which wiring is suitable for temporary installations?",
+    "Option1": "Cleat wiring",
+    "Option2": "Concealed wiring",
+    "Option3": "PVC conduit wiring",
+    "Option4": "Metal conduit wiring",
+    "Answer": "Cleat wiring",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Where the phase conductor is looped in looping system of wiring?",
+    "Option1": "Switch box",
+    "Option2": "Junction box",
+    "Option3": "Distribution box",
+    "Option4": "Socket connection",
+    "Answer": "Socket connection",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "How many link clips are packed in cardboard boxes as per BIS rules?",
+    "Option1": "50 clips",
+    "Option2": "75 clips",
+    "Option3": "100 clips",
+    "Option4": "150 clips",
+    "Answer": "100 clips",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the application of the wiring circuit?",
+    "Option1": "Two lamps dim operation only",
+    "Option2": "Two lamps controlled by one switch",
+    "Option3": "Two lamps controlled by two switches",
+    "Option4": "One lamp bright and two lamp dim operation",
+    "Answer": "One lamp bright and two lamp dim operation",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/Electrician%2FSEM2%2FElectrician14%2F99.PNG?alt=media&token=714ce998-fcad-4dde-af76-c19bf02b0546"
+  },
+  {
+    "Question": "What is the reason for home theatre wiring not to run along with power wiring?",
+    "Option1": "Avoid leakage current in home theatre wiring",
+    "Option2": "Control temperature in home theatre wiring",
+    "Option3": "Avoid electrical interference in audio, video system",
+    "Option4": "Reduce the power consumption in power supplies",
+    "Answer": "Avoid electrical interference in audio, video system",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What will happen to the value of earth resistance if length of the earth pipe is increased?",
+    "Option1": "Remain same",
+    "Option2": "Increases",
+    "Option3": "Decreases",
+    "Option4": "Infinity",
+    "Answer": "Decreases",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which types of accessories are used to operate a portable appliance?",
+    "Option1": "Safety accessories",
+    "Option2": "Holding accessories",
+    "Option3": "Outlet accessories",
+    "Option4": "Controlling accessories",
+    "Answer": "Outlet accessories",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which insulation is necessary for proper function and basic protection?",
+    "Option1": "Double insulation",
+    "Option2": "Functional insulation",
+    "Option3": "Reinforced insulation",
+    "Option4": "Supplementary insulation",
+    "Answer": "Functional insulation",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which type of accessories of fuse is comes under?",
+    "Option1": "Controlling accessories",
+    "Option2": "Holding accessories",
+    "Option3": "Safety accessories",
+    "Option4": "Outlet accessories",
+    "Answer": "Safety accessories",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the expansion of ECC?",
+    "Option1": "Earth Conductor Continuity",
+    "Option2": "Earth Continuity Conductor",
+    "Option3": "Earth Carrying Conductor",
+    "Option4": "Earth Continuity Cable",
+    "Answer": "Earth Continuity Conductor",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which type MCBs suitable for halogen lamps?",
+    "Option1": "L series MCBs",
+    "Option2": "G series MCBs",
+    "Option3": "DC series MCBs",
+    "Option4": "L and G series MCBs",
+    "Answer": "G series MCBs",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which type of lamp holder is used for the lamps above 300 watts?",
+    "Option1": "Edison screw holder",
+    "Option2": "Goliath screw holder",
+    "Option3": "Angle holder",
+    "Option4": "Brachet holder",
+    "Answer": "Goliath screw holder",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the expansion of AWG?",
+    "Option1": "American Wire Gauge",
+    "Option2": "American Wire Grade",
+    "Option3": "American Wire Group",
+    "Option4": "American Wire Guard",
+    "Answer": "American Wire Gauge",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the name of BIS symbol?",
+    "Option1": "Lamp",
+    "Option2": "Two way switch",
+    "Option3": "Intermediate switch",
+    "Option4": "Multi - position switch",
+    "Answer": "Intermediate switch",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/Electrician%2FSEM2%2FElectrician14%2F109.PNG?alt=media&token=3e05c874-4fb9-4769-b3f2-56d8fd3efed6"
+  },
+  {
+    "Question": "What is the type of diagram?",
+    "Option1": "Wiring diagram",
+    "Option2": "Circuit diagram",
+    "Option3": "Installation plan",
+    "Option4": "Layout diagram",
+    "Answer": "Wiring diagram",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/Electrician%2FSEM2%2FElectrician14%2F110.PNG?alt=media&token=3819613f-b7a8-4885-94f0-a9301ea148d6"
+  },
+  {
+    "Question": "What is the minimum size of Copper earth continuity conductor used in single phase domestic wiring as per BIS?",
+    "Option1": "3 Sq.mm",
+    "Option2": "3.5 Sq.mm",
+    "Option3": "2.5 Sq.mm",
+    "Option4": "1.5 Sq.mm",
+    "Answer": "1.5 Sq.mm",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which method is used to reduce earth resistance value in a existing earth?",
+    "Option1": "Increasing the length of electrode",
+    "Option2": "Keeping wet condition in earth pits always",
+    "Option3": "Adding more sand and charcoal in earth pits",
+    "Option4": "Increasing the diameter of earth electrode",
+    "Answer": "Keeping wet condition in earth pits always",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Why A.C is required to measure the earth resistance by using earth resistance tester?",
+    "Option1": "Regulate the current",
+    "Option2": "Increase the voltage drop",
+    "Option3": "Decrease the voltage drop",
+    "Option4": "Avoid electrolytic emf interference",
+    "Answer": "Avoid electrolytic emf interference",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  }
+]

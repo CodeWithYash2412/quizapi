@@ -1,0 +1,227 @@
+[
+  {
+    "Question": "What is the name of part marked as X in megger?",
+    "Option1": "Generator",
+    "Option2": "Armature",
+    "Option3": "Motor",
+    "Option4": "Disc",
+    "Answer": "Generator",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/MRAC%2FSEM1%2F051%20TO%20075%2F51.PNG?alt=media&token=21420baa-43c9-49b0-84d4-75224915bc32"
+  },
+  {
+    "Question": "What is the name of accessory marked as X used with drilling machine?",
+    "Option1": "Handle",
+    "Option2": "Drill bit",
+    "Option3": "Chuck key",
+    "Option4": "Trigger switch",
+    "Answer": "Chuck key",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/MRAC%2FSEM1%2F051%20TO%20075%2F52.PNG?alt=media&token=c1e1a38b-90e1-413f-8833-51b3e865ee1b"
+  },
+  {
+    "Question": "Which joint is made in either single or multi - strand conductors?",
+    "Option1": "Rat tail joint",
+    "Option2": "Scarfed joint",
+    "Option3": "Britannia joint",
+    "Option4": "Western union joint",
+    "Answer": "Rat tail joint",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which type of 1-ϕ motor has high starting torque?",
+    "Option1": "Permanent capacitor",
+    "Option2": "Resistance start induction run",
+    "Option3": "Capacitor start and capacitor run",
+    "Option4": "Induction start and induction run",
+    "Answer": "Capacitor start and capacitor run",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which winding has more inductance in refrigerator compressor motor?",
+    "Option1": "Run",
+    "Option2": "Start",
+    "Option3": "Common",
+    "Option4": "Start and common",
+    "Answer": "Run",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which component these symbols represent?",
+    "Option1": "Motor",
+    "Option2": "Relay",
+    "Option3": "Capacitor",
+    "Option4": "Overload protector",
+    "Answer": "Capacitor",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/MRAC%2FSEM1%2F051%20TO%20075%2F56.PNG?alt=media&token=a083c9ae-edaa-416b-9ac5-26dafec25045"
+  },
+  {
+    "Question": "Which winding has low resistance in resistance start induction run motor?",
+    "Option1": "Running winding",
+    "Option2": "Starting winding",
+    "Option3": "Auxiliary winding",
+    "Option4": "Common winding",
+    "Answer": "Running winding",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the name of part marked as X in a gimlet?",
+    "Option1": "Shank",
+    "Option2": "Flute",
+    "Option3": "Handle",
+    "Option4": "Feed screw",
+    "Answer": "Feed screw",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/MRAC%2FSEM1%2F051%20TO%20075%2F58.PNG?alt=media&token=088cfe86-8925-4735-ab93-eea889de8990"
+  },
+  {
+    "Question": "Which type of rotor is used in split phase induction motor?",
+    "Option1": "Wound coil",
+    "Option2": "Eccentric",
+    "Option3": "Squirrel cage",
+    "Option4": "Permanent magnet",
+    "Answer": "Squirrel cage",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "How the batteries are connected in the circuit to increase the output current?",
+    "Option1": "Series",
+    "Option2": "Parallel",
+    "Option3": "Zig zag",
+    "Option4": "Alternate poles",
+    "Answer": "Parallel",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/MRAC%2FSEM1%2F051%20TO%20075%2F60.PNG?alt=media&token=4bc015e4-4078-4f12-8832-0e352601da32"
+  },
+  {
+    "Question": "Which joint is used in overhead lines for extending the length of the wire",
+    "Option1": "Dove tail joint",
+    "Option2": "Plain tap joint",
+    "Option3": "Western union joint",
+    "Option4": "Duplex cross tap joint",
+    "Answer": "Western union joint",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/MRAC%2FSEM1%2F051%20TO%20075%2F61.PNG?alt=media&token=09268247-871e-4bce-af1a-c39d0de5bfce"
+  },
+  {
+    "Question": "Which meter indicates the true power directly in an electrical circuit?",
+    "Option1": "Ammeter",
+    "Option2": "Ohm meter",
+    "Option3": "Watt meter",
+    "Option4": "Volt meter",
+    "Answer": "Watt meter",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the supply voltage if a current of 2 ampere flows through 10 ohm resistor in a circuit?",
+    "Option1": "20 Volt",
+    "Option2": "45 Volt",
+    "Option3": "55 Volt",
+    "Option4": "65 Volt",
+    "Answer": "20 Volt",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which law relates to voltage, current and resistance in an electrical circuit?",
+    "Option1": "Ohm s law",
+    "Option2": "Lenz s law",
+    "Option3": "Newton s law",
+    "Option4": "Faraday s law",
+    "Answer": "Ohm s law",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the rotor speed with respect to stator field speed in an induction motor?",
+    "Option1": "Less than the stator speed",
+    "Option2": "More than the stator speed",
+    "Option3": "Equal to the stator speed",
+    "Option4": "More than the fly wheel",
+    "Answer": "Less than the stator speed",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the load resistance in an electrical circuit, if current, I = 2 amp and supply, V = 10 volt?",
+    "Option1": "2 ohms",
+    "Option2": "3 ohms",
+    "Option3": "4 ohms",
+    "Option4": "5 ohms",
+    "Answer": "5 ohms",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which material is used to avoid oxidation between aluminium conductor and the terminal?",
+    "Option1": "Petrol",
+    "Option2": "Grease",
+    "Option3": "Shellac",
+    "Option4": "Kerosene",
+    "Answer": "Grease",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the condition of compressor motor if ohm meter reads infinity across common and start terminals?",
+    "Option1": "Running winding open",
+    "Option2": "Starting winding open",
+    "Option3": "Starting winding shorted",
+    "Option4": "Running winding shorted",
+    "Answer": "Starting winding open",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the effect of pouring water on electrodes resistance in earth pit?",
+    "Option1": "Decreases",
+    "Option2": "Increases",
+    "Option3": "Equalises",
+    "Option4": "Remains same",
+    "Answer": "Decreases",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the total resistance if two resistors R1 and R2 are connected in series?",
+    "Option1": "(R1 - R2) ohms",
+    "Option2": "(R1 + R2) ohms",
+    "Option3": "(R1 x R2) ohms",
+    "Option4": "(R1 / R2) ohms",
+    "Answer": "(R1 + R2) ohms",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which is the common terminal while ohm meter reads AB = 10Ω, AC = 15Ω and BC = 25Ω if the motor terminals are A, B and C?",
+    "Option1": "Terminal A",
+    "Option2": "Terminal B",
+    "Option3": "Terminal C",
+    "Option4": "Earth Terminal",
+    "Answer": "Terminal A",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What are the passive components used in\nelectronic circuits?",
+    "Option1": "Resistors, capacitors and inductors",
+    "Option2": "Transformers and semiconductors",
+    "Option3": "Semi conductors and transistors",
+    "Option4": "Transistors, diodes and SCRs",
+    "Answer": "Resistors, capacitors and inductors",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the unit of inductance?",
+    "Option1": "Ohm",
+    "Option2": "Henry",
+    "Option3": "Farad",
+    "Option4": "Ampere",
+    "Answer": "Henry",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "How many diodes are required for making a\nbridge rectifier circuit?",
+    "Option1": "One",
+    "Option2": "Two",
+    "Option3": "Four",
+    "Option4": "Three",
+    "Answer": "Four",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which material is used for making ICs?",
+    "Option1": "Silicon",
+    "Option2": "Carbon",
+    "Option3": "Platinum",
+    "Option4": "Mild steel",
+    "Answer": "Silicon",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  }
+]

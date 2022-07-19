@@ -1,0 +1,227 @@
+[
+  {
+    "Question": "Name the file.",
+    "Option1": "Barrot file",
+    "Option2": "Riffler file",
+    "Option3": "Crossing file",
+    "Option4": "Mill saw file",
+    "Answer": "Riffler file",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/FITTER%2FFITTER%20SEM1%2F51TO75%2Ff51.PNG?alt=media&token=5faa33e5-82ba-4002-8a97-4713b03d5141"
+  },
+  {
+    "Question": "What is the name of vice?",
+    "Option1": "Pin vice",
+    "Option2": "Pipe vice",
+    "Option3": "Hand vice",
+    "Option4": "Machine vice",
+    "Answer": "Pin vice",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/FITTER%2FFITTER%20SEM1%2F51TO75%2Ff52.PNG?alt=media&token=71aca292-75b4-4c57-81cb-03e77f120c0f"
+  },
+  {
+    "Question": "Which grinding machine is used for heavy duty work?",
+    "Option1": "Bench grinder",
+    "Option2": "Portable grinder",
+    "Option3": "Pedestal grinder",
+    "Option4": "Surface grinder",
+    "Answer": "Pedestal grinder",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which chisel is used for separating materials after chain drilling?",
+    "Option1": "Web chisel",
+    "Option2": "Flat chisel",
+    "Option3": "Cross cut chisel",
+    "Option4": "Diamond point chisel",
+    "Answer": "Web chisel",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which file is used for sharpening the teeth of wood working saws?",
+    "Option1": "Barrete file",
+    "Option2": "Tinker s file",
+    "Option3": "Millsaw file",
+    "Option4": "Riffler file",
+    "Answer": "Millsaw file",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Where will be the weight of the hammer stamped?",
+    "Option1": "Face",
+    "Option2": "Pein",
+    "Option3": "Cheek",
+    "Option4": "Eye hole",
+    "Answer": "Cheek",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What will be the effect if the clearance angle of chisel is less than recommended angle while chipping?",
+    "Option1": "Cutting edge cannot penetrate, chisel will slip",
+    "Option2": "Cutting edge digs in, cut will be deeper",
+    "Option3": "Cutting edge will break",
+    "Option4": "Cutting edge of chisel move freely on straight line",
+    "Answer": "Cutting edge cannot penetrate, chisel will slip",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Name the property of metal to resist the effect of tensile forces without rupture.",
+    "Option1": "Ductility",
+    "Option2": "Tenacity",
+    "Option3": "Elasticity",
+    "Option4": "Malleability",
+    "Answer": "Tenacity",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Name the part marked as x . |",
+    "Option1": "Anvil",
+    "Option2": "Thimble",
+    "Option3": "Spindle",
+    "Option4": "Spindle lock",
+    "Answer": "Anvil",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/FITTER%2FFITTER%20SEM1%2F51TO75%2Ff59.PNG?alt=media&token=ea20e752-b54f-49de-ac4d-0ffe975c486b"
+  },
+  {
+    "Question": "What is the accuracy of metric outside micrometer?",
+    "Option1": "0.01 mm",
+    "Option2": "0.001 mm",
+    "Option3": "0.02 mm",
+    "Option4": "0.002 mm",
+    "Answer": "0.01 mm",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Name the part marked as x .",
+    "Option1": "Lip",
+    "Option2": "Land",
+    "Option3": "Flank",
+    "Option4": "Point angle",
+    "Answer": "Point angle",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/FITTER%2FFITTER%20SEM1%2F51TO75%2Ff61.PNG?alt=media&token=c6b3ccf7-bbf6-475c-96eb-c48d4ae8b318"
+  },
+  {
+    "Question": "Which type of taper is provided in the drill shank?",
+    "Option1": "Pin taper",
+    "Option2": "Metric taper",
+    "Option3": "Morse taper",
+    "Option4": "Jerno taper",
+    "Answer": "Morse taper",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which is used to remove drills and sockets from the machine spindle?",
+    "Option1": "Drift",
+    "Option2": "Sleeve",
+    "Option3": "Punch",
+    "Option4": "Hammer",
+    "Answer": "Drift",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Name the tap wrench used in the restricted place.",
+    "Option1": "Box type tap wrench",
+    "Option2": "T handle tap wrench",
+    "Option3": "Solid type tap wrench",
+    "Option4": "Double ended adjustable tap wrench",
+    "Answer": "T handle tap wrench",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "In the ISO metric thread, calculate the tap drill size for M 10 x 1.5 thread.",
+    "Option1": "8.2 mm",
+    "Option2": "8.7 mm",
+    "Option3": "8.75 mm",
+    "Option4": "8.65 mm",
+    "Answer": "8.2 mm",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the unit of feed in drilling operation?",
+    "Option1": "m/rev",
+    "Option2": "mm/rev",
+    "Option3": "m/min",
+    "Option4": "mm/min",
+    "Answer": "mm/rev",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Name the part marked as x in vernier\ncaliper.",
+    "Option1": "Beam",
+    "Option2": "Fixed bar",
+    "Option3": "Depth bar",
+    "Option4": "Thumb lever",
+    "Answer": "Depth bar",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/FITTER%2FFITTER%20SEM1%2F51TO75%2Ff67.PNG?alt=media&token=8cfa1517-e83d-429b-9c68-284b3f2ca7c1"
+  },
+  {
+    "Question": "What is the accuracy of protractor head in\ncombination set?",
+    "Option1": "1°",
+    "Option2": "5°",
+    "Option3": "5’",
+    "Option4": "5”",
+    "Answer": "1°",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the accuracy of a try square?",
+    "Option1": "0.02 mm per 10 mm length",
+    "Option2": "0.004 mm per 10 mm length",
+    "Option3": "0.002 mm per 10 mm length",
+    "Option4": "0.001 mm per 10 mm length",
+    "Answer": "0.002 mm per 10 mm length",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which punch is used for witness marks?",
+    "Option1": "Dot punch",
+    "Option2": "Pin punch",
+    "Option3": "Bell punch",
+    "Option4": "Centre punch",
+    "Answer": "Dot punch",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the name of the caliper having one\nleg with an adjustable divider point and other leg is\nbent?",
+    "Option1": "Jenny caliper",
+    "Option2": "Inside caliper",
+    "Option3": "Outside caliper",
+    "Option4": "Spring joint caliper",
+    "Answer": "Jenny caliper",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the name of part marked as x in\nsurface gauge?",
+    "Option1": "Nut",
+    "Option2": "Snug",
+    "Option3": "Spindle",
+    "Option4": "Scriber",
+    "Answer": "Snug",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/FITTER%2FFITTER%20SEM1%2F51TO75%2Ff72.PNG?alt=media&token=e6f23f5e-6509-44b7-9212-dd37b9810714"
+  },
+  {
+    "Question": "What is the name of part marked as x in\ncombination set?",
+    "Option1": "Bevel head",
+    "Option2": "Centre head",
+    "Option3": "Square head",
+    "Option4": "Protractor head",
+    "Answer": "Protractor head",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/FITTER%2FFITTER%20SEM1%2F51TO75%2Ff73.PNG?alt=media&token=c792ed22-b5d9-4327-8a7d-75b726be89dd"
+  },
+  {
+    "Question": "Which type of datum is followed?",
+    "Option1": "Edge datum",
+    "Option2": "Point datum",
+    "Option3": "Centre line datum",
+    "Option4": "Reference line datum",
+    "Answer": "Edge datum",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/FITTER%2FFITTER%20SEM1%2F51TO75%2Ff74.PNG?alt=media&token=d6591df0-9ffc-4c66-b00c-a642e09b1b93"
+  },
+  {
+    "Question": "What is the name of parallel block?",
+    "Option1": "Solid parallel block",
+    "Option2": "Tenon parallel block",
+    "Option3": "Angular parallel block",
+    "Option4": "Adjustable parallel block",
+    "Answer": "Adjustable parallel block",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/FITTER%2FFITTER%20SEM1%2F51TO75%2Ff75.PNG?alt=media&token=ec7e0405-f037-44f4-9a81-6d4bb9b85f91"
+  }
+]

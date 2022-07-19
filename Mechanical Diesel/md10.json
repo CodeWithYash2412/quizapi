@@ -1,0 +1,227 @@
+[
+  {
+    "Question": "What is the name of part marked as X?",
+    "Option1": "Switch",
+    "Option2": "Ceramic nozzle",
+    "Option3": "Welding current",
+    "Option4": "Tungsten electrode",
+    "Answer": "Switch",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/mechanical%20diesel%2FMD10%2F226.PNG?alt=media&token=1a0f3ac3-ac60-4212-8d72-c51c6c1c207c"
+  },
+  {
+    "Question": "What is the name of part marked as ‘X’?",
+    "Option1": "Pilot arc",
+    "Option2": "Electrode",
+    "Option3": "Weld pool",
+    "Option4": "Contact tube",
+    "Answer": "Contact tube",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/mechanical%20diesel%2FMD10%2F227.PNG?alt=media&token=14d82148-2318-41f7-a49a-4b825f917773"
+  },
+  {
+    "Question": "Which one is the heat treatment process?",
+    "Option1": "Casting",
+    "Option2": "Machining",
+    "Option3": "Welding",
+    "Option4": "Annealing",
+    "Answer": "Annealing",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which quenching media applied in the flame hardening process?",
+    "Option1": "Still air",
+    "Option2": "Oil bath",
+    "Option3": "Brine solution bath",
+    "Option4": "Water spray",
+    "Answer": "Water spray",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the purpose of hardening?",
+    "Option1": "Increase ductility",
+    "Option2": "Increase malleability",
+    "Option3": "Increase strength",
+    "Option4": "Increase brittleness",
+    "Answer": "Increase strength",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the purpose of annealing?",
+    "Option1": "Improve hardness",
+    "Option2": "Improve machinability",
+    "Option3": "Improve brittleness",
+    "Option4": "Improve weldability",
+    "Answer": "Improve machinability",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the advantage of AC arc welding machine?",
+    "Option1": "More initial cost",
+    "Option2": "Freedom from arc blow",
+    "Option3": "More maintenance cost",
+    "Option4": "Un suitable for non ferrous metal",
+    "Answer": "Freedom from arc blow",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the advantage of using rectifier set in arc welding machine?",
+    "Option1": "Suitable for all ferrous and non-ferrous",
+    "Option2": "Initial cost is lower",
+    "Option3": "Maintenance cost in less",
+    "Option4": "Not special safety precaution required",
+    "Answer": "Suitable for all ferrous and non-ferrous",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the name of welding process?",
+    "Option1": "Arc welding",
+    "Option2": "Carbon arc welding",
+    "Option3": "Plasma arc welding",
+    "Option4": "Submerged arc welding",
+    "Answer": "Arc welding",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/mechanical%20diesel%2FMD10%2F234.PNG?alt=media&token=3ba42a76-269f-429a-9bc7-3f8bec8caecc"
+  },
+  {
+    "Question": "Which machine can be used any where in the field for welding away from electric main supply?",
+    "Option1": "Motor generator set",
+    "Option2": "Engine generator set",
+    "Option3": "AC arc welding machine",
+    "Option4": "AC welding transformer with a rectifier",
+    "Answer": "Engine generator set",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which one of the following metals cannot be welded by AC welding machine?",
+    "Option1": "Brass",
+    "Option2": "Cast iron",
+    "Option3": "Mild steel",
+    "Option4": "High carbon steel",
+    "Answer": "Brass",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which is the safety method for carry the oxy-acetylene gas cylinders?",
+    "Option1": "Rolling",
+    "Option2": "Sliding",
+    "Option3": "Dragging",
+    "Option4": "Use a trolly",
+    "Answer": "Use a trolly",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which is the stage of heat treatment process?",
+    "Option1": "Cooling the metal",
+    "Option2": "Heating the metal slowly",
+    "Option3": "Hold at a given temperature",
+    "Option4": "Heat and cool the metal as soon as possible",
+    "Answer": "Heating the metal slowly",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the importance of case hardening?",
+    "Option1": "To increase softness",
+    "Option2": "To with stand wear resistance",
+    "Option3": "To withstand heavy load",
+    "Option4": "To decrease the brittleness",
+    "Answer": "To with stand wear resistance",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which valve to be closed first while gas flame snaps out and back fire?",
+    "Option1": "Oxygen valve in cylinder",
+    "Option2": "Oxygen valve at blow pipe",
+    "Option3": "Acetylene valve in cylinder",
+    "Option4": "Acetylene valve at blow pipe",
+    "Answer": "Oxygen valve at blow pipe",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which gas cutting process is suitable for all position, location and under water?",
+    "Option1": "Gas cutting",
+    "Option2": "Plasma cutting",
+    "Option3": "Manual cutting",
+    "Option4": "Machine cutting",
+    "Answer": "Plasma cutting",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which device is used in hydraulic brake\nsystem?",
+    "Option1": "Air tank",
+    "Option2": "Master cylinder",
+    "Option3": "Pressure gauge",
+    "Option4": "Un loader cylinder",
+    "Answer": "Master cylinder",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the name of the part marked as\n‘X’?",
+    "Option1": "Air tank",
+    "Option2": "Air pressure gauge",
+    "Option3": "Brake valve",
+    "Option4": "Compressor",
+    "Answer": "Compressor",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/mechanical%20diesel%2FMD10%2F243.PNG?alt=media&token=a40ea06a-de12-4112-9162-830662f6a6a0"
+  },
+  {
+    "Question": "Which type of pump used in the hydraulic\njack?",
+    "Option1": "Gear pump",
+    "Option2": "Plunger pump",
+    "Option3": "Vane pump",
+    "Option4": "Internal gear pump",
+    "Answer": "Plunger pump",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which device converts mechanical into\npneumatic energy?",
+    "Option1": "Actuator",
+    "Option2": "Generator",
+    "Option3": "Altenation",
+    "Option4": "Compressor",
+    "Answer": "Compressor",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which device converts hydraulic energy\ninto mechanical energy?",
+    "Option1": "Actuator",
+    "Option2": "Regulator",
+    "Option3": "Compressor",
+    "Option4": "Control Valve",
+    "Answer": "Actuator",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the name of the hydraulics\ncylinder?",
+    "Option1": "Double rod cylinder",
+    "Option2": "Double acting cylinder",
+    "Option3": "Single acting cylinder",
+    "Option4": "Rotary acting cylinder",
+    "Answer": "Single acting cylinder",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/mechanical%20diesel%2FMD10%2F247.PNG?alt=media&token=fe41be02-8d04-4e90-9e7f-f4df9fd978f2"
+  },
+  {
+    "Question": "What is the name of the valve?",
+    "Option1": "Pressure relief valve",
+    "Option2": "Bypass valve",
+    "Option3": "Check valve",
+    "Option4": "Inlet valve",
+    "Answer": "Check valve",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/mechanical%20diesel%2FMD10%2F248.PNG?alt=media&token=77d93f34-8177-495b-adab-b0895dfd5efb"
+  },
+  {
+    "Question": "What is the name of the valve?",
+    "Option1": "Check valve",
+    "Option2": "Choke valve",
+    "Option3": "Throttle valve",
+    "Option4": "Pressure relief valve",
+    "Answer": "Throttle valve",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/mechanical%20diesel%2FMD10%2F249.PNG?alt=media&token=c44ed394-28bf-4d68-a743-cc2170f706b7"
+  },
+  {
+    "Question": "What is the name of the manual symbol?",
+    "Option1": "Rollar operated",
+    "Option2": "Foot pedal",
+    "Option3": "Push Button",
+    "Option4": "General button",
+    "Answer": "Foot pedal",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/mechanical%20diesel%2FMD10%2F250.PNG?alt=media&token=3fc5110f-1b4c-4278-ae68-364a152dba26"
+  }
+]

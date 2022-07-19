@@ -1,0 +1,227 @@
+[
+  {
+    "Question": "How the contacts in a contactor can be engaged for working?",
+    "Option1": "By manual operation",
+    "Option2": "By mechanical settings",
+    "Option3": "By operating electromagnet to change the position",
+    "Option4": "By using bimetallic strip to change the position",
+    "Answer": "By operating electromagnet to change the position",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which device prevents flare out of stripped and stranded cables in the panel board?",
+    "Option1": "Sleeves",
+    "Option2": "Wire ferrules",
+    "Option3": "Lugs and thimbles",
+    "Option4": "Cable binding straps and button",
+    "Answer": "Lugs and thimbles",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "How to protect the cable from insects and rats into the panel?",
+    "Option1": "By using sleeve",
+    "Option2": "By using Grommets",
+    "Option3": "By using cable binding straps",
+    "Option4": "By providing nylon cable ties",
+    "Answer": "By using Grommets",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What essential feature to be considered while designing a layout of control panel?",
+    "Option1": "Proper type of protection and measuring system",
+    "Option2": "Inside area and number of indicating lights in front panel",
+    "Option3": "Suitable method of labelling and cable harnessing",
+    "Option4": "Outside dimensions and swing area of cabinet door",
+    "Answer": "Outside dimensions and swing area of cabinet door",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Why power and control wirings run in separate race ways?",
+    "Option1": "To reduce heat",
+    "Option2": "To reduce the radio interference",
+    "Option3": "To increase the insulation resistance",
+    "Option4": "To increase the current carrying capacity",
+    "Answer": "To reduce the radio interference",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Why the motor is not changing the direction, if reverse push button is pressed in forward and reverse control star delta starter?",
+    "Option1": "No volt coil is not energized",
+    "Option2": "Fault in forward contactor",
+    "Option3": "Due to interlock in reverse contactor",
+    "Option4": "No voltage exist in reverse contactor",
+    "Answer": "Due to interlock in reverse contactor",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which control system consumes very low power for motion control in AC and DC motors?",
+    "Option1": "Field control",
+    "Option2": "Drives control",
+    "Option3": "Voltage control",
+    "Option4": "Armature control",
+    "Answer": "Drives control",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which drive is classified according to mode of operation?",
+    "Option1": "Group drive",
+    "Option2": "Manual drive",
+    "Option3": "Individual drive",
+    "Option4": "Continuous duty drive",
+    "Answer": "Continuous duty drive",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the name of the characteristic curve in D.C drive?",
+    "Option1": "Speed Vs torque characteristic",
+    "Option2": "Torque Vs field current characteristic",
+    "Option3": "Speed Vs armature current characteristic",
+    "Option4": "Field current Vs armature current characteristic",
+    "Answer": "Speed Vs torque characteristic",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/Electrician%2FSEM4%2FElectrician36%2F109.PNG?alt=media&token=0207ff7e-d43a-4f43-810d-c4b1cb06d573"
+  },
+  {
+    "Question": "What is the name of the component marked as X’ in the block diagram of AC drive?",
+    "Option1": "Rectifier",
+    "Option2": "D.C bus",
+    "Option3": "Inverter",
+    "Option4": "A.C motor",
+    "Answer": "D.C bus",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/Electrician%2FSEM4%2FElectrician36%2F110.PNG?alt=media&token=880558de-643c-43bb-bbbd-b2975c44d180"
+  },
+  {
+    "Question": "What is electric drive?",
+    "Option1": "A device used as prime mover for generator",
+    "Option2": "A device converts A.C to D.C supply",
+    "Option3": "An electro mechanical device for controlling motor",
+    "Option4": "A machine converts mechanical energy into electrical",
+    "Answer": "An electro mechanical device for controlling motor",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the full form of B.O.P in D.C drive?",
+    "Option1": "Bridge Operation Panel",
+    "Option2": "Basic Operational Panel",
+    "Option3": "Basic Operation Programme",
+    "Option4": "Bridge Operator Programme",
+    "Answer": "Basic Operational Panel",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which is the classification of drive according to dynamics and transients?",
+    "Option1": "Short time duty drive",
+    "Option2": "Intermittent duty drive",
+    "Option3": "Automatic control drive",
+    "Option4": "Variable position control drive",
+    "Answer": "Variable position control drive",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the function of power controller in drive circuits?",
+    "Option1": "It sounds an alarm in no load conditions",
+    "Option2": "It detects the overloading condition of motor",
+    "Option3": "It reduce motor current during transient operation",
+    "Option4": "It maintain the torque at low voltage conditions",
+    "Answer": "It detects the overloading condition of motor",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Why it is necessary to keep V/F ratio constant in a drive?",
+    "Option1": "Keep the stator flux maximum",
+    "Option2": "Maintain the rotor current minimum",
+    "Option3": "Maintain the speed of motor constant",
+    "Option4": "Maintain the rated torque at all speeds",
+    "Answer": "Maintain the rated torque at all speeds",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which power modulator used in the electric drive system?",
+    "Option1": "Cyclo converters",
+    "Option2": "Frequency multiplier",
+    "Option3": "Phase sequence indicator",
+    "Option4": "Servo controlled voltage stabilizer",
+    "Answer": "Cyclo converters",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which type of sensing unit employed in drive system?",
+    "Option1": "Opto coupler",
+    "Option2": "Speed sensing",
+    "Option3": "Photo voltaic cell",
+    "Option4": "Resistance temperature detector",
+    "Answer": "Speed sensing",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which type of machine in industries is provided with multi motor electric drive?",
+    "Option1": "Rolling machine",
+    "Option2": "Air Compressor",
+    "Option3": "Shearing machine",
+    "Option4": "Heavy duty electric drilling machine",
+    "Answer": "Rolling machine",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which control system is used for Eddy current drives?",
+    "Option1": "Slip controller",
+    "Option2": "Rectifier controller",
+    "Option3": "AC voltage controller",
+    "Option4": "DC chopper controller",
+    "Answer": "Slip controller",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the purpose of JOG key in control panel of D.C drive?",
+    "Option1": "Stop the motor",
+    "Option2": "Restart the motor",
+    "Option3": "Inching operation",
+    "Option4": "Reverse the direction of motor",
+    "Answer": "Inching operation",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the purpose of LCD on basic operator panel in D.C drive?",
+    "Option1": "Indicate the fault",
+    "Option2": "Display the speed",
+    "Option3": "Monitor the parameter",
+    "Option4": "Display availability of supply",
+    "Answer": "Monitor the parameter",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the reason of using shielded cable for connecting low level signal circuits in DC drives?",
+    "Option1": "Easy for connection",
+    "Option2": "Good appearance",
+    "Option3": "Protects from mechanical injuries",
+    "Option4": "Eliminates the electrical interference",
+    "Answer": "Eliminates the electrical interference",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which device controls the speed of A.C motor in A.C drive?",
+    "Option1": "Field supply unit (FSU)",
+    "Option2": "COMMS technology box",
+    "Option3": "Speed feedback technology box",
+    "Option4": "Microprocessor based electronic device",
+    "Answer": "Microprocessor based electronic device",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the main use of A.C drive?",
+    "Option1": "High starting torque",
+    "Option2": "Group drive motors",
+    "Option3": "Control stepless speed in motors",
+    "Option4": "Interlocking system in industries",
+    "Answer": "Control stepless speed in motors",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the function of IGBT in AC drive?",
+    "Option1": "Smoothening incoming A.C supply",
+    "Option2": "Controls the power delivered to the motor",
+    "Option3": "Stabilize the output voltage from the rectifier",
+    "Option4": "Converts incoming A.C power into D.C power output",
+    "Answer": "Controls the power delivered to the motor",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  }
+]

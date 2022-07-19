@@ -1,0 +1,227 @@
+[
+  {
+    "Question": "Which is the sequence, in which computer operates?",
+    "Option1": "Input, output, process",
+    "Option2": "Input, process, output",
+    "Option3": "Process, input, output",
+    "Option4": "Output, process, input",
+    "Answer": "Input, process, output",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which is the first general purpose programmable electronic computer?",
+    "Option1": "ENIAC",
+    "Option2": "EDVAC",
+    "Option3": "EDSAC",
+    "Option4": "UNIVAC",
+    "Answer": "ENIAC",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What type of device is computer?",
+    "Option1": "Electrical device",
+    "Option2": "Electronic device",
+    "Option3": "Electro magnetic",
+    "Option4": "Electro mechanical",
+    "Answer": "Electronic device",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Who is considered as father of computer?",
+    "Option1": "Charles Babbage",
+    "Option2": "John Lickert",
+    "Option3": "John Mauchy",
+    "Option4": "M.V Wilkes",
+    "Answer": "Charles Babbage",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Who invented Analytical engine?",
+    "Option1": "Charles Babbage",
+    "Option2": "John Lickert",
+    "Option3": "John Mauchy",
+    "Option4": "M.V Wilkes",
+    "Answer": "Charles Babbage",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the main electronic component of the first generation computer?",
+    "Option1": "Integrated circuit",
+    "Option2": "Microprocess",
+    "Option3": "Transistors",
+    "Option4": "Vacuum tubes",
+    "Answer": "Vacuum tubes",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "How does the parallel port transfer a byte?",
+    "Option1": "Bit by bit",
+    "Option2": "2 bits at a time",
+    "Option3": "4 bits at a time",
+    "Option4": "8 bits at a time",
+    "Answer": "8 bits at a time",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which is an internal power supply units of CPU?",
+    "Option1": "CVT",
+    "Option2": "UPS",
+    "Option3": "SMPS",
+    "Option4": "Stablizer",
+    "Answer": "SMPS",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the purpose of expansion slot in mother board ?",
+    "Option1": "To insert the RAM",
+    "Option2": "To insert the mouse",
+    "Option3": "To insert the keyboard",
+    "Option4": "To insert the additional peripherals",
+    "Answer": "To insert the additional peripherals",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the purpose of memory unit in a computer?",
+    "Option1": "Accepts data",
+    "Option2": "Displays data",
+    "Option3": "Process data",
+    "Option4": "Stores data",
+    "Answer": "Stores data",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "How many pins are there in DIMM?",
+    "Option1": 138,
+    "Option2": 148,
+    "Option3": 158,
+    "Option4": 168,
+    "Answer": 168,
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "How many pins are there in SIMMs?",
+    "Option1": "32 - 72",
+    "Option2": "42 - 82",
+    "Option3": "52 - 92",
+    "Option4": "62 -102",
+    "Answer": "32 - 72",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which one is an example for OS?",
+    "Option1": "Antivirus",
+    "Option2": "Windows",
+    "Option3": "MS Office",
+    "Option4": "Macromedia",
+    "Answer": "Windows",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which acts as an intermediate between a user and a computer?",
+    "Option1": "Macros",
+    "Option2": "Antivirus",
+    "Option3": "MS Office",
+    "Option4": "Operating system",
+    "Answer": "Operating system",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the function of OS?",
+    "Option1": "calculation",
+    "Option2": "word processing",
+    "Option3": "drawing pictures",
+    "Option4": "process & memory management",
+    "Answer": "process & memory management",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Where does the minimized application reside in windows?",
+    "Option1": "Task bar",
+    "Option2": "My computer",
+    "Option3": "My Document",
+    "Option4": "Recent documents",
+    "Answer": "Task bar",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which tool in control panel is used to adjust your computer setting to control computer with voice command?",
+    "Option1": "System and security",
+    "Option2": "Appearance and personalization",
+    "Option3": "Hardware and sound",
+    "Option4": "Ease of access",
+    "Answer": "Ease of access",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which control panel applet gives the information of computer?",
+    "Option1": "System and security",
+    "Option2": "Hardware and sound",
+    "Option3": "Programs",
+    "Option4": "Appearance and personalization",
+    "Answer": "System and security",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the extension of applet files in control panel?",
+    "Option1": ". Ctl",
+    "Option2": ". Cpl",
+    "Option3": ". Cal",
+    "Option4": ". Csl",
+    "Answer": ". Cpl",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which shortcut key is used to copy and paste a file folder?",
+    "Option1": "Ctrl+ X and Ctrl + V",
+    "Option2": "Ctrl + A and Ctrl + V",
+    "Option3": "Ctrl + Z and Ctrl + V",
+    "Option4": "Ctrl + C and Ctrl + V",
+    "Answer": "Ctrl + C and Ctrl + V",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which shortcut key is used to refresh windows desktop?",
+    "Option1": "F1",
+    "Option2": "F2",
+    "Option3": "F5",
+    "Option4": "F12",
+    "Answer": "F5",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which is the order of files and directories in Windows Explore?",
+    "Option1": "Serially",
+    "Option2": "Sequentially",
+    "Option3": "hierarchically",
+    "Option4": "Aplhabtically",
+    "Answer": "hierarchically",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Where does the pinned application stayed in Windows Os?",
+    "Option1": "Desktop",
+    "Option2": "Notification Area",
+    "Option3": "Start Button",
+    "Option4": "Task Bar",
+    "Answer": "Task Bar",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What steps should be taken, if windows not updated automatically?",
+    "Option1": "start - control panel - settings - add programs - enable automatic update",
+    "Option2": "start - setting - control panel - system - enable automatic updated",
+    "Option3": "re- install windows Os",
+    "Option4": "restart windows",
+    "Answer": "start - setting - control panel - system - enable automatic updated",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What should be done, if the pen drive is not deducted?",
+    "Option1": "Device Manger → right click on USB root hub → disable device",
+    "Option2": "Device Manger → right click on USB root hub → enable device",
+    "Option3": "Device Manger → right click on USB root hub → scan for hardware changes",
+    "Option4": "Device Manger → right click on USB root hub → Update drives",
+    "Answer": "Device Manger → right click on USB root hub → enable device",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  }
+]

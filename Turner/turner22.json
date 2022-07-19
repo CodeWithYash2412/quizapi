@@ -1,0 +1,227 @@
+[
+  {
+    "Question": "How the cutting speed is expressed?",
+    "Option1": "Foot/min",
+    "Option2": "Meter/sec",
+    "Option3": "Meter/min",
+    "Option4": "Revoluation/min",
+    "Answer": "Meter/min",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the recommended cutting speed for aluminium using H.S.S tool?",
+    "Option1": "70 m/min - 100 m/min",
+    "Option2": "50 m/min - 80 m/min",
+    "Option3": "35 m/min - 50 m/min",
+    "Option4": "25 m/min - 40 m/min",
+    "Answer": "70 m/min - 100 m/min",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "How much percentage of cutting speed could be increased by using super HSS tools?",
+    "Option1": "5% to 10%",
+    "Option2": "10% to 15%",
+    "Option3": "15% to 20%",
+    "Option4": "20% to 25%",
+    "Answer": "15% to 20%",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which gauge is to be selected for checking the corner radius of the job?",
+    "Option1": "Radius gauge",
+    "Option2": "Fillet gauge",
+    "Option3": "Feeler gauge",
+    "Option4": "Plug gauge",
+    "Answer": "Radius gauge",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Where the follower is fixed to produce from turning?",
+    "Option1": "Tool part",
+    "Option2": "Top slide",
+    "Option3": "Cross slide",
+    "Option4": "Tail stook",
+    "Answer": "Cross slide",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which gauge is used to check the radius formed at the steps of component?",
+    "Option1": "Fillet gauge",
+    "Option2": "Radius gauge",
+    "Option3": "Feeler gauge",
+    "Option4": "Plug gauge",
+    "Answer": "Fillet gauge",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the term the distance moved by the tool along the work for each revolution?",
+    "Option1": "Speed",
+    "Option2": "Feed",
+    "Option3": "Cutting speed",
+    "Option4": "Depth",
+    "Answer": "Feed",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the turning operation?",
+    "Option1": "Conical turning",
+    "Option2": "Cylindrical turning",
+    "Option3": "Form turning",
+    "Option4": "Thread cutting",
+    "Answer": "Form turning",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/sem%203%2026to50%2F37.PNG?alt=media&token=748d6fc1-2b58-4a54-9a6f-935982210591"
+  },
+  {
+    "Question": "What are the possible surface that can be produced by form turning?",
+    "Option1": "To generating concave and convex profile",
+    "Option2": "To generating cylindrical surface",
+    "Option3": "To generate conical surface",
+    "Option4": "To generate flat surface",
+    "Answer": "To generating concave and convex profile",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the name of instrument used to check the form of profile?",
+    "Option1": "Feeler gauge",
+    "Option2": "Template",
+    "Option3": "Radius gauge",
+    "Option4": "Fillet gauge",
+    "Answer": "Template",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/sem%203%2026to50%2F39.PNG?alt=media&token=023efdcf-e564-4f61-8cf3-ffd3dc624867"
+  },
+  {
+    "Question": "Which type of tool is suitable to produce form surface in mass production activities?",
+    "Option1": "Using carbide tipped form tool",
+    "Option2": "High carbon steel tool",
+    "Option3": "High speed steel cutting tool",
+    "Option4": "Using single point cutting tool",
+    "Answer": "Using carbide tipped form tool",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What factor is important in free hand form turning?",
+    "Option1": "Unskilled labour",
+    "Option2": "Skilled labour",
+    "Option3": "Sharp tool",
+    "Option4": "High speed",
+    "Answer": "Skilled labour",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the operation?",
+    "Option1": "Checking angles",
+    "Option2": "Checking the squareness",
+    "Option3": "Checking for height",
+    "Option4": "Checking for parallelism",
+    "Answer": "Checking for parallelism",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/sem%203%2026to50%2F42.PNG?alt=media&token=6bb15814-3834-4cc3-8c9f-885e73a4cced"
+  },
+  {
+    "Question": "Which type of jig is used to hold thin and soft parts?",
+    "Option1": "Plat jig",
+    "Option2": "Channel jig",
+    "Option3": "Sandwich jig",
+    "Option4": "Trunnion jig",
+    "Answer": "Sandwich jig",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which type of jig is used for large awkward shaped piece part is to drilled in many directions?",
+    "Option1": "Plate jig",
+    "Option2": "Post jig",
+    "Option3": "Table jig",
+    "Option4": "Trunnion jig",
+    "Answer": "Trunnion jig",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which is the device that can hold, locate and guide the tool?",
+    "Option1": "Jig",
+    "Option2": "Fixture",
+    "Option3": "Chuck",
+    "Option4": "Collet chuck",
+    "Answer": "Jig",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the advantage of jig?",
+    "Option1": "It holds the job",
+    "Option2": "Hold and locate the work",
+    "Option3": "Hold, locate and guide the tool",
+    "Option4": "Cost is very low",
+    "Answer": "Hold, locate and guide the tool",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the special benefit of using a fixture?",
+    "Option1": "Slower rate of production",
+    "Option2": "Skilled worker required",
+    "Option3": "Faster rate of production",
+    "Option4": "Suitable for small bach production",
+    "Answer": "Faster rate of production",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which gauge is used to position the cutter before cutting in milling fixture?",
+    "Option1": "Feeler gauge",
+    "Option2": "Radius gauge",
+    "Option3": "Fillet gauge",
+    "Option4": "Screw pitch gauge",
+    "Answer": "Feeler gauge",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the purpose of equation “x-2 (s+r)” in taper measurement?",
+    "Option1": "Find the large diameter of taper at any desired height",
+    "Option2": "Find big end diameter",
+    "Option3": "Find small end diameter",
+    "Option4": "Find lenyon of the taper",
+    "Answer": "Find the large diameter of taper at any desired height",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the use of equation “Y-2 (s+r)” in taper measurement?",
+    "Option1": "To find small end diameter",
+    "Option2": "To find large end diameter",
+    "Option3": "To find the angle of taper",
+    "Option4": "To find the length or taper",
+    "Answer": "To find small end diameter",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the use of formula Tanθ - (X-Y/2H) in taper measurement>",
+    "Option1": "Checking the angle of taper",
+    "Option2": "Finding small end diameter",
+    "Option3": "Finding large end diameter",
+    "Option4": "Finding the length of taper",
+    "Answer": "Checking the angle of taper",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Calculated the rpm of spindle if cutting speed ‘V’ is 120m/min and the diameter ‘D’ of the job is 50 mm?",
+    "Option1": "500 rpm",
+    "Option2": "764 rpm",
+    "Option3": "856 rpm",
+    "Option4": "975 rpm",
+    "Answer": "764 rpm",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Calculate the spindle speed to turn a 40mm dia M.S rod using a cemented carbide tool it cutting speed is 92mm/min?",
+    "Option1": "508 rpm",
+    "Option2": "685 rpm",
+    "Option3": "731 rpm",
+    "Option4": "950 rpm",
+    "Answer": "731 rpm",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Calculate the length of metal passing by cutting tool in one revolution if the diameter of work is 75mm and cutting speed is 120m/min.",
+    "Option1": "235.5 mm",
+    "Option2": "295.7 mm",
+    "Option3": "365.3 mm",
+    "Option4": "485.7 mm",
+    "Answer": "235.5 mm",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  }
+]

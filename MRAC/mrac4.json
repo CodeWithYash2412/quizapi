@@ -1,0 +1,227 @@
+[
+  {
+    "Question": "What is the name of electronic\ncircuit?",
+    "Option1": "Bridge rectifier",
+    "Option2": "Half wave rectifier",
+    "Option3": "Full wave rectifier",
+    "Option4": "Quarter wave rectifier",
+    "Answer": "Bridge rectifier",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/MRAC%2FSEM1%2F076%20TO%20100%2F76.PNG?alt=media&token=782732df-771f-410a-8cea-92df03b69032"
+  },
+  {
+    "Question": "What is the name of component?",
+    "Option1": "Resistor",
+    "Option2": "Inductor",
+    "Option3": "Capacitor",
+    "Option4": "Diode",
+    "Answer": "Diode",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/MRAC%2FSEM1%2F076%20TO%20100%2F77.PNG?alt=media&token=7f2b3166-12a8-4e56-b1b0-165499cc34f4"
+  },
+  {
+    "Question": "What is the name of component?",
+    "Option1": "Transistor",
+    "Option2": "Capacitor",
+    "Option3": "Inductor",
+    "Option4": "Resistor",
+    "Answer": "Inductor",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/MRAC%2FSEM1%2F076%20TO%20100%2F78.PNG?alt=media&token=c8c14228-1d7d-482c-b2fc-6ae09b9dd896"
+  },
+  {
+    "Question": "What is the name of tool used in electronic field?",
+    "Option1": "Blow lamp",
+    "Option2": "Brazing torch",
+    "Option3": "Welding clamp",
+    "Option4": "Soldering iron",
+    "Answer": "Soldering iron",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/MRAC%2FSEM1%2F076%20TO%20100%2F79.PNG?alt=media&token=8814df19-c7ad-4141-8b7c-c65c9f788ef2"
+  },
+  {
+    "Question": "What is the name of component used in electronic circuit?",
+    "Option1": "Diode",
+    "Option2": "Capacitor",
+    "Option3": "Transistor",
+    "Option4": "Resistance",
+    "Answer": "Capacitor",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/MRAC%2FSEM1%2F076%20TO%20100%2F80.PNG?alt=media&token=33bad2ba-6412-454a-ba04-2397bca9e124"
+  },
+  {
+    "Question": "What is the name of component?",
+    "Option1": "SCR",
+    "Option2": "FET",
+    "Option3": "DIAC",
+    "Option4": "TRIAC",
+    "Answer": "FET",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/MRAC%2FSEM1%2F076%20TO%20100%2F81.PNG?alt=media&token=2f8dad84-f001-4fd8-bfde-7eef213fdf56"
+  },
+  {
+    "Question": "What is the name of component symbolized?",
+    "Option1": "SCR",
+    "Option2": "DIAC",
+    "Option3": "Capacitor",
+    "Option4": "Transistor",
+    "Answer": "DIAC",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/MRAC%2FSEM1%2F076%20TO%20100%2F82.PNG?alt=media&token=b136b399-b58e-4cd0-907e-a97b32064e2f"
+  },
+  {
+    "Question": "What is the unit of capacitance used with single phase induction motors in domestic RAC system?",
+    "Option1": "Kilo ohm",
+    "Option2": "Microfarad",
+    "Option3": "Milli henry",
+    "Option4": "Milli ampere",
+    "Answer": "Microfarad",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "How the ability of a conductor is called if it induces the voltage in the same conductor?",
+    "Option1": "Self inductance",
+    "Option2": "Conductance",
+    "Option3": "Capacitance",
+    "Option4": "Resistance",
+    "Answer": "Self inductance",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which semiconductor material is used to make diodes?",
+    "Option1": "Steel",
+    "Option2": "Silicon",
+    "Option3": "Copper",
+    "Option4": "Aluminium",
+    "Answer": "Silicon",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which type of diode is used for communication circuits?",
+    "Option1": "Signal diode",
+    "Option2": "Zener diode",
+    "Option3": "Rectifier diode",
+    "Option4": "Switching diode",
+    "Answer": "Signal diode",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which component is used as a switching device in electronic circuit?",
+    "Option1": "SCR",
+    "Option2": "Diode",
+    "Option3": "Capacitor",
+    "Option4": "Zener diode",
+    "Answer": "SCR",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the name of active component used in electronic circuit?",
+    "Option1": "Transistor",
+    "Option2": "TRIAC",
+    "Option3": "DIAC",
+    "Option4": "SCR",
+    "Answer": "Transistor",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/MRAC%2FSEM1%2F076%20TO%20100%2F88.PNG?alt=media&token=295a2870-6d9b-469a-aa86-8624d17e374f"
+  },
+  {
+    "Question": "What are the active components used in electronic circuits?",
+    "Option1": "Transformers and inductors",
+    "Option2": "Transistors, diodes and SCRs",
+    "Option3": "Semi conductors and transformers",
+    "Option4": "Resistors, capacitors and inductors",
+    "Answer": "Transistors, diodes and SCRs",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which device maintains a constant DC output?",
+    "Option1": "Load regulators",
+    "Option2": "Rectifier circuits",
+    "Option3": "Current limiters",
+    "Option4": "Voltage regulators",
+    "Answer": "Voltage regulators",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which electronic component is the voltage regulator?",
+    "Option1": "Zener diode",
+    "Option2": "Transistor",
+    "Option3": "Triac",
+    "Option4": "Diac",
+    "Answer": "Zener diode",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the reverse break down voltage range of zener diode?",
+    "Option1": "0.1 to 0.5 volt",
+    "Option2": "0.5 to 1 volt",
+    "Option3": "3 to 18 volt",
+    "Option4": "1 to 3 volt",
+    "Answer": "3 to 18 volt",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which material is used for making zener diode?",
+    "Option1": "Lead",
+    "Option2": "Silicon",
+    "Option3": "Titanium",
+    "Option4": "Platinum",
+    "Answer": "Silicon",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "How many terminals are there in a Silicon Controlled Rectifier (SCR)?",
+    "Option1": "One",
+    "Option2": "Two",
+    "Option3": "Four",
+    "Option4": "Three",
+    "Answer": "Three",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the name of semi conductor component used in electronic circuit?",
+    "Option1": "SCR",
+    "Option2": "Triac",
+    "Option3": "Capacitor",
+    "Option4": "Transistor",
+    "Answer": "Triac",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/MRAC%2FSEM1%2F076%20TO%20100%2F95.PNG?alt=media&token=3535a81a-8055-4624-96de-7ebed4af00dc"
+  },
+  {
+    "Question": "What is the name of component used in electronic circuit?",
+    "Option1": "Zener diode",
+    "Option2": "Vaccum tube",
+    "Option3": "Transistor",
+    "Option4": "Voltage regulator",
+    "Answer": "Transistor",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/MRAC%2FSEM1%2F076%20TO%20100%2F96.PNG?alt=media&token=9a75a508-5f8f-4b56-ba76-3ef0537d064b"
+  },
+  {
+    "Question": "What is the equivalent of one microfarad in farad?",
+    "Option1": "10-3 farad",
+    "Option2": "10-6 farad",
+    "Option3": "10-9 farad",
+    "Option4": "10-12 farad",
+    "Answer": "10-6 farad",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the method of converting AC to DC\npower supply with two diodes and a step down\ntransformer?",
+    "Option1": "Bridge rectifier",
+    "Option2": "Full wave rectifier",
+    "Option3": "Half wave rectifier",
+    "Option4": "Medium wave rectifier",
+    "Answer": "Full wave rectifier",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which operation is in progress with\ncapacitor?",
+    "Option1": "Testing",
+    "Option2": "Cleaning",
+    "Option3": "Charging",
+    "Option4": "Discharging",
+    "Answer": "Discharging",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/MRAC%2FSEM1%2F076%20TO%20100%2F99.PNG?alt=media&token=71754b1c-d37b-4e5c-9614-0caf05abb0ce"
+  },
+  {
+    "Question": "What is the use of component?",
+    "Option1": "Limits current",
+    "Option2": "Regulates voltage",
+    "Option3": "Matches impedance",
+    "Option4": "Increases reactance",
+    "Answer": "Regulates voltage",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/MRAC%2FSEM1%2F076%20TO%20100%2F100.PNG?alt=media&token=945b0c07-c2c0-4f42-be5e-a32b44092e60"
+  }
+]

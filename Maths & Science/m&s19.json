@@ -1,0 +1,227 @@
+[
+  {
+    "Question": "What is the formula to find Loss%?",
+    "Option1": "Loss X 100 / C.P",
+    "Option2": "C.P / Loss x 100",
+    "Option3": "Loss + 100 / C.P",
+    "Option4": "C.P / Loss + 100",
+    "Answer": "Loss X 100 / C.P",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the cost price (C.P) formula if there is a profit?",
+    "Option1": "(100 / 100-Loss%) X S.P",
+    "Option2": "(100 / 100+Profit%) X S.P",
+    "Option3": "(100+Profit% / 100) X C.P",
+    "Option4": "(100-Loss% / 100) X C.P",
+    "Answer": "(100 / 100+Profit%) X S.P",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the formula to find selling price (S.P) if there is a loss?",
+    "Option1": "(100 / 100+Profit%) X S.P",
+    "Option2": "(100+Profit% / 100) X C.P",
+    "Option3": "(100 / 100-Loss%) X S.P",
+    "Option4": "(100-Loss% / 100) X C.P",
+    "Answer": "(100-Loss% / 100) X C.P",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the formula to find Profit%?",
+    "Option1": "C.P/Profit X 100",
+    "Option2": "Profit/S.P X 100",
+    "Option3": "S.P - C.P / Profit X 100",
+    "Option4": "Profit/C.P X 100",
+    "Answer": "Profit/C.P X 100",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the profit amount, if the i - phone cost price is Rs.50000/- and selling price is Rs.70000/-?",
+    "Option1": "Rs. 2000/-",
+    "Option2": "Rs. 10000/-",
+    "Option3": "Rs. 20000/-",
+    "Option4": "Rs. 50000/-",
+    "Answer": "Rs. 20000/-",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the selling price, if the profit is 5% for a computer table bought at Rs.1150/- with Rs.50/- as a transport charge?",
+    "Option1": 1160,
+    "Option2": 1620,
+    "Option3": 1060,
+    "Option4": 1260,
+    "Answer": 1260,
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the cost price if the product is sold at ₹ 572 with a profit of ₹ 72?",
+    "Option1": "₹ 500",
+    "Option2": "₹ 1000",
+    "Option3": "₹ 644",
+    "Option4": "₹ 472",
+    "Answer": "₹ 500",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the profit % if the cost price of 16 bolts is equal to the selling price of 12 bolts?",
+    "Option1": 13.33,
+    "Option2": 23.33,
+    "Option3": 33.33,
+    "Option4": 43.33,
+    "Answer": 33.33,
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the selling price if the cost price is Rs.7282/- with a profit of Rs.208?",
+    "Option1": "Rs.7074",
+    "Option2": "Rs.7698",
+    "Option3": "Rs.7290",
+    "Option4": "Rs.7490",
+    "Answer": "Rs.7490",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the interest earned, if the principal is Rs.12000/- becomes to an amount of Rs.15600/-?",
+    "Option1": "Rs.2600",
+    "Option2": "Rs.3600",
+    "Option3": "Rs.4600",
+    "Option4": "Rs.5600",
+    "Answer": "Rs.3600",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the principal amount deposited, if the maturity proceeds to an amount of Rs.25000/- and interest earned Rs.6000/-?",
+    "Option1": "Rs.31000/-",
+    "Option2": "Rs.19000/-",
+    "Option3": "Rs.20000/-",
+    "Option4": "Rs.25000/-",
+    "Answer": "Rs.19000/-",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the interest earned, if the principal is for Rs.12500/- maturity becomes to a amount of Rs.17500/-?",
+    "Option1": "Rs.30000",
+    "Option2": "Rs.25000",
+    "Option3": "Rs.5000",
+    "Option4": "Rs.5500",
+    "Answer": "Rs.5000",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the matured amount for the deposit of Rs.5000/- and the simple interest earned for Rs.500/-?",
+    "Option1": "Rs.4500",
+    "Option2": "Rs.5500",
+    "Option3": "Rs.6000",
+    "Option4": "Rs.6500",
+    "Answer": "Rs.5500",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the simple interest for the principal amount of Rs.100000 at 10% per annum for 1 year period?",
+    "Option1": "Rs.1000/-",
+    "Option2": "Rs.5000/-",
+    "Option3": "Rs.50000/-",
+    "Option4": "Rs.10000/-",
+    "Answer": "Rs.10000/-",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the compounded annual interest, for a loan amount of Rs.80000/- at 10% per annum for a period of 2 years?",
+    "Option1": "Rs.16800/-",
+    "Option2": "Rs.92400/-",
+    "Option3": "Rs.96800/-",
+    "Option4": "Rs.94800/-",
+    "Answer": "Rs.16800/-",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the compounded amount, if the principal of Rs.30000/- and interest earned at 7% per annum is Rs.4347?",
+    "Option1": "Rs.30347/-",
+    "Option2": "Rs.32347/-",
+    "Option3": "Rs.33347/-",
+    "Option4": "Rs.34347/-",
+    "Answer": "Rs.34347/-",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the difference between the simple and the compound interest amount at 5% per annum for 2 years on a principal of Rs.20000/-?",
+    "Option1": "Rs.5",
+    "Option2": "Rs.25",
+    "Option3": "Rs.50",
+    "Option4": "Rs.55",
+    "Answer": "Rs.50",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the maturity amount if Rs.20000 is deposited at 5% compound interest per annum for 2 years?",
+    "Option1": "Rs.22000",
+    "Option2": "Rs.22050",
+    "Option3": "Rs.22500",
+    "Option4": "Rs.25000",
+    "Answer": "Rs.22050",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the compound interest on a principal of Rs.25000/- after 3 years at the rate of 12% per annum?",
+    "Option1": "Rs. 9000",
+    "Option2": "Rs.9720",
+    "Option3": "Rs.10123.20",
+    "Option4": "Rs.10483.20",
+    "Answer": "Rs.10123.20",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is the other term used for reference table?",
+    "Option1": "Dictionary",
+    "Option2": "Biography",
+    "Option3": "Bibliography",
+    "Option4": "Information Table",
+    "Answer": "Information Table",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which hand book referred by machine engineer?",
+    "Option1": "Parryʹs cheorikal",
+    "Option2": "CRC",
+    "Option3": "Mark standard",
+    "Option4": "Oxford Dictionary",
+    "Answer": "Mark standard",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is a hand book?",
+    "Option1": "Model book of various works",
+    "Option2": "Type of reference work or other collection of instruction",
+    "Option3": "Design book of latest works",
+    "Option4": "Dictionary of materials",
+    "Answer": "Type of reference work or other collection of instruction",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "Which standard schedule of rates to be considered for estimation?",
+    "Option1": "Standard schedule of rates of the last year",
+    "Option2": "Standard schedule of rates of the average of the last 10 years",
+    "Option3": "Standard schedule of rates of the average of last 5 years",
+    "Option4": "Standard schedule of rates of the current year",
+    "Answer": "Standard schedule of rates of the current year",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is an over estimate?",
+    "Option1": "When an estimate is exceeded to actual estimate",
+    "Option2": "When an estimate is fell short of the actual estimate",
+    "Option3": "When an estimate perfectly matches the actual estimate",
+    "Option4": "No work started as per estimate",
+    "Answer": "When an estimate is exceeded to actual estimate",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  },
+  {
+    "Question": "What is a under estimate?",
+    "Option1": "No work started as per estimate",
+    "Option2": "An estimate perfectly matches with actual",
+    "Option3": "An estimate is fell short of the actual estimate",
+    "Option4": "An estimate is exceeded the actual estimate",
+    "Answer": "An estimate is fell short of the actual estimate",
+    "image": "https://firebasestorage.googleapis.com/v0/b/turner-sem-2.appspot.com/o/My%20Post%20(19).png?alt=media&token=46821ae9-7ac0-47c8-b7a1-91a02e5a2e48"
+  }
+]
