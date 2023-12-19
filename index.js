@@ -899,13 +899,6 @@ app.get("/mrac/38", (req, res) => {
 app.get("/mrac/39", (req, res) => {
     res.send(mracdata39);
 });
-
-const allAPIS = require("./AllAPI.json");
-
-app.get("/allAPI/app", (req, res) => {
-    res.send(allAPIS);
-});
-
 app.listen(port, () => {
     console.log("I am live");
 });
